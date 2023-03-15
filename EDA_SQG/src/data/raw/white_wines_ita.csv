@@ -1,0 +1,1001 @@
+,Pais,Tipo,Bodegas,Nombre y año,Región,Rating,Valoraciones,Precio,Año
+0,Italia,Blanco,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,34,69.71,2019
+1,Italia,Blanco,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+2,Italia,Blanco,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+3,Italia,Blanco,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+4,Italia,Blanco,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+5,Italia,Blanco,Girlan,Flora Gewürztraminer 2018,Südtirol - Alto Adige ,4.3,112,27.85,2018
+6,Italia,Blanco,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+7,Italia,Blanco,Skerk,Ograde 2020,Friuli-Venezia Giulia ,4.3,39,35.0,2020
+8,Italia,Blanco,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+9,Italia,Blanco,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+10,Italia,Blanco,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+11,Italia,Blanco,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,871,41.75,2017
+12,Italia,Blanco,La Stoppa,Ageno 2016,Emilia ,4.2,794,32.74,2016
+13,Italia,Blanco,Planeta,Chardonnay 2021,Menfi ,4.2,581,22.9,2021
+14,Italia,Blanco,Quintodecimo,Via del Campo Falanghina 2018,Irpinia ,4.2,309,47.86,2018
+15,Italia,Blanco,Livio Felluga,Pinot Grigio 2021,Colli Orientali del Friuli ,4.2,293,24.8,2021
+16,Italia,Blanco,Benito Ferrara,Vigna Cicogna Greco di Tufo 2021,Greco di Tufo ,4.2,259,24.35,2021
+17,Italia,Blanco,Abbazia di Novacella (Stiftskellerei Neustift),Praepositus Kerner 2020,Südtirol - Alto Adige ,4.2,239,23.45,2020
+18,Italia,Blanco,Colterenzio (Schreckbichl),Pfefferer 2022,Südtirol - Alto Adige ,4.2,104,12.35,2022
+19,Italia,Blanco,Vie di Romans,Dolée 2017,Friuli Isonzo ,4.2,99,26.76,2017
+20,Italia,Blanco,Vigneti Massa,Derthona Montecitorio 2018,Piamonte ,4.2,89,41.0,2018
+21,Italia,Blanco,Frank Cornelissen,MunJebel Classico Bianco 2020,Terre Siciliane ,4.2,77,38.75,2020
+22,Italia,Blanco,Marina Cvetić,Riserva Trebbiano 2020,Trebbiano d'Abruzzo ,4.2,58,35.77,2020
+23,Italia,Blanco,Colterenzio (Schreckbichl),Lafóa Sauvignon 2021,Südtirol - Alto Adige ,4.2,45,29.45,2021
+24,Italia,Blanco,Colle Duga,Sauvignon Collio 2020,Collio ,4.2,37,21.3,2020
+25,Italia,Blanco,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,34,69.71,2019
+26,Italia,Blanco,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+27,Italia,Blanco,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+28,Italia,Blanco,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+29,Italia,Blanco,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+30,Italia,Blanco,Girlan,Flora Gewürztraminer 2018,Südtirol - Alto Adige ,4.3,112,27.85,2018
+31,Italia,Blanco,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+32,Italia,Blanco,Skerk,Ograde 2020,Friuli-Venezia Giulia ,4.3,39,35.0,2020
+33,Italia,Blanco,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+34,Italia,Blanco,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+35,Italia,Blanco,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+36,Italia,Blanco,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,871,41.75,2017
+37,Italia,Blanco,La Stoppa,Ageno 2016,Emilia ,4.2,794,32.74,2016
+38,Italia,Blanco,Planeta,Chardonnay 2021,Menfi ,4.2,581,22.9,2021
+39,Italia,Blanco,Quintodecimo,Via del Campo Falanghina 2018,Irpinia ,4.2,309,47.86,2018
+40,Italia,Blanco,Livio Felluga,Pinot Grigio 2021,Colli Orientali del Friuli ,4.2,293,24.8,2021
+41,Italia,Blanco,Benito Ferrara,Vigna Cicogna Greco di Tufo 2021,Greco di Tufo ,4.2,259,24.35,2021
+42,Italia,Blanco,Abbazia di Novacella (Stiftskellerei Neustift),Praepositus Kerner 2020,Südtirol - Alto Adige ,4.2,239,23.45,2020
+43,Italia,Blanco,Colterenzio (Schreckbichl),Pfefferer 2022,Südtirol - Alto Adige ,4.2,104,12.35,2022
+44,Italia,Blanco,Vie di Romans,Dolée 2017,Friuli Isonzo ,4.2,99,26.76,2017
+45,Italia,Blanco,Vigneti Massa,Derthona Montecitorio 2018,Piamonte ,4.2,89,41.0,2018
+46,Italia,Blanco,Frank Cornelissen,MunJebel Classico Bianco 2020,Terre Siciliane ,4.2,77,38.75,2020
+47,Italia,Blanco,Marina Cvetić,Riserva Trebbiano 2020,Trebbiano d'Abruzzo ,4.2,58,35.77,2020
+48,Italia,Blanco,Colterenzio (Schreckbichl),Lafóa Sauvignon 2021,Südtirol - Alto Adige ,4.2,45,29.45,2021
+49,Italia,Blanco,Colle Duga,Sauvignon Collio 2020,Collio ,4.2,37,21.3,2020
+50,Italia,Blanco,Pescaja,Solei Terre Alfieri Arneis 2022,Piamonte ,4.2,29,13.5,2022
+51,Italia,Blanco,Castello di Lispida,Terralba 2017,Véneto ,4.2,28,27.85,2017
+52,Italia,Blanco,Scaia,Bianco (Garganega - Chardonnay) 2021,Véneto ,4.1,1257,12.0,2021
+53,Italia,Blanco,Planeta,Cometa 2019,Menfi ,4.1,820,31.9,2019
+54,Italia,Blanco,Livio Felluga,Sharis 2021,delle Venezie ,4.1,771,18.76,2021
+55,Italia,Blanco,Poggio Al Tesoro,Solosole Vermentino 2020,Bolgheri ,4.1,743,19.9,2020
+56,Italia,Blanco,J. Hofstätter,Joseph Gewürztraminer 2020,Südtirol - Alto Adige ,4.1,698,22.94,2020
+57,Italia,Blanco,Cabreo,La Pietra Chardonnay 2018,Toscana ,4.1,555,36.55,2018
+58,Italia,Blanco,Livio Felluga,Sauvignon 2020,Colli Orientali del Friuli ,4.1,463,24.8,2020
+59,Italia,Blanco,La Tunella,Sauvignon 2021,Colli Orientali del Friuli ,4.1,428,15.9,2021
+60,Italia,Blanco,Vie di Romans,Flors di Uis 2017,Friuli Isonzo ,4.1,318,26.37,2017
+61,Italia,Blanco,Fina,Taif 2021,Terre Siciliane ,4.1,215,10.9,2021
+62,Italia,Blanco,Albino Armani,Pinot Grigio Friuli Grave 2021,Friuli Grave ,4.1,193,9.7,2021
+63,Italia,Blanco,Damijan Podversic,Kaplja 2017,Friuli-Venezia Giulia ,4.1,95,35.5,2017
+64,Italia,Blanco,Il Colombaio di Santachiara,Campo della Pieve Vernaccia di San Gimignano 2019,Vernaccia di San Gimignano ,4.1,84,27.3,2019
+65,Italia,Blanco,Cascina Degli Ulivi,Ivag Bianco 2020,Piamonte ,4.1,84,22.3,2020
+66,Italia,Blanco,Tornatore,Pietrarizzo Etna Bianco 2021,Etna ,4.1,79,23.0,2021
+67,Italia,Blanco,Franz Haas,Sauvignon 2020,Südtirol - Alto Adige ,4.1,64,26.75,2020
+68,Italia,Blanco,Denavolo Rivergaro,Dinavolino Bianco 2021,Emilia-Romagna ,4.1,63,21.3,2021
+69,Italia,Blanco,Marco de Bartoli,Integer Grillo 2020,Sicilia ,4.1,49,30.55,2020
+70,Italia,Blanco,Franco M. Martinetti,Minaia Gavi 2013,Gavi ,4.1,42,28.15,2013
+71,Italia,Blanco,Vietti,Arneis Roero 2020,Roero ,4.0,1380,16.0,2020
+72,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2020,Terre Siciliane ,4.0,817,22.95,2020
+73,Italia,Blanco,Ceretto,Arneis Langhe Blange 2021,Langhe ,4.0,800,22.99,2021
+74,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2020,Verdicchio dei Castelli di Jesi ,4.0,752,18.6,2020
+75,Italia,Blanco,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,34,69.71,2019
+76,Italia,Blanco,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+77,Italia,Blanco,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+78,Italia,Blanco,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+79,Italia,Blanco,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+80,Italia,Blanco,Girlan,Flora Gewürztraminer 2018,Südtirol - Alto Adige ,4.3,112,27.85,2018
+81,Italia,Blanco,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+82,Italia,Blanco,Skerk,Ograde 2020,Friuli-Venezia Giulia ,4.3,39,35.0,2020
+83,Italia,Blanco,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+84,Italia,Blanco,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+85,Italia,Blanco,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+86,Italia,Blanco,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,871,41.75,2017
+87,Italia,Blanco,La Stoppa,Ageno 2016,Emilia ,4.2,794,32.74,2016
+88,Italia,Blanco,Planeta,Chardonnay 2021,Menfi ,4.2,581,22.9,2021
+89,Italia,Blanco,Quintodecimo,Via del Campo Falanghina 2018,Irpinia ,4.2,309,47.86,2018
+90,Italia,Blanco,Livio Felluga,Pinot Grigio 2021,Colli Orientali del Friuli ,4.2,293,24.8,2021
+91,Italia,Blanco,Benito Ferrara,Vigna Cicogna Greco di Tufo 2021,Greco di Tufo ,4.2,259,24.35,2021
+92,Italia,Blanco,Abbazia di Novacella (Stiftskellerei Neustift),Praepositus Kerner 2020,Südtirol - Alto Adige ,4.2,239,23.45,2020
+93,Italia,Blanco,Colterenzio (Schreckbichl),Pfefferer 2022,Südtirol - Alto Adige ,4.2,104,12.35,2022
+94,Italia,Blanco,Vie di Romans,Dolée 2017,Friuli Isonzo ,4.2,99,26.76,2017
+95,Italia,Blanco,Vigneti Massa,Derthona Montecitorio 2018,Piamonte ,4.2,89,41.0,2018
+96,Italia,Blanco,Frank Cornelissen,MunJebel Classico Bianco 2020,Terre Siciliane ,4.2,77,38.75,2020
+97,Italia,Blanco,Marina Cvetić,Riserva Trebbiano 2020,Trebbiano d'Abruzzo ,4.2,58,35.77,2020
+98,Italia,Blanco,Colterenzio (Schreckbichl),Lafóa Sauvignon 2021,Südtirol - Alto Adige ,4.2,45,29.45,2021
+99,Italia,Blanco,Colle Duga,Sauvignon Collio 2020,Collio ,4.2,37,21.3,2020
+100,Italia,Blanco,Pescaja,Solei Terre Alfieri Arneis 2022,Piamonte ,4.2,29,13.5,2022
+101,Italia,Blanco,Castello di Lispida,Terralba 2017,Véneto ,4.2,28,27.85,2017
+102,Italia,Blanco,Scaia,Bianco (Garganega - Chardonnay) 2021,Véneto ,4.1,1257,12.0,2021
+103,Italia,Blanco,Planeta,Cometa 2019,Menfi ,4.1,820,31.9,2019
+104,Italia,Blanco,Livio Felluga,Sharis 2021,delle Venezie ,4.1,771,18.76,2021
+105,Italia,Blanco,Poggio Al Tesoro,Solosole Vermentino 2020,Bolgheri ,4.1,743,19.9,2020
+106,Italia,Blanco,J. Hofstätter,Joseph Gewürztraminer 2020,Südtirol - Alto Adige ,4.1,698,22.94,2020
+107,Italia,Blanco,Cabreo,La Pietra Chardonnay 2018,Toscana ,4.1,555,36.55,2018
+108,Italia,Blanco,Livio Felluga,Sauvignon 2020,Colli Orientali del Friuli ,4.1,463,24.8,2020
+109,Italia,Blanco,La Tunella,Sauvignon 2021,Colli Orientali del Friuli ,4.1,428,15.9,2021
+110,Italia,Blanco,Vie di Romans,Flors di Uis 2017,Friuli Isonzo ,4.1,318,26.37,2017
+111,Italia,Blanco,Fina,Taif 2021,Terre Siciliane ,4.1,215,10.9,2021
+112,Italia,Blanco,Albino Armani,Pinot Grigio Friuli Grave 2021,Friuli Grave ,4.1,193,9.7,2021
+113,Italia,Blanco,Damijan Podversic,Kaplja 2017,Friuli-Venezia Giulia ,4.1,95,35.5,2017
+114,Italia,Blanco,Il Colombaio di Santachiara,Campo della Pieve Vernaccia di San Gimignano 2019,Vernaccia di San Gimignano ,4.1,84,27.3,2019
+115,Italia,Blanco,Cascina Degli Ulivi,Ivag Bianco 2020,Piamonte ,4.1,84,22.3,2020
+116,Italia,Blanco,Tornatore,Pietrarizzo Etna Bianco 2021,Etna ,4.1,79,23.0,2021
+117,Italia,Blanco,Franz Haas,Sauvignon 2020,Südtirol - Alto Adige ,4.1,64,26.75,2020
+118,Italia,Blanco,Denavolo Rivergaro,Dinavolino Bianco 2021,Emilia-Romagna ,4.1,63,21.3,2021
+119,Italia,Blanco,Marco de Bartoli,Integer Grillo 2020,Sicilia ,4.1,49,30.55,2020
+120,Italia,Blanco,Franco M. Martinetti,Minaia Gavi 2013,Gavi ,4.1,42,28.15,2013
+121,Italia,Blanco,Vietti,Arneis Roero 2020,Roero ,4.0,1380,16.0,2020
+122,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2020,Terre Siciliane ,4.0,817,22.95,2020
+123,Italia,Blanco,Ceretto,Arneis Langhe Blange 2021,Langhe ,4.0,800,22.99,2021
+124,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2020,Verdicchio dei Castelli di Jesi ,4.0,752,18.6,2020
+125,Italia,Blanco,Villa Sparina,Gavi 2021,Gavi ,4.0,736,15.75,2021
+126,Italia,Blanco,Tombacco,Pecorino Terre di Chieti 2020,Terre di Chieti ,4.0,625,8.41,2020
+127,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2021,Terre Siciliane ,4.0,480,22.4,2021
+128,Italia,Blanco,Jermann,Chardonnay 2021,Venezia Giulia ,4.0,420,23.45,2021
+129,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2021,Verdicchio dei Castelli di Jesi ,4.0,409,23.92,2021
+130,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2021,Greco di Tufo ,4.0,404,14.5,2021
+131,Italia,Blanco,Livio Felluga,Friulano 2020,Colli Orientali del Friuli ,4.0,367,24.0,2020
+132,Italia,Blanco,Tornatore,Etna Bianco 2021,Etna ,4.0,366,16.5,2021
+133,Italia,Blanco,Suavia,Monte Carbonare 2020,Soave Classico ,4.0,290,18.45,2020
+134,Italia,Blanco,Fina,Kebrilla Grillo 2021,Terre Siciliane ,4.0,270,9.7,2021
+135,Italia,Blanco,Livio Felluga,Friulano 2021,Colli Orientali del Friuli ,4.0,247,25.85,2021
+136,Italia,Blanco,Bottega,Pinot Grigio delle Venezie 2020,delle Venezie ,4.0,218,8.64,2020
+137,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino Pietracalda 2021,Fiano de Avellino ,4.0,201,17.15,2021
+138,Italia,Blanco,Pala,Soprasole 2021,Cerdeña ,4.0,194,12.35,2021
+139,Italia,Blanco,Les Crêtes,Petite Arvine 2021,Valle d'Aosta ,4.0,168,17.15,2021
+140,Italia,Blanco,Bottega Vinai,Gewürztraminer 2020,Trentino ,4.0,167,11.5,2020
+141,Italia,Blanco,Gulfi,Carjcanti Bianco 2018,Terre Siciliane ,4.0,148,26.1,2018
+142,Italia,Blanco,Livio Felluga,Sauvignon 2021,Colli Orientali del Friuli ,4.0,139,23.5,2021
+143,Italia,Blanco,Ca' Lojera,Lugana Riserva del Lupo 2018,Lugana ,4.0,139,25.6,2018
+144,Italia,Blanco,Torre dei Beati,Giocheremo Con i Fiori Pecorino 2021,Abruzos ,4.0,122,13.05,2021
+145,Italia,Blanco,Vigneti Massa,Derthona 2021,Piamonte ,4.0,106,20.75,2021
+146,Italia,Blanco,Villa Corniole,Pietramontis Pinot Grigio Ramato 2019,Trentino ,4.0,84,16.09,2019
+147,Italia,Blanco,Tramin,Müller Thurgau 2021,Südtirol - Alto Adige ,4.0,84,12.4,2021
+148,Italia,Blanco,Les Crêtes,Fleur Petite Arvine 2020,Valle d'Aosta ,4.0,73,27.7,2020
+149,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2022,Toscana ,4.0,61,11.3,2022
+150,Italia,Blanco,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,34,69.71,2019
+151,Italia,Blanco,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+152,Italia,Blanco,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+153,Italia,Blanco,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+154,Italia,Blanco,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+155,Italia,Blanco,Girlan,Flora Gewürztraminer 2018,Südtirol - Alto Adige ,4.3,112,27.85,2018
+156,Italia,Blanco,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+157,Italia,Blanco,Skerk,Ograde 2020,Friuli-Venezia Giulia ,4.3,39,35.0,2020
+158,Italia,Blanco,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+159,Italia,Blanco,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+160,Italia,Blanco,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+161,Italia,Blanco,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,871,41.75,2017
+162,Italia,Blanco,La Stoppa,Ageno 2016,Emilia ,4.2,794,32.74,2016
+163,Italia,Blanco,Planeta,Chardonnay 2021,Menfi ,4.2,581,22.9,2021
+164,Italia,Blanco,Quintodecimo,Via del Campo Falanghina 2018,Irpinia ,4.2,309,47.86,2018
+165,Italia,Blanco,Livio Felluga,Pinot Grigio 2021,Colli Orientali del Friuli ,4.2,293,24.8,2021
+166,Italia,Blanco,Benito Ferrara,Vigna Cicogna Greco di Tufo 2021,Greco di Tufo ,4.2,259,24.35,2021
+167,Italia,Blanco,Abbazia di Novacella (Stiftskellerei Neustift),Praepositus Kerner 2020,Südtirol - Alto Adige ,4.2,239,23.45,2020
+168,Italia,Blanco,Colterenzio (Schreckbichl),Pfefferer 2022,Südtirol - Alto Adige ,4.2,104,12.35,2022
+169,Italia,Blanco,Vie di Romans,Dolée 2017,Friuli Isonzo ,4.2,99,26.76,2017
+170,Italia,Blanco,Vigneti Massa,Derthona Montecitorio 2018,Piamonte ,4.2,89,41.0,2018
+171,Italia,Blanco,Frank Cornelissen,MunJebel Classico Bianco 2020,Terre Siciliane ,4.2,77,38.75,2020
+172,Italia,Blanco,Marina Cvetić,Riserva Trebbiano 2020,Trebbiano d'Abruzzo ,4.2,58,35.77,2020
+173,Italia,Blanco,Colterenzio (Schreckbichl),Lafóa Sauvignon 2021,Südtirol - Alto Adige ,4.2,45,29.45,2021
+174,Italia,Blanco,Colle Duga,Sauvignon Collio 2020,Collio ,4.2,37,21.3,2020
+175,Italia,Blanco,Pescaja,Solei Terre Alfieri Arneis 2022,Piamonte ,4.2,29,13.5,2022
+176,Italia,Blanco,Castello di Lispida,Terralba 2017,Véneto ,4.2,28,27.85,2017
+177,Italia,Blanco,Scaia,Bianco (Garganega - Chardonnay) 2021,Véneto ,4.1,1257,12.0,2021
+178,Italia,Blanco,Planeta,Cometa 2019,Menfi ,4.1,820,31.9,2019
+179,Italia,Blanco,Livio Felluga,Sharis 2021,delle Venezie ,4.1,771,18.76,2021
+180,Italia,Blanco,Poggio Al Tesoro,Solosole Vermentino 2020,Bolgheri ,4.1,743,19.9,2020
+181,Italia,Blanco,J. Hofstätter,Joseph Gewürztraminer 2020,Südtirol - Alto Adige ,4.1,698,22.94,2020
+182,Italia,Blanco,Cabreo,La Pietra Chardonnay 2018,Toscana ,4.1,555,36.55,2018
+183,Italia,Blanco,Livio Felluga,Sauvignon 2020,Colli Orientali del Friuli ,4.1,463,24.8,2020
+184,Italia,Blanco,La Tunella,Sauvignon 2021,Colli Orientali del Friuli ,4.1,428,15.9,2021
+185,Italia,Blanco,Vie di Romans,Flors di Uis 2017,Friuli Isonzo ,4.1,318,26.37,2017
+186,Italia,Blanco,Fina,Taif 2021,Terre Siciliane ,4.1,215,10.9,2021
+187,Italia,Blanco,Albino Armani,Pinot Grigio Friuli Grave 2021,Friuli Grave ,4.1,193,9.7,2021
+188,Italia,Blanco,Damijan Podversic,Kaplja 2017,Friuli-Venezia Giulia ,4.1,95,35.5,2017
+189,Italia,Blanco,Il Colombaio di Santachiara,Campo della Pieve Vernaccia di San Gimignano 2019,Vernaccia di San Gimignano ,4.1,84,27.3,2019
+190,Italia,Blanco,Cascina Degli Ulivi,Ivag Bianco 2020,Piamonte ,4.1,84,22.3,2020
+191,Italia,Blanco,Tornatore,Pietrarizzo Etna Bianco 2021,Etna ,4.1,79,23.0,2021
+192,Italia,Blanco,Franz Haas,Sauvignon 2020,Südtirol - Alto Adige ,4.1,64,26.75,2020
+193,Italia,Blanco,Denavolo Rivergaro,Dinavolino Bianco 2021,Emilia-Romagna ,4.1,63,21.3,2021
+194,Italia,Blanco,Marco de Bartoli,Integer Grillo 2020,Sicilia ,4.1,49,30.55,2020
+195,Italia,Blanco,Franco M. Martinetti,Minaia Gavi 2013,Gavi ,4.1,42,28.15,2013
+196,Italia,Blanco,Vietti,Arneis Roero 2020,Roero ,4.0,1380,16.0,2020
+197,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2020,Terre Siciliane ,4.0,817,22.95,2020
+198,Italia,Blanco,Ceretto,Arneis Langhe Blange 2021,Langhe ,4.0,800,22.99,2021
+199,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2020,Verdicchio dei Castelli di Jesi ,4.0,752,18.6,2020
+200,Italia,Blanco,Villa Sparina,Gavi 2021,Gavi ,4.0,736,15.75,2021
+201,Italia,Blanco,Tombacco,Pecorino Terre di Chieti 2020,Terre di Chieti ,4.0,625,8.41,2020
+202,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2021,Terre Siciliane ,4.0,480,22.4,2021
+203,Italia,Blanco,Jermann,Chardonnay 2021,Venezia Giulia ,4.0,420,23.45,2021
+204,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2021,Verdicchio dei Castelli di Jesi ,4.0,409,23.92,2021
+205,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2021,Greco di Tufo ,4.0,404,14.5,2021
+206,Italia,Blanco,Livio Felluga,Friulano 2020,Colli Orientali del Friuli ,4.0,367,24.0,2020
+207,Italia,Blanco,Tornatore,Etna Bianco 2021,Etna ,4.0,366,16.5,2021
+208,Italia,Blanco,Suavia,Monte Carbonare 2020,Soave Classico ,4.0,290,18.45,2020
+209,Italia,Blanco,Fina,Kebrilla Grillo 2021,Terre Siciliane ,4.0,270,9.7,2021
+210,Italia,Blanco,Livio Felluga,Friulano 2021,Colli Orientali del Friuli ,4.0,247,25.85,2021
+211,Italia,Blanco,Bottega,Pinot Grigio delle Venezie 2020,delle Venezie ,4.0,218,8.64,2020
+212,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino Pietracalda 2021,Fiano de Avellino ,4.0,201,17.15,2021
+213,Italia,Blanco,Pala,Soprasole 2021,Cerdeña ,4.0,194,12.35,2021
+214,Italia,Blanco,Les Crêtes,Petite Arvine 2021,Valle d'Aosta ,4.0,168,17.15,2021
+215,Italia,Blanco,Bottega Vinai,Gewürztraminer 2020,Trentino ,4.0,167,11.5,2020
+216,Italia,Blanco,Gulfi,Carjcanti Bianco 2018,Terre Siciliane ,4.0,148,26.1,2018
+217,Italia,Blanco,Livio Felluga,Sauvignon 2021,Colli Orientali del Friuli ,4.0,139,23.5,2021
+218,Italia,Blanco,Ca' Lojera,Lugana Riserva del Lupo 2018,Lugana ,4.0,139,25.6,2018
+219,Italia,Blanco,Torre dei Beati,Giocheremo Con i Fiori Pecorino 2021,Abruzos ,4.0,122,13.05,2021
+220,Italia,Blanco,Vigneti Massa,Derthona 2021,Piamonte ,4.0,106,20.75,2021
+221,Italia,Blanco,Villa Corniole,Pietramontis Pinot Grigio Ramato 2019,Trentino ,4.0,84,16.09,2019
+222,Italia,Blanco,Tramin,Müller Thurgau 2021,Südtirol - Alto Adige ,4.0,84,12.4,2021
+223,Italia,Blanco,Les Crêtes,Fleur Petite Arvine 2020,Valle d'Aosta ,4.0,73,27.7,2020
+224,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2022,Toscana ,4.0,61,11.3,2022
+225,Italia,Blanco,Marisa Cuomo,Costa d'Amalfi Bianco 2020,Costa d'Amalfi ,4.0,61,21.7,2020
+226,Italia,Blanco,Skerlj,Malvasia 2019,Carso ,4.0,57,28.9,2019
+227,Italia,Blanco,Selva Capuzza,Campo del Soglio San Martino della Battaglia 2019,San Martino della Battaglia ,4.0,54,18.9,2019
+228,Italia,Blanco,Eduardo Torres Acosta,Versante Nord Bianco 2021,Terre Siciliane ,4.0,48,22.95,2021
+229,Italia,Blanco,Tenuta Meraviglia,Dievole Vermentino 2021,Bolgheri ,4.0,47,14.9,2021
+230,Italia,Blanco,Skerlj,Malvasia 2018,Carso ,4.0,44,28.9,2018
+231,Italia,Blanco,Feudo Montoni,Inzolia dei Fornelli 2021,Sicilia ,4.0,43,13.55,2021
+232,Italia,Blanco,Colterenzio (Schreckbichl),Sand Moscato Giallo 2021,Südtirol - Alto Adige ,4.0,33,15.35,2021
+233,Italia,Blanco,Marina Cvetić,Chardonnay 2020,Colline Teatine ,4.0,31,29.75,2020
+234,Italia,Blanco,Tiefenbrunner,Merus Pinot Bianco (Weissburgunder) 2021,Trentino-Alto Adige ,4.0,29,13.5,2021
+235,Italia,Blanco,Poggio,L'Archetipo Colli Tortonesi Terre di Libarna Timorasso 2019,Colli Tortonesi ,4.0,29,16.0,2019
+236,Italia,Blanco,Marco Felluga,Russiz Superiore Sauvignon Collio 2021,Collio ,4.0,26,20.3,2021
+237,Italia,Blanco,Santa Margherita,Pinot Grigio Valdadige 2021,Valdadige ,3.9,3342,11.0,2021
+238,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2021,Toscana ,3.9,1750,11.5,2021
+239,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2020,Greco di Tufo ,3.9,1393,18.59,2020
+240,Italia,Blanco,Pieropan,Soave Classico 2021,Soave Classico ,3.9,873,13.55,2021
+241,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2021,Greco di Tufo ,3.9,813,11.5,2021
+242,Italia,Blanco,La Scolca,Gavi Valentino 2019,Gavi ,3.9,783,11.3,2019
+243,Italia,Blanco,Feudi di San Gregorio,Falanghina 2021,Falanghina del Sannio ,3.9,670,10.0,2021
+244,Italia,Blanco,Dilé,Moscato N.V.,Piamonte ,3.9,612,7.95,N.V.
+245,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2020,Greco di Tufo ,3.9,514,22.44,2020
+246,Italia,Blanco,Argiolas,Costamolino Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.9,427,13.5,2021
+247,Italia,Blanco,Punica,Samas 2018,Isola dei Nuraghi ,3.9,328,16.9,2018
+248,Italia,Blanco,Della Staffa,Litrò Bianco 2019,Umbria ,3.9,292,14.95,2019
+249,Italia,Blanco,Vino di Anna,Palmento Bianco 2018,Terre Siciliane ,3.9,264,16.8,2018
+250,Italia,Blanco,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,34,69.71,2019
+251,Italia,Blanco,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+252,Italia,Blanco,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+253,Italia,Blanco,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+254,Italia,Blanco,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+255,Italia,Blanco,Girlan,Flora Gewürztraminer 2018,Südtirol - Alto Adige ,4.3,112,27.85,2018
+256,Italia,Blanco,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+257,Italia,Blanco,Skerk,Ograde 2020,Friuli-Venezia Giulia ,4.3,39,35.0,2020
+258,Italia,Blanco,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+259,Italia,Blanco,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+260,Italia,Blanco,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+261,Italia,Blanco,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,871,41.75,2017
+262,Italia,Blanco,La Stoppa,Ageno 2016,Emilia ,4.2,794,32.74,2016
+263,Italia,Blanco,Planeta,Chardonnay 2021,Menfi ,4.2,581,22.9,2021
+264,Italia,Blanco,Quintodecimo,Via del Campo Falanghina 2018,Irpinia ,4.2,309,47.86,2018
+265,Italia,Blanco,Livio Felluga,Pinot Grigio 2021,Colli Orientali del Friuli ,4.2,293,24.8,2021
+266,Italia,Blanco,Benito Ferrara,Vigna Cicogna Greco di Tufo 2021,Greco di Tufo ,4.2,259,24.35,2021
+267,Italia,Blanco,Abbazia di Novacella (Stiftskellerei Neustift),Praepositus Kerner 2020,Südtirol - Alto Adige ,4.2,239,23.45,2020
+268,Italia,Blanco,Colterenzio (Schreckbichl),Pfefferer 2022,Südtirol - Alto Adige ,4.2,104,12.35,2022
+269,Italia,Blanco,Vie di Romans,Dolée 2017,Friuli Isonzo ,4.2,99,26.76,2017
+270,Italia,Blanco,Vigneti Massa,Derthona Montecitorio 2018,Piamonte ,4.2,89,41.0,2018
+271,Italia,Blanco,Frank Cornelissen,MunJebel Classico Bianco 2020,Terre Siciliane ,4.2,77,38.75,2020
+272,Italia,Blanco,Marina Cvetić,Riserva Trebbiano 2020,Trebbiano d'Abruzzo ,4.2,58,35.77,2020
+273,Italia,Blanco,Colterenzio (Schreckbichl),Lafóa Sauvignon 2021,Südtirol - Alto Adige ,4.2,45,29.45,2021
+274,Italia,Blanco,Colle Duga,Sauvignon Collio 2020,Collio ,4.2,37,21.3,2020
+275,Italia,Blanco,Pescaja,Solei Terre Alfieri Arneis 2022,Piamonte ,4.2,29,13.5,2022
+276,Italia,Blanco,Castello di Lispida,Terralba 2017,Véneto ,4.2,28,27.85,2017
+277,Italia,Blanco,Scaia,Bianco (Garganega - Chardonnay) 2021,Véneto ,4.1,1257,12.0,2021
+278,Italia,Blanco,Planeta,Cometa 2019,Menfi ,4.1,820,31.9,2019
+279,Italia,Blanco,Livio Felluga,Sharis 2021,delle Venezie ,4.1,771,18.76,2021
+280,Italia,Blanco,Poggio Al Tesoro,Solosole Vermentino 2020,Bolgheri ,4.1,743,19.9,2020
+281,Italia,Blanco,J. Hofstätter,Joseph Gewürztraminer 2020,Südtirol - Alto Adige ,4.1,698,22.94,2020
+282,Italia,Blanco,Cabreo,La Pietra Chardonnay 2018,Toscana ,4.1,555,36.55,2018
+283,Italia,Blanco,Livio Felluga,Sauvignon 2020,Colli Orientali del Friuli ,4.1,463,24.8,2020
+284,Italia,Blanco,La Tunella,Sauvignon 2021,Colli Orientali del Friuli ,4.1,428,15.9,2021
+285,Italia,Blanco,Vie di Romans,Flors di Uis 2017,Friuli Isonzo ,4.1,318,26.37,2017
+286,Italia,Blanco,Fina,Taif 2021,Terre Siciliane ,4.1,215,10.9,2021
+287,Italia,Blanco,Albino Armani,Pinot Grigio Friuli Grave 2021,Friuli Grave ,4.1,193,9.7,2021
+288,Italia,Blanco,Damijan Podversic,Kaplja 2017,Friuli-Venezia Giulia ,4.1,95,35.5,2017
+289,Italia,Blanco,Il Colombaio di Santachiara,Campo della Pieve Vernaccia di San Gimignano 2019,Vernaccia di San Gimignano ,4.1,84,27.3,2019
+290,Italia,Blanco,Cascina Degli Ulivi,Ivag Bianco 2020,Piamonte ,4.1,84,22.3,2020
+291,Italia,Blanco,Tornatore,Pietrarizzo Etna Bianco 2021,Etna ,4.1,79,23.0,2021
+292,Italia,Blanco,Franz Haas,Sauvignon 2020,Südtirol - Alto Adige ,4.1,64,26.75,2020
+293,Italia,Blanco,Denavolo Rivergaro,Dinavolino Bianco 2021,Emilia-Romagna ,4.1,63,21.3,2021
+294,Italia,Blanco,Marco de Bartoli,Integer Grillo 2020,Sicilia ,4.1,49,30.55,2020
+295,Italia,Blanco,Franco M. Martinetti,Minaia Gavi 2013,Gavi ,4.1,42,28.15,2013
+296,Italia,Blanco,Vietti,Arneis Roero 2020,Roero ,4.0,1380,16.0,2020
+297,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2020,Terre Siciliane ,4.0,817,22.95,2020
+298,Italia,Blanco,Ceretto,Arneis Langhe Blange 2021,Langhe ,4.0,800,22.99,2021
+299,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2020,Verdicchio dei Castelli di Jesi ,4.0,752,18.6,2020
+300,Italia,Blanco,Villa Sparina,Gavi 2021,Gavi ,4.0,736,15.75,2021
+301,Italia,Blanco,Tombacco,Pecorino Terre di Chieti 2020,Terre di Chieti ,4.0,625,8.41,2020
+302,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2021,Terre Siciliane ,4.0,480,22.4,2021
+303,Italia,Blanco,Jermann,Chardonnay 2021,Venezia Giulia ,4.0,420,23.45,2021
+304,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2021,Verdicchio dei Castelli di Jesi ,4.0,409,23.92,2021
+305,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2021,Greco di Tufo ,4.0,404,14.5,2021
+306,Italia,Blanco,Livio Felluga,Friulano 2020,Colli Orientali del Friuli ,4.0,367,24.0,2020
+307,Italia,Blanco,Tornatore,Etna Bianco 2021,Etna ,4.0,366,16.5,2021
+308,Italia,Blanco,Suavia,Monte Carbonare 2020,Soave Classico ,4.0,290,18.45,2020
+309,Italia,Blanco,Fina,Kebrilla Grillo 2021,Terre Siciliane ,4.0,270,9.7,2021
+310,Italia,Blanco,Livio Felluga,Friulano 2021,Colli Orientali del Friuli ,4.0,247,25.85,2021
+311,Italia,Blanco,Bottega,Pinot Grigio delle Venezie 2020,delle Venezie ,4.0,218,8.64,2020
+312,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino Pietracalda 2021,Fiano de Avellino ,4.0,201,17.15,2021
+313,Italia,Blanco,Pala,Soprasole 2021,Cerdeña ,4.0,194,12.35,2021
+314,Italia,Blanco,Les Crêtes,Petite Arvine 2021,Valle d'Aosta ,4.0,168,17.15,2021
+315,Italia,Blanco,Bottega Vinai,Gewürztraminer 2020,Trentino ,4.0,167,11.5,2020
+316,Italia,Blanco,Gulfi,Carjcanti Bianco 2018,Terre Siciliane ,4.0,148,26.1,2018
+317,Italia,Blanco,Livio Felluga,Sauvignon 2021,Colli Orientali del Friuli ,4.0,139,23.5,2021
+318,Italia,Blanco,Ca' Lojera,Lugana Riserva del Lupo 2018,Lugana ,4.0,139,25.6,2018
+319,Italia,Blanco,Torre dei Beati,Giocheremo Con i Fiori Pecorino 2021,Abruzos ,4.0,122,13.05,2021
+320,Italia,Blanco,Vigneti Massa,Derthona 2021,Piamonte ,4.0,106,20.75,2021
+321,Italia,Blanco,Villa Corniole,Pietramontis Pinot Grigio Ramato 2019,Trentino ,4.0,84,16.09,2019
+322,Italia,Blanco,Tramin,Müller Thurgau 2021,Südtirol - Alto Adige ,4.0,84,12.4,2021
+323,Italia,Blanco,Les Crêtes,Fleur Petite Arvine 2020,Valle d'Aosta ,4.0,73,27.7,2020
+324,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2022,Toscana ,4.0,61,11.3,2022
+325,Italia,Blanco,Marisa Cuomo,Costa d'Amalfi Bianco 2020,Costa d'Amalfi ,4.0,61,21.7,2020
+326,Italia,Blanco,Skerlj,Malvasia 2019,Carso ,4.0,57,28.9,2019
+327,Italia,Blanco,Selva Capuzza,Campo del Soglio San Martino della Battaglia 2019,San Martino della Battaglia ,4.0,54,18.9,2019
+328,Italia,Blanco,Eduardo Torres Acosta,Versante Nord Bianco 2021,Terre Siciliane ,4.0,48,22.95,2021
+329,Italia,Blanco,Tenuta Meraviglia,Dievole Vermentino 2021,Bolgheri ,4.0,47,14.9,2021
+330,Italia,Blanco,Skerlj,Malvasia 2018,Carso ,4.0,44,28.9,2018
+331,Italia,Blanco,Feudo Montoni,Inzolia dei Fornelli 2021,Sicilia ,4.0,43,13.55,2021
+332,Italia,Blanco,Colterenzio (Schreckbichl),Sand Moscato Giallo 2021,Südtirol - Alto Adige ,4.0,33,15.35,2021
+333,Italia,Blanco,Marina Cvetić,Chardonnay 2020,Colline Teatine ,4.0,31,29.75,2020
+334,Italia,Blanco,Tiefenbrunner,Merus Pinot Bianco (Weissburgunder) 2021,Trentino-Alto Adige ,4.0,29,13.5,2021
+335,Italia,Blanco,Poggio,L'Archetipo Colli Tortonesi Terre di Libarna Timorasso 2019,Colli Tortonesi ,4.0,29,16.0,2019
+336,Italia,Blanco,Marco Felluga,Russiz Superiore Sauvignon Collio 2021,Collio ,4.0,26,20.3,2021
+337,Italia,Blanco,Santa Margherita,Pinot Grigio Valdadige 2021,Valdadige ,3.9,3342,11.0,2021
+338,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2021,Toscana ,3.9,1750,11.5,2021
+339,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2020,Greco di Tufo ,3.9,1393,18.59,2020
+340,Italia,Blanco,Pieropan,Soave Classico 2021,Soave Classico ,3.9,873,13.55,2021
+341,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2021,Greco di Tufo ,3.9,813,11.5,2021
+342,Italia,Blanco,La Scolca,Gavi Valentino 2019,Gavi ,3.9,783,11.3,2019
+343,Italia,Blanco,Feudi di San Gregorio,Falanghina 2021,Falanghina del Sannio ,3.9,670,10.0,2021
+344,Italia,Blanco,Dilé,Moscato N.V.,Piamonte ,3.9,612,7.95,N.V.
+345,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2020,Greco di Tufo ,3.9,514,22.44,2020
+346,Italia,Blanco,Argiolas,Costamolino Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.9,427,13.5,2021
+347,Italia,Blanco,Punica,Samas 2018,Isola dei Nuraghi ,3.9,328,16.9,2018
+348,Italia,Blanco,Della Staffa,Litrò Bianco 2019,Umbria ,3.9,292,14.95,2019
+349,Italia,Blanco,Vino di Anna,Palmento Bianco 2018,Terre Siciliane ,3.9,264,16.8,2018
+350,Italia,Blanco,Sella & Mosca,Cala Reale Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.9,257,12.35,2021
+351,Italia,Blanco,Graci,Etna Bianco 2020,Etna ,3.9,255,22.0,2020
+352,Italia,Blanco,Monchiero Carbone,Recit Roero Arneis 2021,Roero ,3.9,238,13.55,2021
+353,Italia,Blanco,Filippi,Castelcerino 2018,Soave ,3.9,204,16.0,2018
+354,Italia,Blanco,Orsolani,La Rustìa Erbaluce di Caluso 2020,Erbaluce di Caluso ,3.9,161,14.6,2020
+355,Italia,Blanco,Marco de Bartoli,Integer Grillo 2019,Sicilia ,3.9,124,29.75,2019
+356,Italia,Blanco,Mora & Memo,Tino Vermentino di Sardegna 2020,Vermentino di Sardegna ,3.9,102,14.6,2020
+357,Italia,Blanco,Vignalta,Chardonnay 2018,Colli Euganei ,3.9,100,22.25,2018
+358,Italia,Blanco,Barraco,Grillo 2020,Sicilia ,3.9,88,23.35,2020
+359,Italia,Blanco,Ca' Rugate,Soave Classico Monte Alto 2017,Soave Classico ,3.9,88,16.9,2017
+360,Italia,Blanco,Principe Pallavicini,Frascati 2021,Frascati ,3.9,78,9.05,2021
+361,Italia,Blanco,Forchir,Lamis Pinot Grigio 2020,Friuli Grave ,3.9,77,11.0,2020
+362,Italia,Blanco,Marisa Cuomo,Costa d'Amalfi Bianco 2019,Costa d'Amalfi ,3.9,74,20.9,2019
+363,Italia,Blanco,Ettore Germano,Binel Langhe Bianco 2017,Langhe ,3.9,73,20.1,2017
+364,Italia,Blanco,Cirelli,Trebbiano d'Abruzzo 2021,Trebbiano d'Abruzzo ,3.9,71,14.25,2021
+365,Italia,Blanco,Marco Felluga,Collio Chardonnay 2021,Collio ,3.9,70,14.6,2021
+366,Italia,Blanco,Orsolani,La Rustìa Erbaluce di Caluso 2021,Erbaluce di Caluso ,3.9,69,14.6,2021
+367,Italia,Blanco,Livio Felluga,Chardonnay 2020,Colli Orientali del Friuli ,3.9,61,24.3,2020
+368,Italia,Blanco,La Roncaia,Pinot Grigio 2019,Colli Orientali del Friuli ,3.9,58,22.25,2019
+369,Italia,Blanco,Pierluigi Zampaglione,Don Chisciotte Fiano 2020,Campania ,3.9,57,23.45,2020
+370,Italia,Blanco,Muri-Gries,Gewürztraminer Südtirol 2021,Südtirol - Alto Adige ,3.9,39,15.6,2021
+371,Italia,Blanco,Marramiero,Anima 2021,Trebbiano d'Abruzzo ,3.9,35,13.1,2021
+372,Italia,Blanco,Fonterenza,Le Ragazze Bianco 2019,Rosso di Montalcino ,3.9,31,24.95,2019
+373,Italia,Blanco,Ausonia,Machaon Abruzzo Pecorino 2019,Abruzos ,3.9,29,12.95,2019
+374,Italia,Blanco,Cantina Marilina,Sketta Grecanico 2021,Terre Siciliane ,3.9,27,12.25,2021
+375,Italia,Blanco,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,34,69.71,2019
+376,Italia,Blanco,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+377,Italia,Blanco,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+378,Italia,Blanco,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+379,Italia,Blanco,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+380,Italia,Blanco,Girlan,Flora Gewürztraminer 2018,Südtirol - Alto Adige ,4.3,112,27.85,2018
+381,Italia,Blanco,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+382,Italia,Blanco,Skerk,Ograde 2020,Friuli-Venezia Giulia ,4.3,39,35.0,2020
+383,Italia,Blanco,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+384,Italia,Blanco,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+385,Italia,Blanco,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+386,Italia,Blanco,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,871,41.75,2017
+387,Italia,Blanco,La Stoppa,Ageno 2016,Emilia ,4.2,794,32.74,2016
+388,Italia,Blanco,Planeta,Chardonnay 2021,Menfi ,4.2,581,22.9,2021
+389,Italia,Blanco,Quintodecimo,Via del Campo Falanghina 2018,Irpinia ,4.2,309,47.86,2018
+390,Italia,Blanco,Livio Felluga,Pinot Grigio 2021,Colli Orientali del Friuli ,4.2,293,24.8,2021
+391,Italia,Blanco,Benito Ferrara,Vigna Cicogna Greco di Tufo 2021,Greco di Tufo ,4.2,259,24.35,2021
+392,Italia,Blanco,Abbazia di Novacella (Stiftskellerei Neustift),Praepositus Kerner 2020,Südtirol - Alto Adige ,4.2,239,23.45,2020
+393,Italia,Blanco,Colterenzio (Schreckbichl),Pfefferer 2022,Südtirol - Alto Adige ,4.2,104,12.35,2022
+394,Italia,Blanco,Vie di Romans,Dolée 2017,Friuli Isonzo ,4.2,99,26.76,2017
+395,Italia,Blanco,Vigneti Massa,Derthona Montecitorio 2018,Piamonte ,4.2,89,41.0,2018
+396,Italia,Blanco,Frank Cornelissen,MunJebel Classico Bianco 2020,Terre Siciliane ,4.2,77,38.75,2020
+397,Italia,Blanco,Marina Cvetić,Riserva Trebbiano 2020,Trebbiano d'Abruzzo ,4.2,58,35.77,2020
+398,Italia,Blanco,Colterenzio (Schreckbichl),Lafóa Sauvignon 2021,Südtirol - Alto Adige ,4.2,45,29.45,2021
+399,Italia,Blanco,Colle Duga,Sauvignon Collio 2020,Collio ,4.2,37,21.3,2020
+400,Italia,Blanco,Pescaja,Solei Terre Alfieri Arneis 2022,Piamonte ,4.2,29,13.5,2022
+401,Italia,Blanco,Castello di Lispida,Terralba 2017,Véneto ,4.2,28,27.85,2017
+402,Italia,Blanco,Scaia,Bianco (Garganega - Chardonnay) 2021,Véneto ,4.1,1257,12.0,2021
+403,Italia,Blanco,Planeta,Cometa 2019,Menfi ,4.1,820,31.9,2019
+404,Italia,Blanco,Livio Felluga,Sharis 2021,delle Venezie ,4.1,771,18.76,2021
+405,Italia,Blanco,Poggio Al Tesoro,Solosole Vermentino 2020,Bolgheri ,4.1,743,19.9,2020
+406,Italia,Blanco,J. Hofstätter,Joseph Gewürztraminer 2020,Südtirol - Alto Adige ,4.1,698,22.94,2020
+407,Italia,Blanco,Cabreo,La Pietra Chardonnay 2018,Toscana ,4.1,555,36.55,2018
+408,Italia,Blanco,Livio Felluga,Sauvignon 2020,Colli Orientali del Friuli ,4.1,463,24.8,2020
+409,Italia,Blanco,La Tunella,Sauvignon 2021,Colli Orientali del Friuli ,4.1,428,15.9,2021
+410,Italia,Blanco,Vie di Romans,Flors di Uis 2017,Friuli Isonzo ,4.1,318,26.37,2017
+411,Italia,Blanco,Fina,Taif 2021,Terre Siciliane ,4.1,215,10.9,2021
+412,Italia,Blanco,Albino Armani,Pinot Grigio Friuli Grave 2021,Friuli Grave ,4.1,193,9.7,2021
+413,Italia,Blanco,Damijan Podversic,Kaplja 2017,Friuli-Venezia Giulia ,4.1,95,35.5,2017
+414,Italia,Blanco,Il Colombaio di Santachiara,Campo della Pieve Vernaccia di San Gimignano 2019,Vernaccia di San Gimignano ,4.1,84,27.3,2019
+415,Italia,Blanco,Cascina Degli Ulivi,Ivag Bianco 2020,Piamonte ,4.1,84,22.3,2020
+416,Italia,Blanco,Tornatore,Pietrarizzo Etna Bianco 2021,Etna ,4.1,79,23.0,2021
+417,Italia,Blanco,Franz Haas,Sauvignon 2020,Südtirol - Alto Adige ,4.1,64,26.75,2020
+418,Italia,Blanco,Denavolo Rivergaro,Dinavolino Bianco 2021,Emilia-Romagna ,4.1,63,21.3,2021
+419,Italia,Blanco,Marco de Bartoli,Integer Grillo 2020,Sicilia ,4.1,49,30.55,2020
+420,Italia,Blanco,Franco M. Martinetti,Minaia Gavi 2013,Gavi ,4.1,42,28.15,2013
+421,Italia,Blanco,Vietti,Arneis Roero 2020,Roero ,4.0,1380,16.0,2020
+422,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2020,Terre Siciliane ,4.0,817,22.95,2020
+423,Italia,Blanco,Ceretto,Arneis Langhe Blange 2021,Langhe ,4.0,800,22.99,2021
+424,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2020,Verdicchio dei Castelli di Jesi ,4.0,752,18.6,2020
+425,Italia,Blanco,Villa Sparina,Gavi 2021,Gavi ,4.0,736,15.75,2021
+426,Italia,Blanco,Tombacco,Pecorino Terre di Chieti 2020,Terre di Chieti ,4.0,625,8.41,2020
+427,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2021,Terre Siciliane ,4.0,480,22.4,2021
+428,Italia,Blanco,Jermann,Chardonnay 2021,Venezia Giulia ,4.0,420,23.45,2021
+429,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2021,Verdicchio dei Castelli di Jesi ,4.0,409,23.92,2021
+430,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2021,Greco di Tufo ,4.0,404,14.5,2021
+431,Italia,Blanco,Livio Felluga,Friulano 2020,Colli Orientali del Friuli ,4.0,367,24.0,2020
+432,Italia,Blanco,Tornatore,Etna Bianco 2021,Etna ,4.0,366,16.5,2021
+433,Italia,Blanco,Suavia,Monte Carbonare 2020,Soave Classico ,4.0,290,18.45,2020
+434,Italia,Blanco,Fina,Kebrilla Grillo 2021,Terre Siciliane ,4.0,270,9.7,2021
+435,Italia,Blanco,Livio Felluga,Friulano 2021,Colli Orientali del Friuli ,4.0,247,25.85,2021
+436,Italia,Blanco,Bottega,Pinot Grigio delle Venezie 2020,delle Venezie ,4.0,218,8.64,2020
+437,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino Pietracalda 2021,Fiano de Avellino ,4.0,201,17.15,2021
+438,Italia,Blanco,Pala,Soprasole 2021,Cerdeña ,4.0,194,12.35,2021
+439,Italia,Blanco,Les Crêtes,Petite Arvine 2021,Valle d'Aosta ,4.0,168,17.15,2021
+440,Italia,Blanco,Bottega Vinai,Gewürztraminer 2020,Trentino ,4.0,167,11.5,2020
+441,Italia,Blanco,Gulfi,Carjcanti Bianco 2018,Terre Siciliane ,4.0,148,26.1,2018
+442,Italia,Blanco,Livio Felluga,Sauvignon 2021,Colli Orientali del Friuli ,4.0,139,23.5,2021
+443,Italia,Blanco,Ca' Lojera,Lugana Riserva del Lupo 2018,Lugana ,4.0,139,25.6,2018
+444,Italia,Blanco,Torre dei Beati,Giocheremo Con i Fiori Pecorino 2021,Abruzos ,4.0,122,13.05,2021
+445,Italia,Blanco,Vigneti Massa,Derthona 2021,Piamonte ,4.0,106,20.75,2021
+446,Italia,Blanco,Villa Corniole,Pietramontis Pinot Grigio Ramato 2019,Trentino ,4.0,84,16.09,2019
+447,Italia,Blanco,Tramin,Müller Thurgau 2021,Südtirol - Alto Adige ,4.0,84,12.4,2021
+448,Italia,Blanco,Les Crêtes,Fleur Petite Arvine 2020,Valle d'Aosta ,4.0,73,27.7,2020
+449,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2022,Toscana ,4.0,61,11.3,2022
+450,Italia,Blanco,Marisa Cuomo,Costa d'Amalfi Bianco 2020,Costa d'Amalfi ,4.0,61,21.7,2020
+451,Italia,Blanco,Skerlj,Malvasia 2019,Carso ,4.0,57,28.9,2019
+452,Italia,Blanco,Selva Capuzza,Campo del Soglio San Martino della Battaglia 2019,San Martino della Battaglia ,4.0,54,18.9,2019
+453,Italia,Blanco,Eduardo Torres Acosta,Versante Nord Bianco 2021,Terre Siciliane ,4.0,48,22.95,2021
+454,Italia,Blanco,Tenuta Meraviglia,Dievole Vermentino 2021,Bolgheri ,4.0,47,14.9,2021
+455,Italia,Blanco,Skerlj,Malvasia 2018,Carso ,4.0,44,28.9,2018
+456,Italia,Blanco,Feudo Montoni,Inzolia dei Fornelli 2021,Sicilia ,4.0,43,13.55,2021
+457,Italia,Blanco,Colterenzio (Schreckbichl),Sand Moscato Giallo 2021,Südtirol - Alto Adige ,4.0,33,15.35,2021
+458,Italia,Blanco,Marina Cvetić,Chardonnay 2020,Colline Teatine ,4.0,31,29.75,2020
+459,Italia,Blanco,Tiefenbrunner,Merus Pinot Bianco (Weissburgunder) 2021,Trentino-Alto Adige ,4.0,29,13.5,2021
+460,Italia,Blanco,Poggio,L'Archetipo Colli Tortonesi Terre di Libarna Timorasso 2019,Colli Tortonesi ,4.0,29,16.0,2019
+461,Italia,Blanco,Marco Felluga,Russiz Superiore Sauvignon Collio 2021,Collio ,4.0,26,20.3,2021
+462,Italia,Blanco,Santa Margherita,Pinot Grigio Valdadige 2021,Valdadige ,3.9,3342,11.0,2021
+463,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2021,Toscana ,3.9,1750,11.5,2021
+464,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2020,Greco di Tufo ,3.9,1393,18.59,2020
+465,Italia,Blanco,Pieropan,Soave Classico 2021,Soave Classico ,3.9,873,13.55,2021
+466,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2021,Greco di Tufo ,3.9,813,11.5,2021
+467,Italia,Blanco,La Scolca,Gavi Valentino 2019,Gavi ,3.9,783,11.3,2019
+468,Italia,Blanco,Feudi di San Gregorio,Falanghina 2021,Falanghina del Sannio ,3.9,670,10.0,2021
+469,Italia,Blanco,Dilé,Moscato N.V.,Piamonte ,3.9,612,7.95,N.V.
+470,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2020,Greco di Tufo ,3.9,514,22.44,2020
+471,Italia,Blanco,Argiolas,Costamolino Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.9,427,13.5,2021
+472,Italia,Blanco,Punica,Samas 2018,Isola dei Nuraghi ,3.9,328,16.9,2018
+473,Italia,Blanco,Della Staffa,Litrò Bianco 2019,Umbria ,3.9,292,14.95,2019
+474,Italia,Blanco,Vino di Anna,Palmento Bianco 2018,Terre Siciliane ,3.9,264,16.8,2018
+475,Italia,Blanco,Sella & Mosca,Cala Reale Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.9,257,12.35,2021
+476,Italia,Blanco,Graci,Etna Bianco 2020,Etna ,3.9,255,22.0,2020
+477,Italia,Blanco,Monchiero Carbone,Recit Roero Arneis 2021,Roero ,3.9,238,13.55,2021
+478,Italia,Blanco,Filippi,Castelcerino 2018,Soave ,3.9,204,16.0,2018
+479,Italia,Blanco,Orsolani,La Rustìa Erbaluce di Caluso 2020,Erbaluce di Caluso ,3.9,161,14.6,2020
+480,Italia,Blanco,Marco de Bartoli,Integer Grillo 2019,Sicilia ,3.9,124,29.75,2019
+481,Italia,Blanco,Mora & Memo,Tino Vermentino di Sardegna 2020,Vermentino di Sardegna ,3.9,102,14.6,2020
+482,Italia,Blanco,Vignalta,Chardonnay 2018,Colli Euganei ,3.9,100,22.25,2018
+483,Italia,Blanco,Barraco,Grillo 2020,Sicilia ,3.9,88,23.35,2020
+484,Italia,Blanco,Ca' Rugate,Soave Classico Monte Alto 2017,Soave Classico ,3.9,88,16.9,2017
+485,Italia,Blanco,Principe Pallavicini,Frascati 2021,Frascati ,3.9,78,9.05,2021
+486,Italia,Blanco,Forchir,Lamis Pinot Grigio 2020,Friuli Grave ,3.9,77,11.0,2020
+487,Italia,Blanco,Marisa Cuomo,Costa d'Amalfi Bianco 2019,Costa d'Amalfi ,3.9,74,20.9,2019
+488,Italia,Blanco,Ettore Germano,Binel Langhe Bianco 2017,Langhe ,3.9,73,20.1,2017
+489,Italia,Blanco,Cirelli,Trebbiano d'Abruzzo 2021,Trebbiano d'Abruzzo ,3.9,71,14.25,2021
+490,Italia,Blanco,Marco Felluga,Collio Chardonnay 2021,Collio ,3.9,70,14.6,2021
+491,Italia,Blanco,Orsolani,La Rustìa Erbaluce di Caluso 2021,Erbaluce di Caluso ,3.9,69,14.6,2021
+492,Italia,Blanco,Livio Felluga,Chardonnay 2020,Colli Orientali del Friuli ,3.9,61,24.3,2020
+493,Italia,Blanco,La Roncaia,Pinot Grigio 2019,Colli Orientali del Friuli ,3.9,58,22.25,2019
+494,Italia,Blanco,Pierluigi Zampaglione,Don Chisciotte Fiano 2020,Campania ,3.9,57,23.45,2020
+495,Italia,Blanco,Muri-Gries,Gewürztraminer Südtirol 2021,Südtirol - Alto Adige ,3.9,39,15.6,2021
+496,Italia,Blanco,Marramiero,Anima 2021,Trebbiano d'Abruzzo ,3.9,35,13.1,2021
+497,Italia,Blanco,Fonterenza,Le Ragazze Bianco 2019,Rosso di Montalcino ,3.9,31,24.95,2019
+498,Italia,Blanco,Ausonia,Machaon Abruzzo Pecorino 2019,Abruzos ,3.9,29,12.95,2019
+499,Italia,Blanco,Cantina Marilina,Sketta Grecanico 2021,Terre Siciliane ,3.9,27,12.25,2021
+500,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2020,Toscana ,3.8,3600,16.9,2020
+501,Italia,Blanco,Garofoli,Verdicchio Dei Castelli Di Jesi Classico 2020,Verdicchio dei Castelli di Jesi ,3.8,1120,8.22,2020
+502,Italia,Blanco,Feudi di San Gregorio,Falanghina 2020,Falanghina del Sannio ,3.8,1083,15.42,2020
+503,Italia,Blanco,Planeta,Etna Bianco 2019,Etna ,3.8,585,17.0,2019
+504,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino 2020,Fiano de Avellino ,3.8,580,14.92,2020
+505,Italia,Blanco,Ampeleia,Bianco di Ampeleia 2019,Toscana ,3.8,417,18.45,2019
+506,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino 2021,Fiano de Avellino ,3.8,366,11.0,2021
+507,Italia,Blanco,Mesa,Giunco 2020,Vermentino di Sardegna ,3.8,346,15.07,2020
+508,Italia,Blanco,Tenuta Rapitalà,Piano Maltese Sicillane 2020,Terre Siciliane ,3.8,218,7.8,2020
+509,Italia,Blanco,Feudi di San Gregorio,Falanghina Serrocielo 2021,Falanghina del Sannio ,3.8,181,12.0,2021
+510,Italia,Blanco,Feudi di San Gregorio,Albente 2020,Campania ,3.8,179,11.08,2020
+511,Italia,Blanco,Tenuta Sant'Antonio,Monte Ceriani Soave 2018,Soave ,3.8,156,13.9,2018
+512,Italia,Blanco,Al-Cantara,Occhi di Ciumi Bianco 2019,Etna ,3.8,155,19.99,2019
+513,Italia,Blanco,Fèlsina,I Sistri Chardonnay 2020,Toscana ,3.8,141,16.9,2020
+514,Italia,Blanco,Valdibella,Grillo Sulle Bucce 2020,Sicilia ,3.8,138,11.83,2020
+515,Italia,Blanco,Borgogno,Langhe Era Ora Riesling 2018,Langhe ,3.8,137,23.45,2018
+516,Italia,Blanco,Kaltern,Pinot Bianco Vial 2020,Trentino-Alto Adige ,3.8,107,15.35,2020
+517,Italia,Blanco,Lis Neris,Sauvignon Blanc 2020,Venezia Giulia ,3.8,105,18.75,2020
+518,Italia,Blanco,I Clivi,San Pietro Friulano 2020,Colli Orientali del Friuli ,3.8,89,20.1,2020
+519,Italia,Blanco,Vadiaperti,Greco di Tufo 2018,Greco di Tufo ,3.8,88,15.95,2018
+520,Italia,Blanco,Venica & Venica,Primarűl Friulano 2021,Collio ,3.8,84,19.0,2021
+521,Italia,Blanco,Feudi di San Gregorio,Biancolella 2021,Ischia ,3.8,83,14.5,2021
+522,Italia,Blanco,Enzo Boglietti,Langhe Chardonnay 2018,Langhe ,3.8,79,12.0,2018
+523,Italia,Blanco,Belguardo,Vermentino Bianco Toscana 2021,Toscana ,3.8,77,11.3,2021
+524,Italia,Blanco,Contini,Tyrsos Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.8,72,10.5,2021
+525,Italia,Blanco,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,34,69.71,2019
+526,Italia,Blanco,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+527,Italia,Blanco,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+528,Italia,Blanco,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+529,Italia,Blanco,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+530,Italia,Blanco,Girlan,Flora Gewürztraminer 2018,Südtirol - Alto Adige ,4.3,112,27.85,2018
+531,Italia,Blanco,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+532,Italia,Blanco,Skerk,Ograde 2020,Friuli-Venezia Giulia ,4.3,39,35.0,2020
+533,Italia,Blanco,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+534,Italia,Blanco,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+535,Italia,Blanco,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+536,Italia,Blanco,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,871,41.75,2017
+537,Italia,Blanco,La Stoppa,Ageno 2016,Emilia ,4.2,794,32.74,2016
+538,Italia,Blanco,Planeta,Chardonnay 2021,Menfi ,4.2,581,22.9,2021
+539,Italia,Blanco,Quintodecimo,Via del Campo Falanghina 2018,Irpinia ,4.2,309,47.86,2018
+540,Italia,Blanco,Livio Felluga,Pinot Grigio 2021,Colli Orientali del Friuli ,4.2,293,24.8,2021
+541,Italia,Blanco,Benito Ferrara,Vigna Cicogna Greco di Tufo 2021,Greco di Tufo ,4.2,259,24.35,2021
+542,Italia,Blanco,Abbazia di Novacella (Stiftskellerei Neustift),Praepositus Kerner 2020,Südtirol - Alto Adige ,4.2,239,23.45,2020
+543,Italia,Blanco,Colterenzio (Schreckbichl),Pfefferer 2022,Südtirol - Alto Adige ,4.2,104,12.35,2022
+544,Italia,Blanco,Vie di Romans,Dolée 2017,Friuli Isonzo ,4.2,99,26.76,2017
+545,Italia,Blanco,Vigneti Massa,Derthona Montecitorio 2018,Piamonte ,4.2,89,41.0,2018
+546,Italia,Blanco,Frank Cornelissen,MunJebel Classico Bianco 2020,Terre Siciliane ,4.2,77,38.75,2020
+547,Italia,Blanco,Marina Cvetić,Riserva Trebbiano 2020,Trebbiano d'Abruzzo ,4.2,58,35.77,2020
+548,Italia,Blanco,Colterenzio (Schreckbichl),Lafóa Sauvignon 2021,Südtirol - Alto Adige ,4.2,45,29.45,2021
+549,Italia,Blanco,Colle Duga,Sauvignon Collio 2020,Collio ,4.2,37,21.3,2020
+550,Italia,Blanco,Pescaja,Solei Terre Alfieri Arneis 2022,Piamonte ,4.2,29,13.5,2022
+551,Italia,Blanco,Castello di Lispida,Terralba 2017,Véneto ,4.2,28,27.85,2017
+552,Italia,Blanco,Scaia,Bianco (Garganega - Chardonnay) 2021,Véneto ,4.1,1257,12.0,2021
+553,Italia,Blanco,Planeta,Cometa 2019,Menfi ,4.1,820,31.9,2019
+554,Italia,Blanco,Livio Felluga,Sharis 2021,delle Venezie ,4.1,771,18.76,2021
+555,Italia,Blanco,Poggio Al Tesoro,Solosole Vermentino 2020,Bolgheri ,4.1,743,19.9,2020
+556,Italia,Blanco,J. Hofstätter,Joseph Gewürztraminer 2020,Südtirol - Alto Adige ,4.1,698,22.94,2020
+557,Italia,Blanco,Cabreo,La Pietra Chardonnay 2018,Toscana ,4.1,555,36.55,2018
+558,Italia,Blanco,Livio Felluga,Sauvignon 2020,Colli Orientali del Friuli ,4.1,463,24.8,2020
+559,Italia,Blanco,La Tunella,Sauvignon 2021,Colli Orientali del Friuli ,4.1,428,15.9,2021
+560,Italia,Blanco,Vie di Romans,Flors di Uis 2017,Friuli Isonzo ,4.1,318,26.37,2017
+561,Italia,Blanco,Fina,Taif 2021,Terre Siciliane ,4.1,215,10.9,2021
+562,Italia,Blanco,Albino Armani,Pinot Grigio Friuli Grave 2021,Friuli Grave ,4.1,193,9.7,2021
+563,Italia,Blanco,Damijan Podversic,Kaplja 2017,Friuli-Venezia Giulia ,4.1,95,35.5,2017
+564,Italia,Blanco,Il Colombaio di Santachiara,Campo della Pieve Vernaccia di San Gimignano 2019,Vernaccia di San Gimignano ,4.1,84,27.3,2019
+565,Italia,Blanco,Cascina Degli Ulivi,Ivag Bianco 2020,Piamonte ,4.1,84,22.3,2020
+566,Italia,Blanco,Tornatore,Pietrarizzo Etna Bianco 2021,Etna ,4.1,79,23.0,2021
+567,Italia,Blanco,Franz Haas,Sauvignon 2020,Südtirol - Alto Adige ,4.1,64,26.75,2020
+568,Italia,Blanco,Denavolo Rivergaro,Dinavolino Bianco 2021,Emilia-Romagna ,4.1,63,21.3,2021
+569,Italia,Blanco,Marco de Bartoli,Integer Grillo 2020,Sicilia ,4.1,49,30.55,2020
+570,Italia,Blanco,Franco M. Martinetti,Minaia Gavi 2013,Gavi ,4.1,42,28.15,2013
+571,Italia,Blanco,Vietti,Arneis Roero 2020,Roero ,4.0,1380,16.0,2020
+572,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2020,Terre Siciliane ,4.0,817,22.95,2020
+573,Italia,Blanco,Ceretto,Arneis Langhe Blange 2021,Langhe ,4.0,800,22.99,2021
+574,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2020,Verdicchio dei Castelli di Jesi ,4.0,752,18.6,2020
+575,Italia,Blanco,Villa Sparina,Gavi 2021,Gavi ,4.0,736,15.75,2021
+576,Italia,Blanco,Tombacco,Pecorino Terre di Chieti 2020,Terre di Chieti ,4.0,625,8.41,2020
+577,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2021,Terre Siciliane ,4.0,480,22.4,2021
+578,Italia,Blanco,Jermann,Chardonnay 2021,Venezia Giulia ,4.0,420,23.45,2021
+579,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2021,Verdicchio dei Castelli di Jesi ,4.0,409,23.92,2021
+580,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2021,Greco di Tufo ,4.0,404,14.5,2021
+581,Italia,Blanco,Livio Felluga,Friulano 2020,Colli Orientali del Friuli ,4.0,367,24.0,2020
+582,Italia,Blanco,Tornatore,Etna Bianco 2021,Etna ,4.0,366,16.5,2021
+583,Italia,Blanco,Suavia,Monte Carbonare 2020,Soave Classico ,4.0,290,18.45,2020
+584,Italia,Blanco,Fina,Kebrilla Grillo 2021,Terre Siciliane ,4.0,270,9.7,2021
+585,Italia,Blanco,Livio Felluga,Friulano 2021,Colli Orientali del Friuli ,4.0,247,25.85,2021
+586,Italia,Blanco,Bottega,Pinot Grigio delle Venezie 2020,delle Venezie ,4.0,218,8.64,2020
+587,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino Pietracalda 2021,Fiano de Avellino ,4.0,201,17.15,2021
+588,Italia,Blanco,Pala,Soprasole 2021,Cerdeña ,4.0,194,12.35,2021
+589,Italia,Blanco,Les Crêtes,Petite Arvine 2021,Valle d'Aosta ,4.0,168,17.15,2021
+590,Italia,Blanco,Bottega Vinai,Gewürztraminer 2020,Trentino ,4.0,167,11.5,2020
+591,Italia,Blanco,Gulfi,Carjcanti Bianco 2018,Terre Siciliane ,4.0,148,26.1,2018
+592,Italia,Blanco,Livio Felluga,Sauvignon 2021,Colli Orientali del Friuli ,4.0,139,23.5,2021
+593,Italia,Blanco,Ca' Lojera,Lugana Riserva del Lupo 2018,Lugana ,4.0,139,25.6,2018
+594,Italia,Blanco,Torre dei Beati,Giocheremo Con i Fiori Pecorino 2021,Abruzos ,4.0,122,13.05,2021
+595,Italia,Blanco,Vigneti Massa,Derthona 2021,Piamonte ,4.0,106,20.75,2021
+596,Italia,Blanco,Villa Corniole,Pietramontis Pinot Grigio Ramato 2019,Trentino ,4.0,84,16.09,2019
+597,Italia,Blanco,Tramin,Müller Thurgau 2021,Südtirol - Alto Adige ,4.0,84,12.4,2021
+598,Italia,Blanco,Les Crêtes,Fleur Petite Arvine 2020,Valle d'Aosta ,4.0,73,27.7,2020
+599,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2022,Toscana ,4.0,61,11.3,2022
+600,Italia,Blanco,Marisa Cuomo,Costa d'Amalfi Bianco 2020,Costa d'Amalfi ,4.0,61,21.7,2020
+601,Italia,Blanco,Skerlj,Malvasia 2019,Carso ,4.0,57,28.9,2019
+602,Italia,Blanco,Selva Capuzza,Campo del Soglio San Martino della Battaglia 2019,San Martino della Battaglia ,4.0,54,18.9,2019
+603,Italia,Blanco,Eduardo Torres Acosta,Versante Nord Bianco 2021,Terre Siciliane ,4.0,48,22.95,2021
+604,Italia,Blanco,Tenuta Meraviglia,Dievole Vermentino 2021,Bolgheri ,4.0,47,14.9,2021
+605,Italia,Blanco,Skerlj,Malvasia 2018,Carso ,4.0,44,28.9,2018
+606,Italia,Blanco,Feudo Montoni,Inzolia dei Fornelli 2021,Sicilia ,4.0,43,13.55,2021
+607,Italia,Blanco,Colterenzio (Schreckbichl),Sand Moscato Giallo 2021,Südtirol - Alto Adige ,4.0,33,15.35,2021
+608,Italia,Blanco,Marina Cvetić,Chardonnay 2020,Colline Teatine ,4.0,31,29.75,2020
+609,Italia,Blanco,Tiefenbrunner,Merus Pinot Bianco (Weissburgunder) 2021,Trentino-Alto Adige ,4.0,29,13.5,2021
+610,Italia,Blanco,Poggio,L'Archetipo Colli Tortonesi Terre di Libarna Timorasso 2019,Colli Tortonesi ,4.0,29,16.0,2019
+611,Italia,Blanco,Marco Felluga,Russiz Superiore Sauvignon Collio 2021,Collio ,4.0,26,20.3,2021
+612,Italia,Blanco,Santa Margherita,Pinot Grigio Valdadige 2021,Valdadige ,3.9,3342,11.0,2021
+613,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2021,Toscana ,3.9,1750,11.5,2021
+614,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2020,Greco di Tufo ,3.9,1393,18.59,2020
+615,Italia,Blanco,Pieropan,Soave Classico 2021,Soave Classico ,3.9,873,13.55,2021
+616,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2021,Greco di Tufo ,3.9,813,11.5,2021
+617,Italia,Blanco,La Scolca,Gavi Valentino 2019,Gavi ,3.9,783,11.3,2019
+618,Italia,Blanco,Feudi di San Gregorio,Falanghina 2021,Falanghina del Sannio ,3.9,670,10.0,2021
+619,Italia,Blanco,Dilé,Moscato N.V.,Piamonte ,3.9,612,7.95,N.V.
+620,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2020,Greco di Tufo ,3.9,514,22.44,2020
+621,Italia,Blanco,Argiolas,Costamolino Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.9,427,13.5,2021
+622,Italia,Blanco,Punica,Samas 2018,Isola dei Nuraghi ,3.9,328,16.9,2018
+623,Italia,Blanco,Della Staffa,Litrò Bianco 2019,Umbria ,3.9,292,14.95,2019
+624,Italia,Blanco,Vino di Anna,Palmento Bianco 2018,Terre Siciliane ,3.9,264,16.8,2018
+625,Italia,Blanco,Sella & Mosca,Cala Reale Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.9,257,12.35,2021
+626,Italia,Blanco,Graci,Etna Bianco 2020,Etna ,3.9,255,22.0,2020
+627,Italia,Blanco,Monchiero Carbone,Recit Roero Arneis 2021,Roero ,3.9,238,13.55,2021
+628,Italia,Blanco,Filippi,Castelcerino 2018,Soave ,3.9,204,16.0,2018
+629,Italia,Blanco,Orsolani,La Rustìa Erbaluce di Caluso 2020,Erbaluce di Caluso ,3.9,161,14.6,2020
+630,Italia,Blanco,Marco de Bartoli,Integer Grillo 2019,Sicilia ,3.9,124,29.75,2019
+631,Italia,Blanco,Mora & Memo,Tino Vermentino di Sardegna 2020,Vermentino di Sardegna ,3.9,102,14.6,2020
+632,Italia,Blanco,Vignalta,Chardonnay 2018,Colli Euganei ,3.9,100,22.25,2018
+633,Italia,Blanco,Barraco,Grillo 2020,Sicilia ,3.9,88,23.35,2020
+634,Italia,Blanco,Ca' Rugate,Soave Classico Monte Alto 2017,Soave Classico ,3.9,88,16.9,2017
+635,Italia,Blanco,Principe Pallavicini,Frascati 2021,Frascati ,3.9,78,9.05,2021
+636,Italia,Blanco,Forchir,Lamis Pinot Grigio 2020,Friuli Grave ,3.9,77,11.0,2020
+637,Italia,Blanco,Marisa Cuomo,Costa d'Amalfi Bianco 2019,Costa d'Amalfi ,3.9,74,20.9,2019
+638,Italia,Blanco,Ettore Germano,Binel Langhe Bianco 2017,Langhe ,3.9,73,20.1,2017
+639,Italia,Blanco,Cirelli,Trebbiano d'Abruzzo 2021,Trebbiano d'Abruzzo ,3.9,71,14.25,2021
+640,Italia,Blanco,Marco Felluga,Collio Chardonnay 2021,Collio ,3.9,70,14.6,2021
+641,Italia,Blanco,Orsolani,La Rustìa Erbaluce di Caluso 2021,Erbaluce di Caluso ,3.9,69,14.6,2021
+642,Italia,Blanco,Livio Felluga,Chardonnay 2020,Colli Orientali del Friuli ,3.9,61,24.3,2020
+643,Italia,Blanco,La Roncaia,Pinot Grigio 2019,Colli Orientali del Friuli ,3.9,58,22.25,2019
+644,Italia,Blanco,Pierluigi Zampaglione,Don Chisciotte Fiano 2020,Campania ,3.9,57,23.45,2020
+645,Italia,Blanco,Muri-Gries,Gewürztraminer Südtirol 2021,Südtirol - Alto Adige ,3.9,39,15.6,2021
+646,Italia,Blanco,Marramiero,Anima 2021,Trebbiano d'Abruzzo ,3.9,35,13.1,2021
+647,Italia,Blanco,Fonterenza,Le Ragazze Bianco 2019,Rosso di Montalcino ,3.9,31,24.95,2019
+648,Italia,Blanco,Ausonia,Machaon Abruzzo Pecorino 2019,Abruzos ,3.9,29,12.95,2019
+649,Italia,Blanco,Cantina Marilina,Sketta Grecanico 2021,Terre Siciliane ,3.9,27,12.25,2021
+650,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2020,Toscana ,3.8,3600,16.9,2020
+651,Italia,Blanco,Garofoli,Verdicchio Dei Castelli Di Jesi Classico 2020,Verdicchio dei Castelli di Jesi ,3.8,1120,8.22,2020
+652,Italia,Blanco,Feudi di San Gregorio,Falanghina 2020,Falanghina del Sannio ,3.8,1083,15.42,2020
+653,Italia,Blanco,Planeta,Etna Bianco 2019,Etna ,3.8,585,17.0,2019
+654,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino 2020,Fiano de Avellino ,3.8,580,14.92,2020
+655,Italia,Blanco,Ampeleia,Bianco di Ampeleia 2019,Toscana ,3.8,417,18.45,2019
+656,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino 2021,Fiano de Avellino ,3.8,366,11.0,2021
+657,Italia,Blanco,Mesa,Giunco 2020,Vermentino di Sardegna ,3.8,346,15.07,2020
+658,Italia,Blanco,Tenuta Rapitalà,Piano Maltese Sicillane 2020,Terre Siciliane ,3.8,218,7.8,2020
+659,Italia,Blanco,Feudi di San Gregorio,Falanghina Serrocielo 2021,Falanghina del Sannio ,3.8,181,12.0,2021
+660,Italia,Blanco,Feudi di San Gregorio,Albente 2020,Campania ,3.8,179,11.08,2020
+661,Italia,Blanco,Tenuta Sant'Antonio,Monte Ceriani Soave 2018,Soave ,3.8,156,13.9,2018
+662,Italia,Blanco,Al-Cantara,Occhi di Ciumi Bianco 2019,Etna ,3.8,155,19.99,2019
+663,Italia,Blanco,Fèlsina,I Sistri Chardonnay 2020,Toscana ,3.8,141,16.9,2020
+664,Italia,Blanco,Valdibella,Grillo Sulle Bucce 2020,Sicilia ,3.8,138,11.83,2020
+665,Italia,Blanco,Borgogno,Langhe Era Ora Riesling 2018,Langhe ,3.8,137,23.45,2018
+666,Italia,Blanco,Kaltern,Pinot Bianco Vial 2020,Trentino-Alto Adige ,3.8,107,15.35,2020
+667,Italia,Blanco,Lis Neris,Sauvignon Blanc 2020,Venezia Giulia ,3.8,105,18.75,2020
+668,Italia,Blanco,I Clivi,San Pietro Friulano 2020,Colli Orientali del Friuli ,3.8,89,20.1,2020
+669,Italia,Blanco,Vadiaperti,Greco di Tufo 2018,Greco di Tufo ,3.8,88,15.95,2018
+670,Italia,Blanco,Venica & Venica,Primarűl Friulano 2021,Collio ,3.8,84,19.0,2021
+671,Italia,Blanco,Feudi di San Gregorio,Biancolella 2021,Ischia ,3.8,83,14.5,2021
+672,Italia,Blanco,Enzo Boglietti,Langhe Chardonnay 2018,Langhe ,3.8,79,12.0,2018
+673,Italia,Blanco,Belguardo,Vermentino Bianco Toscana 2021,Toscana ,3.8,77,11.3,2021
+674,Italia,Blanco,Contini,Tyrsos Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.8,72,10.5,2021
+675,Italia,Blanco,Albino Armani,Casa Belfi Bianco 2020,delle Venezie ,3.8,69,12.62,2020
+676,Italia,Blanco,Zisola,Azisa Sicilia 2021,Sicilia ,3.8,68,12.55,2021
+677,Italia,Blanco,Girlan,Pinot Grigio 2020,Südtirol - Alto Adige ,3.8,67,13.5,2020
+678,Italia,Blanco,Kuen Hof,Südtirol Eisacktaler Veltliner 2013,Südtirol - Alto Adige ,3.8,65,29.9,2013
+679,Italia,Blanco,Al-Cantara,Ciuri di Strata 2019,Terre Siciliane ,3.8,64,12.13,2019
+680,Italia,Blanco,Ceretto,Monsordo Bianco 2018,Langhe ,3.8,59,22.4,2018
+681,Italia,Blanco,Pietracupa,Greco di Tufo 2019,Campania ,3.8,57,22.95,2019
+682,Italia,Blanco,Cantina Marilina,Cuè Moscato 2020,Terre Siciliane ,3.8,56,13.4,2020
+683,Italia,Blanco,Salcheto,Obvius Bianco 2019,Toscana ,3.8,53,16.9,2019
+684,Italia,Blanco,Tenuta Rapitalà,Vigna Casalj Alcamo Classico Bianco 2020,Terre Siciliane ,3.8,53,13.5,2020
+685,Italia,Blanco,Calabretta,Carricante 2020,Sicilia ,3.8,52,23.45,2020
+686,Italia,Blanco,Cascina Degli Ulivi,Semplicemente Bellotti Bianco 2021,Piamonte ,3.8,48,15.05,2021
+687,Italia,Blanco,Roveglia,Wighel Lugana 2021,Lugana ,3.8,48,13.55,2021
+688,Italia,Blanco,Morisfarms,Vermentino 2020,Toscana ,3.8,46,11.0,2020
+689,Italia,Blanco,Fontodi,Meriggio 2019,Colli della Toscana Centrale ,3.8,43,22.51,2019
+690,Italia,Blanco,Pecchenino,Langhe Maestro 2019,Langhe ,3.8,40,15.75,2019
+691,Italia,Blanco,Al-Cantara,'A Nutturna Bianco 2019,Terre Siciliane ,3.8,39,15.56,2019
+692,Italia,Blanco,Fattoria di Magliano,Pagliatura Vermentino della Maremma Toscana 2021,Maremma Toscana ,3.8,32,15.6,2021
+693,Italia,Blanco,Cantina al di là del Fiume,Birichén 2020,Emilia-Romagna ,3.8,27,14.45,2020
+694,Italia,Blanco,Planeta,La Segreta Il Bianco 2019,Sicilia ,3.7,908,7.88,2019
+695,Italia,Blanco,Planeta,La Segreta Il Bianco 2020,Sicilia ,3.7,842,7.88,2020
+696,Italia,Blanco,Planeta,La Segreta Il Bianco 2021,Sicilia ,3.7,560,10.2,2021
+697,Italia,Blanco,Sartori di Verona,Pinot Grigio delle Venezie 2018,delle Venezie ,3.7,486,9.5,2018
+698,Italia,Blanco,Le Battistelle,Montesei Soave Classico 2021,Soave Classico ,3.7,255,8.9,2021
+699,Italia,Blanco,ColleStefano,Verdicchio di Matelica 2021,Verdicchio di Matelica ,3.7,221,11.3,2021
+700,Italia,Blanco,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,34,69.71,2019
+701,Italia,Blanco,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+702,Italia,Blanco,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+703,Italia,Blanco,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+704,Italia,Blanco,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+705,Italia,Blanco,Girlan,Flora Gewürztraminer 2018,Südtirol - Alto Adige ,4.3,112,27.85,2018
+706,Italia,Blanco,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+707,Italia,Blanco,Skerk,Ograde 2020,Friuli-Venezia Giulia ,4.3,39,35.0,2020
+708,Italia,Blanco,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+709,Italia,Blanco,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+710,Italia,Blanco,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+711,Italia,Blanco,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,871,41.75,2017
+712,Italia,Blanco,La Stoppa,Ageno 2016,Emilia ,4.2,794,32.74,2016
+713,Italia,Blanco,Planeta,Chardonnay 2021,Menfi ,4.2,581,22.9,2021
+714,Italia,Blanco,Quintodecimo,Via del Campo Falanghina 2018,Irpinia ,4.2,309,47.86,2018
+715,Italia,Blanco,Livio Felluga,Pinot Grigio 2021,Colli Orientali del Friuli ,4.2,293,24.8,2021
+716,Italia,Blanco,Benito Ferrara,Vigna Cicogna Greco di Tufo 2021,Greco di Tufo ,4.2,259,24.35,2021
+717,Italia,Blanco,Abbazia di Novacella (Stiftskellerei Neustift),Praepositus Kerner 2020,Südtirol - Alto Adige ,4.2,239,23.45,2020
+718,Italia,Blanco,Colterenzio (Schreckbichl),Pfefferer 2022,Südtirol - Alto Adige ,4.2,104,12.35,2022
+719,Italia,Blanco,Vie di Romans,Dolée 2017,Friuli Isonzo ,4.2,99,26.76,2017
+720,Italia,Blanco,Vigneti Massa,Derthona Montecitorio 2018,Piamonte ,4.2,89,41.0,2018
+721,Italia,Blanco,Frank Cornelissen,MunJebel Classico Bianco 2020,Terre Siciliane ,4.2,77,38.75,2020
+722,Italia,Blanco,Marina Cvetić,Riserva Trebbiano 2020,Trebbiano d'Abruzzo ,4.2,58,35.77,2020
+723,Italia,Blanco,Colterenzio (Schreckbichl),Lafóa Sauvignon 2021,Südtirol - Alto Adige ,4.2,45,29.45,2021
+724,Italia,Blanco,Colle Duga,Sauvignon Collio 2020,Collio ,4.2,37,21.3,2020
+725,Italia,Blanco,Pescaja,Solei Terre Alfieri Arneis 2022,Piamonte ,4.2,29,13.5,2022
+726,Italia,Blanco,Castello di Lispida,Terralba 2017,Véneto ,4.2,28,27.85,2017
+727,Italia,Blanco,Scaia,Bianco (Garganega - Chardonnay) 2021,Véneto ,4.1,1257,12.0,2021
+728,Italia,Blanco,Planeta,Cometa 2019,Menfi ,4.1,820,31.9,2019
+729,Italia,Blanco,Livio Felluga,Sharis 2021,delle Venezie ,4.1,771,18.76,2021
+730,Italia,Blanco,Poggio Al Tesoro,Solosole Vermentino 2020,Bolgheri ,4.1,743,19.9,2020
+731,Italia,Blanco,J. Hofstätter,Joseph Gewürztraminer 2020,Südtirol - Alto Adige ,4.1,698,22.94,2020
+732,Italia,Blanco,Cabreo,La Pietra Chardonnay 2018,Toscana ,4.1,555,36.55,2018
+733,Italia,Blanco,Livio Felluga,Sauvignon 2020,Colli Orientali del Friuli ,4.1,463,24.8,2020
+734,Italia,Blanco,La Tunella,Sauvignon 2021,Colli Orientali del Friuli ,4.1,428,15.9,2021
+735,Italia,Blanco,Vie di Romans,Flors di Uis 2017,Friuli Isonzo ,4.1,318,26.37,2017
+736,Italia,Blanco,Fina,Taif 2021,Terre Siciliane ,4.1,215,10.9,2021
+737,Italia,Blanco,Albino Armani,Pinot Grigio Friuli Grave 2021,Friuli Grave ,4.1,193,9.7,2021
+738,Italia,Blanco,Damijan Podversic,Kaplja 2017,Friuli-Venezia Giulia ,4.1,95,35.5,2017
+739,Italia,Blanco,Il Colombaio di Santachiara,Campo della Pieve Vernaccia di San Gimignano 2019,Vernaccia di San Gimignano ,4.1,84,27.3,2019
+740,Italia,Blanco,Cascina Degli Ulivi,Ivag Bianco 2020,Piamonte ,4.1,84,22.3,2020
+741,Italia,Blanco,Tornatore,Pietrarizzo Etna Bianco 2021,Etna ,4.1,79,23.0,2021
+742,Italia,Blanco,Franz Haas,Sauvignon 2020,Südtirol - Alto Adige ,4.1,64,26.75,2020
+743,Italia,Blanco,Denavolo Rivergaro,Dinavolino Bianco 2021,Emilia-Romagna ,4.1,63,21.3,2021
+744,Italia,Blanco,Marco de Bartoli,Integer Grillo 2020,Sicilia ,4.1,49,30.55,2020
+745,Italia,Blanco,Franco M. Martinetti,Minaia Gavi 2013,Gavi ,4.1,42,28.15,2013
+746,Italia,Blanco,Vietti,Arneis Roero 2020,Roero ,4.0,1380,16.0,2020
+747,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2020,Terre Siciliane ,4.0,817,22.95,2020
+748,Italia,Blanco,Ceretto,Arneis Langhe Blange 2021,Langhe ,4.0,800,22.99,2021
+749,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2020,Verdicchio dei Castelli di Jesi ,4.0,752,18.6,2020
+750,Italia,Blanco,Villa Sparina,Gavi 2021,Gavi ,4.0,736,15.75,2021
+751,Italia,Blanco,Tombacco,Pecorino Terre di Chieti 2020,Terre di Chieti ,4.0,625,8.41,2020
+752,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2021,Terre Siciliane ,4.0,480,22.4,2021
+753,Italia,Blanco,Jermann,Chardonnay 2021,Venezia Giulia ,4.0,420,23.45,2021
+754,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2021,Verdicchio dei Castelli di Jesi ,4.0,409,23.92,2021
+755,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2021,Greco di Tufo ,4.0,404,14.5,2021
+756,Italia,Blanco,Livio Felluga,Friulano 2020,Colli Orientali del Friuli ,4.0,367,24.0,2020
+757,Italia,Blanco,Tornatore,Etna Bianco 2021,Etna ,4.0,366,16.5,2021
+758,Italia,Blanco,Suavia,Monte Carbonare 2020,Soave Classico ,4.0,290,18.45,2020
+759,Italia,Blanco,Fina,Kebrilla Grillo 2021,Terre Siciliane ,4.0,270,9.7,2021
+760,Italia,Blanco,Livio Felluga,Friulano 2021,Colli Orientali del Friuli ,4.0,247,25.85,2021
+761,Italia,Blanco,Bottega,Pinot Grigio delle Venezie 2020,delle Venezie ,4.0,218,8.64,2020
+762,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino Pietracalda 2021,Fiano de Avellino ,4.0,201,17.15,2021
+763,Italia,Blanco,Pala,Soprasole 2021,Cerdeña ,4.0,194,12.35,2021
+764,Italia,Blanco,Les Crêtes,Petite Arvine 2021,Valle d'Aosta ,4.0,168,17.15,2021
+765,Italia,Blanco,Bottega Vinai,Gewürztraminer 2020,Trentino ,4.0,167,11.5,2020
+766,Italia,Blanco,Gulfi,Carjcanti Bianco 2018,Terre Siciliane ,4.0,148,26.1,2018
+767,Italia,Blanco,Livio Felluga,Sauvignon 2021,Colli Orientali del Friuli ,4.0,139,23.5,2021
+768,Italia,Blanco,Ca' Lojera,Lugana Riserva del Lupo 2018,Lugana ,4.0,139,25.6,2018
+769,Italia,Blanco,Torre dei Beati,Giocheremo Con i Fiori Pecorino 2021,Abruzos ,4.0,122,13.05,2021
+770,Italia,Blanco,Vigneti Massa,Derthona 2021,Piamonte ,4.0,106,20.75,2021
+771,Italia,Blanco,Villa Corniole,Pietramontis Pinot Grigio Ramato 2019,Trentino ,4.0,84,16.09,2019
+772,Italia,Blanco,Tramin,Müller Thurgau 2021,Südtirol - Alto Adige ,4.0,84,12.4,2021
+773,Italia,Blanco,Les Crêtes,Fleur Petite Arvine 2020,Valle d'Aosta ,4.0,73,27.7,2020
+774,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2022,Toscana ,4.0,61,11.3,2022
+775,Italia,Blanco,Marisa Cuomo,Costa d'Amalfi Bianco 2020,Costa d'Amalfi ,4.0,61,21.7,2020
+776,Italia,Blanco,Skerlj,Malvasia 2019,Carso ,4.0,57,28.9,2019
+777,Italia,Blanco,Selva Capuzza,Campo del Soglio San Martino della Battaglia 2019,San Martino della Battaglia ,4.0,54,18.9,2019
+778,Italia,Blanco,Eduardo Torres Acosta,Versante Nord Bianco 2021,Terre Siciliane ,4.0,48,22.95,2021
+779,Italia,Blanco,Tenuta Meraviglia,Dievole Vermentino 2021,Bolgheri ,4.0,47,14.9,2021
+780,Italia,Blanco,Skerlj,Malvasia 2018,Carso ,4.0,44,28.9,2018
+781,Italia,Blanco,Feudo Montoni,Inzolia dei Fornelli 2021,Sicilia ,4.0,43,13.55,2021
+782,Italia,Blanco,Colterenzio (Schreckbichl),Sand Moscato Giallo 2021,Südtirol - Alto Adige ,4.0,33,15.35,2021
+783,Italia,Blanco,Marina Cvetić,Chardonnay 2020,Colline Teatine ,4.0,31,29.75,2020
+784,Italia,Blanco,Tiefenbrunner,Merus Pinot Bianco (Weissburgunder) 2021,Trentino-Alto Adige ,4.0,29,13.5,2021
+785,Italia,Blanco,Poggio,L'Archetipo Colli Tortonesi Terre di Libarna Timorasso 2019,Colli Tortonesi ,4.0,29,16.0,2019
+786,Italia,Blanco,Marco Felluga,Russiz Superiore Sauvignon Collio 2021,Collio ,4.0,26,20.3,2021
+787,Italia,Blanco,Santa Margherita,Pinot Grigio Valdadige 2021,Valdadige ,3.9,3342,11.0,2021
+788,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2021,Toscana ,3.9,1750,11.5,2021
+789,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2020,Greco di Tufo ,3.9,1393,18.59,2020
+790,Italia,Blanco,Pieropan,Soave Classico 2021,Soave Classico ,3.9,873,13.55,2021
+791,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2021,Greco di Tufo ,3.9,813,11.5,2021
+792,Italia,Blanco,La Scolca,Gavi Valentino 2019,Gavi ,3.9,783,11.3,2019
+793,Italia,Blanco,Feudi di San Gregorio,Falanghina 2021,Falanghina del Sannio ,3.9,670,10.0,2021
+794,Italia,Blanco,Dilé,Moscato N.V.,Piamonte ,3.9,612,7.95,N.V.
+795,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2020,Greco di Tufo ,3.9,514,22.44,2020
+796,Italia,Blanco,Argiolas,Costamolino Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.9,427,13.5,2021
+797,Italia,Blanco,Punica,Samas 2018,Isola dei Nuraghi ,3.9,328,16.9,2018
+798,Italia,Blanco,Della Staffa,Litrò Bianco 2019,Umbria ,3.9,292,14.95,2019
+799,Italia,Blanco,Vino di Anna,Palmento Bianco 2018,Terre Siciliane ,3.9,264,16.8,2018
+800,Italia,Blanco,Sella & Mosca,Cala Reale Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.9,257,12.35,2021
+801,Italia,Blanco,Graci,Etna Bianco 2020,Etna ,3.9,255,22.0,2020
+802,Italia,Blanco,Monchiero Carbone,Recit Roero Arneis 2021,Roero ,3.9,238,13.55,2021
+803,Italia,Blanco,Filippi,Castelcerino 2018,Soave ,3.9,204,16.0,2018
+804,Italia,Blanco,Orsolani,La Rustìa Erbaluce di Caluso 2020,Erbaluce di Caluso ,3.9,161,14.6,2020
+805,Italia,Blanco,Marco de Bartoli,Integer Grillo 2019,Sicilia ,3.9,124,29.75,2019
+806,Italia,Blanco,Mora & Memo,Tino Vermentino di Sardegna 2020,Vermentino di Sardegna ,3.9,102,14.6,2020
+807,Italia,Blanco,Vignalta,Chardonnay 2018,Colli Euganei ,3.9,100,22.25,2018
+808,Italia,Blanco,Barraco,Grillo 2020,Sicilia ,3.9,88,23.35,2020
+809,Italia,Blanco,Ca' Rugate,Soave Classico Monte Alto 2017,Soave Classico ,3.9,88,16.9,2017
+810,Italia,Blanco,Principe Pallavicini,Frascati 2021,Frascati ,3.9,78,9.05,2021
+811,Italia,Blanco,Forchir,Lamis Pinot Grigio 2020,Friuli Grave ,3.9,77,11.0,2020
+812,Italia,Blanco,Marisa Cuomo,Costa d'Amalfi Bianco 2019,Costa d'Amalfi ,3.9,74,20.9,2019
+813,Italia,Blanco,Ettore Germano,Binel Langhe Bianco 2017,Langhe ,3.9,73,20.1,2017
+814,Italia,Blanco,Cirelli,Trebbiano d'Abruzzo 2021,Trebbiano d'Abruzzo ,3.9,71,14.25,2021
+815,Italia,Blanco,Marco Felluga,Collio Chardonnay 2021,Collio ,3.9,70,14.6,2021
+816,Italia,Blanco,Orsolani,La Rustìa Erbaluce di Caluso 2021,Erbaluce di Caluso ,3.9,69,14.6,2021
+817,Italia,Blanco,Livio Felluga,Chardonnay 2020,Colli Orientali del Friuli ,3.9,61,24.3,2020
+818,Italia,Blanco,La Roncaia,Pinot Grigio 2019,Colli Orientali del Friuli ,3.9,58,22.25,2019
+819,Italia,Blanco,Pierluigi Zampaglione,Don Chisciotte Fiano 2020,Campania ,3.9,57,23.45,2020
+820,Italia,Blanco,Muri-Gries,Gewürztraminer Südtirol 2021,Südtirol - Alto Adige ,3.9,39,15.6,2021
+821,Italia,Blanco,Marramiero,Anima 2021,Trebbiano d'Abruzzo ,3.9,35,13.1,2021
+822,Italia,Blanco,Fonterenza,Le Ragazze Bianco 2019,Rosso di Montalcino ,3.9,31,24.95,2019
+823,Italia,Blanco,Ausonia,Machaon Abruzzo Pecorino 2019,Abruzos ,3.9,29,12.95,2019
+824,Italia,Blanco,Cantina Marilina,Sketta Grecanico 2021,Terre Siciliane ,3.9,27,12.25,2021
+825,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2020,Toscana ,3.8,3600,16.9,2020
+826,Italia,Blanco,Garofoli,Verdicchio Dei Castelli Di Jesi Classico 2020,Verdicchio dei Castelli di Jesi ,3.8,1120,8.22,2020
+827,Italia,Blanco,Feudi di San Gregorio,Falanghina 2020,Falanghina del Sannio ,3.8,1083,15.42,2020
+828,Italia,Blanco,Planeta,Etna Bianco 2019,Etna ,3.8,585,17.0,2019
+829,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino 2020,Fiano de Avellino ,3.8,580,14.92,2020
+830,Italia,Blanco,Ampeleia,Bianco di Ampeleia 2019,Toscana ,3.8,417,18.45,2019
+831,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino 2021,Fiano de Avellino ,3.8,366,11.0,2021
+832,Italia,Blanco,Mesa,Giunco 2020,Vermentino di Sardegna ,3.8,346,15.07,2020
+833,Italia,Blanco,Tenuta Rapitalà,Piano Maltese Sicillane 2020,Terre Siciliane ,3.8,218,7.8,2020
+834,Italia,Blanco,Feudi di San Gregorio,Falanghina Serrocielo 2021,Falanghina del Sannio ,3.8,181,12.0,2021
+835,Italia,Blanco,Feudi di San Gregorio,Albente 2020,Campania ,3.8,179,11.08,2020
+836,Italia,Blanco,Tenuta Sant'Antonio,Monte Ceriani Soave 2018,Soave ,3.8,156,13.9,2018
+837,Italia,Blanco,Al-Cantara,Occhi di Ciumi Bianco 2019,Etna ,3.8,155,19.99,2019
+838,Italia,Blanco,Fèlsina,I Sistri Chardonnay 2020,Toscana ,3.8,141,16.9,2020
+839,Italia,Blanco,Valdibella,Grillo Sulle Bucce 2020,Sicilia ,3.8,138,11.83,2020
+840,Italia,Blanco,Borgogno,Langhe Era Ora Riesling 2018,Langhe ,3.8,137,23.45,2018
+841,Italia,Blanco,Kaltern,Pinot Bianco Vial 2020,Trentino-Alto Adige ,3.8,107,15.35,2020
+842,Italia,Blanco,Lis Neris,Sauvignon Blanc 2020,Venezia Giulia ,3.8,105,18.75,2020
+843,Italia,Blanco,I Clivi,San Pietro Friulano 2020,Colli Orientali del Friuli ,3.8,89,20.1,2020
+844,Italia,Blanco,Vadiaperti,Greco di Tufo 2018,Greco di Tufo ,3.8,88,15.95,2018
+845,Italia,Blanco,Venica & Venica,Primarűl Friulano 2021,Collio ,3.8,84,19.0,2021
+846,Italia,Blanco,Feudi di San Gregorio,Biancolella 2021,Ischia ,3.8,83,14.5,2021
+847,Italia,Blanco,Enzo Boglietti,Langhe Chardonnay 2018,Langhe ,3.8,79,12.0,2018
+848,Italia,Blanco,Belguardo,Vermentino Bianco Toscana 2021,Toscana ,3.8,77,11.3,2021
+849,Italia,Blanco,Contini,Tyrsos Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.8,72,10.5,2021
+850,Italia,Blanco,Albino Armani,Casa Belfi Bianco 2020,delle Venezie ,3.8,69,12.62,2020
+851,Italia,Blanco,Zisola,Azisa Sicilia 2021,Sicilia ,3.8,68,12.55,2021
+852,Italia,Blanco,Girlan,Pinot Grigio 2020,Südtirol - Alto Adige ,3.8,67,13.5,2020
+853,Italia,Blanco,Kuen Hof,Südtirol Eisacktaler Veltliner 2013,Südtirol - Alto Adige ,3.8,65,29.9,2013
+854,Italia,Blanco,Al-Cantara,Ciuri di Strata 2019,Terre Siciliane ,3.8,64,12.13,2019
+855,Italia,Blanco,Ceretto,Monsordo Bianco 2018,Langhe ,3.8,59,22.4,2018
+856,Italia,Blanco,Pietracupa,Greco di Tufo 2019,Campania ,3.8,57,22.95,2019
+857,Italia,Blanco,Cantina Marilina,Cuè Moscato 2020,Terre Siciliane ,3.8,56,13.4,2020
+858,Italia,Blanco,Salcheto,Obvius Bianco 2019,Toscana ,3.8,53,16.9,2019
+859,Italia,Blanco,Tenuta Rapitalà,Vigna Casalj Alcamo Classico Bianco 2020,Terre Siciliane ,3.8,53,13.5,2020
+860,Italia,Blanco,Calabretta,Carricante 2020,Sicilia ,3.8,52,23.45,2020
+861,Italia,Blanco,Cascina Degli Ulivi,Semplicemente Bellotti Bianco 2021,Piamonte ,3.8,48,15.05,2021
+862,Italia,Blanco,Roveglia,Wighel Lugana 2021,Lugana ,3.8,48,13.55,2021
+863,Italia,Blanco,Morisfarms,Vermentino 2020,Toscana ,3.8,46,11.0,2020
+864,Italia,Blanco,Fontodi,Meriggio 2019,Colli della Toscana Centrale ,3.8,43,22.51,2019
+865,Italia,Blanco,Pecchenino,Langhe Maestro 2019,Langhe ,3.8,40,15.75,2019
+866,Italia,Blanco,Al-Cantara,'A Nutturna Bianco 2019,Terre Siciliane ,3.8,39,15.56,2019
+867,Italia,Blanco,Fattoria di Magliano,Pagliatura Vermentino della Maremma Toscana 2021,Maremma Toscana ,3.8,32,15.6,2021
+868,Italia,Blanco,Cantina al di là del Fiume,Birichén 2020,Emilia-Romagna ,3.8,27,14.45,2020
+869,Italia,Blanco,Planeta,La Segreta Il Bianco 2019,Sicilia ,3.7,908,7.88,2019
+870,Italia,Blanco,Planeta,La Segreta Il Bianco 2020,Sicilia ,3.7,842,7.88,2020
+871,Italia,Blanco,Planeta,La Segreta Il Bianco 2021,Sicilia ,3.7,560,10.2,2021
+872,Italia,Blanco,Sartori di Verona,Pinot Grigio delle Venezie 2018,delle Venezie ,3.7,486,9.5,2018
+873,Italia,Blanco,Le Battistelle,Montesei Soave Classico 2021,Soave Classico ,3.7,255,8.9,2021
+874,Italia,Blanco,ColleStefano,Verdicchio di Matelica 2021,Verdicchio di Matelica ,3.7,221,11.3,2021
+875,Italia,Blanco,Cirelli,Trebbiano d'Abruzzo 2020,Trebbiano d'Abruzzo ,3.7,220,12.35,2020
+876,Italia,Blanco,Ampeleia,Bianco di Ampeleia 2020,Toscana ,3.7,182,20.3,2020
+877,Italia,Blanco,La Staffa,Verdicchio dei Castelli di Jesi Classico Superiore 2020,Verdicchio dei Castelli di Jesi ,3.7,180,11.45,2020
+878,Italia,Blanco,Gallura,Gemellae Vermentino di Gallura 2018,Vermentino di Gallura ,3.7,139,9.06,2018
+879,Italia,Blanco,Al-Cantara,Luci Luci Etna Bianco 2014,Etna ,3.7,103,17.47,2014
+880,Italia,Blanco,Caruso & Minini,Terre di Giumara Grecanico 2016,Terre Siciliane ,3.7,102,8.0,2016
+881,Italia,Blanco,Fattoria di Magliano,Pagliatura Vermentino della Maremma Toscana 2019,Maremma Toscana ,3.7,101,16.37,2019
+882,Italia,Blanco,Tenimenti Ca'Bianca,Gavi 2021,Gavi ,3.7,77,12.25,2021
+883,Italia,Blanco,Progetto Calcarius,Hellen Bianco 2018,Puglia ,3.7,75,16.5,2018
+884,Italia,Blanco,Mesa,Primo Bianco 2021,Vermentino di Sardegna ,3.7,74,9.05,2021
+885,Italia,Blanco,Malvirà,Renesio Roero Arneis 2020,Roero ,3.7,68,19.0,2020
+886,Italia,Blanco,Bottega Vinai,Müller Thurgau 2020,Trentino ,3.7,55,9.5,2020
+887,Italia,Blanco,Jasci,Trebbiano d'Abruzzo 2020,Trebbiano d'Abruzzo ,3.7,54,8.95,2020
+888,Italia,Blanco,Principe Pallavicini,Roma Malvasia Puntinata 2020,Roma ,3.7,54,11.3,2020
+889,Italia,Blanco,La Sibilla,Falanghina Campi Flegrei 2021,Campi Flegrei ,3.7,48,10.9,2021
+890,Italia,Blanco,Sergio Mottura,Poggio della Costa 2021,Civitella d'Agliano ,3.7,38,13.9,2021
+891,Italia,Blanco,Erste+Neue,Chardonnay 2019,Südtirol - Alto Adige ,3.7,33,12.55,2019
+892,Italia,Blanco,Principe Pallavicini,Poggio Verde Frascati Superiore 2021,Frascati ,3.7,32,10.5,2021
+893,Italia,Blanco,Barberani,Castagnolo Orvieto Classico Superiore 2021,Orvieto Classico ,3.7,31,13.55,2021
+894,Italia,Blanco,Bonzano,Armognan Monferrato Bianco 2017,Monferrato ,3.7,29,17.9,2017
+895,Italia,Blanco,Sergio Mottura,Tragugnano Orvieto 2019,Orvieto ,3.7,28,13.45,2019
+896,Italia,Blanco,Draga,Pinot Grigio 2021,Collio ,3.7,27,12.7,2021
+897,Italia,Blanco,Livio Felluga,Chardonnay 2021,Colli Orientali del Friuli ,3.7,26,22.25,2021
+898,Italia,Blanco,Geremi Vini,Itinera 2020,Lazio ,3.7,25,14.45,2020
+899,Italia,Blanco,Foradori,Manzoni Bianco Fontanasanta 2019,Vigneti delle Dolomiti ,3.6,794,25.8,2019
+900,Italia,Blanco,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,34,69.71,2019
+901,Italia,Blanco,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+902,Italia,Blanco,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+903,Italia,Blanco,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+904,Italia,Blanco,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+905,Italia,Blanco,Girlan,Flora Gewürztraminer 2018,Südtirol - Alto Adige ,4.3,112,27.85,2018
+906,Italia,Blanco,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+907,Italia,Blanco,Skerk,Ograde 2020,Friuli-Venezia Giulia ,4.3,39,35.0,2020
+908,Italia,Blanco,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+909,Italia,Blanco,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+910,Italia,Blanco,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+911,Italia,Blanco,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,871,41.75,2017
+912,Italia,Blanco,La Stoppa,Ageno 2016,Emilia ,4.2,794,32.74,2016
+913,Italia,Blanco,Planeta,Chardonnay 2021,Menfi ,4.2,581,22.9,2021
+914,Italia,Blanco,Quintodecimo,Via del Campo Falanghina 2018,Irpinia ,4.2,309,47.86,2018
+915,Italia,Blanco,Livio Felluga,Pinot Grigio 2021,Colli Orientali del Friuli ,4.2,293,24.8,2021
+916,Italia,Blanco,Benito Ferrara,Vigna Cicogna Greco di Tufo 2021,Greco di Tufo ,4.2,259,24.35,2021
+917,Italia,Blanco,Abbazia di Novacella (Stiftskellerei Neustift),Praepositus Kerner 2020,Südtirol - Alto Adige ,4.2,239,23.45,2020
+918,Italia,Blanco,Colterenzio (Schreckbichl),Pfefferer 2022,Südtirol - Alto Adige ,4.2,104,12.35,2022
+919,Italia,Blanco,Vie di Romans,Dolée 2017,Friuli Isonzo ,4.2,99,26.76,2017
+920,Italia,Blanco,Vigneti Massa,Derthona Montecitorio 2018,Piamonte ,4.2,89,41.0,2018
+921,Italia,Blanco,Frank Cornelissen,MunJebel Classico Bianco 2020,Terre Siciliane ,4.2,77,38.75,2020
+922,Italia,Blanco,Marina Cvetić,Riserva Trebbiano 2020,Trebbiano d'Abruzzo ,4.2,58,35.77,2020
+923,Italia,Blanco,Colterenzio (Schreckbichl),Lafóa Sauvignon 2021,Südtirol - Alto Adige ,4.2,45,29.45,2021
+924,Italia,Blanco,Colle Duga,Sauvignon Collio 2020,Collio ,4.2,37,21.3,2020
+925,Italia,Blanco,Pescaja,Solei Terre Alfieri Arneis 2022,Piamonte ,4.2,29,13.5,2022
+926,Italia,Blanco,Castello di Lispida,Terralba 2017,Véneto ,4.2,28,27.85,2017
+927,Italia,Blanco,Scaia,Bianco (Garganega - Chardonnay) 2021,Véneto ,4.1,1257,12.0,2021
+928,Italia,Blanco,Planeta,Cometa 2019,Menfi ,4.1,820,31.9,2019
+929,Italia,Blanco,Livio Felluga,Sharis 2021,delle Venezie ,4.1,771,18.76,2021
+930,Italia,Blanco,Poggio Al Tesoro,Solosole Vermentino 2020,Bolgheri ,4.1,743,19.9,2020
+931,Italia,Blanco,J. Hofstätter,Joseph Gewürztraminer 2020,Südtirol - Alto Adige ,4.1,698,22.94,2020
+932,Italia,Blanco,Cabreo,La Pietra Chardonnay 2018,Toscana ,4.1,555,36.55,2018
+933,Italia,Blanco,Livio Felluga,Sauvignon 2020,Colli Orientali del Friuli ,4.1,463,24.8,2020
+934,Italia,Blanco,La Tunella,Sauvignon 2021,Colli Orientali del Friuli ,4.1,428,15.9,2021
+935,Italia,Blanco,Vie di Romans,Flors di Uis 2017,Friuli Isonzo ,4.1,318,26.37,2017
+936,Italia,Blanco,Fina,Taif 2021,Terre Siciliane ,4.1,215,10.9,2021
+937,Italia,Blanco,Albino Armani,Pinot Grigio Friuli Grave 2021,Friuli Grave ,4.1,193,9.7,2021
+938,Italia,Blanco,Damijan Podversic,Kaplja 2017,Friuli-Venezia Giulia ,4.1,95,35.5,2017
+939,Italia,Blanco,Il Colombaio di Santachiara,Campo della Pieve Vernaccia di San Gimignano 2019,Vernaccia di San Gimignano ,4.1,84,27.3,2019
+940,Italia,Blanco,Cascina Degli Ulivi,Ivag Bianco 2020,Piamonte ,4.1,84,22.3,2020
+941,Italia,Blanco,Tornatore,Pietrarizzo Etna Bianco 2021,Etna ,4.1,79,23.0,2021
+942,Italia,Blanco,Franz Haas,Sauvignon 2020,Südtirol - Alto Adige ,4.1,64,26.75,2020
+943,Italia,Blanco,Denavolo Rivergaro,Dinavolino Bianco 2021,Emilia-Romagna ,4.1,63,21.3,2021
+944,Italia,Blanco,Marco de Bartoli,Integer Grillo 2020,Sicilia ,4.1,49,30.55,2020
+945,Italia,Blanco,Franco M. Martinetti,Minaia Gavi 2013,Gavi ,4.1,42,28.15,2013
+946,Italia,Blanco,Vietti,Arneis Roero 2020,Roero ,4.0,1380,16.0,2020
+947,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2020,Terre Siciliane ,4.0,817,22.95,2020
+948,Italia,Blanco,Ceretto,Arneis Langhe Blange 2021,Langhe ,4.0,800,22.99,2021
+949,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2020,Verdicchio dei Castelli di Jesi ,4.0,752,18.6,2020
+950,Italia,Blanco,Villa Sparina,Gavi 2021,Gavi ,4.0,736,15.75,2021
+951,Italia,Blanco,Tombacco,Pecorino Terre di Chieti 2020,Terre di Chieti ,4.0,625,8.41,2020
+952,Italia,Blanco,Occhipinti,Sicilia SP68 Bianco 2021,Terre Siciliane ,4.0,480,22.4,2021
+953,Italia,Blanco,Jermann,Chardonnay 2021,Venezia Giulia ,4.0,420,23.45,2021
+954,Italia,Blanco,Bucci,Bucci Verdicchio dei Castelli di Jesi Classico Superiore 2021,Verdicchio dei Castelli di Jesi ,4.0,409,23.92,2021
+955,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2021,Greco di Tufo ,4.0,404,14.5,2021
+956,Italia,Blanco,Livio Felluga,Friulano 2020,Colli Orientali del Friuli ,4.0,367,24.0,2020
+957,Italia,Blanco,Tornatore,Etna Bianco 2021,Etna ,4.0,366,16.5,2021
+958,Italia,Blanco,Suavia,Monte Carbonare 2020,Soave Classico ,4.0,290,18.45,2020
+959,Italia,Blanco,Fina,Kebrilla Grillo 2021,Terre Siciliane ,4.0,270,9.7,2021
+960,Italia,Blanco,Livio Felluga,Friulano 2021,Colli Orientali del Friuli ,4.0,247,25.85,2021
+961,Italia,Blanco,Bottega,Pinot Grigio delle Venezie 2020,delle Venezie ,4.0,218,8.64,2020
+962,Italia,Blanco,Feudi di San Gregorio,Fiano Di Avellino Pietracalda 2021,Fiano de Avellino ,4.0,201,17.15,2021
+963,Italia,Blanco,Pala,Soprasole 2021,Cerdeña ,4.0,194,12.35,2021
+964,Italia,Blanco,Les Crêtes,Petite Arvine 2021,Valle d'Aosta ,4.0,168,17.15,2021
+965,Italia,Blanco,Bottega Vinai,Gewürztraminer 2020,Trentino ,4.0,167,11.5,2020
+966,Italia,Blanco,Gulfi,Carjcanti Bianco 2018,Terre Siciliane ,4.0,148,26.1,2018
+967,Italia,Blanco,Livio Felluga,Sauvignon 2021,Colli Orientali del Friuli ,4.0,139,23.5,2021
+968,Italia,Blanco,Ca' Lojera,Lugana Riserva del Lupo 2018,Lugana ,4.0,139,25.6,2018
+969,Italia,Blanco,Torre dei Beati,Giocheremo Con i Fiori Pecorino 2021,Abruzos ,4.0,122,13.05,2021
+970,Italia,Blanco,Vigneti Massa,Derthona 2021,Piamonte ,4.0,106,20.75,2021
+971,Italia,Blanco,Villa Corniole,Pietramontis Pinot Grigio Ramato 2019,Trentino ,4.0,84,16.09,2019
+972,Italia,Blanco,Tramin,Müller Thurgau 2021,Südtirol - Alto Adige ,4.0,84,12.4,2021
+973,Italia,Blanco,Les Crêtes,Fleur Petite Arvine 2020,Valle d'Aosta ,4.0,73,27.7,2020
+974,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2022,Toscana ,4.0,61,11.3,2022
+975,Italia,Blanco,Marisa Cuomo,Costa d'Amalfi Bianco 2020,Costa d'Amalfi ,4.0,61,21.7,2020
+976,Italia,Blanco,Skerlj,Malvasia 2019,Carso ,4.0,57,28.9,2019
+977,Italia,Blanco,Selva Capuzza,Campo del Soglio San Martino della Battaglia 2019,San Martino della Battaglia ,4.0,54,18.9,2019
+978,Italia,Blanco,Eduardo Torres Acosta,Versante Nord Bianco 2021,Terre Siciliane ,4.0,48,22.95,2021
+979,Italia,Blanco,Tenuta Meraviglia,Dievole Vermentino 2021,Bolgheri ,4.0,47,14.9,2021
+980,Italia,Blanco,Skerlj,Malvasia 2018,Carso ,4.0,44,28.9,2018
+981,Italia,Blanco,Feudo Montoni,Inzolia dei Fornelli 2021,Sicilia ,4.0,43,13.55,2021
+982,Italia,Blanco,Colterenzio (Schreckbichl),Sand Moscato Giallo 2021,Südtirol - Alto Adige ,4.0,33,15.35,2021
+983,Italia,Blanco,Marina Cvetić,Chardonnay 2020,Colline Teatine ,4.0,31,29.75,2020
+984,Italia,Blanco,Tiefenbrunner,Merus Pinot Bianco (Weissburgunder) 2021,Trentino-Alto Adige ,4.0,29,13.5,2021
+985,Italia,Blanco,Poggio,L'Archetipo Colli Tortonesi Terre di Libarna Timorasso 2019,Colli Tortonesi ,4.0,29,16.0,2019
+986,Italia,Blanco,Marco Felluga,Russiz Superiore Sauvignon Collio 2021,Collio ,4.0,26,20.3,2021
+987,Italia,Blanco,Santa Margherita,Pinot Grigio Valdadige 2021,Valdadige ,3.9,3342,11.0,2021
+988,Italia,Blanco,Antinori,Villa Antinori Toscana Bianco 2021,Toscana ,3.9,1750,11.5,2021
+989,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2020,Greco di Tufo ,3.9,1393,18.59,2020
+990,Italia,Blanco,Pieropan,Soave Classico 2021,Soave Classico ,3.9,873,13.55,2021
+991,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo 2021,Greco di Tufo ,3.9,813,11.5,2021
+992,Italia,Blanco,La Scolca,Gavi Valentino 2019,Gavi ,3.9,783,11.3,2019
+993,Italia,Blanco,Feudi di San Gregorio,Falanghina 2021,Falanghina del Sannio ,3.9,670,10.0,2021
+994,Italia,Blanco,Dilé,Moscato N.V.,Piamonte ,3.9,612,7.95,N.V.
+995,Italia,Blanco,Feudi di San Gregorio,Greco Di Tufo Cutizzi 2020,Greco di Tufo ,3.9,514,22.44,2020
+996,Italia,Blanco,Argiolas,Costamolino Vermentino di Sardegna 2021,Vermentino di Sardegna ,3.9,427,13.5,2021
+997,Italia,Blanco,Punica,Samas 2018,Isola dei Nuraghi ,3.9,328,16.9,2018
+998,Italia,Blanco,Della Staffa,Litrò Bianco 2019,Umbria ,3.9,292,14.95,2019
+999,Italia,Blanco,Vino di Anna,Palmento Bianco 2018,Terre Siciliane ,3.9,264,16.8,2018

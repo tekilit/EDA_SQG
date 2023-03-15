@@ -1,0 +1,1001 @@
+,Pais,Tipo,Bodegas,Nombre y año,Región,Rating,Valoraciones,Precio,Año
+0,España,Blanco,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+1,España,Blanco,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+2,España,Blanco,Enate,Chardonnay Uno 2011,Somontano ,4.5,99,200.13,2011
+3,España,Blanco,Francisco Garcia Perez,Adega do Moucho Treixadura 2017,Ribeiro ,4.5,70,47.5,2017
+4,España,Blanco,Attis,Mar Albariño 2020,Rías Baixas ,4.5,50,88.2,2020
+5,España,Blanco,Pazo Barrantes,Gran Vino Albariño 2019,Rías Baixas ,4.4,931,33.9,2019
+6,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2019,Sardón de Duero ,4.4,425,34.2,2019
+7,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2020,Valdeorras ,4.4,373,55.0,2020
+8,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2020,Sardón de Duero ,4.4,339,34.3,2020
+9,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2017,Rioja ,4.4,232,48.67,2017
+10,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2017,Navarra ,4.4,230,59.9,2017
+11,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2015,Rías Baixas ,4.4,204,34.95,2015
+12,España,Blanco,Bodegas Mauro,Godello Blanco 2019,Bierzo ,4.4,160,86.63,2019
+13,España,Blanco,Hacienda López de Haro,Gran Reserva Classica Blanco 2012,Rioja ,4.4,121,44.9,2012
+14,España,Blanco,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2017,Ribeiro ,4.4,93,41.25,2017
+15,España,Blanco,Ossian,Capitel 2019,Castilla y León ,4.4,80,59.12,2019
+16,España,Blanco,Belondrade,Belondrade y Lurton 2021,Rueda ,4.4,57,44.5,2021
+17,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albariño 2021,Rías Baixas ,4.4,48,29.0,2021
+18,España,Blanco,Familia Torres,Forcada 2017,Penedès ,4.4,47,69.0,2017
+19,España,Blanco,Ordóñez,Nisia Las Suertes Verdejo Old Vines 2021,Rueda ,4.4,43,21.5,2021
+20,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2021,Sardón de Duero ,4.4,39,34.2,2021
+21,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2021,Valdeorras ,4.4,32,57.8,2021
+22,España,Blanco,Altavins,Selecció Garnatxa Blanca 2017,Terra Alta ,4.4,27,32.5,2017
+23,España,Blanco,Ossian,Viñas Viejas Verdejo 2016,Castilla y León ,4.3,1247,49.0,2016
+24,España,Blanco,Ossian,Viñas Viejas Verdejo 2018,Castilla y León ,4.3,1051,36.0,2018
+25,España,Blanco,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+26,España,Blanco,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+27,España,Blanco,Enate,Chardonnay Uno 2011,Somontano ,4.5,99,200.13,2011
+28,España,Blanco,Francisco Garcia Perez,Adega do Moucho Treixadura 2017,Ribeiro ,4.5,70,47.5,2017
+29,España,Blanco,Attis,Mar Albariño 2020,Rías Baixas ,4.5,50,88.2,2020
+30,España,Blanco,Pazo Barrantes,Gran Vino Albariño 2019,Rías Baixas ,4.4,931,33.9,2019
+31,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2019,Sardón de Duero ,4.4,425,34.2,2019
+32,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2020,Valdeorras ,4.4,373,55.0,2020
+33,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2020,Sardón de Duero ,4.4,339,34.3,2020
+34,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2017,Rioja ,4.4,232,48.67,2017
+35,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2017,Navarra ,4.4,230,59.9,2017
+36,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2015,Rías Baixas ,4.4,204,34.95,2015
+37,España,Blanco,Bodegas Mauro,Godello Blanco 2019,Bierzo ,4.4,160,86.63,2019
+38,España,Blanco,Hacienda López de Haro,Gran Reserva Classica Blanco 2012,Rioja ,4.4,121,44.9,2012
+39,España,Blanco,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2017,Ribeiro ,4.4,93,41.25,2017
+40,España,Blanco,Ossian,Capitel 2019,Castilla y León ,4.4,80,59.12,2019
+41,España,Blanco,Belondrade,Belondrade y Lurton 2021,Rueda ,4.4,57,44.5,2021
+42,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albariño 2021,Rías Baixas ,4.4,48,29.0,2021
+43,España,Blanco,Familia Torres,Forcada 2017,Penedès ,4.4,47,69.0,2017
+44,España,Blanco,Ordóñez,Nisia Las Suertes Verdejo Old Vines 2021,Rueda ,4.4,43,21.5,2021
+45,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2021,Sardón de Duero ,4.4,39,34.2,2021
+46,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2021,Valdeorras ,4.4,32,57.8,2021
+47,España,Blanco,Altavins,Selecció Garnatxa Blanca 2017,Terra Alta ,4.4,27,32.5,2017
+48,España,Blanco,Ossian,Viñas Viejas Verdejo 2016,Castilla y León ,4.3,1247,49.0,2016
+49,España,Blanco,Ossian,Viñas Viejas Verdejo 2018,Castilla y León ,4.3,1051,36.0,2018
+50,España,Blanco,Ossian,Viñas Viejas Verdejo 2019,Castilla y León ,4.3,863,39.9,2019
+51,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2016,Rioja ,4.3,774,57.0,2016
+52,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2020,Somontano ,4.3,635,17.23,2020
+53,España,Blanco,Dominio do Bibei,Lapola 2019,Ribeira Sacra ,4.3,548,22.76,2019
+54,España,Blanco,Ossian,Viñas Viejas Verdejo 2017,Castilla y León ,4.3,477,42.0,2017
+55,España,Blanco,Emilio Moro,La Revelía Godello 2019,Bierzo ,4.3,368,22.9,2019
+56,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2018,Sardón de Duero ,4.3,367,39.4,2018
+57,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2014,Sardón de Duero ,4.3,189,123.82,2014
+58,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2019,Castilla ,4.3,183,24.33,2019
+59,España,Blanco,Alonso & Pedrajo,Suañé Blanco 2017,Rioja ,4.3,153,24.8,2017
+60,España,Blanco,Remelluri,Rioja Blanco 2015,Rioja ,4.3,153,60.25,2015
+61,España,Blanco,Castell d'Encus,Ekam Essència 2019,Costers del Segre ,4.3,137,43.44,2019
+62,España,Blanco,Naia,Naiades 2018,Rueda ,4.3,111,19.25,2018
+63,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2017,Rías Baixas ,4.3,98,25.31,2017
+64,España,Blanco,Avancia,Godello 2021,Valdeorras ,4.3,82,51.99,2021
+65,España,Blanco,Cillar de Silos,Dominio del Pidio Albillo 2020,Ribera del Duero ,4.3,73,46.75,2020
+66,España,Blanco,Can Ràfols dels Caus,El Rocallís 2017,Cataluña ,4.3,71,40.99,2017
+67,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2019,Navarra ,4.3,67,54.0,2019
+68,España,Blanco,Compañía de Vinos Tricó,Nicolás Albariño 2018,Rías Baixas ,4.3,63,21.95,2018
+69,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2016,Castilla y León ,4.3,63,48.45,2016
+70,España,Blanco,VALENCISO,Rioja Blanco 2021,Rioja ,4.3,60,17.95,2021
+71,España,Blanco,Bodega Aida i Luis,Tahúlla Moscatel Blanco Seco 2018,Alicante ,4.3,56,11.95,2018
+72,España,Blanco,Pujanza,Rioja Añadas Frías 2016,Rioja ,4.3,54,161.15,2016
+73,España,Blanco,Bodega Sommos,Coleccion Chardonnay 2020,Somontano ,4.3,52,26.65,2020
+74,España,Blanco,Cellers Grifoll Declara,Gran Predicat Blanc 2018,Priorato ,4.3,51,26.75,2018
+75,España,Blanco,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+76,España,Blanco,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+77,España,Blanco,Enate,Chardonnay Uno 2011,Somontano ,4.5,99,200.13,2011
+78,España,Blanco,Francisco Garcia Perez,Adega do Moucho Treixadura 2017,Ribeiro ,4.5,70,47.5,2017
+79,España,Blanco,Attis,Mar Albariño 2020,Rías Baixas ,4.5,50,88.2,2020
+80,España,Blanco,Pazo Barrantes,Gran Vino Albariño 2019,Rías Baixas ,4.4,931,33.9,2019
+81,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2019,Sardón de Duero ,4.4,425,34.2,2019
+82,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2020,Valdeorras ,4.4,373,55.0,2020
+83,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2020,Sardón de Duero ,4.4,339,34.3,2020
+84,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2017,Rioja ,4.4,232,48.67,2017
+85,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2017,Navarra ,4.4,230,59.9,2017
+86,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2015,Rías Baixas ,4.4,204,34.95,2015
+87,España,Blanco,Bodegas Mauro,Godello Blanco 2019,Bierzo ,4.4,160,86.63,2019
+88,España,Blanco,Hacienda López de Haro,Gran Reserva Classica Blanco 2012,Rioja ,4.4,121,44.9,2012
+89,España,Blanco,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2017,Ribeiro ,4.4,93,41.25,2017
+90,España,Blanco,Ossian,Capitel 2019,Castilla y León ,4.4,80,59.12,2019
+91,España,Blanco,Belondrade,Belondrade y Lurton 2021,Rueda ,4.4,57,44.5,2021
+92,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albariño 2021,Rías Baixas ,4.4,48,29.0,2021
+93,España,Blanco,Familia Torres,Forcada 2017,Penedès ,4.4,47,69.0,2017
+94,España,Blanco,Ordóñez,Nisia Las Suertes Verdejo Old Vines 2021,Rueda ,4.4,43,21.5,2021
+95,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2021,Sardón de Duero ,4.4,39,34.2,2021
+96,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2021,Valdeorras ,4.4,32,57.8,2021
+97,España,Blanco,Altavins,Selecció Garnatxa Blanca 2017,Terra Alta ,4.4,27,32.5,2017
+98,España,Blanco,Ossian,Viñas Viejas Verdejo 2016,Castilla y León ,4.3,1247,49.0,2016
+99,España,Blanco,Ossian,Viñas Viejas Verdejo 2018,Castilla y León ,4.3,1051,36.0,2018
+100,España,Blanco,Ossian,Viñas Viejas Verdejo 2019,Castilla y León ,4.3,863,39.9,2019
+101,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2016,Rioja ,4.3,774,57.0,2016
+102,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2020,Somontano ,4.3,635,17.23,2020
+103,España,Blanco,Dominio do Bibei,Lapola 2019,Ribeira Sacra ,4.3,548,22.76,2019
+104,España,Blanco,Ossian,Viñas Viejas Verdejo 2017,Castilla y León ,4.3,477,42.0,2017
+105,España,Blanco,Emilio Moro,La Revelía Godello 2019,Bierzo ,4.3,368,22.9,2019
+106,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2018,Sardón de Duero ,4.3,367,39.4,2018
+107,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2014,Sardón de Duero ,4.3,189,123.82,2014
+108,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2019,Castilla ,4.3,183,24.33,2019
+109,España,Blanco,Alonso & Pedrajo,Suañé Blanco 2017,Rioja ,4.3,153,24.8,2017
+110,España,Blanco,Remelluri,Rioja Blanco 2015,Rioja ,4.3,153,60.25,2015
+111,España,Blanco,Castell d'Encus,Ekam Essència 2019,Costers del Segre ,4.3,137,43.44,2019
+112,España,Blanco,Naia,Naiades 2018,Rueda ,4.3,111,19.25,2018
+113,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2017,Rías Baixas ,4.3,98,25.31,2017
+114,España,Blanco,Avancia,Godello 2021,Valdeorras ,4.3,82,51.99,2021
+115,España,Blanco,Cillar de Silos,Dominio del Pidio Albillo 2020,Ribera del Duero ,4.3,73,46.75,2020
+116,España,Blanco,Can Ràfols dels Caus,El Rocallís 2017,Cataluña ,4.3,71,40.99,2017
+117,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2019,Navarra ,4.3,67,54.0,2019
+118,España,Blanco,Compañía de Vinos Tricó,Nicolás Albariño 2018,Rías Baixas ,4.3,63,21.95,2018
+119,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2016,Castilla y León ,4.3,63,48.45,2016
+120,España,Blanco,VALENCISO,Rioja Blanco 2021,Rioja ,4.3,60,17.95,2021
+121,España,Blanco,Bodega Aida i Luis,Tahúlla Moscatel Blanco Seco 2018,Alicante ,4.3,56,11.95,2018
+122,España,Blanco,Pujanza,Rioja Añadas Frías 2016,Rioja ,4.3,54,161.15,2016
+123,España,Blanco,Bodega Sommos,Coleccion Chardonnay 2020,Somontano ,4.3,52,26.65,2020
+124,España,Blanco,Cellers Grifoll Declara,Gran Predicat Blanc 2018,Priorato ,4.3,51,26.75,2018
+125,España,Blanco,Castell d'Encus,Taleia 2019,Costers del Segre ,4.3,47,26.32,2019
+126,España,Blanco,Gómez Cruzado,Montes Obarenes Selección Terroir 2019,Rioja ,4.3,46,41.9,2019
+127,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2015,Castilla y León ,4.3,44,92.0,2015
+128,España,Blanco,Vulcano de Lanzarote,Malvasía Volcánica Seco 2022,Lanzarote ,4.3,44,26.45,2022
+129,España,Blanco,Bodegas Mauro,Godello Blanco 2021,Bierzo ,4.3,42,40.9,2021
+130,España,Blanco,Lagar de Sabariz,A Pita Cega 2015,Galicia ,4.3,41,44.8,2015
+131,España,Blanco,Remelluri,Rioja Blanco 2019,Rioja ,4.3,40,59.0,2019
+132,España,Blanco,Castro Candaz,La Vertical 2020,Ribeira Sacra ,4.3,38,21.9,2020
+133,España,Blanco,Muga,Flor de Muga Blanco 2019,Rioja ,4.3,38,30.0,2019
+134,España,Blanco,Oxer Wines,Iraun Rioja 2021,Rioja ,4.3,37,31.3,2021
+135,España,Blanco,Bodegas San Román,Malvasia 2019,Castilla ,4.3,37,39.4,2019
+136,España,Blanco,Bodegas El Paraguas,La Sombrilla 2018,Ribeiro ,4.3,35,36.5,2018
+137,España,Blanco,Abel Mendoza Monge,Viura 2020,Rioja ,4.3,34,26.75,2020
+138,España,Blanco,Mas d'en Gil,Coma Blanca Priorat 2017,Priorato ,4.3,33,40.52,2017
+139,España,Blanco,Matarromera,Verdejo Fermentado en Barrica 2018,Rueda ,4.3,31,24.9,2018
+140,España,Blanco,Pazo de Rubianes,1411 Albariño 2020,Rías Baixas ,4.3,28,31.08,2020
+141,España,Blanco,Pazo Señorans,Sol de Señorans Albariño Barrica 2012,Rías Baixas ,4.3,27,45.0,2012
+142,España,Blanco,Quinta da Muradella,Origen-02 2015,Monterrei ,4.3,27,31.1,2015
+143,España,Blanco,San Cobate,Branco 2018,Rueda ,4.3,26,18.45,2018
+144,España,Blanco,Bodegas Luis Perez,Palma Cortada La Barajuela 2017,Jerez-Xérès-Sherry ,4.3,26,58.5,2017
+145,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2021,Rías Baixas ,4.2,3330,15.5,2021
+146,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2015,Rioja ,4.2,1383,65.35,2015
+147,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello 2021,Valdeorras ,4.2,1273,10.9,2021
+148,España,Blanco,Gramona,Gessamí 2021,Penedès ,4.2,1096,12.2,2021
+149,España,Blanco,Rafael Palacios,Louro Godello 2021,Valdeorras ,4.2,1043,17.9,2021
+150,España,Blanco,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+151,España,Blanco,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+152,España,Blanco,Enate,Chardonnay Uno 2011,Somontano ,4.5,99,200.13,2011
+153,España,Blanco,Francisco Garcia Perez,Adega do Moucho Treixadura 2017,Ribeiro ,4.5,70,47.5,2017
+154,España,Blanco,Attis,Mar Albariño 2020,Rías Baixas ,4.5,50,88.2,2020
+155,España,Blanco,Pazo Barrantes,Gran Vino Albariño 2019,Rías Baixas ,4.4,931,33.9,2019
+156,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2019,Sardón de Duero ,4.4,425,34.2,2019
+157,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2020,Valdeorras ,4.4,373,55.0,2020
+158,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2020,Sardón de Duero ,4.4,339,34.3,2020
+159,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2017,Rioja ,4.4,232,48.67,2017
+160,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2017,Navarra ,4.4,230,59.9,2017
+161,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2015,Rías Baixas ,4.4,204,34.95,2015
+162,España,Blanco,Bodegas Mauro,Godello Blanco 2019,Bierzo ,4.4,160,86.63,2019
+163,España,Blanco,Hacienda López de Haro,Gran Reserva Classica Blanco 2012,Rioja ,4.4,121,44.9,2012
+164,España,Blanco,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2017,Ribeiro ,4.4,93,41.25,2017
+165,España,Blanco,Ossian,Capitel 2019,Castilla y León ,4.4,80,59.12,2019
+166,España,Blanco,Belondrade,Belondrade y Lurton 2021,Rueda ,4.4,57,44.5,2021
+167,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albariño 2021,Rías Baixas ,4.4,48,29.0,2021
+168,España,Blanco,Familia Torres,Forcada 2017,Penedès ,4.4,47,69.0,2017
+169,España,Blanco,Ordóñez,Nisia Las Suertes Verdejo Old Vines 2021,Rueda ,4.4,43,21.5,2021
+170,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2021,Sardón de Duero ,4.4,39,34.2,2021
+171,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2021,Valdeorras ,4.4,32,57.8,2021
+172,España,Blanco,Altavins,Selecció Garnatxa Blanca 2017,Terra Alta ,4.4,27,32.5,2017
+173,España,Blanco,Ossian,Viñas Viejas Verdejo 2016,Castilla y León ,4.3,1247,49.0,2016
+174,España,Blanco,Ossian,Viñas Viejas Verdejo 2018,Castilla y León ,4.3,1051,36.0,2018
+175,España,Blanco,Ossian,Viñas Viejas Verdejo 2019,Castilla y León ,4.3,863,39.9,2019
+176,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2016,Rioja ,4.3,774,57.0,2016
+177,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2020,Somontano ,4.3,635,17.23,2020
+178,España,Blanco,Dominio do Bibei,Lapola 2019,Ribeira Sacra ,4.3,548,22.76,2019
+179,España,Blanco,Ossian,Viñas Viejas Verdejo 2017,Castilla y León ,4.3,477,42.0,2017
+180,España,Blanco,Emilio Moro,La Revelía Godello 2019,Bierzo ,4.3,368,22.9,2019
+181,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2018,Sardón de Duero ,4.3,367,39.4,2018
+182,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2014,Sardón de Duero ,4.3,189,123.82,2014
+183,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2019,Castilla ,4.3,183,24.33,2019
+184,España,Blanco,Alonso & Pedrajo,Suañé Blanco 2017,Rioja ,4.3,153,24.8,2017
+185,España,Blanco,Remelluri,Rioja Blanco 2015,Rioja ,4.3,153,60.25,2015
+186,España,Blanco,Castell d'Encus,Ekam Essència 2019,Costers del Segre ,4.3,137,43.44,2019
+187,España,Blanco,Naia,Naiades 2018,Rueda ,4.3,111,19.25,2018
+188,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2017,Rías Baixas ,4.3,98,25.31,2017
+189,España,Blanco,Avancia,Godello 2021,Valdeorras ,4.3,82,51.99,2021
+190,España,Blanco,Cillar de Silos,Dominio del Pidio Albillo 2020,Ribera del Duero ,4.3,73,46.75,2020
+191,España,Blanco,Can Ràfols dels Caus,El Rocallís 2017,Cataluña ,4.3,71,40.99,2017
+192,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2019,Navarra ,4.3,67,54.0,2019
+193,España,Blanco,Compañía de Vinos Tricó,Nicolás Albariño 2018,Rías Baixas ,4.3,63,21.95,2018
+194,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2016,Castilla y León ,4.3,63,48.45,2016
+195,España,Blanco,VALENCISO,Rioja Blanco 2021,Rioja ,4.3,60,17.95,2021
+196,España,Blanco,Bodega Aida i Luis,Tahúlla Moscatel Blanco Seco 2018,Alicante ,4.3,56,11.95,2018
+197,España,Blanco,Pujanza,Rioja Añadas Frías 2016,Rioja ,4.3,54,161.15,2016
+198,España,Blanco,Bodega Sommos,Coleccion Chardonnay 2020,Somontano ,4.3,52,26.65,2020
+199,España,Blanco,Cellers Grifoll Declara,Gran Predicat Blanc 2018,Priorato ,4.3,51,26.75,2018
+200,España,Blanco,Castell d'Encus,Taleia 2019,Costers del Segre ,4.3,47,26.32,2019
+201,España,Blanco,Gómez Cruzado,Montes Obarenes Selección Terroir 2019,Rioja ,4.3,46,41.9,2019
+202,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2015,Castilla y León ,4.3,44,92.0,2015
+203,España,Blanco,Vulcano de Lanzarote,Malvasía Volcánica Seco 2022,Lanzarote ,4.3,44,26.45,2022
+204,España,Blanco,Bodegas Mauro,Godello Blanco 2021,Bierzo ,4.3,42,40.9,2021
+205,España,Blanco,Lagar de Sabariz,A Pita Cega 2015,Galicia ,4.3,41,44.8,2015
+206,España,Blanco,Remelluri,Rioja Blanco 2019,Rioja ,4.3,40,59.0,2019
+207,España,Blanco,Castro Candaz,La Vertical 2020,Ribeira Sacra ,4.3,38,21.9,2020
+208,España,Blanco,Muga,Flor de Muga Blanco 2019,Rioja ,4.3,38,30.0,2019
+209,España,Blanco,Oxer Wines,Iraun Rioja 2021,Rioja ,4.3,37,31.3,2021
+210,España,Blanco,Bodegas San Román,Malvasia 2019,Castilla ,4.3,37,39.4,2019
+211,España,Blanco,Bodegas El Paraguas,La Sombrilla 2018,Ribeiro ,4.3,35,36.5,2018
+212,España,Blanco,Abel Mendoza Monge,Viura 2020,Rioja ,4.3,34,26.75,2020
+213,España,Blanco,Mas d'en Gil,Coma Blanca Priorat 2017,Priorato ,4.3,33,40.52,2017
+214,España,Blanco,Matarromera,Verdejo Fermentado en Barrica 2018,Rueda ,4.3,31,24.9,2018
+215,España,Blanco,Pazo de Rubianes,1411 Albariño 2020,Rías Baixas ,4.3,28,31.08,2020
+216,España,Blanco,Pazo Señorans,Sol de Señorans Albariño Barrica 2012,Rías Baixas ,4.3,27,45.0,2012
+217,España,Blanco,Quinta da Muradella,Origen-02 2015,Monterrei ,4.3,27,31.1,2015
+218,España,Blanco,San Cobate,Branco 2018,Rueda ,4.3,26,18.45,2018
+219,España,Blanco,Bodegas Luis Perez,Palma Cortada La Barajuela 2017,Jerez-Xérès-Sherry ,4.3,26,58.5,2017
+220,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2021,Rías Baixas ,4.2,3330,15.5,2021
+221,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2015,Rioja ,4.2,1383,65.35,2015
+222,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello 2021,Valdeorras ,4.2,1273,10.9,2021
+223,España,Blanco,Gramona,Gessamí 2021,Penedès ,4.2,1096,12.2,2021
+224,España,Blanco,Rafael Palacios,Louro Godello 2021,Valdeorras ,4.2,1043,17.9,2021
+225,España,Blanco,José Pariente,Sauvignon Blanc 2021,Rueda ,4.2,732,8.9,2021
+226,España,Blanco,Attis,Albariño Lías Finas 2021,Rías Baixas ,4.2,638,15.4,2021
+227,España,Blanco,Emilio Moro,La Revelía Godello 2018,Bierzo ,4.2,619,21.95,2018
+228,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2015,Rías Baixas ,4.2,429,26.9,2015
+229,España,Blanco,Viñedos y Bodegas Muñoz,Blas Muñoz Chardonnay 2021,Castilla ,4.2,376,12.8,2021
+230,España,Blanco,Pazo de Rubianes,Albariño 2021,Rías Baixas ,4.2,291,16.2,2021
+231,España,Blanco,Tomás Postigo,Fermentado En Barrica Blanco 2018,Castilla y León ,4.2,288,21.2,2018
+232,España,Blanco,Paco & Lola,Vintage Albariño 2015,Rías Baixas ,4.2,276,27.59,2015
+233,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2021,Somontano ,4.2,259,18.25,2021
+234,España,Blanco,Pago Casa Gran,Falcata Blanco 2021,Valencia ,4.2,257,10.0,2021
+235,España,Blanco,Vinos Sanz,Finca La Colina Sauvignon Blanc 2021,Rueda ,4.2,233,13.85,2021
+236,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2022,Rías Baixas ,4.2,221,13.3,2022
+237,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2019,Valdeorras ,4.2,217,18.9,2019
+238,España,Blanco,Bodegas Mauro,Godello Blanco 2018,Bierzo ,4.2,189,44.95,2018
+239,España,Blanco,Conreria d'Scala Dei,Les Brugueres Blanc 2021,Priorato ,4.2,175,17.99,2021
+240,España,Blanco,Clos Mogador,Nelin Priorat 2018,Priorato ,4.2,161,46.9,2018
+241,España,Blanco,Castell d'Encus,Ekam Essència 2018,Costers del Segre ,4.2,155,45.94,2018
+242,España,Blanco,Gramona,Gessamí 2022,Penedès ,4.2,154,11.39,2022
+243,España,Blanco,Mustiguillo,Finca Calvestra Merseguera 2020,Vino de España ,4.2,153,17.9,2020
+244,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2021,Valdeorras ,4.2,150,18.45,2021
+245,España,Blanco,Familia Torres,Fransola 2021,Penedès ,4.2,146,26.93,2021
+246,España,Blanco,Caraballas,Verdejo Organic 2021,Castilla y León ,4.2,143,12.9,2021
+247,España,Blanco,Yllera,Meraldis Verdejo 2018,Rueda ,4.2,140,22.4,2018
+248,España,Blanco,Edetària,Selecció Blanca 2016,Terra Alta ,4.2,140,50.75,2016
+249,España,Blanco,Godeval,Cepas Vellas Godello 2021,Valdeorras ,4.2,135,19.43,2021
+250,España,Blanco,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+251,España,Blanco,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+252,España,Blanco,Enate,Chardonnay Uno 2011,Somontano ,4.5,99,200.13,2011
+253,España,Blanco,Francisco Garcia Perez,Adega do Moucho Treixadura 2017,Ribeiro ,4.5,70,47.5,2017
+254,España,Blanco,Attis,Mar Albariño 2020,Rías Baixas ,4.5,50,88.2,2020
+255,España,Blanco,Pazo Barrantes,Gran Vino Albariño 2019,Rías Baixas ,4.4,931,33.9,2019
+256,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2019,Sardón de Duero ,4.4,425,34.2,2019
+257,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2020,Valdeorras ,4.4,373,55.0,2020
+258,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2020,Sardón de Duero ,4.4,339,34.3,2020
+259,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2017,Rioja ,4.4,232,48.67,2017
+260,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2017,Navarra ,4.4,230,59.9,2017
+261,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2015,Rías Baixas ,4.4,204,34.95,2015
+262,España,Blanco,Bodegas Mauro,Godello Blanco 2019,Bierzo ,4.4,160,86.63,2019
+263,España,Blanco,Hacienda López de Haro,Gran Reserva Classica Blanco 2012,Rioja ,4.4,121,44.9,2012
+264,España,Blanco,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2017,Ribeiro ,4.4,93,41.25,2017
+265,España,Blanco,Ossian,Capitel 2019,Castilla y León ,4.4,80,59.12,2019
+266,España,Blanco,Belondrade,Belondrade y Lurton 2021,Rueda ,4.4,57,44.5,2021
+267,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albariño 2021,Rías Baixas ,4.4,48,29.0,2021
+268,España,Blanco,Familia Torres,Forcada 2017,Penedès ,4.4,47,69.0,2017
+269,España,Blanco,Ordóñez,Nisia Las Suertes Verdejo Old Vines 2021,Rueda ,4.4,43,21.5,2021
+270,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2021,Sardón de Duero ,4.4,39,34.2,2021
+271,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2021,Valdeorras ,4.4,32,57.8,2021
+272,España,Blanco,Altavins,Selecció Garnatxa Blanca 2017,Terra Alta ,4.4,27,32.5,2017
+273,España,Blanco,Ossian,Viñas Viejas Verdejo 2016,Castilla y León ,4.3,1247,49.0,2016
+274,España,Blanco,Ossian,Viñas Viejas Verdejo 2018,Castilla y León ,4.3,1051,36.0,2018
+275,España,Blanco,Ossian,Viñas Viejas Verdejo 2019,Castilla y León ,4.3,863,39.9,2019
+276,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2016,Rioja ,4.3,774,57.0,2016
+277,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2020,Somontano ,4.3,635,17.23,2020
+278,España,Blanco,Dominio do Bibei,Lapola 2019,Ribeira Sacra ,4.3,548,22.76,2019
+279,España,Blanco,Ossian,Viñas Viejas Verdejo 2017,Castilla y León ,4.3,477,42.0,2017
+280,España,Blanco,Emilio Moro,La Revelía Godello 2019,Bierzo ,4.3,368,22.9,2019
+281,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2018,Sardón de Duero ,4.3,367,39.4,2018
+282,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2014,Sardón de Duero ,4.3,189,123.82,2014
+283,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2019,Castilla ,4.3,183,24.33,2019
+284,España,Blanco,Alonso & Pedrajo,Suañé Blanco 2017,Rioja ,4.3,153,24.8,2017
+285,España,Blanco,Remelluri,Rioja Blanco 2015,Rioja ,4.3,153,60.25,2015
+286,España,Blanco,Castell d'Encus,Ekam Essència 2019,Costers del Segre ,4.3,137,43.44,2019
+287,España,Blanco,Naia,Naiades 2018,Rueda ,4.3,111,19.25,2018
+288,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2017,Rías Baixas ,4.3,98,25.31,2017
+289,España,Blanco,Avancia,Godello 2021,Valdeorras ,4.3,82,51.99,2021
+290,España,Blanco,Cillar de Silos,Dominio del Pidio Albillo 2020,Ribera del Duero ,4.3,73,46.75,2020
+291,España,Blanco,Can Ràfols dels Caus,El Rocallís 2017,Cataluña ,4.3,71,40.99,2017
+292,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2019,Navarra ,4.3,67,54.0,2019
+293,España,Blanco,Compañía de Vinos Tricó,Nicolás Albariño 2018,Rías Baixas ,4.3,63,21.95,2018
+294,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2016,Castilla y León ,4.3,63,48.45,2016
+295,España,Blanco,VALENCISO,Rioja Blanco 2021,Rioja ,4.3,60,17.95,2021
+296,España,Blanco,Bodega Aida i Luis,Tahúlla Moscatel Blanco Seco 2018,Alicante ,4.3,56,11.95,2018
+297,España,Blanco,Pujanza,Rioja Añadas Frías 2016,Rioja ,4.3,54,161.15,2016
+298,España,Blanco,Bodega Sommos,Coleccion Chardonnay 2020,Somontano ,4.3,52,26.65,2020
+299,España,Blanco,Cellers Grifoll Declara,Gran Predicat Blanc 2018,Priorato ,4.3,51,26.75,2018
+300,España,Blanco,Castell d'Encus,Taleia 2019,Costers del Segre ,4.3,47,26.32,2019
+301,España,Blanco,Gómez Cruzado,Montes Obarenes Selección Terroir 2019,Rioja ,4.3,46,41.9,2019
+302,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2015,Castilla y León ,4.3,44,92.0,2015
+303,España,Blanco,Vulcano de Lanzarote,Malvasía Volcánica Seco 2022,Lanzarote ,4.3,44,26.45,2022
+304,España,Blanco,Bodegas Mauro,Godello Blanco 2021,Bierzo ,4.3,42,40.9,2021
+305,España,Blanco,Lagar de Sabariz,A Pita Cega 2015,Galicia ,4.3,41,44.8,2015
+306,España,Blanco,Remelluri,Rioja Blanco 2019,Rioja ,4.3,40,59.0,2019
+307,España,Blanco,Castro Candaz,La Vertical 2020,Ribeira Sacra ,4.3,38,21.9,2020
+308,España,Blanco,Muga,Flor de Muga Blanco 2019,Rioja ,4.3,38,30.0,2019
+309,España,Blanco,Oxer Wines,Iraun Rioja 2021,Rioja ,4.3,37,31.3,2021
+310,España,Blanco,Bodegas San Román,Malvasia 2019,Castilla ,4.3,37,39.4,2019
+311,España,Blanco,Bodegas El Paraguas,La Sombrilla 2018,Ribeiro ,4.3,35,36.5,2018
+312,España,Blanco,Abel Mendoza Monge,Viura 2020,Rioja ,4.3,34,26.75,2020
+313,España,Blanco,Mas d'en Gil,Coma Blanca Priorat 2017,Priorato ,4.3,33,40.52,2017
+314,España,Blanco,Matarromera,Verdejo Fermentado en Barrica 2018,Rueda ,4.3,31,24.9,2018
+315,España,Blanco,Pazo de Rubianes,1411 Albariño 2020,Rías Baixas ,4.3,28,31.08,2020
+316,España,Blanco,Pazo Señorans,Sol de Señorans Albariño Barrica 2012,Rías Baixas ,4.3,27,45.0,2012
+317,España,Blanco,Quinta da Muradella,Origen-02 2015,Monterrei ,4.3,27,31.1,2015
+318,España,Blanco,San Cobate,Branco 2018,Rueda ,4.3,26,18.45,2018
+319,España,Blanco,Bodegas Luis Perez,Palma Cortada La Barajuela 2017,Jerez-Xérès-Sherry ,4.3,26,58.5,2017
+320,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2021,Rías Baixas ,4.2,3330,15.5,2021
+321,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2015,Rioja ,4.2,1383,65.35,2015
+322,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello 2021,Valdeorras ,4.2,1273,10.9,2021
+323,España,Blanco,Gramona,Gessamí 2021,Penedès ,4.2,1096,12.2,2021
+324,España,Blanco,Rafael Palacios,Louro Godello 2021,Valdeorras ,4.2,1043,17.9,2021
+325,España,Blanco,José Pariente,Sauvignon Blanc 2021,Rueda ,4.2,732,8.9,2021
+326,España,Blanco,Attis,Albariño Lías Finas 2021,Rías Baixas ,4.2,638,15.4,2021
+327,España,Blanco,Emilio Moro,La Revelía Godello 2018,Bierzo ,4.2,619,21.95,2018
+328,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2015,Rías Baixas ,4.2,429,26.9,2015
+329,España,Blanco,Viñedos y Bodegas Muñoz,Blas Muñoz Chardonnay 2021,Castilla ,4.2,376,12.8,2021
+330,España,Blanco,Pazo de Rubianes,Albariño 2021,Rías Baixas ,4.2,291,16.2,2021
+331,España,Blanco,Tomás Postigo,Fermentado En Barrica Blanco 2018,Castilla y León ,4.2,288,21.2,2018
+332,España,Blanco,Paco & Lola,Vintage Albariño 2015,Rías Baixas ,4.2,276,27.59,2015
+333,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2021,Somontano ,4.2,259,18.25,2021
+334,España,Blanco,Pago Casa Gran,Falcata Blanco 2021,Valencia ,4.2,257,10.0,2021
+335,España,Blanco,Vinos Sanz,Finca La Colina Sauvignon Blanc 2021,Rueda ,4.2,233,13.85,2021
+336,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2022,Rías Baixas ,4.2,221,13.3,2022
+337,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2019,Valdeorras ,4.2,217,18.9,2019
+338,España,Blanco,Bodegas Mauro,Godello Blanco 2018,Bierzo ,4.2,189,44.95,2018
+339,España,Blanco,Conreria d'Scala Dei,Les Brugueres Blanc 2021,Priorato ,4.2,175,17.99,2021
+340,España,Blanco,Clos Mogador,Nelin Priorat 2018,Priorato ,4.2,161,46.9,2018
+341,España,Blanco,Castell d'Encus,Ekam Essència 2018,Costers del Segre ,4.2,155,45.94,2018
+342,España,Blanco,Gramona,Gessamí 2022,Penedès ,4.2,154,11.39,2022
+343,España,Blanco,Mustiguillo,Finca Calvestra Merseguera 2020,Vino de España ,4.2,153,17.9,2020
+344,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2021,Valdeorras ,4.2,150,18.45,2021
+345,España,Blanco,Familia Torres,Fransola 2021,Penedès ,4.2,146,26.93,2021
+346,España,Blanco,Caraballas,Verdejo Organic 2021,Castilla y León ,4.2,143,12.9,2021
+347,España,Blanco,Yllera,Meraldis Verdejo 2018,Rueda ,4.2,140,22.4,2018
+348,España,Blanco,Edetària,Selecció Blanca 2016,Terra Alta ,4.2,140,50.75,2016
+349,España,Blanco,Godeval,Cepas Vellas Godello 2021,Valdeorras ,4.2,135,19.43,2021
+350,España,Blanco,Adega Familiar Eladio Piñeiro,Frore de Carme 2017,Rías Baixas ,4.2,129,34.16,2017
+351,España,Blanco,Bodegas Mauro,Godello Blanco 2020,Bierzo ,4.2,127,42.89,2020
+352,España,Blanco,Shaya,Habis 2018,Rueda ,4.2,126,22.25,2018
+353,España,Blanco,Compañía de Vinos Tricó,Albariño 2018,Rías Baixas ,4.2,122,18.2,2018
+354,España,Blanco,Edetària,Selecció Blanca 2018,Terra Alta ,4.2,121,25.71,2018
+355,España,Blanco,Castro Brey,Sin Palabras Albariño 2013,Rías Baixas ,4.2,120,20.15,2013
+356,España,Blanco,Bodega Otazu,Pago de Otazu Chardonnay Con Crianza 2019,Otazu ,4.2,110,28.5,2019
+357,España,Blanco,Pazo Señorans,Seleccion de Añada Albariño Rías Baixas 2013,Rías Baixas ,4.2,109,36.0,2013
+358,España,Blanco,Pedralonga,Albariño Pedralonga 2020,Rías Baixas ,4.2,108,15.9,2020
+359,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2020,Castilla ,4.2,107,21.7,2020
+360,España,Blanco,L'Olivera,Missenyora 2019,Costers del Segre ,4.2,97,14.1,2019
+361,España,Blanco,Cal Pla,Mas d'en Compte Priorat White 2017,Priorato ,4.2,94,14.9,2017
+362,España,Blanco,Azpilicueta,Colección Privada Blanco 2019,Rioja ,4.2,93,17.9,2019
+363,España,Blanco,Javier Sanz Viticultor,Singular V Malcorta Verdejo 2021,Rueda ,4.2,93,17.49,2021
+364,España,Blanco,Mar de Frades,Rías Baixas Albariño Atlantico 2022,Rías Baixas ,4.2,91,16.4,2022
+365,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2019,Rías Baixas ,4.2,89,34.5,2019
+366,España,Blanco,Ossian,Viñas Viejas Verdejo 2020,Castilla y León ,4.2,85,29.0,2020
+367,España,Blanco,Suertes del Marqués,Trenzado 2021,Valle de la Orotava ,4.2,83,20.75,2021
+368,España,Blanco,Dominio do Bibei,Lapola 2020,Ribeira Sacra ,4.2,75,21.65,2020
+369,España,Blanco,Clos Mogador,Nelin Priorat 2019,Priorato ,4.2,73,45.95,2019
+370,España,Blanco,Viñas del Vero,Clarión Seleccion Somontano 2016,Somontano ,4.2,72,17.8,2016
+371,España,Blanco,Bodega Campo Eliseo,Campo Eliseo Blanco 2017,Rueda ,4.2,64,52.28,2017
+372,España,Blanco,La Val,Albariño Sobre Lías 2015,Rías Baixas ,4.2,62,31.5,2015
+373,España,Blanco,Quinta de Couselo,Tradición Rosal 2015,Rías Baixas ,4.2,61,19.99,2015
+374,España,Blanco,Menade,La Misión 2019,Castilla y León ,4.2,61,23.95,2019
+375,España,Blanco,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+376,España,Blanco,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+377,España,Blanco,Enate,Chardonnay Uno 2011,Somontano ,4.5,99,200.13,2011
+378,España,Blanco,Francisco Garcia Perez,Adega do Moucho Treixadura 2017,Ribeiro ,4.5,70,47.5,2017
+379,España,Blanco,Attis,Mar Albariño 2020,Rías Baixas ,4.5,50,88.2,2020
+380,España,Blanco,Pazo Barrantes,Gran Vino Albariño 2019,Rías Baixas ,4.4,931,33.9,2019
+381,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2019,Sardón de Duero ,4.4,425,34.2,2019
+382,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2020,Valdeorras ,4.4,373,55.0,2020
+383,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2020,Sardón de Duero ,4.4,339,34.3,2020
+384,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2017,Rioja ,4.4,232,48.67,2017
+385,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2017,Navarra ,4.4,230,59.9,2017
+386,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2015,Rías Baixas ,4.4,204,34.95,2015
+387,España,Blanco,Bodegas Mauro,Godello Blanco 2019,Bierzo ,4.4,160,86.63,2019
+388,España,Blanco,Hacienda López de Haro,Gran Reserva Classica Blanco 2012,Rioja ,4.4,121,44.9,2012
+389,España,Blanco,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2017,Ribeiro ,4.4,93,41.25,2017
+390,España,Blanco,Ossian,Capitel 2019,Castilla y León ,4.4,80,59.12,2019
+391,España,Blanco,Belondrade,Belondrade y Lurton 2021,Rueda ,4.4,57,44.5,2021
+392,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albariño 2021,Rías Baixas ,4.4,48,29.0,2021
+393,España,Blanco,Familia Torres,Forcada 2017,Penedès ,4.4,47,69.0,2017
+394,España,Blanco,Ordóñez,Nisia Las Suertes Verdejo Old Vines 2021,Rueda ,4.4,43,21.5,2021
+395,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2021,Sardón de Duero ,4.4,39,34.2,2021
+396,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2021,Valdeorras ,4.4,32,57.8,2021
+397,España,Blanco,Altavins,Selecció Garnatxa Blanca 2017,Terra Alta ,4.4,27,32.5,2017
+398,España,Blanco,Ossian,Viñas Viejas Verdejo 2016,Castilla y León ,4.3,1247,49.0,2016
+399,España,Blanco,Ossian,Viñas Viejas Verdejo 2018,Castilla y León ,4.3,1051,36.0,2018
+400,España,Blanco,Ossian,Viñas Viejas Verdejo 2019,Castilla y León ,4.3,863,39.9,2019
+401,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2016,Rioja ,4.3,774,57.0,2016
+402,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2020,Somontano ,4.3,635,17.23,2020
+403,España,Blanco,Dominio do Bibei,Lapola 2019,Ribeira Sacra ,4.3,548,22.76,2019
+404,España,Blanco,Ossian,Viñas Viejas Verdejo 2017,Castilla y León ,4.3,477,42.0,2017
+405,España,Blanco,Emilio Moro,La Revelía Godello 2019,Bierzo ,4.3,368,22.9,2019
+406,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2018,Sardón de Duero ,4.3,367,39.4,2018
+407,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2014,Sardón de Duero ,4.3,189,123.82,2014
+408,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2019,Castilla ,4.3,183,24.33,2019
+409,España,Blanco,Alonso & Pedrajo,Suañé Blanco 2017,Rioja ,4.3,153,24.8,2017
+410,España,Blanco,Remelluri,Rioja Blanco 2015,Rioja ,4.3,153,60.25,2015
+411,España,Blanco,Castell d'Encus,Ekam Essència 2019,Costers del Segre ,4.3,137,43.44,2019
+412,España,Blanco,Naia,Naiades 2018,Rueda ,4.3,111,19.25,2018
+413,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2017,Rías Baixas ,4.3,98,25.31,2017
+414,España,Blanco,Avancia,Godello 2021,Valdeorras ,4.3,82,51.99,2021
+415,España,Blanco,Cillar de Silos,Dominio del Pidio Albillo 2020,Ribera del Duero ,4.3,73,46.75,2020
+416,España,Blanco,Can Ràfols dels Caus,El Rocallís 2017,Cataluña ,4.3,71,40.99,2017
+417,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2019,Navarra ,4.3,67,54.0,2019
+418,España,Blanco,Compañía de Vinos Tricó,Nicolás Albariño 2018,Rías Baixas ,4.3,63,21.95,2018
+419,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2016,Castilla y León ,4.3,63,48.45,2016
+420,España,Blanco,VALENCISO,Rioja Blanco 2021,Rioja ,4.3,60,17.95,2021
+421,España,Blanco,Bodega Aida i Luis,Tahúlla Moscatel Blanco Seco 2018,Alicante ,4.3,56,11.95,2018
+422,España,Blanco,Pujanza,Rioja Añadas Frías 2016,Rioja ,4.3,54,161.15,2016
+423,España,Blanco,Bodega Sommos,Coleccion Chardonnay 2020,Somontano ,4.3,52,26.65,2020
+424,España,Blanco,Cellers Grifoll Declara,Gran Predicat Blanc 2018,Priorato ,4.3,51,26.75,2018
+425,España,Blanco,Castell d'Encus,Taleia 2019,Costers del Segre ,4.3,47,26.32,2019
+426,España,Blanco,Gómez Cruzado,Montes Obarenes Selección Terroir 2019,Rioja ,4.3,46,41.9,2019
+427,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2015,Castilla y León ,4.3,44,92.0,2015
+428,España,Blanco,Vulcano de Lanzarote,Malvasía Volcánica Seco 2022,Lanzarote ,4.3,44,26.45,2022
+429,España,Blanco,Bodegas Mauro,Godello Blanco 2021,Bierzo ,4.3,42,40.9,2021
+430,España,Blanco,Lagar de Sabariz,A Pita Cega 2015,Galicia ,4.3,41,44.8,2015
+431,España,Blanco,Remelluri,Rioja Blanco 2019,Rioja ,4.3,40,59.0,2019
+432,España,Blanco,Castro Candaz,La Vertical 2020,Ribeira Sacra ,4.3,38,21.9,2020
+433,España,Blanco,Muga,Flor de Muga Blanco 2019,Rioja ,4.3,38,30.0,2019
+434,España,Blanco,Oxer Wines,Iraun Rioja 2021,Rioja ,4.3,37,31.3,2021
+435,España,Blanco,Bodegas San Román,Malvasia 2019,Castilla ,4.3,37,39.4,2019
+436,España,Blanco,Bodegas El Paraguas,La Sombrilla 2018,Ribeiro ,4.3,35,36.5,2018
+437,España,Blanco,Abel Mendoza Monge,Viura 2020,Rioja ,4.3,34,26.75,2020
+438,España,Blanco,Mas d'en Gil,Coma Blanca Priorat 2017,Priorato ,4.3,33,40.52,2017
+439,España,Blanco,Matarromera,Verdejo Fermentado en Barrica 2018,Rueda ,4.3,31,24.9,2018
+440,España,Blanco,Pazo de Rubianes,1411 Albariño 2020,Rías Baixas ,4.3,28,31.08,2020
+441,España,Blanco,Pazo Señorans,Sol de Señorans Albariño Barrica 2012,Rías Baixas ,4.3,27,45.0,2012
+442,España,Blanco,Quinta da Muradella,Origen-02 2015,Monterrei ,4.3,27,31.1,2015
+443,España,Blanco,San Cobate,Branco 2018,Rueda ,4.3,26,18.45,2018
+444,España,Blanco,Bodegas Luis Perez,Palma Cortada La Barajuela 2017,Jerez-Xérès-Sherry ,4.3,26,58.5,2017
+445,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2021,Rías Baixas ,4.2,3330,15.5,2021
+446,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2015,Rioja ,4.2,1383,65.35,2015
+447,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello 2021,Valdeorras ,4.2,1273,10.9,2021
+448,España,Blanco,Gramona,Gessamí 2021,Penedès ,4.2,1096,12.2,2021
+449,España,Blanco,Rafael Palacios,Louro Godello 2021,Valdeorras ,4.2,1043,17.9,2021
+450,España,Blanco,José Pariente,Sauvignon Blanc 2021,Rueda ,4.2,732,8.9,2021
+451,España,Blanco,Attis,Albariño Lías Finas 2021,Rías Baixas ,4.2,638,15.4,2021
+452,España,Blanco,Emilio Moro,La Revelía Godello 2018,Bierzo ,4.2,619,21.95,2018
+453,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2015,Rías Baixas ,4.2,429,26.9,2015
+454,España,Blanco,Viñedos y Bodegas Muñoz,Blas Muñoz Chardonnay 2021,Castilla ,4.2,376,12.8,2021
+455,España,Blanco,Pazo de Rubianes,Albariño 2021,Rías Baixas ,4.2,291,16.2,2021
+456,España,Blanco,Tomás Postigo,Fermentado En Barrica Blanco 2018,Castilla y León ,4.2,288,21.2,2018
+457,España,Blanco,Paco & Lola,Vintage Albariño 2015,Rías Baixas ,4.2,276,27.59,2015
+458,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2021,Somontano ,4.2,259,18.25,2021
+459,España,Blanco,Pago Casa Gran,Falcata Blanco 2021,Valencia ,4.2,257,10.0,2021
+460,España,Blanco,Vinos Sanz,Finca La Colina Sauvignon Blanc 2021,Rueda ,4.2,233,13.85,2021
+461,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2022,Rías Baixas ,4.2,221,13.3,2022
+462,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2019,Valdeorras ,4.2,217,18.9,2019
+463,España,Blanco,Bodegas Mauro,Godello Blanco 2018,Bierzo ,4.2,189,44.95,2018
+464,España,Blanco,Conreria d'Scala Dei,Les Brugueres Blanc 2021,Priorato ,4.2,175,17.99,2021
+465,España,Blanco,Clos Mogador,Nelin Priorat 2018,Priorato ,4.2,161,46.9,2018
+466,España,Blanco,Castell d'Encus,Ekam Essència 2018,Costers del Segre ,4.2,155,45.94,2018
+467,España,Blanco,Gramona,Gessamí 2022,Penedès ,4.2,154,11.39,2022
+468,España,Blanco,Mustiguillo,Finca Calvestra Merseguera 2020,Vino de España ,4.2,153,17.9,2020
+469,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2021,Valdeorras ,4.2,150,18.45,2021
+470,España,Blanco,Familia Torres,Fransola 2021,Penedès ,4.2,146,26.93,2021
+471,España,Blanco,Caraballas,Verdejo Organic 2021,Castilla y León ,4.2,143,12.9,2021
+472,España,Blanco,Yllera,Meraldis Verdejo 2018,Rueda ,4.2,140,22.4,2018
+473,España,Blanco,Edetària,Selecció Blanca 2016,Terra Alta ,4.2,140,50.75,2016
+474,España,Blanco,Godeval,Cepas Vellas Godello 2021,Valdeorras ,4.2,135,19.43,2021
+475,España,Blanco,Adega Familiar Eladio Piñeiro,Frore de Carme 2017,Rías Baixas ,4.2,129,34.16,2017
+476,España,Blanco,Bodegas Mauro,Godello Blanco 2020,Bierzo ,4.2,127,42.89,2020
+477,España,Blanco,Shaya,Habis 2018,Rueda ,4.2,126,22.25,2018
+478,España,Blanco,Compañía de Vinos Tricó,Albariño 2018,Rías Baixas ,4.2,122,18.2,2018
+479,España,Blanco,Edetària,Selecció Blanca 2018,Terra Alta ,4.2,121,25.71,2018
+480,España,Blanco,Castro Brey,Sin Palabras Albariño 2013,Rías Baixas ,4.2,120,20.15,2013
+481,España,Blanco,Bodega Otazu,Pago de Otazu Chardonnay Con Crianza 2019,Otazu ,4.2,110,28.5,2019
+482,España,Blanco,Pazo Señorans,Seleccion de Añada Albariño Rías Baixas 2013,Rías Baixas ,4.2,109,36.0,2013
+483,España,Blanco,Pedralonga,Albariño Pedralonga 2020,Rías Baixas ,4.2,108,15.9,2020
+484,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2020,Castilla ,4.2,107,21.7,2020
+485,España,Blanco,L'Olivera,Missenyora 2019,Costers del Segre ,4.2,97,14.1,2019
+486,España,Blanco,Cal Pla,Mas d'en Compte Priorat White 2017,Priorato ,4.2,94,14.9,2017
+487,España,Blanco,Azpilicueta,Colección Privada Blanco 2019,Rioja ,4.2,93,17.9,2019
+488,España,Blanco,Javier Sanz Viticultor,Singular V Malcorta Verdejo 2021,Rueda ,4.2,93,17.49,2021
+489,España,Blanco,Mar de Frades,Rías Baixas Albariño Atlantico 2022,Rías Baixas ,4.2,91,16.4,2022
+490,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2019,Rías Baixas ,4.2,89,34.5,2019
+491,España,Blanco,Ossian,Viñas Viejas Verdejo 2020,Castilla y León ,4.2,85,29.0,2020
+492,España,Blanco,Suertes del Marqués,Trenzado 2021,Valle de la Orotava ,4.2,83,20.75,2021
+493,España,Blanco,Dominio do Bibei,Lapola 2020,Ribeira Sacra ,4.2,75,21.65,2020
+494,España,Blanco,Clos Mogador,Nelin Priorat 2019,Priorato ,4.2,73,45.95,2019
+495,España,Blanco,Viñas del Vero,Clarión Seleccion Somontano 2016,Somontano ,4.2,72,17.8,2016
+496,España,Blanco,Bodega Campo Eliseo,Campo Eliseo Blanco 2017,Rueda ,4.2,64,52.28,2017
+497,España,Blanco,La Val,Albariño Sobre Lías 2015,Rías Baixas ,4.2,62,31.5,2015
+498,España,Blanco,Quinta de Couselo,Tradición Rosal 2015,Rías Baixas ,4.2,61,19.99,2015
+499,España,Blanco,Menade,La Misión 2019,Castilla y León ,4.2,61,23.95,2019
+500,España,Blanco,Familia Torres,Milmanda 2018,Conca de Barberà ,4.2,58,55.33,2018
+501,España,Blanco,Telmo Rodriguez,Branco de Santa Cruz 2019,Valdeorras ,4.2,55,33.71,2019
+502,España,Blanco,Trossos del Priorat,Abracadabra 2019,Priorato ,4.2,53,32.0,2019
+503,España,Blanco,Olivardots,Vd’O 6 Blanc - Sorra 2015,Empordà ,4.2,51,25.6,2015
+504,España,Blanco,La Caña,Navia Albarino 2019,Rías Baixas ,4.2,49,22.26,2019
+505,España,Blanco,Viñedos Hermanos Hernáiz,Finca La Emperatriz Viñedo Singular Blanco 2017,Rioja ,4.2,49,34.9,2017
+506,España,Blanco,Bodegas Mas Alta,La Solana Alta 2019,Priorato ,4.2,48,45.4,2019
+507,España,Blanco,Familia Torres,Forcada 2016,Penedès ,4.2,47,71.0,2016
+508,España,Blanco,Conde de Los Andes,Rioja Blanco 2018,Rioja ,4.2,46,24.99,2018
+509,España,Blanco,Clos Pons,Roc de Foc 2013,Costers del Segre ,4.2,44,19.53,2013
+510,España,Blanco,José Pariente,Verdejo Fermentado en Barrica 2021,Rueda ,4.2,43,16.35,2021
+511,España,Blanco,Quinta da Muradella,Treixadura Bajo Velo 2016,Monterrei ,4.2,42,37.1,2016
+512,España,Blanco,Terras Gauda,Terras Gauda O Rosal Etiqueta Negra (Black Label) 2019,Rías Baixas ,4.2,42,30.95,2019
+513,España,Blanco,Mas Oller,Mar En Calma 2021,Empordà ,4.2,40,20.0,2021
+514,España,Blanco,Canopy,Loco 2016,Méntrida ,4.2,39,26.8,2016
+515,España,Blanco,AT Roca,Cantallops Xarel-lo 2021,Penedès ,4.2,38,17.49,2021
+516,España,Blanco,Pazo Casanova,Finca Viñoa Paraje Penaboa 2017,Ribeiro ,4.2,36,25.56,2017
+517,España,Blanco,Estefanía,Entrecuestas Godello Bierzo 2020,Bierzo ,4.2,35,13.37,2020
+518,España,Blanco,Familia Torres,Forcada 2019,Penedès ,4.2,35,56.0,2019
+519,España,Blanco,Oliver Viticultors,Brots Xarel-lo 2020,Penedès ,4.2,34,13.75,2020
+520,España,Blanco,Gorka Izagirre,Ama 2019,Bizkaiko Txakolina ,4.2,34,34.45,2019
+521,España,Blanco,Ramón do Casar,Nobre 2021,Ribeiro ,4.2,33,20.8,2021
+522,España,Blanco,Bodegas El Paraguas,Agás do Tempo 2020,Ribeiro ,4.2,33,13.99,2020
+523,España,Blanco,Bodegas Garcia de Lara,Finca Villalobillos Pie Franco Airén 2020,Castilla ,4.2,31,11.9,2020
+524,España,Blanco,Pazo de Rubianes,García Caamaño Albariño 2019,Rías Baixas ,4.2,30,23.9,2019
+525,España,Blanco,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+526,España,Blanco,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+527,España,Blanco,Enate,Chardonnay Uno 2011,Somontano ,4.5,99,200.13,2011
+528,España,Blanco,Francisco Garcia Perez,Adega do Moucho Treixadura 2017,Ribeiro ,4.5,70,47.5,2017
+529,España,Blanco,Attis,Mar Albariño 2020,Rías Baixas ,4.5,50,88.2,2020
+530,España,Blanco,Pazo Barrantes,Gran Vino Albariño 2019,Rías Baixas ,4.4,931,33.9,2019
+531,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2019,Sardón de Duero ,4.4,425,34.2,2019
+532,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2020,Valdeorras ,4.4,373,55.0,2020
+533,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2020,Sardón de Duero ,4.4,339,34.3,2020
+534,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2017,Rioja ,4.4,232,48.67,2017
+535,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2017,Navarra ,4.4,230,59.9,2017
+536,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2015,Rías Baixas ,4.4,204,34.95,2015
+537,España,Blanco,Bodegas Mauro,Godello Blanco 2019,Bierzo ,4.4,160,86.63,2019
+538,España,Blanco,Hacienda López de Haro,Gran Reserva Classica Blanco 2012,Rioja ,4.4,121,44.9,2012
+539,España,Blanco,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2017,Ribeiro ,4.4,93,41.25,2017
+540,España,Blanco,Ossian,Capitel 2019,Castilla y León ,4.4,80,59.12,2019
+541,España,Blanco,Belondrade,Belondrade y Lurton 2021,Rueda ,4.4,57,44.5,2021
+542,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albariño 2021,Rías Baixas ,4.4,48,29.0,2021
+543,España,Blanco,Familia Torres,Forcada 2017,Penedès ,4.4,47,69.0,2017
+544,España,Blanco,Ordóñez,Nisia Las Suertes Verdejo Old Vines 2021,Rueda ,4.4,43,21.5,2021
+545,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2021,Sardón de Duero ,4.4,39,34.2,2021
+546,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2021,Valdeorras ,4.4,32,57.8,2021
+547,España,Blanco,Altavins,Selecció Garnatxa Blanca 2017,Terra Alta ,4.4,27,32.5,2017
+548,España,Blanco,Ossian,Viñas Viejas Verdejo 2016,Castilla y León ,4.3,1247,49.0,2016
+549,España,Blanco,Ossian,Viñas Viejas Verdejo 2018,Castilla y León ,4.3,1051,36.0,2018
+550,España,Blanco,Ossian,Viñas Viejas Verdejo 2019,Castilla y León ,4.3,863,39.9,2019
+551,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2016,Rioja ,4.3,774,57.0,2016
+552,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2020,Somontano ,4.3,635,17.23,2020
+553,España,Blanco,Dominio do Bibei,Lapola 2019,Ribeira Sacra ,4.3,548,22.76,2019
+554,España,Blanco,Ossian,Viñas Viejas Verdejo 2017,Castilla y León ,4.3,477,42.0,2017
+555,España,Blanco,Emilio Moro,La Revelía Godello 2019,Bierzo ,4.3,368,22.9,2019
+556,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2018,Sardón de Duero ,4.3,367,39.4,2018
+557,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2014,Sardón de Duero ,4.3,189,123.82,2014
+558,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2019,Castilla ,4.3,183,24.33,2019
+559,España,Blanco,Alonso & Pedrajo,Suañé Blanco 2017,Rioja ,4.3,153,24.8,2017
+560,España,Blanco,Remelluri,Rioja Blanco 2015,Rioja ,4.3,153,60.25,2015
+561,España,Blanco,Castell d'Encus,Ekam Essència 2019,Costers del Segre ,4.3,137,43.44,2019
+562,España,Blanco,Naia,Naiades 2018,Rueda ,4.3,111,19.25,2018
+563,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2017,Rías Baixas ,4.3,98,25.31,2017
+564,España,Blanco,Avancia,Godello 2021,Valdeorras ,4.3,82,51.99,2021
+565,España,Blanco,Cillar de Silos,Dominio del Pidio Albillo 2020,Ribera del Duero ,4.3,73,46.75,2020
+566,España,Blanco,Can Ràfols dels Caus,El Rocallís 2017,Cataluña ,4.3,71,40.99,2017
+567,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2019,Navarra ,4.3,67,54.0,2019
+568,España,Blanco,Compañía de Vinos Tricó,Nicolás Albariño 2018,Rías Baixas ,4.3,63,21.95,2018
+569,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2016,Castilla y León ,4.3,63,48.45,2016
+570,España,Blanco,VALENCISO,Rioja Blanco 2021,Rioja ,4.3,60,17.95,2021
+571,España,Blanco,Bodega Aida i Luis,Tahúlla Moscatel Blanco Seco 2018,Alicante ,4.3,56,11.95,2018
+572,España,Blanco,Pujanza,Rioja Añadas Frías 2016,Rioja ,4.3,54,161.15,2016
+573,España,Blanco,Bodega Sommos,Coleccion Chardonnay 2020,Somontano ,4.3,52,26.65,2020
+574,España,Blanco,Cellers Grifoll Declara,Gran Predicat Blanc 2018,Priorato ,4.3,51,26.75,2018
+575,España,Blanco,Castell d'Encus,Taleia 2019,Costers del Segre ,4.3,47,26.32,2019
+576,España,Blanco,Gómez Cruzado,Montes Obarenes Selección Terroir 2019,Rioja ,4.3,46,41.9,2019
+577,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2015,Castilla y León ,4.3,44,92.0,2015
+578,España,Blanco,Vulcano de Lanzarote,Malvasía Volcánica Seco 2022,Lanzarote ,4.3,44,26.45,2022
+579,España,Blanco,Bodegas Mauro,Godello Blanco 2021,Bierzo ,4.3,42,40.9,2021
+580,España,Blanco,Lagar de Sabariz,A Pita Cega 2015,Galicia ,4.3,41,44.8,2015
+581,España,Blanco,Remelluri,Rioja Blanco 2019,Rioja ,4.3,40,59.0,2019
+582,España,Blanco,Castro Candaz,La Vertical 2020,Ribeira Sacra ,4.3,38,21.9,2020
+583,España,Blanco,Muga,Flor de Muga Blanco 2019,Rioja ,4.3,38,30.0,2019
+584,España,Blanco,Oxer Wines,Iraun Rioja 2021,Rioja ,4.3,37,31.3,2021
+585,España,Blanco,Bodegas San Román,Malvasia 2019,Castilla ,4.3,37,39.4,2019
+586,España,Blanco,Bodegas El Paraguas,La Sombrilla 2018,Ribeiro ,4.3,35,36.5,2018
+587,España,Blanco,Abel Mendoza Monge,Viura 2020,Rioja ,4.3,34,26.75,2020
+588,España,Blanco,Mas d'en Gil,Coma Blanca Priorat 2017,Priorato ,4.3,33,40.52,2017
+589,España,Blanco,Matarromera,Verdejo Fermentado en Barrica 2018,Rueda ,4.3,31,24.9,2018
+590,España,Blanco,Pazo de Rubianes,1411 Albariño 2020,Rías Baixas ,4.3,28,31.08,2020
+591,España,Blanco,Pazo Señorans,Sol de Señorans Albariño Barrica 2012,Rías Baixas ,4.3,27,45.0,2012
+592,España,Blanco,Quinta da Muradella,Origen-02 2015,Monterrei ,4.3,27,31.1,2015
+593,España,Blanco,San Cobate,Branco 2018,Rueda ,4.3,26,18.45,2018
+594,España,Blanco,Bodegas Luis Perez,Palma Cortada La Barajuela 2017,Jerez-Xérès-Sherry ,4.3,26,58.5,2017
+595,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2021,Rías Baixas ,4.2,3330,15.5,2021
+596,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2015,Rioja ,4.2,1383,65.35,2015
+597,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello 2021,Valdeorras ,4.2,1273,10.9,2021
+598,España,Blanco,Gramona,Gessamí 2021,Penedès ,4.2,1096,12.2,2021
+599,España,Blanco,Rafael Palacios,Louro Godello 2021,Valdeorras ,4.2,1043,17.9,2021
+600,España,Blanco,José Pariente,Sauvignon Blanc 2021,Rueda ,4.2,732,8.9,2021
+601,España,Blanco,Attis,Albariño Lías Finas 2021,Rías Baixas ,4.2,638,15.4,2021
+602,España,Blanco,Emilio Moro,La Revelía Godello 2018,Bierzo ,4.2,619,21.95,2018
+603,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2015,Rías Baixas ,4.2,429,26.9,2015
+604,España,Blanco,Viñedos y Bodegas Muñoz,Blas Muñoz Chardonnay 2021,Castilla ,4.2,376,12.8,2021
+605,España,Blanco,Pazo de Rubianes,Albariño 2021,Rías Baixas ,4.2,291,16.2,2021
+606,España,Blanco,Tomás Postigo,Fermentado En Barrica Blanco 2018,Castilla y León ,4.2,288,21.2,2018
+607,España,Blanco,Paco & Lola,Vintage Albariño 2015,Rías Baixas ,4.2,276,27.59,2015
+608,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2021,Somontano ,4.2,259,18.25,2021
+609,España,Blanco,Pago Casa Gran,Falcata Blanco 2021,Valencia ,4.2,257,10.0,2021
+610,España,Blanco,Vinos Sanz,Finca La Colina Sauvignon Blanc 2021,Rueda ,4.2,233,13.85,2021
+611,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2022,Rías Baixas ,4.2,221,13.3,2022
+612,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2019,Valdeorras ,4.2,217,18.9,2019
+613,España,Blanco,Bodegas Mauro,Godello Blanco 2018,Bierzo ,4.2,189,44.95,2018
+614,España,Blanco,Conreria d'Scala Dei,Les Brugueres Blanc 2021,Priorato ,4.2,175,17.99,2021
+615,España,Blanco,Clos Mogador,Nelin Priorat 2018,Priorato ,4.2,161,46.9,2018
+616,España,Blanco,Castell d'Encus,Ekam Essència 2018,Costers del Segre ,4.2,155,45.94,2018
+617,España,Blanco,Gramona,Gessamí 2022,Penedès ,4.2,154,11.39,2022
+618,España,Blanco,Mustiguillo,Finca Calvestra Merseguera 2020,Vino de España ,4.2,153,17.9,2020
+619,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2021,Valdeorras ,4.2,150,18.45,2021
+620,España,Blanco,Familia Torres,Fransola 2021,Penedès ,4.2,146,26.93,2021
+621,España,Blanco,Caraballas,Verdejo Organic 2021,Castilla y León ,4.2,143,12.9,2021
+622,España,Blanco,Yllera,Meraldis Verdejo 2018,Rueda ,4.2,140,22.4,2018
+623,España,Blanco,Edetària,Selecció Blanca 2016,Terra Alta ,4.2,140,50.75,2016
+624,España,Blanco,Godeval,Cepas Vellas Godello 2021,Valdeorras ,4.2,135,19.43,2021
+625,España,Blanco,Adega Familiar Eladio Piñeiro,Frore de Carme 2017,Rías Baixas ,4.2,129,34.16,2017
+626,España,Blanco,Bodegas Mauro,Godello Blanco 2020,Bierzo ,4.2,127,42.89,2020
+627,España,Blanco,Shaya,Habis 2018,Rueda ,4.2,126,22.25,2018
+628,España,Blanco,Compañía de Vinos Tricó,Albariño 2018,Rías Baixas ,4.2,122,18.2,2018
+629,España,Blanco,Edetària,Selecció Blanca 2018,Terra Alta ,4.2,121,25.71,2018
+630,España,Blanco,Castro Brey,Sin Palabras Albariño 2013,Rías Baixas ,4.2,120,20.15,2013
+631,España,Blanco,Bodega Otazu,Pago de Otazu Chardonnay Con Crianza 2019,Otazu ,4.2,110,28.5,2019
+632,España,Blanco,Pazo Señorans,Seleccion de Añada Albariño Rías Baixas 2013,Rías Baixas ,4.2,109,36.0,2013
+633,España,Blanco,Pedralonga,Albariño Pedralonga 2020,Rías Baixas ,4.2,108,15.9,2020
+634,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2020,Castilla ,4.2,107,21.7,2020
+635,España,Blanco,L'Olivera,Missenyora 2019,Costers del Segre ,4.2,97,14.1,2019
+636,España,Blanco,Cal Pla,Mas d'en Compte Priorat White 2017,Priorato ,4.2,94,14.9,2017
+637,España,Blanco,Azpilicueta,Colección Privada Blanco 2019,Rioja ,4.2,93,17.9,2019
+638,España,Blanco,Javier Sanz Viticultor,Singular V Malcorta Verdejo 2021,Rueda ,4.2,93,17.49,2021
+639,España,Blanco,Mar de Frades,Rías Baixas Albariño Atlantico 2022,Rías Baixas ,4.2,91,16.4,2022
+640,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2019,Rías Baixas ,4.2,89,34.5,2019
+641,España,Blanco,Ossian,Viñas Viejas Verdejo 2020,Castilla y León ,4.2,85,29.0,2020
+642,España,Blanco,Suertes del Marqués,Trenzado 2021,Valle de la Orotava ,4.2,83,20.75,2021
+643,España,Blanco,Dominio do Bibei,Lapola 2020,Ribeira Sacra ,4.2,75,21.65,2020
+644,España,Blanco,Clos Mogador,Nelin Priorat 2019,Priorato ,4.2,73,45.95,2019
+645,España,Blanco,Viñas del Vero,Clarión Seleccion Somontano 2016,Somontano ,4.2,72,17.8,2016
+646,España,Blanco,Bodega Campo Eliseo,Campo Eliseo Blanco 2017,Rueda ,4.2,64,52.28,2017
+647,España,Blanco,La Val,Albariño Sobre Lías 2015,Rías Baixas ,4.2,62,31.5,2015
+648,España,Blanco,Quinta de Couselo,Tradición Rosal 2015,Rías Baixas ,4.2,61,19.99,2015
+649,España,Blanco,Menade,La Misión 2019,Castilla y León ,4.2,61,23.95,2019
+650,España,Blanco,Familia Torres,Milmanda 2018,Conca de Barberà ,4.2,58,55.33,2018
+651,España,Blanco,Telmo Rodriguez,Branco de Santa Cruz 2019,Valdeorras ,4.2,55,33.71,2019
+652,España,Blanco,Trossos del Priorat,Abracadabra 2019,Priorato ,4.2,53,32.0,2019
+653,España,Blanco,Olivardots,Vd’O 6 Blanc - Sorra 2015,Empordà ,4.2,51,25.6,2015
+654,España,Blanco,La Caña,Navia Albarino 2019,Rías Baixas ,4.2,49,22.26,2019
+655,España,Blanco,Viñedos Hermanos Hernáiz,Finca La Emperatriz Viñedo Singular Blanco 2017,Rioja ,4.2,49,34.9,2017
+656,España,Blanco,Bodegas Mas Alta,La Solana Alta 2019,Priorato ,4.2,48,45.4,2019
+657,España,Blanco,Familia Torres,Forcada 2016,Penedès ,4.2,47,71.0,2016
+658,España,Blanco,Conde de Los Andes,Rioja Blanco 2018,Rioja ,4.2,46,24.99,2018
+659,España,Blanco,Clos Pons,Roc de Foc 2013,Costers del Segre ,4.2,44,19.53,2013
+660,España,Blanco,José Pariente,Verdejo Fermentado en Barrica 2021,Rueda ,4.2,43,16.35,2021
+661,España,Blanco,Quinta da Muradella,Treixadura Bajo Velo 2016,Monterrei ,4.2,42,37.1,2016
+662,España,Blanco,Terras Gauda,Terras Gauda O Rosal Etiqueta Negra (Black Label) 2019,Rías Baixas ,4.2,42,30.95,2019
+663,España,Blanco,Mas Oller,Mar En Calma 2021,Empordà ,4.2,40,20.0,2021
+664,España,Blanco,Canopy,Loco 2016,Méntrida ,4.2,39,26.8,2016
+665,España,Blanco,AT Roca,Cantallops Xarel-lo 2021,Penedès ,4.2,38,17.49,2021
+666,España,Blanco,Pazo Casanova,Finca Viñoa Paraje Penaboa 2017,Ribeiro ,4.2,36,25.56,2017
+667,España,Blanco,Estefanía,Entrecuestas Godello Bierzo 2020,Bierzo ,4.2,35,13.37,2020
+668,España,Blanco,Familia Torres,Forcada 2019,Penedès ,4.2,35,56.0,2019
+669,España,Blanco,Oliver Viticultors,Brots Xarel-lo 2020,Penedès ,4.2,34,13.75,2020
+670,España,Blanco,Gorka Izagirre,Ama 2019,Bizkaiko Txakolina ,4.2,34,34.45,2019
+671,España,Blanco,Ramón do Casar,Nobre 2021,Ribeiro ,4.2,33,20.8,2021
+672,España,Blanco,Bodegas El Paraguas,Agás do Tempo 2020,Ribeiro ,4.2,33,13.99,2020
+673,España,Blanco,Bodegas Garcia de Lara,Finca Villalobillos Pie Franco Airén 2020,Castilla ,4.2,31,11.9,2020
+674,España,Blanco,Pazo de Rubianes,García Caamaño Albariño 2019,Rías Baixas ,4.2,30,23.9,2019
+675,España,Blanco,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2018,Ribeiro ,4.2,30,39.9,2018
+676,España,Blanco,Attis,Sangarida La Guiana Godello 2020,Bierzo ,4.2,29,31.1,2020
+677,España,Blanco,Abel Mendoza Monge,Malvasía 2020,Rioja ,4.2,29,27.5,2020
+678,España,Blanco,Pago de Los Capellanes,O Luar do Sil Vides de Córgomo 2019,Valdeorras ,4.2,29,32.5,2019
+679,España,Blanco,Valdesil,Pezas da Portela Godello 2017,Valdeorras ,4.2,28,29.98,2017
+680,España,Blanco,Telmo Rodriguez,Molino Real 2017,Málaga ,4.2,28,35.76,2017
+681,España,Blanco,L'Olivera,Blanc de Marges 2018,Costers del Segre ,4.2,28,13.93,2018
+682,España,Blanco,Bodegas Mas Alta,Artigas Blanco 2019,Priorato ,4.2,27,24.94,2019
+683,España,Blanco,Bodegas Martín Códax,Rias Baixas Albarino Vindel 2019,Rías Baixas ,4.2,26,35.0,2019
+684,España,Blanco,Makatzak Wild Wines,Sorkin 2021,Getariako Txakolina ,4.2,26,24.95,2021
+685,España,Blanco,Can Bas,La Romana 2018,Penedès ,4.2,25,40.0,2018
+686,España,Blanco,Bernardo Estévez,Chánselus Castes Brancas 2019,Ribeiro ,4.2,25,28.05,2019
+687,España,Blanco,AT Roca,Anima Mundi Pells Skin Contact Macabeu 2021,Penedès ,4.2,25,20.95,2021
+688,España,Blanco,Familia Torres,Viña Esmeralda 2019,Cataluña ,4.1,6652,8.32,2019
+689,España,Blanco,Mar de Frades,Rías Baixas Albariño Atlantico 2021,Rías Baixas ,4.1,3063,17.75,2021
+690,España,Blanco,José Pariente,Verdejo 2021,Rueda ,4.1,2896,13.35,2021
+691,España,Blanco,Fefiñanes,Albariño de Fefiñanes 2021,Rías Baixas ,4.1,698,17.25,2021
+692,España,Blanco,Viñas del Vero,Gewürztraminer Somontano 2021,Somontano ,4.1,698,9.9,2021
+693,España,Blanco,Casa Rojo,La Marimorena Albariño 2020,Rías Baixas ,4.1,664,19.3,2020
+694,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Rias Baixas Albariño 2020,Rías Baixas ,4.1,635,19.51,2020
+695,España,Blanco,Santiago Ruiz,Albariño (O Rosal) 2021,Rías Baixas ,4.1,565,13.85,2021
+696,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Rias Baixas Albariño 2021,Rías Baixas ,4.1,524,13.85,2021
+697,España,Blanco,Agro de Bazán,Granbazán Albariño Etiqueta Ámbar 2021,Rías Baixas ,4.1,517,14.5,2021
+698,España,Blanco,Forjas del Salnés,Leirana Finca Genoveva Albariño 2020,Rías Baixas ,4.1,477,29.9,2020
+699,España,Blanco,Dominio do Bibei,Lalume 2018,Ribeiro ,4.1,414,16.4,2018
+700,España,Blanco,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+701,España,Blanco,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+702,España,Blanco,Enate,Chardonnay Uno 2011,Somontano ,4.5,99,200.13,2011
+703,España,Blanco,Francisco Garcia Perez,Adega do Moucho Treixadura 2017,Ribeiro ,4.5,70,47.5,2017
+704,España,Blanco,Attis,Mar Albariño 2020,Rías Baixas ,4.5,50,88.2,2020
+705,España,Blanco,Pazo Barrantes,Gran Vino Albariño 2019,Rías Baixas ,4.4,931,33.9,2019
+706,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2019,Sardón de Duero ,4.4,425,34.2,2019
+707,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2020,Valdeorras ,4.4,373,55.0,2020
+708,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2020,Sardón de Duero ,4.4,339,34.3,2020
+709,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2017,Rioja ,4.4,232,48.67,2017
+710,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2017,Navarra ,4.4,230,59.9,2017
+711,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2015,Rías Baixas ,4.4,204,34.95,2015
+712,España,Blanco,Bodegas Mauro,Godello Blanco 2019,Bierzo ,4.4,160,86.63,2019
+713,España,Blanco,Hacienda López de Haro,Gran Reserva Classica Blanco 2012,Rioja ,4.4,121,44.9,2012
+714,España,Blanco,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2017,Ribeiro ,4.4,93,41.25,2017
+715,España,Blanco,Ossian,Capitel 2019,Castilla y León ,4.4,80,59.12,2019
+716,España,Blanco,Belondrade,Belondrade y Lurton 2021,Rueda ,4.4,57,44.5,2021
+717,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albariño 2021,Rías Baixas ,4.4,48,29.0,2021
+718,España,Blanco,Familia Torres,Forcada 2017,Penedès ,4.4,47,69.0,2017
+719,España,Blanco,Ordóñez,Nisia Las Suertes Verdejo Old Vines 2021,Rueda ,4.4,43,21.5,2021
+720,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2021,Sardón de Duero ,4.4,39,34.2,2021
+721,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2021,Valdeorras ,4.4,32,57.8,2021
+722,España,Blanco,Altavins,Selecció Garnatxa Blanca 2017,Terra Alta ,4.4,27,32.5,2017
+723,España,Blanco,Ossian,Viñas Viejas Verdejo 2016,Castilla y León ,4.3,1247,49.0,2016
+724,España,Blanco,Ossian,Viñas Viejas Verdejo 2018,Castilla y León ,4.3,1051,36.0,2018
+725,España,Blanco,Ossian,Viñas Viejas Verdejo 2019,Castilla y León ,4.3,863,39.9,2019
+726,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2016,Rioja ,4.3,774,57.0,2016
+727,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2020,Somontano ,4.3,635,17.23,2020
+728,España,Blanco,Dominio do Bibei,Lapola 2019,Ribeira Sacra ,4.3,548,22.76,2019
+729,España,Blanco,Ossian,Viñas Viejas Verdejo 2017,Castilla y León ,4.3,477,42.0,2017
+730,España,Blanco,Emilio Moro,La Revelía Godello 2019,Bierzo ,4.3,368,22.9,2019
+731,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2018,Sardón de Duero ,4.3,367,39.4,2018
+732,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2014,Sardón de Duero ,4.3,189,123.82,2014
+733,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2019,Castilla ,4.3,183,24.33,2019
+734,España,Blanco,Alonso & Pedrajo,Suañé Blanco 2017,Rioja ,4.3,153,24.8,2017
+735,España,Blanco,Remelluri,Rioja Blanco 2015,Rioja ,4.3,153,60.25,2015
+736,España,Blanco,Castell d'Encus,Ekam Essència 2019,Costers del Segre ,4.3,137,43.44,2019
+737,España,Blanco,Naia,Naiades 2018,Rueda ,4.3,111,19.25,2018
+738,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2017,Rías Baixas ,4.3,98,25.31,2017
+739,España,Blanco,Avancia,Godello 2021,Valdeorras ,4.3,82,51.99,2021
+740,España,Blanco,Cillar de Silos,Dominio del Pidio Albillo 2020,Ribera del Duero ,4.3,73,46.75,2020
+741,España,Blanco,Can Ràfols dels Caus,El Rocallís 2017,Cataluña ,4.3,71,40.99,2017
+742,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2019,Navarra ,4.3,67,54.0,2019
+743,España,Blanco,Compañía de Vinos Tricó,Nicolás Albariño 2018,Rías Baixas ,4.3,63,21.95,2018
+744,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2016,Castilla y León ,4.3,63,48.45,2016
+745,España,Blanco,VALENCISO,Rioja Blanco 2021,Rioja ,4.3,60,17.95,2021
+746,España,Blanco,Bodega Aida i Luis,Tahúlla Moscatel Blanco Seco 2018,Alicante ,4.3,56,11.95,2018
+747,España,Blanco,Pujanza,Rioja Añadas Frías 2016,Rioja ,4.3,54,161.15,2016
+748,España,Blanco,Bodega Sommos,Coleccion Chardonnay 2020,Somontano ,4.3,52,26.65,2020
+749,España,Blanco,Cellers Grifoll Declara,Gran Predicat Blanc 2018,Priorato ,4.3,51,26.75,2018
+750,España,Blanco,Castell d'Encus,Taleia 2019,Costers del Segre ,4.3,47,26.32,2019
+751,España,Blanco,Gómez Cruzado,Montes Obarenes Selección Terroir 2019,Rioja ,4.3,46,41.9,2019
+752,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2015,Castilla y León ,4.3,44,92.0,2015
+753,España,Blanco,Vulcano de Lanzarote,Malvasía Volcánica Seco 2022,Lanzarote ,4.3,44,26.45,2022
+754,España,Blanco,Bodegas Mauro,Godello Blanco 2021,Bierzo ,4.3,42,40.9,2021
+755,España,Blanco,Lagar de Sabariz,A Pita Cega 2015,Galicia ,4.3,41,44.8,2015
+756,España,Blanco,Remelluri,Rioja Blanco 2019,Rioja ,4.3,40,59.0,2019
+757,España,Blanco,Castro Candaz,La Vertical 2020,Ribeira Sacra ,4.3,38,21.9,2020
+758,España,Blanco,Muga,Flor de Muga Blanco 2019,Rioja ,4.3,38,30.0,2019
+759,España,Blanco,Oxer Wines,Iraun Rioja 2021,Rioja ,4.3,37,31.3,2021
+760,España,Blanco,Bodegas San Román,Malvasia 2019,Castilla ,4.3,37,39.4,2019
+761,España,Blanco,Bodegas El Paraguas,La Sombrilla 2018,Ribeiro ,4.3,35,36.5,2018
+762,España,Blanco,Abel Mendoza Monge,Viura 2020,Rioja ,4.3,34,26.75,2020
+763,España,Blanco,Mas d'en Gil,Coma Blanca Priorat 2017,Priorato ,4.3,33,40.52,2017
+764,España,Blanco,Matarromera,Verdejo Fermentado en Barrica 2018,Rueda ,4.3,31,24.9,2018
+765,España,Blanco,Pazo de Rubianes,1411 Albariño 2020,Rías Baixas ,4.3,28,31.08,2020
+766,España,Blanco,Pazo Señorans,Sol de Señorans Albariño Barrica 2012,Rías Baixas ,4.3,27,45.0,2012
+767,España,Blanco,Quinta da Muradella,Origen-02 2015,Monterrei ,4.3,27,31.1,2015
+768,España,Blanco,San Cobate,Branco 2018,Rueda ,4.3,26,18.45,2018
+769,España,Blanco,Bodegas Luis Perez,Palma Cortada La Barajuela 2017,Jerez-Xérès-Sherry ,4.3,26,58.5,2017
+770,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2021,Rías Baixas ,4.2,3330,15.5,2021
+771,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2015,Rioja ,4.2,1383,65.35,2015
+772,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello 2021,Valdeorras ,4.2,1273,10.9,2021
+773,España,Blanco,Gramona,Gessamí 2021,Penedès ,4.2,1096,12.2,2021
+774,España,Blanco,Rafael Palacios,Louro Godello 2021,Valdeorras ,4.2,1043,17.9,2021
+775,España,Blanco,José Pariente,Sauvignon Blanc 2021,Rueda ,4.2,732,8.9,2021
+776,España,Blanco,Attis,Albariño Lías Finas 2021,Rías Baixas ,4.2,638,15.4,2021
+777,España,Blanco,Emilio Moro,La Revelía Godello 2018,Bierzo ,4.2,619,21.95,2018
+778,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2015,Rías Baixas ,4.2,429,26.9,2015
+779,España,Blanco,Viñedos y Bodegas Muñoz,Blas Muñoz Chardonnay 2021,Castilla ,4.2,376,12.8,2021
+780,España,Blanco,Pazo de Rubianes,Albariño 2021,Rías Baixas ,4.2,291,16.2,2021
+781,España,Blanco,Tomás Postigo,Fermentado En Barrica Blanco 2018,Castilla y León ,4.2,288,21.2,2018
+782,España,Blanco,Paco & Lola,Vintage Albariño 2015,Rías Baixas ,4.2,276,27.59,2015
+783,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2021,Somontano ,4.2,259,18.25,2021
+784,España,Blanco,Pago Casa Gran,Falcata Blanco 2021,Valencia ,4.2,257,10.0,2021
+785,España,Blanco,Vinos Sanz,Finca La Colina Sauvignon Blanc 2021,Rueda ,4.2,233,13.85,2021
+786,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2022,Rías Baixas ,4.2,221,13.3,2022
+787,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2019,Valdeorras ,4.2,217,18.9,2019
+788,España,Blanco,Bodegas Mauro,Godello Blanco 2018,Bierzo ,4.2,189,44.95,2018
+789,España,Blanco,Conreria d'Scala Dei,Les Brugueres Blanc 2021,Priorato ,4.2,175,17.99,2021
+790,España,Blanco,Clos Mogador,Nelin Priorat 2018,Priorato ,4.2,161,46.9,2018
+791,España,Blanco,Castell d'Encus,Ekam Essència 2018,Costers del Segre ,4.2,155,45.94,2018
+792,España,Blanco,Gramona,Gessamí 2022,Penedès ,4.2,154,11.39,2022
+793,España,Blanco,Mustiguillo,Finca Calvestra Merseguera 2020,Vino de España ,4.2,153,17.9,2020
+794,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2021,Valdeorras ,4.2,150,18.45,2021
+795,España,Blanco,Familia Torres,Fransola 2021,Penedès ,4.2,146,26.93,2021
+796,España,Blanco,Caraballas,Verdejo Organic 2021,Castilla y León ,4.2,143,12.9,2021
+797,España,Blanco,Yllera,Meraldis Verdejo 2018,Rueda ,4.2,140,22.4,2018
+798,España,Blanco,Edetària,Selecció Blanca 2016,Terra Alta ,4.2,140,50.75,2016
+799,España,Blanco,Godeval,Cepas Vellas Godello 2021,Valdeorras ,4.2,135,19.43,2021
+800,España,Blanco,Adega Familiar Eladio Piñeiro,Frore de Carme 2017,Rías Baixas ,4.2,129,34.16,2017
+801,España,Blanco,Bodegas Mauro,Godello Blanco 2020,Bierzo ,4.2,127,42.89,2020
+802,España,Blanco,Shaya,Habis 2018,Rueda ,4.2,126,22.25,2018
+803,España,Blanco,Compañía de Vinos Tricó,Albariño 2018,Rías Baixas ,4.2,122,18.2,2018
+804,España,Blanco,Edetària,Selecció Blanca 2018,Terra Alta ,4.2,121,25.71,2018
+805,España,Blanco,Castro Brey,Sin Palabras Albariño 2013,Rías Baixas ,4.2,120,20.15,2013
+806,España,Blanco,Bodega Otazu,Pago de Otazu Chardonnay Con Crianza 2019,Otazu ,4.2,110,28.5,2019
+807,España,Blanco,Pazo Señorans,Seleccion de Añada Albariño Rías Baixas 2013,Rías Baixas ,4.2,109,36.0,2013
+808,España,Blanco,Pedralonga,Albariño Pedralonga 2020,Rías Baixas ,4.2,108,15.9,2020
+809,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2020,Castilla ,4.2,107,21.7,2020
+810,España,Blanco,L'Olivera,Missenyora 2019,Costers del Segre ,4.2,97,14.1,2019
+811,España,Blanco,Cal Pla,Mas d'en Compte Priorat White 2017,Priorato ,4.2,94,14.9,2017
+812,España,Blanco,Azpilicueta,Colección Privada Blanco 2019,Rioja ,4.2,93,17.9,2019
+813,España,Blanco,Javier Sanz Viticultor,Singular V Malcorta Verdejo 2021,Rueda ,4.2,93,17.49,2021
+814,España,Blanco,Mar de Frades,Rías Baixas Albariño Atlantico 2022,Rías Baixas ,4.2,91,16.4,2022
+815,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2019,Rías Baixas ,4.2,89,34.5,2019
+816,España,Blanco,Ossian,Viñas Viejas Verdejo 2020,Castilla y León ,4.2,85,29.0,2020
+817,España,Blanco,Suertes del Marqués,Trenzado 2021,Valle de la Orotava ,4.2,83,20.75,2021
+818,España,Blanco,Dominio do Bibei,Lapola 2020,Ribeira Sacra ,4.2,75,21.65,2020
+819,España,Blanco,Clos Mogador,Nelin Priorat 2019,Priorato ,4.2,73,45.95,2019
+820,España,Blanco,Viñas del Vero,Clarión Seleccion Somontano 2016,Somontano ,4.2,72,17.8,2016
+821,España,Blanco,Bodega Campo Eliseo,Campo Eliseo Blanco 2017,Rueda ,4.2,64,52.28,2017
+822,España,Blanco,La Val,Albariño Sobre Lías 2015,Rías Baixas ,4.2,62,31.5,2015
+823,España,Blanco,Quinta de Couselo,Tradición Rosal 2015,Rías Baixas ,4.2,61,19.99,2015
+824,España,Blanco,Menade,La Misión 2019,Castilla y León ,4.2,61,23.95,2019
+825,España,Blanco,Familia Torres,Milmanda 2018,Conca de Barberà ,4.2,58,55.33,2018
+826,España,Blanco,Telmo Rodriguez,Branco de Santa Cruz 2019,Valdeorras ,4.2,55,33.71,2019
+827,España,Blanco,Trossos del Priorat,Abracadabra 2019,Priorato ,4.2,53,32.0,2019
+828,España,Blanco,Olivardots,Vd’O 6 Blanc - Sorra 2015,Empordà ,4.2,51,25.6,2015
+829,España,Blanco,La Caña,Navia Albarino 2019,Rías Baixas ,4.2,49,22.26,2019
+830,España,Blanco,Viñedos Hermanos Hernáiz,Finca La Emperatriz Viñedo Singular Blanco 2017,Rioja ,4.2,49,34.9,2017
+831,España,Blanco,Bodegas Mas Alta,La Solana Alta 2019,Priorato ,4.2,48,45.4,2019
+832,España,Blanco,Familia Torres,Forcada 2016,Penedès ,4.2,47,71.0,2016
+833,España,Blanco,Conde de Los Andes,Rioja Blanco 2018,Rioja ,4.2,46,24.99,2018
+834,España,Blanco,Clos Pons,Roc de Foc 2013,Costers del Segre ,4.2,44,19.53,2013
+835,España,Blanco,José Pariente,Verdejo Fermentado en Barrica 2021,Rueda ,4.2,43,16.35,2021
+836,España,Blanco,Quinta da Muradella,Treixadura Bajo Velo 2016,Monterrei ,4.2,42,37.1,2016
+837,España,Blanco,Terras Gauda,Terras Gauda O Rosal Etiqueta Negra (Black Label) 2019,Rías Baixas ,4.2,42,30.95,2019
+838,España,Blanco,Mas Oller,Mar En Calma 2021,Empordà ,4.2,40,20.0,2021
+839,España,Blanco,Canopy,Loco 2016,Méntrida ,4.2,39,26.8,2016
+840,España,Blanco,AT Roca,Cantallops Xarel-lo 2021,Penedès ,4.2,38,17.49,2021
+841,España,Blanco,Pazo Casanova,Finca Viñoa Paraje Penaboa 2017,Ribeiro ,4.2,36,25.56,2017
+842,España,Blanco,Estefanía,Entrecuestas Godello Bierzo 2020,Bierzo ,4.2,35,13.37,2020
+843,España,Blanco,Familia Torres,Forcada 2019,Penedès ,4.2,35,56.0,2019
+844,España,Blanco,Oliver Viticultors,Brots Xarel-lo 2020,Penedès ,4.2,34,13.75,2020
+845,España,Blanco,Gorka Izagirre,Ama 2019,Bizkaiko Txakolina ,4.2,34,34.45,2019
+846,España,Blanco,Ramón do Casar,Nobre 2021,Ribeiro ,4.2,33,20.8,2021
+847,España,Blanco,Bodegas El Paraguas,Agás do Tempo 2020,Ribeiro ,4.2,33,13.99,2020
+848,España,Blanco,Bodegas Garcia de Lara,Finca Villalobillos Pie Franco Airén 2020,Castilla ,4.2,31,11.9,2020
+849,España,Blanco,Pazo de Rubianes,García Caamaño Albariño 2019,Rías Baixas ,4.2,30,23.9,2019
+850,España,Blanco,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2018,Ribeiro ,4.2,30,39.9,2018
+851,España,Blanco,Attis,Sangarida La Guiana Godello 2020,Bierzo ,4.2,29,31.1,2020
+852,España,Blanco,Abel Mendoza Monge,Malvasía 2020,Rioja ,4.2,29,27.5,2020
+853,España,Blanco,Pago de Los Capellanes,O Luar do Sil Vides de Córgomo 2019,Valdeorras ,4.2,29,32.5,2019
+854,España,Blanco,Valdesil,Pezas da Portela Godello 2017,Valdeorras ,4.2,28,29.98,2017
+855,España,Blanco,Telmo Rodriguez,Molino Real 2017,Málaga ,4.2,28,35.76,2017
+856,España,Blanco,L'Olivera,Blanc de Marges 2018,Costers del Segre ,4.2,28,13.93,2018
+857,España,Blanco,Bodegas Mas Alta,Artigas Blanco 2019,Priorato ,4.2,27,24.94,2019
+858,España,Blanco,Bodegas Martín Códax,Rias Baixas Albarino Vindel 2019,Rías Baixas ,4.2,26,35.0,2019
+859,España,Blanco,Makatzak Wild Wines,Sorkin 2021,Getariako Txakolina ,4.2,26,24.95,2021
+860,España,Blanco,Can Bas,La Romana 2018,Penedès ,4.2,25,40.0,2018
+861,España,Blanco,Bernardo Estévez,Chánselus Castes Brancas 2019,Ribeiro ,4.2,25,28.05,2019
+862,España,Blanco,AT Roca,Anima Mundi Pells Skin Contact Macabeu 2021,Penedès ,4.2,25,20.95,2021
+863,España,Blanco,Familia Torres,Viña Esmeralda 2019,Cataluña ,4.1,6652,8.32,2019
+864,España,Blanco,Mar de Frades,Rías Baixas Albariño Atlantico 2021,Rías Baixas ,4.1,3063,17.75,2021
+865,España,Blanco,José Pariente,Verdejo 2021,Rueda ,4.1,2896,13.35,2021
+866,España,Blanco,Fefiñanes,Albariño de Fefiñanes 2021,Rías Baixas ,4.1,698,17.25,2021
+867,España,Blanco,Viñas del Vero,Gewürztraminer Somontano 2021,Somontano ,4.1,698,9.9,2021
+868,España,Blanco,Casa Rojo,La Marimorena Albariño 2020,Rías Baixas ,4.1,664,19.3,2020
+869,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Rias Baixas Albariño 2020,Rías Baixas ,4.1,635,19.51,2020
+870,España,Blanco,Santiago Ruiz,Albariño (O Rosal) 2021,Rías Baixas ,4.1,565,13.85,2021
+871,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Rias Baixas Albariño 2021,Rías Baixas ,4.1,524,13.85,2021
+872,España,Blanco,Agro de Bazán,Granbazán Albariño Etiqueta Ámbar 2021,Rías Baixas ,4.1,517,14.5,2021
+873,España,Blanco,Forjas del Salnés,Leirana Finca Genoveva Albariño 2020,Rías Baixas ,4.1,477,29.9,2020
+874,España,Blanco,Dominio do Bibei,Lalume 2018,Ribeiro ,4.1,414,16.4,2018
+875,España,Blanco,Veiga da Princesa,Albariño 2021,Rías Baixas ,4.1,413,12.55,2021
+876,España,Blanco,VALENCISO,Rioja Blanco 2019,Rioja ,4.1,384,17.9,2019
+877,España,Blanco,Finca Garabelos,La Trucha Albariño 2021,Rías Baixas ,4.1,383,11.6,2021
+878,España,Blanco,Familia Torres,Milmanda 2017,Conca de Barberà ,4.1,340,61.7,2017
+879,España,Blanco,Javier Sanz Viticultor,Verdejo 2021,Rueda ,4.1,322,9.25,2021
+880,España,Blanco,Familia Torres,Milmanda 2016,Conca de Barberà ,4.1,313,75.0,2016
+881,España,Blanco,Quinta de Couselo,Quinta de Couselo 2021,Rías Baixas ,4.1,308,11.95,2021
+882,España,Blanco,Mustiguillo,Finca Calvestra Merseguera 2018,Vino de España ,4.1,275,44.85,2018
+883,España,Blanco,Naia,Naiades 2016,Rueda ,4.1,250,20.85,2016
+884,España,Blanco,Compañía de Vinos Tricó,Albariño 2016,Rías Baixas ,4.1,243,19.65,2016
+885,España,Blanco,Terroir Al Límit Soc. Lda,Terra de Cuques 2018,Priorato ,4.1,238,34.54,2018
+886,España,Blanco,Fefiñanes,1583 Albariño de Fefiñanes 2021,Rías Baixas ,4.1,234,24.5,2021
+887,España,Blanco,Castell d'Encus,Taleia 2018,Costers del Segre ,4.1,229,28.5,2018
+888,España,Blanco,Marqués de Riscal,Finca Montico Organic 2021,Rueda ,4.1,221,12.83,2021
+889,España,Blanco,Circe,Blanco 2021,Rueda ,4.1,215,10.25,2021
+890,España,Blanco,Losada,Godello 2021,Bierzo ,4.1,206,13.9,2021
+891,España,Blanco,Parés Baltà,Penedès Parellada Honeymoon 2021,Penedès ,4.1,206,20.38,2021
+892,España,Blanco,Grandes Pagos Gallegos,Fraga do Corvo Godello 2021,Monterrei ,4.1,195,10.67,2021
+893,España,Blanco,Menade,La Misión 2017,Castilla y León ,4.1,190,54.0,2017
+894,España,Blanco,Escoda-Sanahuja,Els Bassots 2019,Conca de Barberà ,4.1,190,22.34,2019
+895,España,Blanco,Familia Torres,Waltraud Riesling 2020,Penedès ,4.1,190,19.58,2020
+896,España,Blanco,La Vizcaína,La del Vivo (Lomas de Valtuille) 2019,Bierzo ,4.1,184,18.69,2019
+897,España,Blanco,Campillo,Fermentado en Barrica Blanco 2020,Rioja ,4.1,180,7.9,2020
+898,España,Blanco,Mas Doix,Murmuri 2020,Priorato ,4.1,174,21.95,2020
+899,España,Blanco,La Vizcaína,La del Vivo (Lomas de Valtuille) 2020,Bierzo ,4.1,171,24.9,2020
+900,España,Blanco,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+901,España,Blanco,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+902,España,Blanco,Enate,Chardonnay Uno 2011,Somontano ,4.5,99,200.13,2011
+903,España,Blanco,Francisco Garcia Perez,Adega do Moucho Treixadura 2017,Ribeiro ,4.5,70,47.5,2017
+904,España,Blanco,Attis,Mar Albariño 2020,Rías Baixas ,4.5,50,88.2,2020
+905,España,Blanco,Pazo Barrantes,Gran Vino Albariño 2019,Rías Baixas ,4.4,931,33.9,2019
+906,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2019,Sardón de Duero ,4.4,425,34.2,2019
+907,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2020,Valdeorras ,4.4,373,55.0,2020
+908,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2020,Sardón de Duero ,4.4,339,34.3,2020
+909,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2017,Rioja ,4.4,232,48.67,2017
+910,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2017,Navarra ,4.4,230,59.9,2017
+911,España,Blanco,Fefiñanes,Albariño de Fefiñanes III Año 2015,Rías Baixas ,4.4,204,34.95,2015
+912,España,Blanco,Bodegas Mauro,Godello Blanco 2019,Bierzo ,4.4,160,86.63,2019
+913,España,Blanco,Hacienda López de Haro,Gran Reserva Classica Blanco 2012,Rioja ,4.4,121,44.9,2012
+914,España,Blanco,Luis A. Rodriguez Vazquez,Viña de Martin Escolma Ribeiro 2017,Ribeiro ,4.4,93,41.25,2017
+915,España,Blanco,Ossian,Capitel 2019,Castilla y León ,4.4,80,59.12,2019
+916,España,Blanco,Belondrade,Belondrade y Lurton 2021,Rueda ,4.4,57,44.5,2021
+917,España,Blanco,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albariño 2021,Rías Baixas ,4.4,48,29.0,2021
+918,España,Blanco,Familia Torres,Forcada 2017,Penedès ,4.4,47,69.0,2017
+919,España,Blanco,Ordóñez,Nisia Las Suertes Verdejo Old Vines 2021,Rueda ,4.4,43,21.5,2021
+920,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2021,Sardón de Duero ,4.4,39,34.2,2021
+921,España,Blanco,Rafael Palacios,As Sortes Val do Bibei Godello 2021,Valdeorras ,4.4,32,57.8,2021
+922,España,Blanco,Altavins,Selecció Garnatxa Blanca 2017,Terra Alta ,4.4,27,32.5,2017
+923,España,Blanco,Ossian,Viñas Viejas Verdejo 2016,Castilla y León ,4.3,1247,49.0,2016
+924,España,Blanco,Ossian,Viñas Viejas Verdejo 2018,Castilla y León ,4.3,1051,36.0,2018
+925,España,Blanco,Ossian,Viñas Viejas Verdejo 2019,Castilla y León ,4.3,863,39.9,2019
+926,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2016,Rioja ,4.3,774,57.0,2016
+927,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2020,Somontano ,4.3,635,17.23,2020
+928,España,Blanco,Dominio do Bibei,Lapola 2019,Ribeira Sacra ,4.3,548,22.76,2019
+929,España,Blanco,Ossian,Viñas Viejas Verdejo 2017,Castilla y León ,4.3,477,42.0,2017
+930,España,Blanco,Emilio Moro,La Revelía Godello 2019,Bierzo ,4.3,368,22.9,2019
+931,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2018,Sardón de Duero ,4.3,367,39.4,2018
+932,España,Blanco,Abadía Retuerta,LeDomaine Blanco de Guarda 2014,Sardón de Duero ,4.3,189,123.82,2014
+933,España,Blanco,Pago de Vallegarcía,Vallegarcia Viognier 2019,Castilla ,4.3,183,24.33,2019
+934,España,Blanco,Alonso & Pedrajo,Suañé Blanco 2017,Rioja ,4.3,153,24.8,2017
+935,España,Blanco,Remelluri,Rioja Blanco 2015,Rioja ,4.3,153,60.25,2015
+936,España,Blanco,Castell d'Encus,Ekam Essència 2019,Costers del Segre ,4.3,137,43.44,2019
+937,España,Blanco,Naia,Naiades 2018,Rueda ,4.3,111,19.25,2018
+938,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2017,Rías Baixas ,4.3,98,25.31,2017
+939,España,Blanco,Avancia,Godello 2021,Valdeorras ,4.3,82,51.99,2021
+940,España,Blanco,Cillar de Silos,Dominio del Pidio Albillo 2020,Ribera del Duero ,4.3,73,46.75,2020
+941,España,Blanco,Can Ràfols dels Caus,El Rocallís 2017,Cataluña ,4.3,71,40.99,2017
+942,España,Blanco,Chivite,Navarra Coleccion 125 Blanco 2019,Navarra ,4.3,67,54.0,2019
+943,España,Blanco,Compañía de Vinos Tricó,Nicolás Albariño 2018,Rías Baixas ,4.3,63,21.95,2018
+944,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2016,Castilla y León ,4.3,63,48.45,2016
+945,España,Blanco,VALENCISO,Rioja Blanco 2021,Rioja ,4.3,60,17.95,2021
+946,España,Blanco,Bodega Aida i Luis,Tahúlla Moscatel Blanco Seco 2018,Alicante ,4.3,56,11.95,2018
+947,España,Blanco,Pujanza,Rioja Añadas Frías 2016,Rioja ,4.3,54,161.15,2016
+948,España,Blanco,Bodega Sommos,Coleccion Chardonnay 2020,Somontano ,4.3,52,26.65,2020
+949,España,Blanco,Cellers Grifoll Declara,Gran Predicat Blanc 2018,Priorato ,4.3,51,26.75,2018
+950,España,Blanco,Castell d'Encus,Taleia 2019,Costers del Segre ,4.3,47,26.32,2019
+951,España,Blanco,Gómez Cruzado,Montes Obarenes Selección Terroir 2019,Rioja ,4.3,46,41.9,2019
+952,España,Blanco,Menade,Sobrenatural de Menade Verdejo Natural 2015,Castilla y León ,4.3,44,92.0,2015
+953,España,Blanco,Vulcano de Lanzarote,Malvasía Volcánica Seco 2022,Lanzarote ,4.3,44,26.45,2022
+954,España,Blanco,Bodegas Mauro,Godello Blanco 2021,Bierzo ,4.3,42,40.9,2021
+955,España,Blanco,Lagar de Sabariz,A Pita Cega 2015,Galicia ,4.3,41,44.8,2015
+956,España,Blanco,Remelluri,Rioja Blanco 2019,Rioja ,4.3,40,59.0,2019
+957,España,Blanco,Castro Candaz,La Vertical 2020,Ribeira Sacra ,4.3,38,21.9,2020
+958,España,Blanco,Muga,Flor de Muga Blanco 2019,Rioja ,4.3,38,30.0,2019
+959,España,Blanco,Oxer Wines,Iraun Rioja 2021,Rioja ,4.3,37,31.3,2021
+960,España,Blanco,Bodegas San Román,Malvasia 2019,Castilla ,4.3,37,39.4,2019
+961,España,Blanco,Bodegas El Paraguas,La Sombrilla 2018,Ribeiro ,4.3,35,36.5,2018
+962,España,Blanco,Abel Mendoza Monge,Viura 2020,Rioja ,4.3,34,26.75,2020
+963,España,Blanco,Mas d'en Gil,Coma Blanca Priorat 2017,Priorato ,4.3,33,40.52,2017
+964,España,Blanco,Matarromera,Verdejo Fermentado en Barrica 2018,Rueda ,4.3,31,24.9,2018
+965,España,Blanco,Pazo de Rubianes,1411 Albariño 2020,Rías Baixas ,4.3,28,31.08,2020
+966,España,Blanco,Pazo Señorans,Sol de Señorans Albariño Barrica 2012,Rías Baixas ,4.3,27,45.0,2012
+967,España,Blanco,Quinta da Muradella,Origen-02 2015,Monterrei ,4.3,27,31.1,2015
+968,España,Blanco,San Cobate,Branco 2018,Rueda ,4.3,26,18.45,2018
+969,España,Blanco,Bodegas Luis Perez,Palma Cortada La Barajuela 2017,Jerez-Xérès-Sherry ,4.3,26,58.5,2017
+970,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2021,Rías Baixas ,4.2,3330,15.5,2021
+971,España,Blanco,Marqués de Murrieta,Capellanía Reserva 2015,Rioja ,4.2,1383,65.35,2015
+972,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello 2021,Valdeorras ,4.2,1273,10.9,2021
+973,España,Blanco,Gramona,Gessamí 2021,Penedès ,4.2,1096,12.2,2021
+974,España,Blanco,Rafael Palacios,Louro Godello 2021,Valdeorras ,4.2,1043,17.9,2021
+975,España,Blanco,José Pariente,Sauvignon Blanc 2021,Rueda ,4.2,732,8.9,2021
+976,España,Blanco,Attis,Albariño Lías Finas 2021,Rías Baixas ,4.2,638,15.4,2021
+977,España,Blanco,Emilio Moro,La Revelía Godello 2018,Bierzo ,4.2,619,21.95,2018
+978,España,Blanco,Mar de Frades,Rias Baixas Albariño Finca Valiñas 2015,Rías Baixas ,4.2,429,26.9,2015
+979,España,Blanco,Viñedos y Bodegas Muñoz,Blas Muñoz Chardonnay 2021,Castilla ,4.2,376,12.8,2021
+980,España,Blanco,Pazo de Rubianes,Albariño 2021,Rías Baixas ,4.2,291,16.2,2021
+981,España,Blanco,Tomás Postigo,Fermentado En Barrica Blanco 2018,Castilla y León ,4.2,288,21.2,2018
+982,España,Blanco,Paco & Lola,Vintage Albariño 2015,Rías Baixas ,4.2,276,27.59,2015
+983,España,Blanco,Enate,Chardonnay Fermentado en Barrica 2021,Somontano ,4.2,259,18.25,2021
+984,España,Blanco,Pago Casa Gran,Falcata Blanco 2021,Valencia ,4.2,257,10.0,2021
+985,España,Blanco,Vinos Sanz,Finca La Colina Sauvignon Blanc 2021,Rueda ,4.2,233,13.85,2021
+986,España,Blanco,Terras Gauda,Terras Gauda O'Rosal 2022,Rías Baixas ,4.2,221,13.3,2022
+987,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2019,Valdeorras ,4.2,217,18.9,2019
+988,España,Blanco,Bodegas Mauro,Godello Blanco 2018,Bierzo ,4.2,189,44.95,2018
+989,España,Blanco,Conreria d'Scala Dei,Les Brugueres Blanc 2021,Priorato ,4.2,175,17.99,2021
+990,España,Blanco,Clos Mogador,Nelin Priorat 2018,Priorato ,4.2,161,46.9,2018
+991,España,Blanco,Castell d'Encus,Ekam Essència 2018,Costers del Segre ,4.2,155,45.94,2018
+992,España,Blanco,Gramona,Gessamí 2022,Penedès ,4.2,154,11.39,2022
+993,España,Blanco,Mustiguillo,Finca Calvestra Merseguera 2020,Vino de España ,4.2,153,17.9,2020
+994,España,Blanco,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2021,Valdeorras ,4.2,150,18.45,2021
+995,España,Blanco,Familia Torres,Fransola 2021,Penedès ,4.2,146,26.93,2021
+996,España,Blanco,Caraballas,Verdejo Organic 2021,Castilla y León ,4.2,143,12.9,2021
+997,España,Blanco,Yllera,Meraldis Verdejo 2018,Rueda ,4.2,140,22.4,2018
+998,España,Blanco,Edetària,Selecció Blanca 2016,Terra Alta ,4.2,140,50.75,2016
+999,España,Blanco,Godeval,Cepas Vellas Godello 2021,Valdeorras ,4.2,135,19.43,2021

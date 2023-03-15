@@ -1,0 +1,1001 @@
+,Pais,Tipo,Bodegas,Nombre y año,Región,Rating,Valoraciones,Precio,Año
+0,España,Tinto,Vega Sicilia,Unico 2010,Ribera del Duero ,4.8,1571,380.55,2010
+1,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2018,Ribera del Duero ,4.8,462,484.0,2018
+2,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2019,Ribera del Duero ,4.8,261,471.9,2019
+3,España,Tinto,Toro Albalá,Don PX Convento Selección 1931,Montilla-Moriles ,4.8,159,300.93,1931
+4,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2020,Ribera del Duero ,4.8,97,435.75,2020
+5,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2014,Toro ,4.8,84,369.05,2014
+6,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2007,Ribera del Duero ,4.8,81,360.0,2007
+7,España,Tinto,Toro Albalá,Don PX Convento Selección 1929,Montilla-Moriles ,4.8,77,290.95,1929
+8,España,Tinto,Artadi,Viña El Pison 2018,Vino de España ,4.8,54,299.25,2018
+9,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2021,Ribera del Duero ,4.8,28,451.5,2021
+10,España,Tinto,Vega Sicilia,Unico 2005,Ribera del Duero ,4.7,3627,496.1,2005
+11,España,Tinto,Vega Sicilia,Valbuena 5º 2006,Ribera del Duero ,4.7,3980,249.2,2006
+12,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición,Ribera del Duero ,4.7,12885,423.5,Edición
+13,España,Tinto,Vega Sicilia,Unico 2006,Ribera del Duero ,4.7,2976,450.0,2006
+14,España,Tinto,Vega Sicilia,Unico 2008,Ribera del Duero ,4.7,2516,499.0,2008
+15,España,Tinto,Vega Sicilia,Unico 2009,Ribera del Duero ,4.7,2054,450.0,2009
+16,España,Tinto,Vega Sicilia,Valbuena 5º 2005,Ribera del Duero ,4.7,1894,284.1,2005
+17,España,Tinto,Vega Sicilia,Unico 2011,Ribera del Duero ,4.7,1298,389.9,2011
+18,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2017,Ribera del Duero ,4.7,563,496.1,2017
+19,España,Tinto,Vega Sicilia,Unico 2012,Ribera del Duero ,4.7,511,349.0,2012
+20,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2016,Ribera del Duero ,4.7,434,120.75,2016
+21,España,Tinto,Pago de Los Capellanes,Parcela El Picón Tinto 2016,Ribera del Duero ,4.7,140,196.0,2016
+22,España,Tinto,Toro Albalá,Don PX Convento Selección 1955,Montilla-Moriles ,4.7,129,227.5,1955
+23,España,Tinto,Toro Albalá,Don PX Pedro Ximenez 1931,Montilla-Moriles ,4.7,79,320.61,1931
+24,España,Tinto,Teso La Monja,Alabaster 2019,Toro ,4.7,74,160.77,2019
+25,España,Tinto,Vega Sicilia,Unico 2010,Ribera del Duero ,4.8,1571,380.55,2010
+26,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2018,Ribera del Duero ,4.8,462,484.0,2018
+27,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2019,Ribera del Duero ,4.8,261,471.9,2019
+28,España,Tinto,Toro Albalá,Don PX Convento Selección 1931,Montilla-Moriles ,4.8,159,300.93,1931
+29,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2020,Ribera del Duero ,4.8,97,435.75,2020
+30,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2014,Toro ,4.8,84,369.05,2014
+31,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2007,Ribera del Duero ,4.8,81,360.0,2007
+32,España,Tinto,Toro Albalá,Don PX Convento Selección 1929,Montilla-Moriles ,4.8,77,290.95,1929
+33,España,Tinto,Artadi,Viña El Pison 2018,Vino de España ,4.8,54,299.25,2018
+34,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2021,Ribera del Duero ,4.8,28,451.5,2021
+35,España,Tinto,Vega Sicilia,Unico 2005,Ribera del Duero ,4.7,3627,496.1,2005
+36,España,Tinto,Vega Sicilia,Valbuena 5º 2006,Ribera del Duero ,4.7,3980,249.2,2006
+37,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición,Ribera del Duero ,4.7,12885,423.5,Edición
+38,España,Tinto,Vega Sicilia,Unico 2006,Ribera del Duero ,4.7,2976,450.0,2006
+39,España,Tinto,Vega Sicilia,Unico 2008,Ribera del Duero ,4.7,2516,499.0,2008
+40,España,Tinto,Vega Sicilia,Unico 2009,Ribera del Duero ,4.7,2054,450.0,2009
+41,España,Tinto,Vega Sicilia,Valbuena 5º 2005,Ribera del Duero ,4.7,1894,284.1,2005
+42,España,Tinto,Vega Sicilia,Unico 2011,Ribera del Duero ,4.7,1298,389.9,2011
+43,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2017,Ribera del Duero ,4.7,563,496.1,2017
+44,España,Tinto,Vega Sicilia,Unico 2012,Ribera del Duero ,4.7,511,349.0,2012
+45,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2016,Ribera del Duero ,4.7,434,120.75,2016
+46,España,Tinto,Pago de Los Capellanes,Parcela El Picón Tinto 2016,Ribera del Duero ,4.7,140,196.0,2016
+47,España,Tinto,Toro Albalá,Don PX Convento Selección 1955,Montilla-Moriles ,4.7,129,227.5,1955
+48,España,Tinto,Toro Albalá,Don PX Pedro Ximenez 1931,Montilla-Moriles ,4.7,79,320.61,1931
+49,España,Tinto,Teso La Monja,Alabaster 2019,Toro ,4.7,74,160.77,2019
+50,España,Tinto,Pago de Carraovejas,Cuesta de Las Liebres 2018,Ribera del Duero ,4.7,70,158.9,2018
+51,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2015,Toro ,4.7,70,369.0,2015
+52,España,Tinto,Toro Albalá,Don PX Convento Selección 1958,Montilla-Moriles ,4.7,55,249.02,1958
+53,España,Tinto,Recaredo,Reserva Particular de Recaredo Brut Nature 2011,Penedès ,4.7,54,65.05,2011
+54,España,Tinto,Equipo Navazos,La Bota 78 de Oloroso N.V.,Manzanilla ,4.7,47,91.22,N.V.
+55,España,Tinto,Viñedos de Páganos,La Nieta 2020,Rioja ,4.7,46,109.99,2020
+56,España,Tinto,Territorio Luthier,Luthier Gran Reserva 2012,Ribera del Duero ,4.7,45,248.0,2012
+57,España,Tinto,Comenge,Jacobus 2014,Ribera del Duero ,4.7,38,195.9,2014
+58,España,Tinto,Familia Torres,Reserva Real 2016,Penedès ,4.7,36,273.0,2016
+59,España,Tinto,Artadi,Viña El Pison 2019,Vino de España ,4.7,29,324.99,2019
+60,España,Tinto,Vega Sicilia,Valbuena 5º 2007,Ribera del Duero ,4.6,5216,270.0,2007
+61,España,Tinto,Vega Sicilia,Valbuena 5º 2008,Ribera del Duero ,4.6,5626,282.39,2008
+62,España,Tinto,Vega Sicilia,Valbuena 5º 2012,Ribera del Duero ,4.6,6119,268.12,2012
+63,España,Tinto,Alión,Ribera del Duero 2017,Ribera del Duero ,4.6,3517,189.9,2017
+64,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2019,Ribera del Duero ,4.6,2513,129.46,2019
+65,España,Tinto,Dominio de Pingus,Flor de Pingus 2018,Ribera del Duero ,4.6,1964,149.5,2018
+66,España,Tinto,Alión,Ribera del Duero 2018,Ribera del Duero ,4.6,1959,185.0,2018
+67,España,Tinto,Vega Sicilia,Valbuena 5º 2000,Ribera del Duero ,4.6,1020,278.3,2000
+68,España,Tinto,Vega Sicilia,Valbuena 5º 2002,Ribera del Duero ,4.6,961,272.25,2002
+69,España,Tinto,Bodega Numanthia,Termanthia 2012,Toro ,4.6,894,232.85,2012
+70,España,Tinto,Marqués de Murrieta,Castillo Ygay Gran Reserva Especial Tinto 2011,Rioja ,4.6,612,194.98,2011
+71,España,Tinto,Vega Sicilia,Valbuena 5º 1999,Ribera del Duero ,4.6,604,276.8,1999
+72,España,Tinto,Viñedos de Páganos,La Nieta 2018,Rioja ,4.6,304,110.8,2018
+73,España,Tinto,Artadi,Viña El Pison 2006,Vino de España ,4.6,279,391.5,2006
+74,España,Tinto,Teso La Monja,Alabaster 2015,Toro ,4.6,231,155.0,2015
+75,España,Tinto,Vega Sicilia,Unico 2010,Ribera del Duero ,4.8,1571,380.55,2010
+76,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2018,Ribera del Duero ,4.8,462,484.0,2018
+77,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2019,Ribera del Duero ,4.8,261,471.9,2019
+78,España,Tinto,Toro Albalá,Don PX Convento Selección 1931,Montilla-Moriles ,4.8,159,300.93,1931
+79,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2020,Ribera del Duero ,4.8,97,435.75,2020
+80,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2014,Toro ,4.8,84,369.05,2014
+81,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2007,Ribera del Duero ,4.8,81,360.0,2007
+82,España,Tinto,Toro Albalá,Don PX Convento Selección 1929,Montilla-Moriles ,4.8,77,290.95,1929
+83,España,Tinto,Artadi,Viña El Pison 2018,Vino de España ,4.8,54,299.25,2018
+84,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2021,Ribera del Duero ,4.8,28,451.5,2021
+85,España,Tinto,Vega Sicilia,Unico 2005,Ribera del Duero ,4.7,3627,496.1,2005
+86,España,Tinto,Vega Sicilia,Valbuena 5º 2006,Ribera del Duero ,4.7,3980,249.2,2006
+87,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición,Ribera del Duero ,4.7,12885,423.5,Edición
+88,España,Tinto,Vega Sicilia,Unico 2006,Ribera del Duero ,4.7,2976,450.0,2006
+89,España,Tinto,Vega Sicilia,Unico 2008,Ribera del Duero ,4.7,2516,499.0,2008
+90,España,Tinto,Vega Sicilia,Unico 2009,Ribera del Duero ,4.7,2054,450.0,2009
+91,España,Tinto,Vega Sicilia,Valbuena 5º 2005,Ribera del Duero ,4.7,1894,284.1,2005
+92,España,Tinto,Vega Sicilia,Unico 2011,Ribera del Duero ,4.7,1298,389.9,2011
+93,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2017,Ribera del Duero ,4.7,563,496.1,2017
+94,España,Tinto,Vega Sicilia,Unico 2012,Ribera del Duero ,4.7,511,349.0,2012
+95,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2016,Ribera del Duero ,4.7,434,120.75,2016
+96,España,Tinto,Pago de Los Capellanes,Parcela El Picón Tinto 2016,Ribera del Duero ,4.7,140,196.0,2016
+97,España,Tinto,Toro Albalá,Don PX Convento Selección 1955,Montilla-Moriles ,4.7,129,227.5,1955
+98,España,Tinto,Toro Albalá,Don PX Pedro Ximenez 1931,Montilla-Moriles ,4.7,79,320.61,1931
+99,España,Tinto,Teso La Monja,Alabaster 2019,Toro ,4.7,74,160.77,2019
+100,España,Tinto,Pago de Carraovejas,Cuesta de Las Liebres 2018,Ribera del Duero ,4.7,70,158.9,2018
+101,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2015,Toro ,4.7,70,369.0,2015
+102,España,Tinto,Toro Albalá,Don PX Convento Selección 1958,Montilla-Moriles ,4.7,55,249.02,1958
+103,España,Tinto,Recaredo,Reserva Particular de Recaredo Brut Nature 2011,Penedès ,4.7,54,65.05,2011
+104,España,Tinto,Equipo Navazos,La Bota 78 de Oloroso N.V.,Manzanilla ,4.7,47,91.22,N.V.
+105,España,Tinto,Viñedos de Páganos,La Nieta 2020,Rioja ,4.7,46,109.99,2020
+106,España,Tinto,Territorio Luthier,Luthier Gran Reserva 2012,Ribera del Duero ,4.7,45,248.0,2012
+107,España,Tinto,Comenge,Jacobus 2014,Ribera del Duero ,4.7,38,195.9,2014
+108,España,Tinto,Familia Torres,Reserva Real 2016,Penedès ,4.7,36,273.0,2016
+109,España,Tinto,Artadi,Viña El Pison 2019,Vino de España ,4.7,29,324.99,2019
+110,España,Tinto,Vega Sicilia,Valbuena 5º 2007,Ribera del Duero ,4.6,5216,270.0,2007
+111,España,Tinto,Vega Sicilia,Valbuena 5º 2008,Ribera del Duero ,4.6,5626,282.39,2008
+112,España,Tinto,Vega Sicilia,Valbuena 5º 2012,Ribera del Duero ,4.6,6119,268.12,2012
+113,España,Tinto,Alión,Ribera del Duero 2017,Ribera del Duero ,4.6,3517,189.9,2017
+114,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2019,Ribera del Duero ,4.6,2513,129.46,2019
+115,España,Tinto,Dominio de Pingus,Flor de Pingus 2018,Ribera del Duero ,4.6,1964,149.5,2018
+116,España,Tinto,Alión,Ribera del Duero 2018,Ribera del Duero ,4.6,1959,185.0,2018
+117,España,Tinto,Vega Sicilia,Valbuena 5º 2000,Ribera del Duero ,4.6,1020,278.3,2000
+118,España,Tinto,Vega Sicilia,Valbuena 5º 2002,Ribera del Duero ,4.6,961,272.25,2002
+119,España,Tinto,Bodega Numanthia,Termanthia 2012,Toro ,4.6,894,232.85,2012
+120,España,Tinto,Marqués de Murrieta,Castillo Ygay Gran Reserva Especial Tinto 2011,Rioja ,4.6,612,194.98,2011
+121,España,Tinto,Vega Sicilia,Valbuena 5º 1999,Ribera del Duero ,4.6,604,276.8,1999
+122,España,Tinto,Viñedos de Páganos,La Nieta 2018,Rioja ,4.6,304,110.8,2018
+123,España,Tinto,Artadi,Viña El Pison 2006,Vino de España ,4.6,279,391.5,2006
+124,España,Tinto,Teso La Monja,Alabaster 2015,Toro ,4.6,231,155.0,2015
+125,España,Tinto,Bodega Numanthia,Termanthia 2014,Toro ,4.6,230,229.84,2014
+126,España,Tinto,Bodegas Mauro,Terreus Paraje de Cueva Baja 2018,Castilla y León ,4.6,208,91.5,2018
+127,España,Tinto,Viñedos de Páganos,La Nieta 2019,Rioja ,4.6,193,117.29,2019
+128,España,Tinto,Bodegas Roda,Cirsion Rioja 2017,Rioja ,4.6,182,210.0,2017
+129,España,Tinto,Teso La Monja,Alabaster 2017,Toro ,4.6,171,158.7,2017
+130,España,Tinto,Artadi,Viña El Pison 2012,Vino de España ,4.6,170,450.0,2012
+131,España,Tinto,Artadi,Viña El Pison 2011,Vino de España ,4.6,170,495.0,2011
+132,España,Tinto,Vega Sicilia,Valbuena 5º 1985,Ribera del Duero ,4.6,146,285.0,1985
+133,España,Tinto,Artadi,Viña El Pison 2014,Vino de España ,4.6,137,310.95,2014
+134,España,Tinto,Alto Moncayo,Aquilon Garnacha 2015,Campo de Borja ,4.6,132,117.25,2015
+135,España,Tinto,Cepa 21,Horcajo 2015,Ribera del Duero ,4.6,126,75.9,2015
+136,España,Tinto,Hacienda Monasterio,Reserva Especial 2016,Ribera del Duero ,4.6,125,86.84,2016
+137,España,Tinto,Hacienda Monasterio,Reserva Especial 2015,Ribera del Duero ,4.6,122,87.68,2015
+138,España,Tinto,Alto Moncayo,Aquilon Garnacha 2016,Campo de Borja ,4.6,91,112.0,2016
+139,España,Tinto,Teso La Monja,Alabaster 2018,Toro ,4.6,87,160.0,2018
+140,España,Tinto,Mas d'en Gil,Gran Buig Priorat 2004,Priorato ,4.6,82,350.0,2004
+141,España,Tinto,Oxer Wines,Kalamity Rioja 2018,Rioja ,4.6,82,109.73,2018
+142,España,Tinto,Osborne,Solera India Oloroso Rare Sherry N.V.,Jerez-Xérès-Sherry ,4.6,80,195.0,N.V.
+143,España,Tinto,Dominio del Águila,Gran Reserva Peñas Aladas 2014,Ribera del Duero ,4.6,80,208.95,2014
+144,España,Tinto,Castillo Perelada,Finca Garbet 2014,Empordà ,4.6,79,119.7,2014
+145,España,Tinto,Gómez Cruzado,Viña Motulleri 2011,Rioja ,4.6,77,85.5,2011
+146,España,Tinto,Sierra Cantabria,Amancio 2017,Rioja ,4.6,74,88.77,2017
+147,España,Tinto,Bodegas Mas Alta,La Creu Alta 2017,Priorato ,4.6,70,87.95,2017
+148,España,Tinto,Artadi,El Carretil 2013,Vino de España ,4.6,69,215.0,2013
+149,España,Tinto,Bodegas Valduero,Tierra Alta de 2 Racimos Gran Reserva 2012,Ribera del Duero ,4.6,69,93.5,2012
+150,España,Tinto,Vega Sicilia,Unico 2010,Ribera del Duero ,4.8,1571,380.55,2010
+151,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2018,Ribera del Duero ,4.8,462,484.0,2018
+152,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2019,Ribera del Duero ,4.8,261,471.9,2019
+153,España,Tinto,Toro Albalá,Don PX Convento Selección 1931,Montilla-Moriles ,4.8,159,300.93,1931
+154,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2020,Ribera del Duero ,4.8,97,435.75,2020
+155,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2014,Toro ,4.8,84,369.05,2014
+156,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2007,Ribera del Duero ,4.8,81,360.0,2007
+157,España,Tinto,Toro Albalá,Don PX Convento Selección 1929,Montilla-Moriles ,4.8,77,290.95,1929
+158,España,Tinto,Artadi,Viña El Pison 2018,Vino de España ,4.8,54,299.25,2018
+159,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2021,Ribera del Duero ,4.8,28,451.5,2021
+160,España,Tinto,Vega Sicilia,Unico 2005,Ribera del Duero ,4.7,3627,496.1,2005
+161,España,Tinto,Vega Sicilia,Valbuena 5º 2006,Ribera del Duero ,4.7,3980,249.2,2006
+162,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición,Ribera del Duero ,4.7,12885,423.5,Edición
+163,España,Tinto,Vega Sicilia,Unico 2006,Ribera del Duero ,4.7,2976,450.0,2006
+164,España,Tinto,Vega Sicilia,Unico 2008,Ribera del Duero ,4.7,2516,499.0,2008
+165,España,Tinto,Vega Sicilia,Unico 2009,Ribera del Duero ,4.7,2054,450.0,2009
+166,España,Tinto,Vega Sicilia,Valbuena 5º 2005,Ribera del Duero ,4.7,1894,284.1,2005
+167,España,Tinto,Vega Sicilia,Unico 2011,Ribera del Duero ,4.7,1298,389.9,2011
+168,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2017,Ribera del Duero ,4.7,563,496.1,2017
+169,España,Tinto,Vega Sicilia,Unico 2012,Ribera del Duero ,4.7,511,349.0,2012
+170,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2016,Ribera del Duero ,4.7,434,120.75,2016
+171,España,Tinto,Pago de Los Capellanes,Parcela El Picón Tinto 2016,Ribera del Duero ,4.7,140,196.0,2016
+172,España,Tinto,Toro Albalá,Don PX Convento Selección 1955,Montilla-Moriles ,4.7,129,227.5,1955
+173,España,Tinto,Toro Albalá,Don PX Pedro Ximenez 1931,Montilla-Moriles ,4.7,79,320.61,1931
+174,España,Tinto,Teso La Monja,Alabaster 2019,Toro ,4.7,74,160.77,2019
+175,España,Tinto,Pago de Carraovejas,Cuesta de Las Liebres 2018,Ribera del Duero ,4.7,70,158.9,2018
+176,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2015,Toro ,4.7,70,369.0,2015
+177,España,Tinto,Toro Albalá,Don PX Convento Selección 1958,Montilla-Moriles ,4.7,55,249.02,1958
+178,España,Tinto,Recaredo,Reserva Particular de Recaredo Brut Nature 2011,Penedès ,4.7,54,65.05,2011
+179,España,Tinto,Equipo Navazos,La Bota 78 de Oloroso N.V.,Manzanilla ,4.7,47,91.22,N.V.
+180,España,Tinto,Viñedos de Páganos,La Nieta 2020,Rioja ,4.7,46,109.99,2020
+181,España,Tinto,Territorio Luthier,Luthier Gran Reserva 2012,Ribera del Duero ,4.7,45,248.0,2012
+182,España,Tinto,Comenge,Jacobus 2014,Ribera del Duero ,4.7,38,195.9,2014
+183,España,Tinto,Familia Torres,Reserva Real 2016,Penedès ,4.7,36,273.0,2016
+184,España,Tinto,Artadi,Viña El Pison 2019,Vino de España ,4.7,29,324.99,2019
+185,España,Tinto,Vega Sicilia,Valbuena 5º 2007,Ribera del Duero ,4.6,5216,270.0,2007
+186,España,Tinto,Vega Sicilia,Valbuena 5º 2008,Ribera del Duero ,4.6,5626,282.39,2008
+187,España,Tinto,Vega Sicilia,Valbuena 5º 2012,Ribera del Duero ,4.6,6119,268.12,2012
+188,España,Tinto,Alión,Ribera del Duero 2017,Ribera del Duero ,4.6,3517,189.9,2017
+189,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2019,Ribera del Duero ,4.6,2513,129.46,2019
+190,España,Tinto,Dominio de Pingus,Flor de Pingus 2018,Ribera del Duero ,4.6,1964,149.5,2018
+191,España,Tinto,Alión,Ribera del Duero 2018,Ribera del Duero ,4.6,1959,185.0,2018
+192,España,Tinto,Vega Sicilia,Valbuena 5º 2000,Ribera del Duero ,4.6,1020,278.3,2000
+193,España,Tinto,Vega Sicilia,Valbuena 5º 2002,Ribera del Duero ,4.6,961,272.25,2002
+194,España,Tinto,Bodega Numanthia,Termanthia 2012,Toro ,4.6,894,232.85,2012
+195,España,Tinto,Marqués de Murrieta,Castillo Ygay Gran Reserva Especial Tinto 2011,Rioja ,4.6,612,194.98,2011
+196,España,Tinto,Vega Sicilia,Valbuena 5º 1999,Ribera del Duero ,4.6,604,276.8,1999
+197,España,Tinto,Viñedos de Páganos,La Nieta 2018,Rioja ,4.6,304,110.8,2018
+198,España,Tinto,Artadi,Viña El Pison 2006,Vino de España ,4.6,279,391.5,2006
+199,España,Tinto,Teso La Monja,Alabaster 2015,Toro ,4.6,231,155.0,2015
+200,España,Tinto,Bodega Numanthia,Termanthia 2014,Toro ,4.6,230,229.84,2014
+201,España,Tinto,Bodegas Mauro,Terreus Paraje de Cueva Baja 2018,Castilla y León ,4.6,208,91.5,2018
+202,España,Tinto,Viñedos de Páganos,La Nieta 2019,Rioja ,4.6,193,117.29,2019
+203,España,Tinto,Bodegas Roda,Cirsion Rioja 2017,Rioja ,4.6,182,210.0,2017
+204,España,Tinto,Teso La Monja,Alabaster 2017,Toro ,4.6,171,158.7,2017
+205,España,Tinto,Artadi,Viña El Pison 2012,Vino de España ,4.6,170,450.0,2012
+206,España,Tinto,Artadi,Viña El Pison 2011,Vino de España ,4.6,170,495.0,2011
+207,España,Tinto,Vega Sicilia,Valbuena 5º 1985,Ribera del Duero ,4.6,146,285.0,1985
+208,España,Tinto,Artadi,Viña El Pison 2014,Vino de España ,4.6,137,310.95,2014
+209,España,Tinto,Alto Moncayo,Aquilon Garnacha 2015,Campo de Borja ,4.6,132,117.25,2015
+210,España,Tinto,Cepa 21,Horcajo 2015,Ribera del Duero ,4.6,126,75.9,2015
+211,España,Tinto,Hacienda Monasterio,Reserva Especial 2016,Ribera del Duero ,4.6,125,86.84,2016
+212,España,Tinto,Hacienda Monasterio,Reserva Especial 2015,Ribera del Duero ,4.6,122,87.68,2015
+213,España,Tinto,Alto Moncayo,Aquilon Garnacha 2016,Campo de Borja ,4.6,91,112.0,2016
+214,España,Tinto,Teso La Monja,Alabaster 2018,Toro ,4.6,87,160.0,2018
+215,España,Tinto,Mas d'en Gil,Gran Buig Priorat 2004,Priorato ,4.6,82,350.0,2004
+216,España,Tinto,Oxer Wines,Kalamity Rioja 2018,Rioja ,4.6,82,109.73,2018
+217,España,Tinto,Osborne,Solera India Oloroso Rare Sherry N.V.,Jerez-Xérès-Sherry ,4.6,80,195.0,N.V.
+218,España,Tinto,Dominio del Águila,Gran Reserva Peñas Aladas 2014,Ribera del Duero ,4.6,80,208.95,2014
+219,España,Tinto,Castillo Perelada,Finca Garbet 2014,Empordà ,4.6,79,119.7,2014
+220,España,Tinto,Gómez Cruzado,Viña Motulleri 2011,Rioja ,4.6,77,85.5,2011
+221,España,Tinto,Sierra Cantabria,Amancio 2017,Rioja ,4.6,74,88.77,2017
+222,España,Tinto,Bodegas Mas Alta,La Creu Alta 2017,Priorato ,4.6,70,87.95,2017
+223,España,Tinto,Artadi,El Carretil 2013,Vino de España ,4.6,69,215.0,2013
+224,España,Tinto,Bodegas Valduero,Tierra Alta de 2 Racimos Gran Reserva 2012,Ribera del Duero ,4.6,69,93.5,2012
+225,España,Tinto,Álvaro Palacios,Les Aubaguetes Priorat 2016,Priorato ,4.6,68,465.0,2016
+226,España,Tinto,Marqués de Griñon,AAA 2008,Dominio de Valdepusa ,4.6,67,168.43,2008
+227,España,Tinto,Gramona,Cava Enoteca Finca La Plana Brut Nature 2001,Cava ,4.6,61,152.0,2001
+228,España,Tinto,Artadi,Viña El Pison 2017,Vino de España ,4.6,53,304.54,2017
+229,España,Tinto,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+230,España,Tinto,Mas Doix,1902 Centenary Carignan Priorat 2016,Priorato ,4.6,50,299.0,2016
+231,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2019,Ribera del Duero ,4.6,48,129.91,2019
+232,España,Tinto,Vall Llach,Mas de la Rosa 2019,Priorato ,4.6,45,275.0,2019
+233,España,Tinto,Sierra Cantabria,Amancio 2018,Rioja ,4.6,43,90.0,2018
+234,España,Tinto,Terroir Al Límit Soc. Lda,Les Tosses 2016,Priorato ,4.6,42,230.6,2016
+235,España,Tinto,Artadi,El Carretil 2017,Vino de España ,4.6,40,176.89,2017
+236,España,Tinto,Bodegas El Nido,El Nido 2020,Jumilla ,4.6,39,150.0,2020
+237,España,Tinto,Bodega Negón Gonzales,Dharma de Negón Red 2014,Castilla ,4.6,32,80.67,2014
+238,España,Tinto,Huerta de Albala,Taberner No. 1 2013,Cádiz ,4.6,37,78.23,2013
+239,España,Tinto,Cuentaviñas,Los Yelsones 2018,Rioja ,4.6,37,173.25,2018
+240,España,Tinto,Jorge Ordóñez,No. 3 Old Vines 2010,Málaga ,4.6,36,46.69,2010
+241,España,Tinto,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+242,España,Tinto,Bodegas San Román,Cartago Paraje de Pozo 2017,Toro ,4.6,34,77.85,2017
+243,España,Tinto,Enate,Uno Tinto 2010,Somontano ,4.6,38,143.5,2010
+244,España,Tinto,Osborne,Solera BC-200 N.V.,Jerez-Xérès-Sherry ,4.6,30,195.0,N.V.
+245,España,Tinto,Pago de Carraovejas,Tinto 2018,Ribera del Duero ,4.5,6115,59.0,2018
+246,España,Tinto,Pintia,Toro 2015,Toro ,4.5,5537,99.8,2015
+247,España,Tinto,Pago de Carraovejas,Tinto 2019,Ribera del Duero ,4.5,5297,52.5,2019
+248,España,Tinto,Pintia,Toro 2016,Toro ,4.5,4700,89.9,2016
+249,España,Tinto,Dominio de Pingus,Flor de Pingus 2015,Ribera del Duero ,4.5,2800,200.0,2015
+250,España,Tinto,Vega Sicilia,Unico 2010,Ribera del Duero ,4.8,1571,380.55,2010
+251,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2018,Ribera del Duero ,4.8,462,484.0,2018
+252,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2019,Ribera del Duero ,4.8,261,471.9,2019
+253,España,Tinto,Toro Albalá,Don PX Convento Selección 1931,Montilla-Moriles ,4.8,159,300.93,1931
+254,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2020,Ribera del Duero ,4.8,97,435.75,2020
+255,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2014,Toro ,4.8,84,369.05,2014
+256,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2007,Ribera del Duero ,4.8,81,360.0,2007
+257,España,Tinto,Toro Albalá,Don PX Convento Selección 1929,Montilla-Moriles ,4.8,77,290.95,1929
+258,España,Tinto,Artadi,Viña El Pison 2018,Vino de España ,4.8,54,299.25,2018
+259,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2021,Ribera del Duero ,4.8,28,451.5,2021
+260,España,Tinto,Vega Sicilia,Unico 2005,Ribera del Duero ,4.7,3627,496.1,2005
+261,España,Tinto,Vega Sicilia,Valbuena 5º 2006,Ribera del Duero ,4.7,3980,249.2,2006
+262,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición,Ribera del Duero ,4.7,12885,423.5,Edición
+263,España,Tinto,Vega Sicilia,Unico 2006,Ribera del Duero ,4.7,2976,450.0,2006
+264,España,Tinto,Vega Sicilia,Unico 2008,Ribera del Duero ,4.7,2516,499.0,2008
+265,España,Tinto,Vega Sicilia,Unico 2009,Ribera del Duero ,4.7,2054,450.0,2009
+266,España,Tinto,Vega Sicilia,Valbuena 5º 2005,Ribera del Duero ,4.7,1894,284.1,2005
+267,España,Tinto,Vega Sicilia,Unico 2011,Ribera del Duero ,4.7,1298,389.9,2011
+268,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2017,Ribera del Duero ,4.7,563,496.1,2017
+269,España,Tinto,Vega Sicilia,Unico 2012,Ribera del Duero ,4.7,511,349.0,2012
+270,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2016,Ribera del Duero ,4.7,434,120.75,2016
+271,España,Tinto,Pago de Los Capellanes,Parcela El Picón Tinto 2016,Ribera del Duero ,4.7,140,196.0,2016
+272,España,Tinto,Toro Albalá,Don PX Convento Selección 1955,Montilla-Moriles ,4.7,129,227.5,1955
+273,España,Tinto,Toro Albalá,Don PX Pedro Ximenez 1931,Montilla-Moriles ,4.7,79,320.61,1931
+274,España,Tinto,Teso La Monja,Alabaster 2019,Toro ,4.7,74,160.77,2019
+275,España,Tinto,Pago de Carraovejas,Cuesta de Las Liebres 2018,Ribera del Duero ,4.7,70,158.9,2018
+276,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2015,Toro ,4.7,70,369.0,2015
+277,España,Tinto,Toro Albalá,Don PX Convento Selección 1958,Montilla-Moriles ,4.7,55,249.02,1958
+278,España,Tinto,Recaredo,Reserva Particular de Recaredo Brut Nature 2011,Penedès ,4.7,54,65.05,2011
+279,España,Tinto,Equipo Navazos,La Bota 78 de Oloroso N.V.,Manzanilla ,4.7,47,91.22,N.V.
+280,España,Tinto,Viñedos de Páganos,La Nieta 2020,Rioja ,4.7,46,109.99,2020
+281,España,Tinto,Territorio Luthier,Luthier Gran Reserva 2012,Ribera del Duero ,4.7,45,248.0,2012
+282,España,Tinto,Comenge,Jacobus 2014,Ribera del Duero ,4.7,38,195.9,2014
+283,España,Tinto,Familia Torres,Reserva Real 2016,Penedès ,4.7,36,273.0,2016
+284,España,Tinto,Artadi,Viña El Pison 2019,Vino de España ,4.7,29,324.99,2019
+285,España,Tinto,Vega Sicilia,Valbuena 5º 2007,Ribera del Duero ,4.6,5216,270.0,2007
+286,España,Tinto,Vega Sicilia,Valbuena 5º 2008,Ribera del Duero ,4.6,5626,282.39,2008
+287,España,Tinto,Vega Sicilia,Valbuena 5º 2012,Ribera del Duero ,4.6,6119,268.12,2012
+288,España,Tinto,Alión,Ribera del Duero 2017,Ribera del Duero ,4.6,3517,189.9,2017
+289,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2019,Ribera del Duero ,4.6,2513,129.46,2019
+290,España,Tinto,Dominio de Pingus,Flor de Pingus 2018,Ribera del Duero ,4.6,1964,149.5,2018
+291,España,Tinto,Alión,Ribera del Duero 2018,Ribera del Duero ,4.6,1959,185.0,2018
+292,España,Tinto,Vega Sicilia,Valbuena 5º 2000,Ribera del Duero ,4.6,1020,278.3,2000
+293,España,Tinto,Vega Sicilia,Valbuena 5º 2002,Ribera del Duero ,4.6,961,272.25,2002
+294,España,Tinto,Bodega Numanthia,Termanthia 2012,Toro ,4.6,894,232.85,2012
+295,España,Tinto,Marqués de Murrieta,Castillo Ygay Gran Reserva Especial Tinto 2011,Rioja ,4.6,612,194.98,2011
+296,España,Tinto,Vega Sicilia,Valbuena 5º 1999,Ribera del Duero ,4.6,604,276.8,1999
+297,España,Tinto,Viñedos de Páganos,La Nieta 2018,Rioja ,4.6,304,110.8,2018
+298,España,Tinto,Artadi,Viña El Pison 2006,Vino de España ,4.6,279,391.5,2006
+299,España,Tinto,Teso La Monja,Alabaster 2015,Toro ,4.6,231,155.0,2015
+300,España,Tinto,Bodega Numanthia,Termanthia 2014,Toro ,4.6,230,229.84,2014
+301,España,Tinto,Bodegas Mauro,Terreus Paraje de Cueva Baja 2018,Castilla y León ,4.6,208,91.5,2018
+302,España,Tinto,Viñedos de Páganos,La Nieta 2019,Rioja ,4.6,193,117.29,2019
+303,España,Tinto,Bodegas Roda,Cirsion Rioja 2017,Rioja ,4.6,182,210.0,2017
+304,España,Tinto,Teso La Monja,Alabaster 2017,Toro ,4.6,171,158.7,2017
+305,España,Tinto,Artadi,Viña El Pison 2012,Vino de España ,4.6,170,450.0,2012
+306,España,Tinto,Artadi,Viña El Pison 2011,Vino de España ,4.6,170,495.0,2011
+307,España,Tinto,Vega Sicilia,Valbuena 5º 1985,Ribera del Duero ,4.6,146,285.0,1985
+308,España,Tinto,Artadi,Viña El Pison 2014,Vino de España ,4.6,137,310.95,2014
+309,España,Tinto,Alto Moncayo,Aquilon Garnacha 2015,Campo de Borja ,4.6,132,117.25,2015
+310,España,Tinto,Cepa 21,Horcajo 2015,Ribera del Duero ,4.6,126,75.9,2015
+311,España,Tinto,Hacienda Monasterio,Reserva Especial 2016,Ribera del Duero ,4.6,125,86.84,2016
+312,España,Tinto,Hacienda Monasterio,Reserva Especial 2015,Ribera del Duero ,4.6,122,87.68,2015
+313,España,Tinto,Alto Moncayo,Aquilon Garnacha 2016,Campo de Borja ,4.6,91,112.0,2016
+314,España,Tinto,Teso La Monja,Alabaster 2018,Toro ,4.6,87,160.0,2018
+315,España,Tinto,Mas d'en Gil,Gran Buig Priorat 2004,Priorato ,4.6,82,350.0,2004
+316,España,Tinto,Oxer Wines,Kalamity Rioja 2018,Rioja ,4.6,82,109.73,2018
+317,España,Tinto,Osborne,Solera India Oloroso Rare Sherry N.V.,Jerez-Xérès-Sherry ,4.6,80,195.0,N.V.
+318,España,Tinto,Dominio del Águila,Gran Reserva Peñas Aladas 2014,Ribera del Duero ,4.6,80,208.95,2014
+319,España,Tinto,Castillo Perelada,Finca Garbet 2014,Empordà ,4.6,79,119.7,2014
+320,España,Tinto,Gómez Cruzado,Viña Motulleri 2011,Rioja ,4.6,77,85.5,2011
+321,España,Tinto,Sierra Cantabria,Amancio 2017,Rioja ,4.6,74,88.77,2017
+322,España,Tinto,Bodegas Mas Alta,La Creu Alta 2017,Priorato ,4.6,70,87.95,2017
+323,España,Tinto,Artadi,El Carretil 2013,Vino de España ,4.6,69,215.0,2013
+324,España,Tinto,Bodegas Valduero,Tierra Alta de 2 Racimos Gran Reserva 2012,Ribera del Duero ,4.6,69,93.5,2012
+325,España,Tinto,Álvaro Palacios,Les Aubaguetes Priorat 2016,Priorato ,4.6,68,465.0,2016
+326,España,Tinto,Marqués de Griñon,AAA 2008,Dominio de Valdepusa ,4.6,67,168.43,2008
+327,España,Tinto,Gramona,Cava Enoteca Finca La Plana Brut Nature 2001,Cava ,4.6,61,152.0,2001
+328,España,Tinto,Artadi,Viña El Pison 2017,Vino de España ,4.6,53,304.54,2017
+329,España,Tinto,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+330,España,Tinto,Mas Doix,1902 Centenary Carignan Priorat 2016,Priorato ,4.6,50,299.0,2016
+331,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2019,Ribera del Duero ,4.6,48,129.91,2019
+332,España,Tinto,Vall Llach,Mas de la Rosa 2019,Priorato ,4.6,45,275.0,2019
+333,España,Tinto,Sierra Cantabria,Amancio 2018,Rioja ,4.6,43,90.0,2018
+334,España,Tinto,Terroir Al Límit Soc. Lda,Les Tosses 2016,Priorato ,4.6,42,230.6,2016
+335,España,Tinto,Artadi,El Carretil 2017,Vino de España ,4.6,40,176.89,2017
+336,España,Tinto,Bodegas El Nido,El Nido 2020,Jumilla ,4.6,39,150.0,2020
+337,España,Tinto,Bodega Negón Gonzales,Dharma de Negón Red 2014,Castilla ,4.6,32,80.67,2014
+338,España,Tinto,Huerta de Albala,Taberner No. 1 2013,Cádiz ,4.6,37,78.23,2013
+339,España,Tinto,Cuentaviñas,Los Yelsones 2018,Rioja ,4.6,37,173.25,2018
+340,España,Tinto,Jorge Ordóñez,No. 3 Old Vines 2010,Málaga ,4.6,36,46.69,2010
+341,España,Tinto,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+342,España,Tinto,Bodegas San Román,Cartago Paraje de Pozo 2017,Toro ,4.6,34,77.85,2017
+343,España,Tinto,Enate,Uno Tinto 2010,Somontano ,4.6,38,143.5,2010
+344,España,Tinto,Osborne,Solera BC-200 N.V.,Jerez-Xérès-Sherry ,4.6,30,195.0,N.V.
+345,España,Tinto,Pago de Carraovejas,Tinto 2018,Ribera del Duero ,4.5,6115,59.0,2018
+346,España,Tinto,Pintia,Toro 2015,Toro ,4.5,5537,99.8,2015
+347,España,Tinto,Pago de Carraovejas,Tinto 2019,Ribera del Duero ,4.5,5297,52.5,2019
+348,España,Tinto,Pintia,Toro 2016,Toro ,4.5,4700,89.9,2016
+349,España,Tinto,Dominio de Pingus,Flor de Pingus 2015,Ribera del Duero ,4.5,2800,200.0,2015
+350,España,Tinto,Pintia,Toro 2017,Toro ,4.5,2318,65.0,2017
+351,España,Tinto,Muga,Prado Enea Gran Reserva 2014,Rioja ,4.5,1667,56.0,2014
+352,España,Tinto,Alto Moncayo,Garnacha 2017,Campo de Borja ,4.5,1600,78.57,2017
+353,España,Tinto,Bodegas El Nido,Clio 2019,Jumilla ,4.5,1360,99.14,2019
+354,España,Tinto,Alión,Ribera del Duero 2003,Ribera del Duero ,4.5,1251,164.0,2003
+355,España,Tinto,Muga,Torre Muga 2016,Rioja ,4.5,1179,83.64,2016
+356,España,Tinto,Pago de Carraovejas,Tinto 2020,Ribera del Duero ,4.5,1160,35.9,2020
+357,España,Tinto,Pago de Los Capellanes,Parcela El Nogal Tinto 2016,Ribera del Duero ,4.5,941,85.5,2016
+358,España,Tinto,Bodegas Tradición,Pedro Ximenez Tradición 20 Years Old Vos N.V.,Jerez Pedro Ximénes (PX) ,4.5,935,63.95,N.V.
+359,España,Tinto,Dominio de Pingus,Flor de Pingus 2019,Ribera del Duero ,4.5,826,133.35,2019
+360,España,Tinto,Muga,Prado Enea Gran Reserva 2015,Rioja ,4.5,822,58.68,2015
+361,España,Tinto,Carmelo Rodero,Ribera del Duero TSM 2017,Ribera del Duero ,4.5,687,71.85,2017
+362,España,Tinto,Vega Sicilia,Valbuena 5º 1998,Ribera del Duero ,4.5,677,314.16,1998
+363,España,Tinto,La Rioja Alta,Gran Reserva 890 2010,Rioja ,4.5,670,168.0,2010
+364,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2020,Ribera del Duero ,4.5,608,82.95,2020
+365,España,Tinto,Bodegas Valduero,Ribera Del Duero Reserva Premium 6 Anos 2014,Ribera del Duero ,4.5,602,55.79,2014
+366,España,Tinto,Lan,Culmen Reserva Rioja 2015,Rioja ,4.5,588,51.9,2015
+367,España,Tinto,Remírez de Ganuza,Trasnocho 2012,Rioja ,4.5,539,118.89,2012
+368,España,Tinto,Viña Sastre,Pago de Santa Cruz 2016,Ribera del Duero ,4.5,538,75.95,2016
+369,España,Tinto,Vega Sicilia,Valbuena 5º 1996,Ribera del Duero ,4.5,512,290.4,1996
+370,España,Tinto,Viña Sastre,Pago de Santa Cruz 2015,Ribera del Duero ,4.5,444,82.95,2015
+371,España,Tinto,Bodegas Roda,Cirsion Rioja 2016,Rioja ,4.5,399,196.44,2016
+372,España,Tinto,Bodegas Mauro,VS 2017,Castilla y León ,4.5,386,69.9,2017
+373,España,Tinto,Dominio de Calogía,Tinto 2019,Ribera del Duero ,4.5,364,68.9,2019
+374,España,Tinto,Bodegas El Nido,Clio 2020,Jumilla ,4.5,359,46.7,2020
+375,España,Tinto,Vega Sicilia,Unico 2010,Ribera del Duero ,4.8,1571,380.55,2010
+376,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2018,Ribera del Duero ,4.8,462,484.0,2018
+377,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2019,Ribera del Duero ,4.8,261,471.9,2019
+378,España,Tinto,Toro Albalá,Don PX Convento Selección 1931,Montilla-Moriles ,4.8,159,300.93,1931
+379,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2020,Ribera del Duero ,4.8,97,435.75,2020
+380,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2014,Toro ,4.8,84,369.05,2014
+381,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2007,Ribera del Duero ,4.8,81,360.0,2007
+382,España,Tinto,Toro Albalá,Don PX Convento Selección 1929,Montilla-Moriles ,4.8,77,290.95,1929
+383,España,Tinto,Artadi,Viña El Pison 2018,Vino de España ,4.8,54,299.25,2018
+384,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2021,Ribera del Duero ,4.8,28,451.5,2021
+385,España,Tinto,Vega Sicilia,Unico 2005,Ribera del Duero ,4.7,3627,496.1,2005
+386,España,Tinto,Vega Sicilia,Valbuena 5º 2006,Ribera del Duero ,4.7,3980,249.2,2006
+387,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición,Ribera del Duero ,4.7,12885,423.5,Edición
+388,España,Tinto,Vega Sicilia,Unico 2006,Ribera del Duero ,4.7,2976,450.0,2006
+389,España,Tinto,Vega Sicilia,Unico 2008,Ribera del Duero ,4.7,2516,499.0,2008
+390,España,Tinto,Vega Sicilia,Unico 2009,Ribera del Duero ,4.7,2054,450.0,2009
+391,España,Tinto,Vega Sicilia,Valbuena 5º 2005,Ribera del Duero ,4.7,1894,284.1,2005
+392,España,Tinto,Vega Sicilia,Unico 2011,Ribera del Duero ,4.7,1298,389.9,2011
+393,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2017,Ribera del Duero ,4.7,563,496.1,2017
+394,España,Tinto,Vega Sicilia,Unico 2012,Ribera del Duero ,4.7,511,349.0,2012
+395,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2016,Ribera del Duero ,4.7,434,120.75,2016
+396,España,Tinto,Pago de Los Capellanes,Parcela El Picón Tinto 2016,Ribera del Duero ,4.7,140,196.0,2016
+397,España,Tinto,Toro Albalá,Don PX Convento Selección 1955,Montilla-Moriles ,4.7,129,227.5,1955
+398,España,Tinto,Toro Albalá,Don PX Pedro Ximenez 1931,Montilla-Moriles ,4.7,79,320.61,1931
+399,España,Tinto,Teso La Monja,Alabaster 2019,Toro ,4.7,74,160.77,2019
+400,España,Tinto,Pago de Carraovejas,Cuesta de Las Liebres 2018,Ribera del Duero ,4.7,70,158.9,2018
+401,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2015,Toro ,4.7,70,369.0,2015
+402,España,Tinto,Toro Albalá,Don PX Convento Selección 1958,Montilla-Moriles ,4.7,55,249.02,1958
+403,España,Tinto,Recaredo,Reserva Particular de Recaredo Brut Nature 2011,Penedès ,4.7,54,65.05,2011
+404,España,Tinto,Equipo Navazos,La Bota 78 de Oloroso N.V.,Manzanilla ,4.7,47,91.22,N.V.
+405,España,Tinto,Viñedos de Páganos,La Nieta 2020,Rioja ,4.7,46,109.99,2020
+406,España,Tinto,Territorio Luthier,Luthier Gran Reserva 2012,Ribera del Duero ,4.7,45,248.0,2012
+407,España,Tinto,Comenge,Jacobus 2014,Ribera del Duero ,4.7,38,195.9,2014
+408,España,Tinto,Familia Torres,Reserva Real 2016,Penedès ,4.7,36,273.0,2016
+409,España,Tinto,Artadi,Viña El Pison 2019,Vino de España ,4.7,29,324.99,2019
+410,España,Tinto,Vega Sicilia,Valbuena 5º 2007,Ribera del Duero ,4.6,5216,270.0,2007
+411,España,Tinto,Vega Sicilia,Valbuena 5º 2008,Ribera del Duero ,4.6,5626,282.39,2008
+412,España,Tinto,Vega Sicilia,Valbuena 5º 2012,Ribera del Duero ,4.6,6119,268.12,2012
+413,España,Tinto,Alión,Ribera del Duero 2017,Ribera del Duero ,4.6,3517,189.9,2017
+414,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2019,Ribera del Duero ,4.6,2513,129.46,2019
+415,España,Tinto,Dominio de Pingus,Flor de Pingus 2018,Ribera del Duero ,4.6,1964,149.5,2018
+416,España,Tinto,Alión,Ribera del Duero 2018,Ribera del Duero ,4.6,1959,185.0,2018
+417,España,Tinto,Vega Sicilia,Valbuena 5º 2000,Ribera del Duero ,4.6,1020,278.3,2000
+418,España,Tinto,Vega Sicilia,Valbuena 5º 2002,Ribera del Duero ,4.6,961,272.25,2002
+419,España,Tinto,Bodega Numanthia,Termanthia 2012,Toro ,4.6,894,232.85,2012
+420,España,Tinto,Marqués de Murrieta,Castillo Ygay Gran Reserva Especial Tinto 2011,Rioja ,4.6,612,194.98,2011
+421,España,Tinto,Vega Sicilia,Valbuena 5º 1999,Ribera del Duero ,4.6,604,276.8,1999
+422,España,Tinto,Viñedos de Páganos,La Nieta 2018,Rioja ,4.6,304,110.8,2018
+423,España,Tinto,Artadi,Viña El Pison 2006,Vino de España ,4.6,279,391.5,2006
+424,España,Tinto,Teso La Monja,Alabaster 2015,Toro ,4.6,231,155.0,2015
+425,España,Tinto,Bodega Numanthia,Termanthia 2014,Toro ,4.6,230,229.84,2014
+426,España,Tinto,Bodegas Mauro,Terreus Paraje de Cueva Baja 2018,Castilla y León ,4.6,208,91.5,2018
+427,España,Tinto,Viñedos de Páganos,La Nieta 2019,Rioja ,4.6,193,117.29,2019
+428,España,Tinto,Bodegas Roda,Cirsion Rioja 2017,Rioja ,4.6,182,210.0,2017
+429,España,Tinto,Teso La Monja,Alabaster 2017,Toro ,4.6,171,158.7,2017
+430,España,Tinto,Artadi,Viña El Pison 2012,Vino de España ,4.6,170,450.0,2012
+431,España,Tinto,Artadi,Viña El Pison 2011,Vino de España ,4.6,170,495.0,2011
+432,España,Tinto,Vega Sicilia,Valbuena 5º 1985,Ribera del Duero ,4.6,146,285.0,1985
+433,España,Tinto,Artadi,Viña El Pison 2014,Vino de España ,4.6,137,310.95,2014
+434,España,Tinto,Alto Moncayo,Aquilon Garnacha 2015,Campo de Borja ,4.6,132,117.25,2015
+435,España,Tinto,Cepa 21,Horcajo 2015,Ribera del Duero ,4.6,126,75.9,2015
+436,España,Tinto,Hacienda Monasterio,Reserva Especial 2016,Ribera del Duero ,4.6,125,86.84,2016
+437,España,Tinto,Hacienda Monasterio,Reserva Especial 2015,Ribera del Duero ,4.6,122,87.68,2015
+438,España,Tinto,Alto Moncayo,Aquilon Garnacha 2016,Campo de Borja ,4.6,91,112.0,2016
+439,España,Tinto,Teso La Monja,Alabaster 2018,Toro ,4.6,87,160.0,2018
+440,España,Tinto,Mas d'en Gil,Gran Buig Priorat 2004,Priorato ,4.6,82,350.0,2004
+441,España,Tinto,Oxer Wines,Kalamity Rioja 2018,Rioja ,4.6,82,109.73,2018
+442,España,Tinto,Osborne,Solera India Oloroso Rare Sherry N.V.,Jerez-Xérès-Sherry ,4.6,80,195.0,N.V.
+443,España,Tinto,Dominio del Águila,Gran Reserva Peñas Aladas 2014,Ribera del Duero ,4.6,80,208.95,2014
+444,España,Tinto,Castillo Perelada,Finca Garbet 2014,Empordà ,4.6,79,119.7,2014
+445,España,Tinto,Gómez Cruzado,Viña Motulleri 2011,Rioja ,4.6,77,85.5,2011
+446,España,Tinto,Sierra Cantabria,Amancio 2017,Rioja ,4.6,74,88.77,2017
+447,España,Tinto,Bodegas Mas Alta,La Creu Alta 2017,Priorato ,4.6,70,87.95,2017
+448,España,Tinto,Artadi,El Carretil 2013,Vino de España ,4.6,69,215.0,2013
+449,España,Tinto,Bodegas Valduero,Tierra Alta de 2 Racimos Gran Reserva 2012,Ribera del Duero ,4.6,69,93.5,2012
+450,España,Tinto,Álvaro Palacios,Les Aubaguetes Priorat 2016,Priorato ,4.6,68,465.0,2016
+451,España,Tinto,Marqués de Griñon,AAA 2008,Dominio de Valdepusa ,4.6,67,168.43,2008
+452,España,Tinto,Gramona,Cava Enoteca Finca La Plana Brut Nature 2001,Cava ,4.6,61,152.0,2001
+453,España,Tinto,Artadi,Viña El Pison 2017,Vino de España ,4.6,53,304.54,2017
+454,España,Tinto,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+455,España,Tinto,Mas Doix,1902 Centenary Carignan Priorat 2016,Priorato ,4.6,50,299.0,2016
+456,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2019,Ribera del Duero ,4.6,48,129.91,2019
+457,España,Tinto,Vall Llach,Mas de la Rosa 2019,Priorato ,4.6,45,275.0,2019
+458,España,Tinto,Sierra Cantabria,Amancio 2018,Rioja ,4.6,43,90.0,2018
+459,España,Tinto,Terroir Al Límit Soc. Lda,Les Tosses 2016,Priorato ,4.6,42,230.6,2016
+460,España,Tinto,Artadi,El Carretil 2017,Vino de España ,4.6,40,176.89,2017
+461,España,Tinto,Bodegas El Nido,El Nido 2020,Jumilla ,4.6,39,150.0,2020
+462,España,Tinto,Bodega Negón Gonzales,Dharma de Negón Red 2014,Castilla ,4.6,32,80.67,2014
+463,España,Tinto,Huerta de Albala,Taberner No. 1 2013,Cádiz ,4.6,37,78.23,2013
+464,España,Tinto,Cuentaviñas,Los Yelsones 2018,Rioja ,4.6,37,173.25,2018
+465,España,Tinto,Jorge Ordóñez,No. 3 Old Vines 2010,Málaga ,4.6,36,46.69,2010
+466,España,Tinto,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+467,España,Tinto,Bodegas San Román,Cartago Paraje de Pozo 2017,Toro ,4.6,34,77.85,2017
+468,España,Tinto,Enate,Uno Tinto 2010,Somontano ,4.6,38,143.5,2010
+469,España,Tinto,Osborne,Solera BC-200 N.V.,Jerez-Xérès-Sherry ,4.6,30,195.0,N.V.
+470,España,Tinto,Pago de Carraovejas,Tinto 2018,Ribera del Duero ,4.5,6115,59.0,2018
+471,España,Tinto,Pintia,Toro 2015,Toro ,4.5,5537,99.8,2015
+472,España,Tinto,Pago de Carraovejas,Tinto 2019,Ribera del Duero ,4.5,5297,52.5,2019
+473,España,Tinto,Pintia,Toro 2016,Toro ,4.5,4700,89.9,2016
+474,España,Tinto,Dominio de Pingus,Flor de Pingus 2015,Ribera del Duero ,4.5,2800,200.0,2015
+475,España,Tinto,Pintia,Toro 2017,Toro ,4.5,2318,65.0,2017
+476,España,Tinto,Muga,Prado Enea Gran Reserva 2014,Rioja ,4.5,1667,56.0,2014
+477,España,Tinto,Alto Moncayo,Garnacha 2017,Campo de Borja ,4.5,1600,78.57,2017
+478,España,Tinto,Bodegas El Nido,Clio 2019,Jumilla ,4.5,1360,99.14,2019
+479,España,Tinto,Alión,Ribera del Duero 2003,Ribera del Duero ,4.5,1251,164.0,2003
+480,España,Tinto,Muga,Torre Muga 2016,Rioja ,4.5,1179,83.64,2016
+481,España,Tinto,Pago de Carraovejas,Tinto 2020,Ribera del Duero ,4.5,1160,35.9,2020
+482,España,Tinto,Pago de Los Capellanes,Parcela El Nogal Tinto 2016,Ribera del Duero ,4.5,941,85.5,2016
+483,España,Tinto,Bodegas Tradición,Pedro Ximenez Tradición 20 Years Old Vos N.V.,Jerez Pedro Ximénes (PX) ,4.5,935,63.95,N.V.
+484,España,Tinto,Dominio de Pingus,Flor de Pingus 2019,Ribera del Duero ,4.5,826,133.35,2019
+485,España,Tinto,Muga,Prado Enea Gran Reserva 2015,Rioja ,4.5,822,58.68,2015
+486,España,Tinto,Carmelo Rodero,Ribera del Duero TSM 2017,Ribera del Duero ,4.5,687,71.85,2017
+487,España,Tinto,Vega Sicilia,Valbuena 5º 1998,Ribera del Duero ,4.5,677,314.16,1998
+488,España,Tinto,La Rioja Alta,Gran Reserva 890 2010,Rioja ,4.5,670,168.0,2010
+489,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2020,Ribera del Duero ,4.5,608,82.95,2020
+490,España,Tinto,Bodegas Valduero,Ribera Del Duero Reserva Premium 6 Anos 2014,Ribera del Duero ,4.5,602,55.79,2014
+491,España,Tinto,Lan,Culmen Reserva Rioja 2015,Rioja ,4.5,588,51.9,2015
+492,España,Tinto,Remírez de Ganuza,Trasnocho 2012,Rioja ,4.5,539,118.89,2012
+493,España,Tinto,Viña Sastre,Pago de Santa Cruz 2016,Ribera del Duero ,4.5,538,75.95,2016
+494,España,Tinto,Vega Sicilia,Valbuena 5º 1996,Ribera del Duero ,4.5,512,290.4,1996
+495,España,Tinto,Viña Sastre,Pago de Santa Cruz 2015,Ribera del Duero ,4.5,444,82.95,2015
+496,España,Tinto,Bodegas Roda,Cirsion Rioja 2016,Rioja ,4.5,399,196.44,2016
+497,España,Tinto,Bodegas Mauro,VS 2017,Castilla y León ,4.5,386,69.9,2017
+498,España,Tinto,Dominio de Calogía,Tinto 2019,Ribera del Duero ,4.5,364,68.9,2019
+499,España,Tinto,Bodegas El Nido,Clio 2020,Jumilla ,4.5,359,46.7,2020
+500,España,Tinto,Marqués de Riscal,Barón de Chirel Rioja Reserva 2016,Rioja ,4.5,338,74.79,2016
+501,España,Tinto,Benjamin de Rothschild - Vega Sicilia,Macán 2017,Rioja ,4.5,327,69.95,2017
+502,España,Tinto,Abadía Retuerta,Petit Verdot 2015,Sardón de Duero ,4.5,325,102.5,2015
+503,España,Tinto,Remírez de Ganuza,Trasnocho 2011,Rioja ,4.5,318,110.5,2011
+504,España,Tinto,Marqués de Riscal,Barón de Chirel Rioja Reserva 2017,Rioja ,4.5,317,75.5,2017
+505,España,Tinto,Contino,Viña del Olivo 2017,Rioja ,4.5,280,66.5,2017
+506,España,Tinto,Emilio Moro,Malleolus de Valderramiro 2018,Ribera del Duero ,4.5,269,86.02,2018
+507,España,Tinto,Abadía Retuerta,Petit Verdot 2014,Sardón de Duero ,4.5,266,176.98,2014
+508,España,Tinto,Abadía Retuerta,Pago Garduña 2016,Castilla y León ,4.5,255,71.25,2016
+509,España,Tinto,Bodega Numanthia,Termanthia 2015,Toro ,4.5,249,229.84,2015
+510,España,Tinto,Adamá Wines,Tinto 2009,Ribera del Duero ,4.5,239,39.0,2009
+511,España,Tinto,Vega Sicilia,Valbuena 5º 1987,Ribera del Duero ,4.5,232,312.0,1987
+512,España,Tinto,Bodega Contador (Benjamín Romeo),La Cueva del Contador Rioja 2017,Rioja ,4.5,230,77.62,2017
+513,España,Tinto,Tio Pepe,Cuatro Palmas Amontillado N.V.,Jerez Amontillado ,4.5,228,116.75,N.V.
+514,España,Tinto,Espectacle del Montsant,Tinto 2013,Montsant ,4.5,226,157.95,2013
+515,España,Tinto,Familia Torres,Grans Muralles 2015,Conca de Barberà ,4.5,222,170.5,2015
+516,España,Tinto,Viña Sastre,Regina Vides Ribera del Duero 2014,Ribera del Duero ,4.5,206,104.9,2014
+517,España,Tinto,Espectacle del Montsant,Tinto 2012,Montsant ,4.5,204,158.99,2012
+518,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2014,Ribera del Duero ,4.5,198,356.0,2014
+519,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2015,Ribera del Duero ,4.5,181,298.0,2015
+520,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2018,Ribera del Duero ,4.5,180,119.34,2018
+521,España,Tinto,Viña Sastre,Regina Vides Ribera del Duero 2015,Ribera del Duero ,4.5,177,92.8,2015
+522,España,Tinto,Territorio Luthier,Territorio Luthier Reserva 2016,Ribera del Duero ,4.5,176,65.0,2016
+523,España,Tinto,Hacienda Monasterio,Reserva 2017,Ribera del Duero ,4.5,168,58.28,2017
+524,España,Tinto,Viña Sastre,Regina Vides Ribera del Duero 2016,Ribera del Duero ,4.5,167,81.9,2016
+525,España,Tinto,Vega Sicilia,Unico 2010,Ribera del Duero ,4.8,1571,380.55,2010
+526,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2018,Ribera del Duero ,4.8,462,484.0,2018
+527,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2019,Ribera del Duero ,4.8,261,471.9,2019
+528,España,Tinto,Toro Albalá,Don PX Convento Selección 1931,Montilla-Moriles ,4.8,159,300.93,1931
+529,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2020,Ribera del Duero ,4.8,97,435.75,2020
+530,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2014,Toro ,4.8,84,369.05,2014
+531,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2007,Ribera del Duero ,4.8,81,360.0,2007
+532,España,Tinto,Toro Albalá,Don PX Convento Selección 1929,Montilla-Moriles ,4.8,77,290.95,1929
+533,España,Tinto,Artadi,Viña El Pison 2018,Vino de España ,4.8,54,299.25,2018
+534,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2021,Ribera del Duero ,4.8,28,451.5,2021
+535,España,Tinto,Vega Sicilia,Unico 2005,Ribera del Duero ,4.7,3627,496.1,2005
+536,España,Tinto,Vega Sicilia,Valbuena 5º 2006,Ribera del Duero ,4.7,3980,249.2,2006
+537,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición,Ribera del Duero ,4.7,12885,423.5,Edición
+538,España,Tinto,Vega Sicilia,Unico 2006,Ribera del Duero ,4.7,2976,450.0,2006
+539,España,Tinto,Vega Sicilia,Unico 2008,Ribera del Duero ,4.7,2516,499.0,2008
+540,España,Tinto,Vega Sicilia,Unico 2009,Ribera del Duero ,4.7,2054,450.0,2009
+541,España,Tinto,Vega Sicilia,Valbuena 5º 2005,Ribera del Duero ,4.7,1894,284.1,2005
+542,España,Tinto,Vega Sicilia,Unico 2011,Ribera del Duero ,4.7,1298,389.9,2011
+543,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2017,Ribera del Duero ,4.7,563,496.1,2017
+544,España,Tinto,Vega Sicilia,Unico 2012,Ribera del Duero ,4.7,511,349.0,2012
+545,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2016,Ribera del Duero ,4.7,434,120.75,2016
+546,España,Tinto,Pago de Los Capellanes,Parcela El Picón Tinto 2016,Ribera del Duero ,4.7,140,196.0,2016
+547,España,Tinto,Toro Albalá,Don PX Convento Selección 1955,Montilla-Moriles ,4.7,129,227.5,1955
+548,España,Tinto,Toro Albalá,Don PX Pedro Ximenez 1931,Montilla-Moriles ,4.7,79,320.61,1931
+549,España,Tinto,Teso La Monja,Alabaster 2019,Toro ,4.7,74,160.77,2019
+550,España,Tinto,Pago de Carraovejas,Cuesta de Las Liebres 2018,Ribera del Duero ,4.7,70,158.9,2018
+551,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2015,Toro ,4.7,70,369.0,2015
+552,España,Tinto,Toro Albalá,Don PX Convento Selección 1958,Montilla-Moriles ,4.7,55,249.02,1958
+553,España,Tinto,Recaredo,Reserva Particular de Recaredo Brut Nature 2011,Penedès ,4.7,54,65.05,2011
+554,España,Tinto,Equipo Navazos,La Bota 78 de Oloroso N.V.,Manzanilla ,4.7,47,91.22,N.V.
+555,España,Tinto,Viñedos de Páganos,La Nieta 2020,Rioja ,4.7,46,109.99,2020
+556,España,Tinto,Territorio Luthier,Luthier Gran Reserva 2012,Ribera del Duero ,4.7,45,248.0,2012
+557,España,Tinto,Comenge,Jacobus 2014,Ribera del Duero ,4.7,38,195.9,2014
+558,España,Tinto,Familia Torres,Reserva Real 2016,Penedès ,4.7,36,273.0,2016
+559,España,Tinto,Artadi,Viña El Pison 2019,Vino de España ,4.7,29,324.99,2019
+560,España,Tinto,Vega Sicilia,Valbuena 5º 2007,Ribera del Duero ,4.6,5216,270.0,2007
+561,España,Tinto,Vega Sicilia,Valbuena 5º 2008,Ribera del Duero ,4.6,5626,282.39,2008
+562,España,Tinto,Vega Sicilia,Valbuena 5º 2012,Ribera del Duero ,4.6,6119,268.12,2012
+563,España,Tinto,Alión,Ribera del Duero 2017,Ribera del Duero ,4.6,3517,189.9,2017
+564,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2019,Ribera del Duero ,4.6,2513,129.46,2019
+565,España,Tinto,Dominio de Pingus,Flor de Pingus 2018,Ribera del Duero ,4.6,1964,149.5,2018
+566,España,Tinto,Alión,Ribera del Duero 2018,Ribera del Duero ,4.6,1959,185.0,2018
+567,España,Tinto,Vega Sicilia,Valbuena 5º 2000,Ribera del Duero ,4.6,1020,278.3,2000
+568,España,Tinto,Vega Sicilia,Valbuena 5º 2002,Ribera del Duero ,4.6,961,272.25,2002
+569,España,Tinto,Bodega Numanthia,Termanthia 2012,Toro ,4.6,894,232.85,2012
+570,España,Tinto,Marqués de Murrieta,Castillo Ygay Gran Reserva Especial Tinto 2011,Rioja ,4.6,612,194.98,2011
+571,España,Tinto,Vega Sicilia,Valbuena 5º 1999,Ribera del Duero ,4.6,604,276.8,1999
+572,España,Tinto,Viñedos de Páganos,La Nieta 2018,Rioja ,4.6,304,110.8,2018
+573,España,Tinto,Artadi,Viña El Pison 2006,Vino de España ,4.6,279,391.5,2006
+574,España,Tinto,Teso La Monja,Alabaster 2015,Toro ,4.6,231,155.0,2015
+575,España,Tinto,Bodega Numanthia,Termanthia 2014,Toro ,4.6,230,229.84,2014
+576,España,Tinto,Bodegas Mauro,Terreus Paraje de Cueva Baja 2018,Castilla y León ,4.6,208,91.5,2018
+577,España,Tinto,Viñedos de Páganos,La Nieta 2019,Rioja ,4.6,193,117.29,2019
+578,España,Tinto,Bodegas Roda,Cirsion Rioja 2017,Rioja ,4.6,182,210.0,2017
+579,España,Tinto,Teso La Monja,Alabaster 2017,Toro ,4.6,171,158.7,2017
+580,España,Tinto,Artadi,Viña El Pison 2012,Vino de España ,4.6,170,450.0,2012
+581,España,Tinto,Artadi,Viña El Pison 2011,Vino de España ,4.6,170,495.0,2011
+582,España,Tinto,Vega Sicilia,Valbuena 5º 1985,Ribera del Duero ,4.6,146,285.0,1985
+583,España,Tinto,Artadi,Viña El Pison 2014,Vino de España ,4.6,137,310.95,2014
+584,España,Tinto,Alto Moncayo,Aquilon Garnacha 2015,Campo de Borja ,4.6,132,117.25,2015
+585,España,Tinto,Cepa 21,Horcajo 2015,Ribera del Duero ,4.6,126,75.9,2015
+586,España,Tinto,Hacienda Monasterio,Reserva Especial 2016,Ribera del Duero ,4.6,125,86.84,2016
+587,España,Tinto,Hacienda Monasterio,Reserva Especial 2015,Ribera del Duero ,4.6,122,87.68,2015
+588,España,Tinto,Alto Moncayo,Aquilon Garnacha 2016,Campo de Borja ,4.6,91,112.0,2016
+589,España,Tinto,Teso La Monja,Alabaster 2018,Toro ,4.6,87,160.0,2018
+590,España,Tinto,Mas d'en Gil,Gran Buig Priorat 2004,Priorato ,4.6,82,350.0,2004
+591,España,Tinto,Oxer Wines,Kalamity Rioja 2018,Rioja ,4.6,82,109.73,2018
+592,España,Tinto,Osborne,Solera India Oloroso Rare Sherry N.V.,Jerez-Xérès-Sherry ,4.6,80,195.0,N.V.
+593,España,Tinto,Dominio del Águila,Gran Reserva Peñas Aladas 2014,Ribera del Duero ,4.6,80,208.95,2014
+594,España,Tinto,Castillo Perelada,Finca Garbet 2014,Empordà ,4.6,79,119.7,2014
+595,España,Tinto,Gómez Cruzado,Viña Motulleri 2011,Rioja ,4.6,77,85.5,2011
+596,España,Tinto,Sierra Cantabria,Amancio 2017,Rioja ,4.6,74,88.77,2017
+597,España,Tinto,Bodegas Mas Alta,La Creu Alta 2017,Priorato ,4.6,70,87.95,2017
+598,España,Tinto,Artadi,El Carretil 2013,Vino de España ,4.6,69,215.0,2013
+599,España,Tinto,Bodegas Valduero,Tierra Alta de 2 Racimos Gran Reserva 2012,Ribera del Duero ,4.6,69,93.5,2012
+600,España,Tinto,Álvaro Palacios,Les Aubaguetes Priorat 2016,Priorato ,4.6,68,465.0,2016
+601,España,Tinto,Marqués de Griñon,AAA 2008,Dominio de Valdepusa ,4.6,67,168.43,2008
+602,España,Tinto,Gramona,Cava Enoteca Finca La Plana Brut Nature 2001,Cava ,4.6,61,152.0,2001
+603,España,Tinto,Artadi,Viña El Pison 2017,Vino de España ,4.6,53,304.54,2017
+604,España,Tinto,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+605,España,Tinto,Mas Doix,1902 Centenary Carignan Priorat 2016,Priorato ,4.6,50,299.0,2016
+606,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2019,Ribera del Duero ,4.6,48,129.91,2019
+607,España,Tinto,Vall Llach,Mas de la Rosa 2019,Priorato ,4.6,45,275.0,2019
+608,España,Tinto,Sierra Cantabria,Amancio 2018,Rioja ,4.6,43,90.0,2018
+609,España,Tinto,Terroir Al Límit Soc. Lda,Les Tosses 2016,Priorato ,4.6,42,230.6,2016
+610,España,Tinto,Artadi,El Carretil 2017,Vino de España ,4.6,40,176.89,2017
+611,España,Tinto,Bodegas El Nido,El Nido 2020,Jumilla ,4.6,39,150.0,2020
+612,España,Tinto,Bodega Negón Gonzales,Dharma de Negón Red 2014,Castilla ,4.6,32,80.67,2014
+613,España,Tinto,Huerta de Albala,Taberner No. 1 2013,Cádiz ,4.6,37,78.23,2013
+614,España,Tinto,Cuentaviñas,Los Yelsones 2018,Rioja ,4.6,37,173.25,2018
+615,España,Tinto,Jorge Ordóñez,No. 3 Old Vines 2010,Málaga ,4.6,36,46.69,2010
+616,España,Tinto,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+617,España,Tinto,Bodegas San Román,Cartago Paraje de Pozo 2017,Toro ,4.6,34,77.85,2017
+618,España,Tinto,Enate,Uno Tinto 2010,Somontano ,4.6,38,143.5,2010
+619,España,Tinto,Osborne,Solera BC-200 N.V.,Jerez-Xérès-Sherry ,4.6,30,195.0,N.V.
+620,España,Tinto,Pago de Carraovejas,Tinto 2018,Ribera del Duero ,4.5,6115,59.0,2018
+621,España,Tinto,Pintia,Toro 2015,Toro ,4.5,5537,99.8,2015
+622,España,Tinto,Pago de Carraovejas,Tinto 2019,Ribera del Duero ,4.5,5297,52.5,2019
+623,España,Tinto,Pintia,Toro 2016,Toro ,4.5,4700,89.9,2016
+624,España,Tinto,Dominio de Pingus,Flor de Pingus 2015,Ribera del Duero ,4.5,2800,200.0,2015
+625,España,Tinto,Pintia,Toro 2017,Toro ,4.5,2318,65.0,2017
+626,España,Tinto,Muga,Prado Enea Gran Reserva 2014,Rioja ,4.5,1667,56.0,2014
+627,España,Tinto,Alto Moncayo,Garnacha 2017,Campo de Borja ,4.5,1600,78.57,2017
+628,España,Tinto,Bodegas El Nido,Clio 2019,Jumilla ,4.5,1360,99.14,2019
+629,España,Tinto,Alión,Ribera del Duero 2003,Ribera del Duero ,4.5,1251,164.0,2003
+630,España,Tinto,Muga,Torre Muga 2016,Rioja ,4.5,1179,83.64,2016
+631,España,Tinto,Pago de Carraovejas,Tinto 2020,Ribera del Duero ,4.5,1160,35.9,2020
+632,España,Tinto,Pago de Los Capellanes,Parcela El Nogal Tinto 2016,Ribera del Duero ,4.5,941,85.5,2016
+633,España,Tinto,Bodegas Tradición,Pedro Ximenez Tradición 20 Years Old Vos N.V.,Jerez Pedro Ximénes (PX) ,4.5,935,63.95,N.V.
+634,España,Tinto,Dominio de Pingus,Flor de Pingus 2019,Ribera del Duero ,4.5,826,133.35,2019
+635,España,Tinto,Muga,Prado Enea Gran Reserva 2015,Rioja ,4.5,822,58.68,2015
+636,España,Tinto,Carmelo Rodero,Ribera del Duero TSM 2017,Ribera del Duero ,4.5,687,71.85,2017
+637,España,Tinto,Vega Sicilia,Valbuena 5º 1998,Ribera del Duero ,4.5,677,314.16,1998
+638,España,Tinto,La Rioja Alta,Gran Reserva 890 2010,Rioja ,4.5,670,168.0,2010
+639,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2020,Ribera del Duero ,4.5,608,82.95,2020
+640,España,Tinto,Bodegas Valduero,Ribera Del Duero Reserva Premium 6 Anos 2014,Ribera del Duero ,4.5,602,55.79,2014
+641,España,Tinto,Lan,Culmen Reserva Rioja 2015,Rioja ,4.5,588,51.9,2015
+642,España,Tinto,Remírez de Ganuza,Trasnocho 2012,Rioja ,4.5,539,118.89,2012
+643,España,Tinto,Viña Sastre,Pago de Santa Cruz 2016,Ribera del Duero ,4.5,538,75.95,2016
+644,España,Tinto,Vega Sicilia,Valbuena 5º 1996,Ribera del Duero ,4.5,512,290.4,1996
+645,España,Tinto,Viña Sastre,Pago de Santa Cruz 2015,Ribera del Duero ,4.5,444,82.95,2015
+646,España,Tinto,Bodegas Roda,Cirsion Rioja 2016,Rioja ,4.5,399,196.44,2016
+647,España,Tinto,Bodegas Mauro,VS 2017,Castilla y León ,4.5,386,69.9,2017
+648,España,Tinto,Dominio de Calogía,Tinto 2019,Ribera del Duero ,4.5,364,68.9,2019
+649,España,Tinto,Bodegas El Nido,Clio 2020,Jumilla ,4.5,359,46.7,2020
+650,España,Tinto,Marqués de Riscal,Barón de Chirel Rioja Reserva 2016,Rioja ,4.5,338,74.79,2016
+651,España,Tinto,Benjamin de Rothschild - Vega Sicilia,Macán 2017,Rioja ,4.5,327,69.95,2017
+652,España,Tinto,Abadía Retuerta,Petit Verdot 2015,Sardón de Duero ,4.5,325,102.5,2015
+653,España,Tinto,Remírez de Ganuza,Trasnocho 2011,Rioja ,4.5,318,110.5,2011
+654,España,Tinto,Marqués de Riscal,Barón de Chirel Rioja Reserva 2017,Rioja ,4.5,317,75.5,2017
+655,España,Tinto,Contino,Viña del Olivo 2017,Rioja ,4.5,280,66.5,2017
+656,España,Tinto,Emilio Moro,Malleolus de Valderramiro 2018,Ribera del Duero ,4.5,269,86.02,2018
+657,España,Tinto,Abadía Retuerta,Petit Verdot 2014,Sardón de Duero ,4.5,266,176.98,2014
+658,España,Tinto,Abadía Retuerta,Pago Garduña 2016,Castilla y León ,4.5,255,71.25,2016
+659,España,Tinto,Bodega Numanthia,Termanthia 2015,Toro ,4.5,249,229.84,2015
+660,España,Tinto,Adamá Wines,Tinto 2009,Ribera del Duero ,4.5,239,39.0,2009
+661,España,Tinto,Vega Sicilia,Valbuena 5º 1987,Ribera del Duero ,4.5,232,312.0,1987
+662,España,Tinto,Bodega Contador (Benjamín Romeo),La Cueva del Contador Rioja 2017,Rioja ,4.5,230,77.62,2017
+663,España,Tinto,Tio Pepe,Cuatro Palmas Amontillado N.V.,Jerez Amontillado ,4.5,228,116.75,N.V.
+664,España,Tinto,Espectacle del Montsant,Tinto 2013,Montsant ,4.5,226,157.95,2013
+665,España,Tinto,Familia Torres,Grans Muralles 2015,Conca de Barberà ,4.5,222,170.5,2015
+666,España,Tinto,Viña Sastre,Regina Vides Ribera del Duero 2014,Ribera del Duero ,4.5,206,104.9,2014
+667,España,Tinto,Espectacle del Montsant,Tinto 2012,Montsant ,4.5,204,158.99,2012
+668,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2014,Ribera del Duero ,4.5,198,356.0,2014
+669,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2015,Ribera del Duero ,4.5,181,298.0,2015
+670,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2018,Ribera del Duero ,4.5,180,119.34,2018
+671,España,Tinto,Viña Sastre,Regina Vides Ribera del Duero 2015,Ribera del Duero ,4.5,177,92.8,2015
+672,España,Tinto,Territorio Luthier,Territorio Luthier Reserva 2016,Ribera del Duero ,4.5,176,65.0,2016
+673,España,Tinto,Hacienda Monasterio,Reserva 2017,Ribera del Duero ,4.5,168,58.28,2017
+674,España,Tinto,Viña Sastre,Regina Vides Ribera del Duero 2016,Ribera del Duero ,4.5,167,81.9,2016
+675,España,Tinto,Pago de Los Capellanes,Parcela El Nogal Tinto 2018,Ribera del Duero ,4.5,167,45.67,2018
+676,España,Tinto,Matarromera,Ribera del Duero Prestigio 2016,Ribera del Duero ,4.5,165,51.56,2016
+677,España,Tinto,Artadi,Viña El Pison 2013,Vino de España ,4.5,150,295.0,2013
+678,España,Tinto,Bodegas Vilano,Tinto 2019,Ribera del Duero ,4.5,145,43.9,2019
+679,España,Tinto,Tomás Postigo,5º Año Ribera del Duero Tinto 2017,Ribera del Duero ,4.5,140,55.5,2017
+680,España,Tinto,Pago de Los Capellanes,Parcela El Picón Tinto 2015,Ribera del Duero ,4.5,139,270.0,2015
+681,España,Tinto,Sierra Cantabria,Finca el Bosque 2017,Rioja ,4.5,136,84.36,2017
+682,España,Tinto,Remírez de Ganuza,Trasnocho 2015,Rioja ,4.5,129,84.25,2015
+683,España,Tinto,Bodegas Mas Alta,La Basseta 2017,Priorato ,4.5,128,67.6,2017
+684,España,Tinto,Tresmano - Tr3smano,Tm 2016,Ribera del Duero ,4.5,125,129.0,2016
+685,España,Tinto,Ukan Winery,Tinto 2019,Rioja Alavesa ,4.5,123,40.3,2019
+686,España,Tinto,Bodegas Mauro,Terreus Paraje de Cueva Baja 2019,Castilla y León ,4.5,123,99.0,2019
+687,España,Tinto,Adamá Wines,Tinto 2011,Ribera del Duero ,4.5,122,39.0,2011
+688,España,Tinto,Familia Torres,Reserva Real 2001,Penedès ,4.5,118,367.0,2001
+689,España,Tinto,R. López de Heredia,Viña Tondonia Gran Reserva 2001,Rioja ,4.5,109,192.9,2001
+690,España,Tinto,Castillo de Cuzcurrita,Cerrado del Castillo Rioja 2016,Rioja ,4.5,108,48.9,2016
+691,España,Tinto,Carmelo Rodero,Pago De Valtarreña 2019,Ribera del Duero ,4.5,108,49.55,2019
+692,España,Tinto,Cepa 21,Horcajo 2016,Ribera del Duero ,4.5,107,78.45,2016
+693,España,Tinto,Toro Albalá,Don PX Vieja Cosecha 1973,Montilla-Moriles ,4.5,104,123.96,1973
+694,España,Tinto,Lan,Culmen Reserva Rioja 2017,Rioja ,4.5,104,42.3,2017
+695,España,Tinto,Álvaro Palacios,Les Aubaguetes Priorat 2015,Priorato ,4.5,103,302.5,2015
+696,España,Tinto,Bodega Contador (Benjamín Romeo),Contador Rioja 2016,Rioja ,4.5,102,321.39,2016
+697,España,Tinto,Valdespino,Coliseo Amontillado VORS N.V.,Jerez Amontillado ,4.5,101,240.0,N.V.
+698,España,Tinto,Enate,Chardonnay Uno 2011,Somontano ,4.5,99,200.13,2011
+699,España,Tinto,Artadi,El Carretil 2012,Vino de España ,4.5,96,225.0,2012
+700,España,Tinto,Vega Sicilia,Unico 2010,Ribera del Duero ,4.8,1571,380.55,2010
+701,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2018,Ribera del Duero ,4.8,462,484.0,2018
+702,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2019,Ribera del Duero ,4.8,261,471.9,2019
+703,España,Tinto,Toro Albalá,Don PX Convento Selección 1931,Montilla-Moriles ,4.8,159,300.93,1931
+704,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2020,Ribera del Duero ,4.8,97,435.75,2020
+705,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2014,Toro ,4.8,84,369.05,2014
+706,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2007,Ribera del Duero ,4.8,81,360.0,2007
+707,España,Tinto,Toro Albalá,Don PX Convento Selección 1929,Montilla-Moriles ,4.8,77,290.95,1929
+708,España,Tinto,Artadi,Viña El Pison 2018,Vino de España ,4.8,54,299.25,2018
+709,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2021,Ribera del Duero ,4.8,28,451.5,2021
+710,España,Tinto,Vega Sicilia,Unico 2005,Ribera del Duero ,4.7,3627,496.1,2005
+711,España,Tinto,Vega Sicilia,Valbuena 5º 2006,Ribera del Duero ,4.7,3980,249.2,2006
+712,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición,Ribera del Duero ,4.7,12885,423.5,Edición
+713,España,Tinto,Vega Sicilia,Unico 2006,Ribera del Duero ,4.7,2976,450.0,2006
+714,España,Tinto,Vega Sicilia,Unico 2008,Ribera del Duero ,4.7,2516,499.0,2008
+715,España,Tinto,Vega Sicilia,Unico 2009,Ribera del Duero ,4.7,2054,450.0,2009
+716,España,Tinto,Vega Sicilia,Valbuena 5º 2005,Ribera del Duero ,4.7,1894,284.1,2005
+717,España,Tinto,Vega Sicilia,Unico 2011,Ribera del Duero ,4.7,1298,389.9,2011
+718,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2017,Ribera del Duero ,4.7,563,496.1,2017
+719,España,Tinto,Vega Sicilia,Unico 2012,Ribera del Duero ,4.7,511,349.0,2012
+720,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2016,Ribera del Duero ,4.7,434,120.75,2016
+721,España,Tinto,Pago de Los Capellanes,Parcela El Picón Tinto 2016,Ribera del Duero ,4.7,140,196.0,2016
+722,España,Tinto,Toro Albalá,Don PX Convento Selección 1955,Montilla-Moriles ,4.7,129,227.5,1955
+723,España,Tinto,Toro Albalá,Don PX Pedro Ximenez 1931,Montilla-Moriles ,4.7,79,320.61,1931
+724,España,Tinto,Teso La Monja,Alabaster 2019,Toro ,4.7,74,160.77,2019
+725,España,Tinto,Pago de Carraovejas,Cuesta de Las Liebres 2018,Ribera del Duero ,4.7,70,158.9,2018
+726,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2015,Toro ,4.7,70,369.0,2015
+727,España,Tinto,Toro Albalá,Don PX Convento Selección 1958,Montilla-Moriles ,4.7,55,249.02,1958
+728,España,Tinto,Recaredo,Reserva Particular de Recaredo Brut Nature 2011,Penedès ,4.7,54,65.05,2011
+729,España,Tinto,Equipo Navazos,La Bota 78 de Oloroso N.V.,Manzanilla ,4.7,47,91.22,N.V.
+730,España,Tinto,Viñedos de Páganos,La Nieta 2020,Rioja ,4.7,46,109.99,2020
+731,España,Tinto,Territorio Luthier,Luthier Gran Reserva 2012,Ribera del Duero ,4.7,45,248.0,2012
+732,España,Tinto,Comenge,Jacobus 2014,Ribera del Duero ,4.7,38,195.9,2014
+733,España,Tinto,Familia Torres,Reserva Real 2016,Penedès ,4.7,36,273.0,2016
+734,España,Tinto,Artadi,Viña El Pison 2019,Vino de España ,4.7,29,324.99,2019
+735,España,Tinto,Vega Sicilia,Valbuena 5º 2007,Ribera del Duero ,4.6,5216,270.0,2007
+736,España,Tinto,Vega Sicilia,Valbuena 5º 2008,Ribera del Duero ,4.6,5626,282.39,2008
+737,España,Tinto,Vega Sicilia,Valbuena 5º 2012,Ribera del Duero ,4.6,6119,268.12,2012
+738,España,Tinto,Alión,Ribera del Duero 2017,Ribera del Duero ,4.6,3517,189.9,2017
+739,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2019,Ribera del Duero ,4.6,2513,129.46,2019
+740,España,Tinto,Dominio de Pingus,Flor de Pingus 2018,Ribera del Duero ,4.6,1964,149.5,2018
+741,España,Tinto,Alión,Ribera del Duero 2018,Ribera del Duero ,4.6,1959,185.0,2018
+742,España,Tinto,Vega Sicilia,Valbuena 5º 2000,Ribera del Duero ,4.6,1020,278.3,2000
+743,España,Tinto,Vega Sicilia,Valbuena 5º 2002,Ribera del Duero ,4.6,961,272.25,2002
+744,España,Tinto,Bodega Numanthia,Termanthia 2012,Toro ,4.6,894,232.85,2012
+745,España,Tinto,Marqués de Murrieta,Castillo Ygay Gran Reserva Especial Tinto 2011,Rioja ,4.6,612,194.98,2011
+746,España,Tinto,Vega Sicilia,Valbuena 5º 1999,Ribera del Duero ,4.6,604,276.8,1999
+747,España,Tinto,Viñedos de Páganos,La Nieta 2018,Rioja ,4.6,304,110.8,2018
+748,España,Tinto,Artadi,Viña El Pison 2006,Vino de España ,4.6,279,391.5,2006
+749,España,Tinto,Teso La Monja,Alabaster 2015,Toro ,4.6,231,155.0,2015
+750,España,Tinto,Bodega Numanthia,Termanthia 2014,Toro ,4.6,230,229.84,2014
+751,España,Tinto,Bodegas Mauro,Terreus Paraje de Cueva Baja 2018,Castilla y León ,4.6,208,91.5,2018
+752,España,Tinto,Viñedos de Páganos,La Nieta 2019,Rioja ,4.6,193,117.29,2019
+753,España,Tinto,Bodegas Roda,Cirsion Rioja 2017,Rioja ,4.6,182,210.0,2017
+754,España,Tinto,Teso La Monja,Alabaster 2017,Toro ,4.6,171,158.7,2017
+755,España,Tinto,Artadi,Viña El Pison 2012,Vino de España ,4.6,170,450.0,2012
+756,España,Tinto,Artadi,Viña El Pison 2011,Vino de España ,4.6,170,495.0,2011
+757,España,Tinto,Vega Sicilia,Valbuena 5º 1985,Ribera del Duero ,4.6,146,285.0,1985
+758,España,Tinto,Artadi,Viña El Pison 2014,Vino de España ,4.6,137,310.95,2014
+759,España,Tinto,Alto Moncayo,Aquilon Garnacha 2015,Campo de Borja ,4.6,132,117.25,2015
+760,España,Tinto,Cepa 21,Horcajo 2015,Ribera del Duero ,4.6,126,75.9,2015
+761,España,Tinto,Hacienda Monasterio,Reserva Especial 2016,Ribera del Duero ,4.6,125,86.84,2016
+762,España,Tinto,Hacienda Monasterio,Reserva Especial 2015,Ribera del Duero ,4.6,122,87.68,2015
+763,España,Tinto,Alto Moncayo,Aquilon Garnacha 2016,Campo de Borja ,4.6,91,112.0,2016
+764,España,Tinto,Teso La Monja,Alabaster 2018,Toro ,4.6,87,160.0,2018
+765,España,Tinto,Mas d'en Gil,Gran Buig Priorat 2004,Priorato ,4.6,82,350.0,2004
+766,España,Tinto,Oxer Wines,Kalamity Rioja 2018,Rioja ,4.6,82,109.73,2018
+767,España,Tinto,Osborne,Solera India Oloroso Rare Sherry N.V.,Jerez-Xérès-Sherry ,4.6,80,195.0,N.V.
+768,España,Tinto,Dominio del Águila,Gran Reserva Peñas Aladas 2014,Ribera del Duero ,4.6,80,208.95,2014
+769,España,Tinto,Castillo Perelada,Finca Garbet 2014,Empordà ,4.6,79,119.7,2014
+770,España,Tinto,Gómez Cruzado,Viña Motulleri 2011,Rioja ,4.6,77,85.5,2011
+771,España,Tinto,Sierra Cantabria,Amancio 2017,Rioja ,4.6,74,88.77,2017
+772,España,Tinto,Bodegas Mas Alta,La Creu Alta 2017,Priorato ,4.6,70,87.95,2017
+773,España,Tinto,Artadi,El Carretil 2013,Vino de España ,4.6,69,215.0,2013
+774,España,Tinto,Bodegas Valduero,Tierra Alta de 2 Racimos Gran Reserva 2012,Ribera del Duero ,4.6,69,93.5,2012
+775,España,Tinto,Álvaro Palacios,Les Aubaguetes Priorat 2016,Priorato ,4.6,68,465.0,2016
+776,España,Tinto,Marqués de Griñon,AAA 2008,Dominio de Valdepusa ,4.6,67,168.43,2008
+777,España,Tinto,Gramona,Cava Enoteca Finca La Plana Brut Nature 2001,Cava ,4.6,61,152.0,2001
+778,España,Tinto,Artadi,Viña El Pison 2017,Vino de España ,4.6,53,304.54,2017
+779,España,Tinto,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+780,España,Tinto,Mas Doix,1902 Centenary Carignan Priorat 2016,Priorato ,4.6,50,299.0,2016
+781,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2019,Ribera del Duero ,4.6,48,129.91,2019
+782,España,Tinto,Vall Llach,Mas de la Rosa 2019,Priorato ,4.6,45,275.0,2019
+783,España,Tinto,Sierra Cantabria,Amancio 2018,Rioja ,4.6,43,90.0,2018
+784,España,Tinto,Terroir Al Límit Soc. Lda,Les Tosses 2016,Priorato ,4.6,42,230.6,2016
+785,España,Tinto,Artadi,El Carretil 2017,Vino de España ,4.6,40,176.89,2017
+786,España,Tinto,Bodegas El Nido,El Nido 2020,Jumilla ,4.6,39,150.0,2020
+787,España,Tinto,Bodega Negón Gonzales,Dharma de Negón Red 2014,Castilla ,4.6,32,80.67,2014
+788,España,Tinto,Huerta de Albala,Taberner No. 1 2013,Cádiz ,4.6,37,78.23,2013
+789,España,Tinto,Cuentaviñas,Los Yelsones 2018,Rioja ,4.6,37,173.25,2018
+790,España,Tinto,Jorge Ordóñez,No. 3 Old Vines 2010,Málaga ,4.6,36,46.69,2010
+791,España,Tinto,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+792,España,Tinto,Bodegas San Román,Cartago Paraje de Pozo 2017,Toro ,4.6,34,77.85,2017
+793,España,Tinto,Enate,Uno Tinto 2010,Somontano ,4.6,38,143.5,2010
+794,España,Tinto,Osborne,Solera BC-200 N.V.,Jerez-Xérès-Sherry ,4.6,30,195.0,N.V.
+795,España,Tinto,Pago de Carraovejas,Tinto 2018,Ribera del Duero ,4.5,6115,59.0,2018
+796,España,Tinto,Pintia,Toro 2015,Toro ,4.5,5537,99.8,2015
+797,España,Tinto,Pago de Carraovejas,Tinto 2019,Ribera del Duero ,4.5,5297,52.5,2019
+798,España,Tinto,Pintia,Toro 2016,Toro ,4.5,4700,89.9,2016
+799,España,Tinto,Dominio de Pingus,Flor de Pingus 2015,Ribera del Duero ,4.5,2800,200.0,2015
+800,España,Tinto,Pintia,Toro 2017,Toro ,4.5,2318,65.0,2017
+801,España,Tinto,Muga,Prado Enea Gran Reserva 2014,Rioja ,4.5,1667,56.0,2014
+802,España,Tinto,Alto Moncayo,Garnacha 2017,Campo de Borja ,4.5,1600,78.57,2017
+803,España,Tinto,Bodegas El Nido,Clio 2019,Jumilla ,4.5,1360,99.14,2019
+804,España,Tinto,Alión,Ribera del Duero 2003,Ribera del Duero ,4.5,1251,164.0,2003
+805,España,Tinto,Muga,Torre Muga 2016,Rioja ,4.5,1179,83.64,2016
+806,España,Tinto,Pago de Carraovejas,Tinto 2020,Ribera del Duero ,4.5,1160,35.9,2020
+807,España,Tinto,Pago de Los Capellanes,Parcela El Nogal Tinto 2016,Ribera del Duero ,4.5,941,85.5,2016
+808,España,Tinto,Bodegas Tradición,Pedro Ximenez Tradición 20 Years Old Vos N.V.,Jerez Pedro Ximénes (PX) ,4.5,935,63.95,N.V.
+809,España,Tinto,Dominio de Pingus,Flor de Pingus 2019,Ribera del Duero ,4.5,826,133.35,2019
+810,España,Tinto,Muga,Prado Enea Gran Reserva 2015,Rioja ,4.5,822,58.68,2015
+811,España,Tinto,Carmelo Rodero,Ribera del Duero TSM 2017,Ribera del Duero ,4.5,687,71.85,2017
+812,España,Tinto,Vega Sicilia,Valbuena 5º 1998,Ribera del Duero ,4.5,677,314.16,1998
+813,España,Tinto,La Rioja Alta,Gran Reserva 890 2010,Rioja ,4.5,670,168.0,2010
+814,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2020,Ribera del Duero ,4.5,608,82.95,2020
+815,España,Tinto,Bodegas Valduero,Ribera Del Duero Reserva Premium 6 Anos 2014,Ribera del Duero ,4.5,602,55.79,2014
+816,España,Tinto,Lan,Culmen Reserva Rioja 2015,Rioja ,4.5,588,51.9,2015
+817,España,Tinto,Remírez de Ganuza,Trasnocho 2012,Rioja ,4.5,539,118.89,2012
+818,España,Tinto,Viña Sastre,Pago de Santa Cruz 2016,Ribera del Duero ,4.5,538,75.95,2016
+819,España,Tinto,Vega Sicilia,Valbuena 5º 1996,Ribera del Duero ,4.5,512,290.4,1996
+820,España,Tinto,Viña Sastre,Pago de Santa Cruz 2015,Ribera del Duero ,4.5,444,82.95,2015
+821,España,Tinto,Bodegas Roda,Cirsion Rioja 2016,Rioja ,4.5,399,196.44,2016
+822,España,Tinto,Bodegas Mauro,VS 2017,Castilla y León ,4.5,386,69.9,2017
+823,España,Tinto,Dominio de Calogía,Tinto 2019,Ribera del Duero ,4.5,364,68.9,2019
+824,España,Tinto,Bodegas El Nido,Clio 2020,Jumilla ,4.5,359,46.7,2020
+825,España,Tinto,Marqués de Riscal,Barón de Chirel Rioja Reserva 2016,Rioja ,4.5,338,74.79,2016
+826,España,Tinto,Benjamin de Rothschild - Vega Sicilia,Macán 2017,Rioja ,4.5,327,69.95,2017
+827,España,Tinto,Abadía Retuerta,Petit Verdot 2015,Sardón de Duero ,4.5,325,102.5,2015
+828,España,Tinto,Remírez de Ganuza,Trasnocho 2011,Rioja ,4.5,318,110.5,2011
+829,España,Tinto,Marqués de Riscal,Barón de Chirel Rioja Reserva 2017,Rioja ,4.5,317,75.5,2017
+830,España,Tinto,Contino,Viña del Olivo 2017,Rioja ,4.5,280,66.5,2017
+831,España,Tinto,Emilio Moro,Malleolus de Valderramiro 2018,Ribera del Duero ,4.5,269,86.02,2018
+832,España,Tinto,Abadía Retuerta,Petit Verdot 2014,Sardón de Duero ,4.5,266,176.98,2014
+833,España,Tinto,Abadía Retuerta,Pago Garduña 2016,Castilla y León ,4.5,255,71.25,2016
+834,España,Tinto,Bodega Numanthia,Termanthia 2015,Toro ,4.5,249,229.84,2015
+835,España,Tinto,Adamá Wines,Tinto 2009,Ribera del Duero ,4.5,239,39.0,2009
+836,España,Tinto,Vega Sicilia,Valbuena 5º 1987,Ribera del Duero ,4.5,232,312.0,1987
+837,España,Tinto,Bodega Contador (Benjamín Romeo),La Cueva del Contador Rioja 2017,Rioja ,4.5,230,77.62,2017
+838,España,Tinto,Tio Pepe,Cuatro Palmas Amontillado N.V.,Jerez Amontillado ,4.5,228,116.75,N.V.
+839,España,Tinto,Espectacle del Montsant,Tinto 2013,Montsant ,4.5,226,157.95,2013
+840,España,Tinto,Familia Torres,Grans Muralles 2015,Conca de Barberà ,4.5,222,170.5,2015
+841,España,Tinto,Viña Sastre,Regina Vides Ribera del Duero 2014,Ribera del Duero ,4.5,206,104.9,2014
+842,España,Tinto,Espectacle del Montsant,Tinto 2012,Montsant ,4.5,204,158.99,2012
+843,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2014,Ribera del Duero ,4.5,198,356.0,2014
+844,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2015,Ribera del Duero ,4.5,181,298.0,2015
+845,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2018,Ribera del Duero ,4.5,180,119.34,2018
+846,España,Tinto,Viña Sastre,Regina Vides Ribera del Duero 2015,Ribera del Duero ,4.5,177,92.8,2015
+847,España,Tinto,Territorio Luthier,Territorio Luthier Reserva 2016,Ribera del Duero ,4.5,176,65.0,2016
+848,España,Tinto,Hacienda Monasterio,Reserva 2017,Ribera del Duero ,4.5,168,58.28,2017
+849,España,Tinto,Viña Sastre,Regina Vides Ribera del Duero 2016,Ribera del Duero ,4.5,167,81.9,2016
+850,España,Tinto,Pago de Los Capellanes,Parcela El Nogal Tinto 2018,Ribera del Duero ,4.5,167,45.67,2018
+851,España,Tinto,Matarromera,Ribera del Duero Prestigio 2016,Ribera del Duero ,4.5,165,51.56,2016
+852,España,Tinto,Artadi,Viña El Pison 2013,Vino de España ,4.5,150,295.0,2013
+853,España,Tinto,Bodegas Vilano,Tinto 2019,Ribera del Duero ,4.5,145,43.9,2019
+854,España,Tinto,Tomás Postigo,5º Año Ribera del Duero Tinto 2017,Ribera del Duero ,4.5,140,55.5,2017
+855,España,Tinto,Pago de Los Capellanes,Parcela El Picón Tinto 2015,Ribera del Duero ,4.5,139,270.0,2015
+856,España,Tinto,Sierra Cantabria,Finca el Bosque 2017,Rioja ,4.5,136,84.36,2017
+857,España,Tinto,Remírez de Ganuza,Trasnocho 2015,Rioja ,4.5,129,84.25,2015
+858,España,Tinto,Bodegas Mas Alta,La Basseta 2017,Priorato ,4.5,128,67.6,2017
+859,España,Tinto,Tresmano - Tr3smano,Tm 2016,Ribera del Duero ,4.5,125,129.0,2016
+860,España,Tinto,Ukan Winery,Tinto 2019,Rioja Alavesa ,4.5,123,40.3,2019
+861,España,Tinto,Bodegas Mauro,Terreus Paraje de Cueva Baja 2019,Castilla y León ,4.5,123,99.0,2019
+862,España,Tinto,Adamá Wines,Tinto 2011,Ribera del Duero ,4.5,122,39.0,2011
+863,España,Tinto,Familia Torres,Reserva Real 2001,Penedès ,4.5,118,367.0,2001
+864,España,Tinto,R. López de Heredia,Viña Tondonia Gran Reserva 2001,Rioja ,4.5,109,192.9,2001
+865,España,Tinto,Castillo de Cuzcurrita,Cerrado del Castillo Rioja 2016,Rioja ,4.5,108,48.9,2016
+866,España,Tinto,Carmelo Rodero,Pago De Valtarreña 2019,Ribera del Duero ,4.5,108,49.55,2019
+867,España,Tinto,Cepa 21,Horcajo 2016,Ribera del Duero ,4.5,107,78.45,2016
+868,España,Tinto,Toro Albalá,Don PX Vieja Cosecha 1973,Montilla-Moriles ,4.5,104,123.96,1973
+869,España,Tinto,Lan,Culmen Reserva Rioja 2017,Rioja ,4.5,104,42.3,2017
+870,España,Tinto,Álvaro Palacios,Les Aubaguetes Priorat 2015,Priorato ,4.5,103,302.5,2015
+871,España,Tinto,Bodega Contador (Benjamín Romeo),Contador Rioja 2016,Rioja ,4.5,102,321.39,2016
+872,España,Tinto,Valdespino,Coliseo Amontillado VORS N.V.,Jerez Amontillado ,4.5,101,240.0,N.V.
+873,España,Tinto,Enate,Chardonnay Uno 2011,Somontano ,4.5,99,200.13,2011
+874,España,Tinto,Artadi,El Carretil 2012,Vino de España ,4.5,96,225.0,2012
+875,España,Tinto,Ànima Negra,Son Negre 2016,Mallorca ,4.5,94,176.03,2016
+876,España,Tinto,Bodegas Roda,Cirsion Rioja 1999,Rioja ,4.5,92,350.0,1999
+877,España,Tinto,Adamá Wines,Tinto 2010,Ribera del Duero ,4.5,91,35.0,2010
+878,España,Tinto,Bodegas San Román,Cartago Paraje de Pozo 2016,Toro ,4.5,91,78.0,2016
+879,España,Tinto,Bodegas Naluar & Acediano,Acediano 2014,Ribera del Duero ,4.5,88,84.0,2014
+880,España,Tinto,Vins Pepe Raventós,Mas del Serral 2007,Penedès ,4.5,88,145.2,2007
+881,España,Tinto,Abadía Retuerta,Petit Verdot 2017,Sardón de Duero ,4.5,83,117.0,2017
+882,España,Tinto,Abadía Retuerta,Petit Verdot 2010,Sardón de Duero ,4.5,78,325.0,2010
+883,España,Tinto,Artadi,El Carretil 2015,Vino de España ,4.5,75,143.51,2015
+884,España,Tinto,Bodegas Roda,Cirsion Rioja 2018,Rioja ,4.5,73,170.37,2018
+885,España,Tinto,Vall Llach,Idus 2020,Priorato ,4.5,71,36.6,2020
+886,España,Tinto,Sierra Cantabria,Finca el Bosque 2019,Rioja ,4.5,71,94.0,2019
+887,España,Tinto,Francisco Garcia Perez,Adega do Moucho Treixadura 2017,Ribeiro ,4.5,70,47.5,2017
+888,España,Tinto,Juan Gil,Bruto 2020,Jumilla ,4.5,69,31.9,2020
+889,España,Tinto,Quinta de la Quietud,La Mula de la Quietud 2017,Toro ,4.5,68,61.17,2017
+890,España,Tinto,Hacienda Solano,Finca Cascorrales 2016,Ribera del Duero ,4.5,64,65.9,2016
+891,España,Tinto,Luzon,Alma de Luzón 2018,Jumilla ,4.5,63,38.0,2018
+892,España,Tinto,Tarsus,Finca El Canto 2015,Ribera del Duero ,4.5,61,89.66,2015
+893,España,Tinto,Toro Albalá,Don PX Selección 1968,Montilla-Moriles ,4.5,60,208.15,1968
+894,España,Tinto,Emilio Moro,Malleolus de Valderramiro 2019,Ribera del Duero ,4.5,59,89.85,2019
+895,España,Tinto,Vinícola Real,200 Monges Rioja Reserva Selección Especial 2006,Rioja ,4.5,58,58.25,2006
+896,España,Tinto,Enate,Reserva Especial 2006,Somontano ,4.5,57,70.0,2006
+897,España,Tinto,Mestres,Mas Via Gran Reserva Brut 2005,Cava ,4.5,56,61.55,2005
+898,España,Tinto,Castillo Perelada,Finca Garbet 2015,Empordà ,4.5,55,110.0,2015
+899,España,Tinto,Artadi,El Carretil 2011,Vino de España ,4.5,55,230.0,2011
+900,España,Tinto,Vega Sicilia,Unico 2010,Ribera del Duero ,4.8,1571,380.55,2010
+901,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2018,Ribera del Duero ,4.8,462,484.0,2018
+902,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2019,Ribera del Duero ,4.8,261,471.9,2019
+903,España,Tinto,Toro Albalá,Don PX Convento Selección 1931,Montilla-Moriles ,4.8,159,300.93,1931
+904,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2020,Ribera del Duero ,4.8,97,435.75,2020
+905,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2014,Toro ,4.8,84,369.05,2014
+906,España,Tinto,Viña Sastre,Pesus Ribera del Duero 2007,Ribera del Duero ,4.8,81,360.0,2007
+907,España,Tinto,Toro Albalá,Don PX Convento Selección 1929,Montilla-Moriles ,4.8,77,290.95,1929
+908,España,Tinto,Artadi,Viña El Pison 2018,Vino de España ,4.8,54,299.25,2018
+909,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2021,Ribera del Duero ,4.8,28,451.5,2021
+910,España,Tinto,Vega Sicilia,Unico 2005,Ribera del Duero ,4.7,3627,496.1,2005
+911,España,Tinto,Vega Sicilia,Valbuena 5º 2006,Ribera del Duero ,4.7,3980,249.2,2006
+912,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición,Ribera del Duero ,4.7,12885,423.5,Edición
+913,España,Tinto,Vega Sicilia,Unico 2006,Ribera del Duero ,4.7,2976,450.0,2006
+914,España,Tinto,Vega Sicilia,Unico 2008,Ribera del Duero ,4.7,2516,499.0,2008
+915,España,Tinto,Vega Sicilia,Unico 2009,Ribera del Duero ,4.7,2054,450.0,2009
+916,España,Tinto,Vega Sicilia,Valbuena 5º 2005,Ribera del Duero ,4.7,1894,284.1,2005
+917,España,Tinto,Vega Sicilia,Unico 2011,Ribera del Duero ,4.7,1298,389.9,2011
+918,España,Tinto,Vega Sicilia,Unico Reserva Especial Edición 2017,Ribera del Duero ,4.7,563,496.1,2017
+919,España,Tinto,Vega Sicilia,Unico 2012,Ribera del Duero ,4.7,511,349.0,2012
+920,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2016,Ribera del Duero ,4.7,434,120.75,2016
+921,España,Tinto,Pago de Los Capellanes,Parcela El Picón Tinto 2016,Ribera del Duero ,4.7,140,196.0,2016
+922,España,Tinto,Toro Albalá,Don PX Convento Selección 1955,Montilla-Moriles ,4.7,129,227.5,1955
+923,España,Tinto,Toro Albalá,Don PX Pedro Ximenez 1931,Montilla-Moriles ,4.7,79,320.61,1931
+924,España,Tinto,Teso La Monja,Alabaster 2019,Toro ,4.7,74,160.77,2019
+925,España,Tinto,Pago de Carraovejas,Cuesta de Las Liebres 2018,Ribera del Duero ,4.7,70,158.9,2018
+926,España,Tinto,Ordóñez,Vatan Arena Tinta de Toro 2015,Toro ,4.7,70,369.0,2015
+927,España,Tinto,Toro Albalá,Don PX Convento Selección 1958,Montilla-Moriles ,4.7,55,249.02,1958
+928,España,Tinto,Recaredo,Reserva Particular de Recaredo Brut Nature 2011,Penedès ,4.7,54,65.05,2011
+929,España,Tinto,Equipo Navazos,La Bota 78 de Oloroso N.V.,Manzanilla ,4.7,47,91.22,N.V.
+930,España,Tinto,Viñedos de Páganos,La Nieta 2020,Rioja ,4.7,46,109.99,2020
+931,España,Tinto,Territorio Luthier,Luthier Gran Reserva 2012,Ribera del Duero ,4.7,45,248.0,2012
+932,España,Tinto,Comenge,Jacobus 2014,Ribera del Duero ,4.7,38,195.9,2014
+933,España,Tinto,Familia Torres,Reserva Real 2016,Penedès ,4.7,36,273.0,2016
+934,España,Tinto,Artadi,Viña El Pison 2019,Vino de España ,4.7,29,324.99,2019
+935,España,Tinto,Vega Sicilia,Valbuena 5º 2007,Ribera del Duero ,4.6,5216,270.0,2007
+936,España,Tinto,Vega Sicilia,Valbuena 5º 2008,Ribera del Duero ,4.6,5626,282.39,2008
+937,España,Tinto,Vega Sicilia,Valbuena 5º 2012,Ribera del Duero ,4.6,6119,268.12,2012
+938,España,Tinto,Alión,Ribera del Duero 2017,Ribera del Duero ,4.6,3517,189.9,2017
+939,España,Tinto,Aalto,PS (Pagos Seleccionados) Ribera del Duero 2019,Ribera del Duero ,4.6,2513,129.46,2019
+940,España,Tinto,Dominio de Pingus,Flor de Pingus 2018,Ribera del Duero ,4.6,1964,149.5,2018
+941,España,Tinto,Alión,Ribera del Duero 2018,Ribera del Duero ,4.6,1959,185.0,2018
+942,España,Tinto,Vega Sicilia,Valbuena 5º 2000,Ribera del Duero ,4.6,1020,278.3,2000
+943,España,Tinto,Vega Sicilia,Valbuena 5º 2002,Ribera del Duero ,4.6,961,272.25,2002
+944,España,Tinto,Bodega Numanthia,Termanthia 2012,Toro ,4.6,894,232.85,2012
+945,España,Tinto,Marqués de Murrieta,Castillo Ygay Gran Reserva Especial Tinto 2011,Rioja ,4.6,612,194.98,2011
+946,España,Tinto,Vega Sicilia,Valbuena 5º 1999,Ribera del Duero ,4.6,604,276.8,1999
+947,España,Tinto,Viñedos de Páganos,La Nieta 2018,Rioja ,4.6,304,110.8,2018
+948,España,Tinto,Artadi,Viña El Pison 2006,Vino de España ,4.6,279,391.5,2006
+949,España,Tinto,Teso La Monja,Alabaster 2015,Toro ,4.6,231,155.0,2015
+950,España,Tinto,Bodega Numanthia,Termanthia 2014,Toro ,4.6,230,229.84,2014
+951,España,Tinto,Bodegas Mauro,Terreus Paraje de Cueva Baja 2018,Castilla y León ,4.6,208,91.5,2018
+952,España,Tinto,Viñedos de Páganos,La Nieta 2019,Rioja ,4.6,193,117.29,2019
+953,España,Tinto,Bodegas Roda,Cirsion Rioja 2017,Rioja ,4.6,182,210.0,2017
+954,España,Tinto,Teso La Monja,Alabaster 2017,Toro ,4.6,171,158.7,2017
+955,España,Tinto,Artadi,Viña El Pison 2012,Vino de España ,4.6,170,450.0,2012
+956,España,Tinto,Artadi,Viña El Pison 2011,Vino de España ,4.6,170,495.0,2011
+957,España,Tinto,Vega Sicilia,Valbuena 5º 1985,Ribera del Duero ,4.6,146,285.0,1985
+958,España,Tinto,Artadi,Viña El Pison 2014,Vino de España ,4.6,137,310.95,2014
+959,España,Tinto,Alto Moncayo,Aquilon Garnacha 2015,Campo de Borja ,4.6,132,117.25,2015
+960,España,Tinto,Cepa 21,Horcajo 2015,Ribera del Duero ,4.6,126,75.9,2015
+961,España,Tinto,Hacienda Monasterio,Reserva Especial 2016,Ribera del Duero ,4.6,125,86.84,2016
+962,España,Tinto,Hacienda Monasterio,Reserva Especial 2015,Ribera del Duero ,4.6,122,87.68,2015
+963,España,Tinto,Alto Moncayo,Aquilon Garnacha 2016,Campo de Borja ,4.6,91,112.0,2016
+964,España,Tinto,Teso La Monja,Alabaster 2018,Toro ,4.6,87,160.0,2018
+965,España,Tinto,Mas d'en Gil,Gran Buig Priorat 2004,Priorato ,4.6,82,350.0,2004
+966,España,Tinto,Oxer Wines,Kalamity Rioja 2018,Rioja ,4.6,82,109.73,2018
+967,España,Tinto,Osborne,Solera India Oloroso Rare Sherry N.V.,Jerez-Xérès-Sherry ,4.6,80,195.0,N.V.
+968,España,Tinto,Dominio del Águila,Gran Reserva Peñas Aladas 2014,Ribera del Duero ,4.6,80,208.95,2014
+969,España,Tinto,Castillo Perelada,Finca Garbet 2014,Empordà ,4.6,79,119.7,2014
+970,España,Tinto,Gómez Cruzado,Viña Motulleri 2011,Rioja ,4.6,77,85.5,2011
+971,España,Tinto,Sierra Cantabria,Amancio 2017,Rioja ,4.6,74,88.77,2017
+972,España,Tinto,Bodegas Mas Alta,La Creu Alta 2017,Priorato ,4.6,70,87.95,2017
+973,España,Tinto,Artadi,El Carretil 2013,Vino de España ,4.6,69,215.0,2013
+974,España,Tinto,Bodegas Valduero,Tierra Alta de 2 Racimos Gran Reserva 2012,Ribera del Duero ,4.6,69,93.5,2012
+975,España,Tinto,Álvaro Palacios,Les Aubaguetes Priorat 2016,Priorato ,4.6,68,465.0,2016
+976,España,Tinto,Marqués de Griñon,AAA 2008,Dominio de Valdepusa ,4.6,67,168.43,2008
+977,España,Tinto,Gramona,Cava Enoteca Finca La Plana Brut Nature 2001,Cava ,4.6,61,152.0,2001
+978,España,Tinto,Artadi,Viña El Pison 2017,Vino de España ,4.6,53,304.54,2017
+979,España,Tinto,Olivier Rivière,Mirando al Sur 2018,Rioja ,4.6,51,74.49,2018
+980,España,Tinto,Mas Doix,1902 Centenary Carignan Priorat 2016,Priorato ,4.6,50,299.0,2016
+981,España,Tinto,Emilio Moro,Malleolus de Sanchomartin 2019,Ribera del Duero ,4.6,48,129.91,2019
+982,España,Tinto,Vall Llach,Mas de la Rosa 2019,Priorato ,4.6,45,275.0,2019
+983,España,Tinto,Sierra Cantabria,Amancio 2018,Rioja ,4.6,43,90.0,2018
+984,España,Tinto,Terroir Al Límit Soc. Lda,Les Tosses 2016,Priorato ,4.6,42,230.6,2016
+985,España,Tinto,Artadi,El Carretil 2017,Vino de España ,4.6,40,176.89,2017
+986,España,Tinto,Bodegas El Nido,El Nido 2020,Jumilla ,4.6,39,150.0,2020
+987,España,Tinto,Bodega Negón Gonzales,Dharma de Negón Red 2014,Castilla ,4.6,32,80.67,2014
+988,España,Tinto,Huerta de Albala,Taberner No. 1 2013,Cádiz ,4.6,37,78.23,2013
+989,España,Tinto,Cuentaviñas,Los Yelsones 2018,Rioja ,4.6,37,173.25,2018
+990,España,Tinto,Jorge Ordóñez,No. 3 Old Vines 2010,Málaga ,4.6,36,46.69,2010
+991,España,Tinto,Bodegas Frontonio,El Jardín de las Iguales Viñedo Historic Macabeo 2016,Valdejalón ,4.6,34,175.0,2016
+992,España,Tinto,Bodegas San Román,Cartago Paraje de Pozo 2017,Toro ,4.6,34,77.85,2017
+993,España,Tinto,Enate,Uno Tinto 2010,Somontano ,4.6,38,143.5,2010
+994,España,Tinto,Osborne,Solera BC-200 N.V.,Jerez-Xérès-Sherry ,4.6,30,195.0,N.V.
+995,España,Tinto,Pago de Carraovejas,Tinto 2018,Ribera del Duero ,4.5,6115,59.0,2018
+996,España,Tinto,Pintia,Toro 2015,Toro ,4.5,5537,99.8,2015
+997,España,Tinto,Pago de Carraovejas,Tinto 2019,Ribera del Duero ,4.5,5297,52.5,2019
+998,España,Tinto,Pintia,Toro 2016,Toro ,4.5,4700,89.9,2016
+999,España,Tinto,Dominio de Pingus,Flor de Pingus 2015,Ribera del Duero ,4.5,2800,200.0,2015

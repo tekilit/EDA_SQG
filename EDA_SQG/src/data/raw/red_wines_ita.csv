@@ -1,0 +1,1001 @@
+,Pais,Tipo,Bodegas,Nombre y año,Región,Rating,Valoraciones,Precio,Año
+0,Italia,Tinto,Antinori,Tenuta Guado al Tasso Matarocchio 2016,Maremma Toscana ,4.7,249,498.28,2016
+1,Italia,Tinto,Tenuta San Guido,Sassicaia 2018,Bolgheri Sassicaia ,4.6,2745,496.9,2018
+2,Italia,Tinto,Ornellaia,Bolgheri Superiore 2018,Bolgheri Superiore ,4.6,1542,215.5,2018
+3,Italia,Tinto,Biondi-Santi,Brunello di Montalcino 2015,Brunello di Montalcino ,4.6,829,167.79,2015
+4,Italia,Tinto,Ca' del Bosco,Cuvée Annamaria Clementi (Extra Brut) 2011,Franciacorta ,4.6,661,139.0,2011
+5,Italia,Tinto,Biserno,Bibbona 2017,Toscana ,4.6,243,161.99,2017
+6,Italia,Tinto,Gaja,Conteisa Langhe 2015,Langhe ,4.6,69,311.02,2015
+7,Italia,Tinto,Antinori,Tenuta Tignanello 'Solaia' 2019,Toscana ,4.6,60,360.0,2019
+8,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2013,Brunello di Montalcino ,4.5,313,194.39,2013
+9,Italia,Tinto,Casanova di Neri,Tenuta Nuova Brunello di Montalcino 2016,Brunello di Montalcino ,4.5,860,117.2,2016
+10,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2007,Barolo ,4.5,491,156.55,2007
+11,Italia,Tinto,Fontodi,Flaccianello della Pieve 2018,Colli della Toscana Centrale ,4.5,454,205.76,2018
+12,Italia,Tinto,Tenuta Ulisse,Limited Edition 10 Vendemmie N.V.,Montepulciano d'Abruzzo ,4.5,8880,27.3,N.V.
+13,Italia,Tinto,Pio Cesare,Ornato Barolo 2017,Barolo ,4.5,181,105.6,2017
+14,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2015,Brunello di Montalcino ,4.5,128,194.39,2015
+15,Italia,Tinto,Gaja,Barbaresco 2019,Barbaresco ,4.5,119,266.25,2019
+16,Italia,Tinto,Elio Altare,Arborina Barolo 2017,Barolo ,4.5,93,180.95,2017
+17,Italia,Tinto,Gaja,Gaia & Rey Langhe 2020,Langhe ,4.5,82,304.54,2020
+18,Italia,Tinto,Elio Altare,Cerretta Barolo Riserva (Vigna Bricco) 2015,Barolo ,4.5,65,207.1,2015
+19,Italia,Tinto,Feudo Montoni,Vrucara Nero d'Avola 2017,Sicilia ,4.5,63,36.55,2017
+20,Italia,Tinto,La Valentina,Bellovedere Montepulciano d'Abruzzo (Riserva) 2016,Montepulciano d'Abruzzo ,4.5,53,37.7,2016
+21,Italia,Tinto,Guerrieri,Guerriero della Terra 2018,Marche ,4.4,2571,29.99,2018
+22,Italia,Tinto,San Marzano,60 Sessantanni Old Vines Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,865,21.99,2018
+23,Italia,Tinto,Ornellaia,Le Serre Nuove 2020,Bolgheri ,4.4,779,56.2,2020
+24,Italia,Tinto,Tenuta Luce,Luce 2018,Toscana ,4.4,637,108.9,2018
+25,Italia,Tinto,Antinori,Tenuta Guado al Tasso Matarocchio 2016,Maremma Toscana ,4.7,249,498.28,2016
+26,Italia,Tinto,Tenuta San Guido,Sassicaia 2018,Bolgheri Sassicaia ,4.6,2745,496.9,2018
+27,Italia,Tinto,Ornellaia,Bolgheri Superiore 2018,Bolgheri Superiore ,4.6,1542,215.5,2018
+28,Italia,Tinto,Biondi-Santi,Brunello di Montalcino 2015,Brunello di Montalcino ,4.6,829,167.79,2015
+29,Italia,Tinto,Ca' del Bosco,Cuvée Annamaria Clementi (Extra Brut) 2011,Franciacorta ,4.6,661,139.0,2011
+30,Italia,Tinto,Biserno,Bibbona 2017,Toscana ,4.6,243,161.99,2017
+31,Italia,Tinto,Gaja,Conteisa Langhe 2015,Langhe ,4.6,69,311.02,2015
+32,Italia,Tinto,Antinori,Tenuta Tignanello 'Solaia' 2019,Toscana ,4.6,60,360.0,2019
+33,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2013,Brunello di Montalcino ,4.5,313,194.39,2013
+34,Italia,Tinto,Casanova di Neri,Tenuta Nuova Brunello di Montalcino 2016,Brunello di Montalcino ,4.5,860,117.2,2016
+35,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2007,Barolo ,4.5,491,156.55,2007
+36,Italia,Tinto,Fontodi,Flaccianello della Pieve 2018,Colli della Toscana Centrale ,4.5,454,205.76,2018
+37,Italia,Tinto,Tenuta Ulisse,Limited Edition 10 Vendemmie N.V.,Montepulciano d'Abruzzo ,4.5,8880,27.3,N.V.
+38,Italia,Tinto,Pio Cesare,Ornato Barolo 2017,Barolo ,4.5,181,105.6,2017
+39,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2015,Brunello di Montalcino ,4.5,128,194.39,2015
+40,Italia,Tinto,Gaja,Barbaresco 2019,Barbaresco ,4.5,119,266.25,2019
+41,Italia,Tinto,Elio Altare,Arborina Barolo 2017,Barolo ,4.5,93,180.95,2017
+42,Italia,Tinto,Gaja,Gaia & Rey Langhe 2020,Langhe ,4.5,82,304.54,2020
+43,Italia,Tinto,Elio Altare,Cerretta Barolo Riserva (Vigna Bricco) 2015,Barolo ,4.5,65,207.1,2015
+44,Italia,Tinto,Feudo Montoni,Vrucara Nero d'Avola 2017,Sicilia ,4.5,63,36.55,2017
+45,Italia,Tinto,La Valentina,Bellovedere Montepulciano d'Abruzzo (Riserva) 2016,Montepulciano d'Abruzzo ,4.5,53,37.7,2016
+46,Italia,Tinto,Guerrieri,Guerriero della Terra 2018,Marche ,4.4,2571,29.99,2018
+47,Italia,Tinto,San Marzano,60 Sessantanni Old Vines Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,865,21.99,2018
+48,Italia,Tinto,Ornellaia,Le Serre Nuove 2020,Bolgheri ,4.4,779,56.2,2020
+49,Italia,Tinto,Tenuta Luce,Luce 2018,Toscana ,4.4,637,108.9,2018
+50,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2018,Amarone della Valpolicella Classico ,4.4,596,72.0,2018
+51,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2011,Barolo ,4.4,411,163.3,2011
+52,Italia,Tinto,Marisa Cuomo,Fiorduva Costa d'Amalfi 2019,Costa d'Amalfi ,4.4,390,66.8,2019
+53,Italia,Tinto,Gaja,Dagromis Barolo 2018,Barolo ,4.4,365,95.51,2018
+54,Italia,Tinto,Ca' del Bosco,Dosage Zéro Franciacorta (Vintage Collection) 2017,Franciacorta ,4.4,238,63.9,2017
+55,Italia,Tinto,Trullo di Pezza,Licurti Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,224,14.86,2018
+56,Italia,Tinto,Giovanni Rosso,Barolo Cerretta 2017,Barolo ,4.4,140,65.0,2017
+57,Italia,Tinto,Pelissero,Barbaresco Vanotu 2015,Barbaresco ,4.4,134,162.65,2015
+58,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2017,Bolgheri ,4.4,126,140.51,2017
+59,Italia,Tinto,Le Macchiole,Messorio 2018,Toscana ,4.4,103,204.25,2018
+60,Italia,Tinto,E. Pira & Figli,Mosconi Barolo 2017,Barolo ,4.4,96,105.35,2017
+61,Italia,Tinto,Hauner,Malvasia delle Lipari Passito 2017,Malvasia delle Lipari ,4.4,95,55.05,2017
+62,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2016,Brunello di Montalcino ,4.4,94,190.2,2016
+63,Italia,Tinto,Vietti,Barolo Lazzarito 2017,Barolo ,4.4,88,150.0,2017
+64,Italia,Tinto,Val di Suga,Brunello di Montalcino Vigna del Lago 2013,Brunello di Montalcino ,4.4,80,59.35,2013
+65,Italia,Tinto,Vietti,Barolo Brunate 2017,Barolo ,4.4,51,173.5,2017
+66,Italia,Tinto,Pio Cesare,Il Bricco Barbaresco 2017,Barbaresco ,4.4,49,105.6,2017
+67,Italia,Tinto,Poggio Antico,Brunello di Montalcino Riserva 2015,Brunello di Montalcino ,4.4,48,124.45,2015
+68,Italia,Tinto,Pio Cesare,Mosconi Barolo 2018,Barolo ,4.4,39,132.0,2018
+69,Italia,Tinto,Tenuta Sant'Antonio,Campo dei Gigli Amarone della Valpolicella 2017,Amarone della Valpolicella ,4.4,37,67.2,2017
+70,Italia,Tinto,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,33,69.71,2019
+71,Italia,Tinto,Castello Giulio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.4,25,24.95,2017
+72,Italia,Tinto,Farnese,Edizione Cinque Autoctoni N.V.,Abruzos ,4.3,63661,18.9,N.V.
+73,Italia,Tinto,San Marzano,Cinquanta Collezione N.V.,Vino d'Italia ,4.3,36336,18.99,N.V.
+74,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Prosecco N.V.,Prosecco ,4.3,12767,9.9,N.V.
+75,Italia,Tinto,Antinori,Tenuta Guado al Tasso Matarocchio 2016,Maremma Toscana ,4.7,249,498.28,2016
+76,Italia,Tinto,Tenuta San Guido,Sassicaia 2018,Bolgheri Sassicaia ,4.6,2745,496.9,2018
+77,Italia,Tinto,Ornellaia,Bolgheri Superiore 2018,Bolgheri Superiore ,4.6,1542,215.5,2018
+78,Italia,Tinto,Biondi-Santi,Brunello di Montalcino 2015,Brunello di Montalcino ,4.6,829,167.79,2015
+79,Italia,Tinto,Ca' del Bosco,Cuvée Annamaria Clementi (Extra Brut) 2011,Franciacorta ,4.6,661,139.0,2011
+80,Italia,Tinto,Biserno,Bibbona 2017,Toscana ,4.6,243,161.99,2017
+81,Italia,Tinto,Gaja,Conteisa Langhe 2015,Langhe ,4.6,69,311.02,2015
+82,Italia,Tinto,Antinori,Tenuta Tignanello 'Solaia' 2019,Toscana ,4.6,60,360.0,2019
+83,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2013,Brunello di Montalcino ,4.5,313,194.39,2013
+84,Italia,Tinto,Casanova di Neri,Tenuta Nuova Brunello di Montalcino 2016,Brunello di Montalcino ,4.5,860,117.2,2016
+85,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2007,Barolo ,4.5,491,156.55,2007
+86,Italia,Tinto,Fontodi,Flaccianello della Pieve 2018,Colli della Toscana Centrale ,4.5,454,205.76,2018
+87,Italia,Tinto,Tenuta Ulisse,Limited Edition 10 Vendemmie N.V.,Montepulciano d'Abruzzo ,4.5,8880,27.3,N.V.
+88,Italia,Tinto,Pio Cesare,Ornato Barolo 2017,Barolo ,4.5,181,105.6,2017
+89,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2015,Brunello di Montalcino ,4.5,128,194.39,2015
+90,Italia,Tinto,Gaja,Barbaresco 2019,Barbaresco ,4.5,119,266.25,2019
+91,Italia,Tinto,Elio Altare,Arborina Barolo 2017,Barolo ,4.5,93,180.95,2017
+92,Italia,Tinto,Gaja,Gaia & Rey Langhe 2020,Langhe ,4.5,82,304.54,2020
+93,Italia,Tinto,Elio Altare,Cerretta Barolo Riserva (Vigna Bricco) 2015,Barolo ,4.5,65,207.1,2015
+94,Italia,Tinto,Feudo Montoni,Vrucara Nero d'Avola 2017,Sicilia ,4.5,63,36.55,2017
+95,Italia,Tinto,La Valentina,Bellovedere Montepulciano d'Abruzzo (Riserva) 2016,Montepulciano d'Abruzzo ,4.5,53,37.7,2016
+96,Italia,Tinto,Guerrieri,Guerriero della Terra 2018,Marche ,4.4,2571,29.99,2018
+97,Italia,Tinto,San Marzano,60 Sessantanni Old Vines Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,865,21.99,2018
+98,Italia,Tinto,Ornellaia,Le Serre Nuove 2020,Bolgheri ,4.4,779,56.2,2020
+99,Italia,Tinto,Tenuta Luce,Luce 2018,Toscana ,4.4,637,108.9,2018
+100,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2018,Amarone della Valpolicella Classico ,4.4,596,72.0,2018
+101,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2011,Barolo ,4.4,411,163.3,2011
+102,Italia,Tinto,Marisa Cuomo,Fiorduva Costa d'Amalfi 2019,Costa d'Amalfi ,4.4,390,66.8,2019
+103,Italia,Tinto,Gaja,Dagromis Barolo 2018,Barolo ,4.4,365,95.51,2018
+104,Italia,Tinto,Ca' del Bosco,Dosage Zéro Franciacorta (Vintage Collection) 2017,Franciacorta ,4.4,238,63.9,2017
+105,Italia,Tinto,Trullo di Pezza,Licurti Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,224,14.86,2018
+106,Italia,Tinto,Giovanni Rosso,Barolo Cerretta 2017,Barolo ,4.4,140,65.0,2017
+107,Italia,Tinto,Pelissero,Barbaresco Vanotu 2015,Barbaresco ,4.4,134,162.65,2015
+108,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2017,Bolgheri ,4.4,126,140.51,2017
+109,Italia,Tinto,Le Macchiole,Messorio 2018,Toscana ,4.4,103,204.25,2018
+110,Italia,Tinto,E. Pira & Figli,Mosconi Barolo 2017,Barolo ,4.4,96,105.35,2017
+111,Italia,Tinto,Hauner,Malvasia delle Lipari Passito 2017,Malvasia delle Lipari ,4.4,95,55.05,2017
+112,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2016,Brunello di Montalcino ,4.4,94,190.2,2016
+113,Italia,Tinto,Vietti,Barolo Lazzarito 2017,Barolo ,4.4,88,150.0,2017
+114,Italia,Tinto,Val di Suga,Brunello di Montalcino Vigna del Lago 2013,Brunello di Montalcino ,4.4,80,59.35,2013
+115,Italia,Tinto,Vietti,Barolo Brunate 2017,Barolo ,4.4,51,173.5,2017
+116,Italia,Tinto,Pio Cesare,Il Bricco Barbaresco 2017,Barbaresco ,4.4,49,105.6,2017
+117,Italia,Tinto,Poggio Antico,Brunello di Montalcino Riserva 2015,Brunello di Montalcino ,4.4,48,124.45,2015
+118,Italia,Tinto,Pio Cesare,Mosconi Barolo 2018,Barolo ,4.4,39,132.0,2018
+119,Italia,Tinto,Tenuta Sant'Antonio,Campo dei Gigli Amarone della Valpolicella 2017,Amarone della Valpolicella ,4.4,37,67.2,2017
+120,Italia,Tinto,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,33,69.71,2019
+121,Italia,Tinto,Castello Giulio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.4,25,24.95,2017
+122,Italia,Tinto,Farnese,Edizione Cinque Autoctoni N.V.,Abruzos ,4.3,63661,18.9,N.V.
+123,Italia,Tinto,San Marzano,Cinquanta Collezione N.V.,Vino d'Italia ,4.3,36336,18.99,N.V.
+124,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Prosecco N.V.,Prosecco ,4.3,12767,9.9,N.V.
+125,Italia,Tinto,Tenuta CastelGiocondo,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,4677,107.45,2015
+126,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2017,Amarone della Valpolicella Classico ,4.3,1502,77.05,2017
+127,Italia,Tinto,Tenuta Ulisse,Amaranta Montepulciano d'Abruzzo 2019,Montepulciano d'Abruzzo ,4.3,1262,18.45,2019
+128,Italia,Tinto,Bibi Graetz,Testamatta Toscana 2018,Toscana ,4.3,1229,94.4,2018
+129,Italia,Tinto,Donatella Cinelli Colombini,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,785,41.37,2015
+130,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Moscato Spumante N.V.,Véneto ,4.3,731,9.9,N.V.
+131,Italia,Tinto,47 Anno Domini,Le Argille Cabernet di Cabernet 2018,Véneto ,4.3,640,28.99,2018
+132,Italia,Tinto,San Marzano,62 Anniversario Primitivo di Manduria Riserva 2018,Primitivo di Manduria ,4.3,558,31.0,2018
+133,Italia,Tinto,Mottura,Stilio Primitivo di Manduria 2021,Primitivo di Manduria ,4.3,553,12.99,2021
+134,Italia,Tinto,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+135,Italia,Tinto,Biondi-Santi,Rosso di Montalcino 2017,Rosso di Montalcino ,4.3,344,80.95,2017
+136,Italia,Tinto,La Spinetta,Vürsù Barbaresco Gallina 2011,Barbaresco ,4.3,327,137.0,2011
+137,Italia,Tinto,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+138,Italia,Tinto,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+139,Italia,Tinto,Gaja,Ca'Marcanda Magari 2020,Bolgheri ,4.3,283,71.9,2020
+140,Italia,Tinto,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+141,Italia,Tinto,Tinazzi,Vinum Italicum No 3 Opera 2020,Véneto ,4.3,271,16.95,2020
+142,Italia,Tinto,Fontodi,Vigna del Sorbo Gran Selezione Chianti Classico 2018,Chianti Classico ,4.3,242,80.9,2018
+143,Italia,Tinto,Jacopo Biondi Santi,Schidione 1998,Toscana ,4.3,223,112.51,1998
+144,Italia,Tinto,G.D. Vajra,Barolo Bricco Delle Viole 2018,Barolo ,4.3,194,85.0,2018
+145,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2017,Franciacorta ,4.3,185,58.0,2017
+146,Italia,Tinto,Castello di Ama,L'Apparita 2013,Toscana ,4.3,182,190.85,2013
+147,Italia,Tinto,Casa Vinicola Bennati,San Giorgio Amarone della Valpolicella 2019,Amarone della Valpolicella ,4.3,176,19.99,2019
+148,Italia,Tinto,Feudi di San Gregorio,Serpico 2014,Irpinia ,4.3,167,58.35,2014
+149,Italia,Tinto,Conti Costanti,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,131,65.0,2017
+150,Italia,Tinto,Antinori,Tenuta Guado al Tasso Matarocchio 2016,Maremma Toscana ,4.7,249,498.28,2016
+151,Italia,Tinto,Tenuta San Guido,Sassicaia 2018,Bolgheri Sassicaia ,4.6,2745,496.9,2018
+152,Italia,Tinto,Ornellaia,Bolgheri Superiore 2018,Bolgheri Superiore ,4.6,1542,215.5,2018
+153,Italia,Tinto,Biondi-Santi,Brunello di Montalcino 2015,Brunello di Montalcino ,4.6,829,167.79,2015
+154,Italia,Tinto,Ca' del Bosco,Cuvée Annamaria Clementi (Extra Brut) 2011,Franciacorta ,4.6,661,139.0,2011
+155,Italia,Tinto,Biserno,Bibbona 2017,Toscana ,4.6,243,161.99,2017
+156,Italia,Tinto,Gaja,Conteisa Langhe 2015,Langhe ,4.6,69,311.02,2015
+157,Italia,Tinto,Antinori,Tenuta Tignanello 'Solaia' 2019,Toscana ,4.6,60,360.0,2019
+158,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2013,Brunello di Montalcino ,4.5,313,194.39,2013
+159,Italia,Tinto,Casanova di Neri,Tenuta Nuova Brunello di Montalcino 2016,Brunello di Montalcino ,4.5,860,117.2,2016
+160,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2007,Barolo ,4.5,491,156.55,2007
+161,Italia,Tinto,Fontodi,Flaccianello della Pieve 2018,Colli della Toscana Centrale ,4.5,454,205.76,2018
+162,Italia,Tinto,Tenuta Ulisse,Limited Edition 10 Vendemmie N.V.,Montepulciano d'Abruzzo ,4.5,8880,27.3,N.V.
+163,Italia,Tinto,Pio Cesare,Ornato Barolo 2017,Barolo ,4.5,181,105.6,2017
+164,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2015,Brunello di Montalcino ,4.5,128,194.39,2015
+165,Italia,Tinto,Gaja,Barbaresco 2019,Barbaresco ,4.5,119,266.25,2019
+166,Italia,Tinto,Elio Altare,Arborina Barolo 2017,Barolo ,4.5,93,180.95,2017
+167,Italia,Tinto,Gaja,Gaia & Rey Langhe 2020,Langhe ,4.5,82,304.54,2020
+168,Italia,Tinto,Elio Altare,Cerretta Barolo Riserva (Vigna Bricco) 2015,Barolo ,4.5,65,207.1,2015
+169,Italia,Tinto,Feudo Montoni,Vrucara Nero d'Avola 2017,Sicilia ,4.5,63,36.55,2017
+170,Italia,Tinto,La Valentina,Bellovedere Montepulciano d'Abruzzo (Riserva) 2016,Montepulciano d'Abruzzo ,4.5,53,37.7,2016
+171,Italia,Tinto,Guerrieri,Guerriero della Terra 2018,Marche ,4.4,2571,29.99,2018
+172,Italia,Tinto,San Marzano,60 Sessantanni Old Vines Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,865,21.99,2018
+173,Italia,Tinto,Ornellaia,Le Serre Nuove 2020,Bolgheri ,4.4,779,56.2,2020
+174,Italia,Tinto,Tenuta Luce,Luce 2018,Toscana ,4.4,637,108.9,2018
+175,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2018,Amarone della Valpolicella Classico ,4.4,596,72.0,2018
+176,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2011,Barolo ,4.4,411,163.3,2011
+177,Italia,Tinto,Marisa Cuomo,Fiorduva Costa d'Amalfi 2019,Costa d'Amalfi ,4.4,390,66.8,2019
+178,Italia,Tinto,Gaja,Dagromis Barolo 2018,Barolo ,4.4,365,95.51,2018
+179,Italia,Tinto,Ca' del Bosco,Dosage Zéro Franciacorta (Vintage Collection) 2017,Franciacorta ,4.4,238,63.9,2017
+180,Italia,Tinto,Trullo di Pezza,Licurti Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,224,14.86,2018
+181,Italia,Tinto,Giovanni Rosso,Barolo Cerretta 2017,Barolo ,4.4,140,65.0,2017
+182,Italia,Tinto,Pelissero,Barbaresco Vanotu 2015,Barbaresco ,4.4,134,162.65,2015
+183,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2017,Bolgheri ,4.4,126,140.51,2017
+184,Italia,Tinto,Le Macchiole,Messorio 2018,Toscana ,4.4,103,204.25,2018
+185,Italia,Tinto,E. Pira & Figli,Mosconi Barolo 2017,Barolo ,4.4,96,105.35,2017
+186,Italia,Tinto,Hauner,Malvasia delle Lipari Passito 2017,Malvasia delle Lipari ,4.4,95,55.05,2017
+187,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2016,Brunello di Montalcino ,4.4,94,190.2,2016
+188,Italia,Tinto,Vietti,Barolo Lazzarito 2017,Barolo ,4.4,88,150.0,2017
+189,Italia,Tinto,Val di Suga,Brunello di Montalcino Vigna del Lago 2013,Brunello di Montalcino ,4.4,80,59.35,2013
+190,Italia,Tinto,Vietti,Barolo Brunate 2017,Barolo ,4.4,51,173.5,2017
+191,Italia,Tinto,Pio Cesare,Il Bricco Barbaresco 2017,Barbaresco ,4.4,49,105.6,2017
+192,Italia,Tinto,Poggio Antico,Brunello di Montalcino Riserva 2015,Brunello di Montalcino ,4.4,48,124.45,2015
+193,Italia,Tinto,Pio Cesare,Mosconi Barolo 2018,Barolo ,4.4,39,132.0,2018
+194,Italia,Tinto,Tenuta Sant'Antonio,Campo dei Gigli Amarone della Valpolicella 2017,Amarone della Valpolicella ,4.4,37,67.2,2017
+195,Italia,Tinto,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,33,69.71,2019
+196,Italia,Tinto,Castello Giulio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.4,25,24.95,2017
+197,Italia,Tinto,Farnese,Edizione Cinque Autoctoni N.V.,Abruzos ,4.3,63661,18.9,N.V.
+198,Italia,Tinto,San Marzano,Cinquanta Collezione N.V.,Vino d'Italia ,4.3,36336,18.99,N.V.
+199,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Prosecco N.V.,Prosecco ,4.3,12767,9.9,N.V.
+200,Italia,Tinto,Tenuta CastelGiocondo,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,4677,107.45,2015
+201,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2017,Amarone della Valpolicella Classico ,4.3,1502,77.05,2017
+202,Italia,Tinto,Tenuta Ulisse,Amaranta Montepulciano d'Abruzzo 2019,Montepulciano d'Abruzzo ,4.3,1262,18.45,2019
+203,Italia,Tinto,Bibi Graetz,Testamatta Toscana 2018,Toscana ,4.3,1229,94.4,2018
+204,Italia,Tinto,Donatella Cinelli Colombini,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,785,41.37,2015
+205,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Moscato Spumante N.V.,Véneto ,4.3,731,9.9,N.V.
+206,Italia,Tinto,47 Anno Domini,Le Argille Cabernet di Cabernet 2018,Véneto ,4.3,640,28.99,2018
+207,Italia,Tinto,San Marzano,62 Anniversario Primitivo di Manduria Riserva 2018,Primitivo di Manduria ,4.3,558,31.0,2018
+208,Italia,Tinto,Mottura,Stilio Primitivo di Manduria 2021,Primitivo di Manduria ,4.3,553,12.99,2021
+209,Italia,Tinto,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+210,Italia,Tinto,Biondi-Santi,Rosso di Montalcino 2017,Rosso di Montalcino ,4.3,344,80.95,2017
+211,Italia,Tinto,La Spinetta,Vürsù Barbaresco Gallina 2011,Barbaresco ,4.3,327,137.0,2011
+212,Italia,Tinto,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+213,Italia,Tinto,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+214,Italia,Tinto,Gaja,Ca'Marcanda Magari 2020,Bolgheri ,4.3,283,71.9,2020
+215,Italia,Tinto,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+216,Italia,Tinto,Tinazzi,Vinum Italicum No 3 Opera 2020,Véneto ,4.3,271,16.95,2020
+217,Italia,Tinto,Fontodi,Vigna del Sorbo Gran Selezione Chianti Classico 2018,Chianti Classico ,4.3,242,80.9,2018
+218,Italia,Tinto,Jacopo Biondi Santi,Schidione 1998,Toscana ,4.3,223,112.51,1998
+219,Italia,Tinto,G.D. Vajra,Barolo Bricco Delle Viole 2018,Barolo ,4.3,194,85.0,2018
+220,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2017,Franciacorta ,4.3,185,58.0,2017
+221,Italia,Tinto,Castello di Ama,L'Apparita 2013,Toscana ,4.3,182,190.85,2013
+222,Italia,Tinto,Casa Vinicola Bennati,San Giorgio Amarone della Valpolicella 2019,Amarone della Valpolicella ,4.3,176,19.99,2019
+223,Italia,Tinto,Feudi di San Gregorio,Serpico 2014,Irpinia ,4.3,167,58.35,2014
+224,Italia,Tinto,Conti Costanti,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,131,65.0,2017
+225,Italia,Tinto,Pinino,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,124,42.9,2015
+226,Italia,Tinto,Le Guaite di Noemi,Amarone 2010,Amarone della Valpolicella ,4.3,123,81.15,2010
+227,Italia,Tinto,Le Boncie,Le Trame Toscana 2019,Toscana ,4.3,110,49.55,2019
+228,Italia,Tinto,Poggio Antico,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,107,56.0,2017
+229,Italia,Tinto,Marco Felluga,Russiz Superiore Degli Orzoni Riserva Rosso Collio 2013,Collio ,4.3,93,35.4,2013
+230,Italia,Tinto,Contratto,Special Cuvée Pas Dosé 2012,Piamonte ,4.3,88,86.85,2012
+231,Italia,Tinto,Elio Altare,Barolo 2018,Barolo ,4.3,80,66.7,2018
+232,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2019,Bolgheri ,4.3,78,183.1,2019
+233,Italia,Tinto,Feudi di San Gregorio,Pàtrimo 2016,Campania ,4.3,77,79.9,2016
+234,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2018,Franciacorta ,4.3,74,58.0,2018
+235,Italia,Tinto,Gulfi,NeroBufaleffj 2017,Terre Siciliane ,4.3,72,45.3,2017
+236,Italia,Tinto,Pio Cesare,Mosconi Barolo 2017,Barolo ,4.3,68,132.0,2017
+237,Italia,Tinto,Pio Cesare,Vermouth di Torino N.V.,Alba ,4.3,65,50.6,N.V.
+238,Italia,Tinto,Vietti,Barolo Lazzarito 2018,Barolo ,4.3,65,150.0,2018
+239,Italia,Tinto,Fèlsina,Colonia Chianti Classico Gran Selezione 2017,Chianti Classico ,4.3,58,93.3,2017
+240,Italia,Tinto,Podere Brizio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,58,44.0,2017
+241,Italia,Tinto,Castello di Verduno,Rabajà Barbaresco 2018,Barbaresco ,4.3,52,46.5,2018
+242,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2016,Brunello di Montalcino ,4.3,51,204.35,2016
+243,Italia,Tinto,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+244,Italia,Tinto,Plozza,No. 1 Numero Uno 2018,Terrazze Retiche di Sondrio ,4.3,48,67.2,2018
+245,Italia,Tinto,Le Macchiole,Scrio 2017,Toscana ,4.3,47,148.65,2017
+246,Italia,Tinto,Pio Cesare,Mosconi Barolo 2016,Barolo ,4.3,44,249.4,2016
+247,Italia,Tinto,Corte dei Venti,Brunello di Montalcino Riserva 2016,Brunello di Montalcino ,4.3,41,82.45,2016
+248,Italia,Tinto,Vietti,Barolo Ravera 2018,Barolo ,4.3,37,180.0,2018
+249,Italia,Tinto,Elio Altare,La Villa Langhe Rosso 2014,Langhe ,4.3,34,67.3,2014
+250,Italia,Tinto,Antinori,Tenuta Guado al Tasso Matarocchio 2016,Maremma Toscana ,4.7,249,498.28,2016
+251,Italia,Tinto,Tenuta San Guido,Sassicaia 2018,Bolgheri Sassicaia ,4.6,2745,496.9,2018
+252,Italia,Tinto,Ornellaia,Bolgheri Superiore 2018,Bolgheri Superiore ,4.6,1542,215.5,2018
+253,Italia,Tinto,Biondi-Santi,Brunello di Montalcino 2015,Brunello di Montalcino ,4.6,829,167.79,2015
+254,Italia,Tinto,Ca' del Bosco,Cuvée Annamaria Clementi (Extra Brut) 2011,Franciacorta ,4.6,661,139.0,2011
+255,Italia,Tinto,Biserno,Bibbona 2017,Toscana ,4.6,243,161.99,2017
+256,Italia,Tinto,Gaja,Conteisa Langhe 2015,Langhe ,4.6,69,311.02,2015
+257,Italia,Tinto,Antinori,Tenuta Tignanello 'Solaia' 2019,Toscana ,4.6,60,360.0,2019
+258,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2013,Brunello di Montalcino ,4.5,313,194.39,2013
+259,Italia,Tinto,Casanova di Neri,Tenuta Nuova Brunello di Montalcino 2016,Brunello di Montalcino ,4.5,860,117.2,2016
+260,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2007,Barolo ,4.5,491,156.55,2007
+261,Italia,Tinto,Fontodi,Flaccianello della Pieve 2018,Colli della Toscana Centrale ,4.5,454,205.76,2018
+262,Italia,Tinto,Tenuta Ulisse,Limited Edition 10 Vendemmie N.V.,Montepulciano d'Abruzzo ,4.5,8880,27.3,N.V.
+263,Italia,Tinto,Pio Cesare,Ornato Barolo 2017,Barolo ,4.5,181,105.6,2017
+264,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2015,Brunello di Montalcino ,4.5,128,194.39,2015
+265,Italia,Tinto,Gaja,Barbaresco 2019,Barbaresco ,4.5,119,266.25,2019
+266,Italia,Tinto,Elio Altare,Arborina Barolo 2017,Barolo ,4.5,93,180.95,2017
+267,Italia,Tinto,Gaja,Gaia & Rey Langhe 2020,Langhe ,4.5,82,304.54,2020
+268,Italia,Tinto,Elio Altare,Cerretta Barolo Riserva (Vigna Bricco) 2015,Barolo ,4.5,65,207.1,2015
+269,Italia,Tinto,Feudo Montoni,Vrucara Nero d'Avola 2017,Sicilia ,4.5,63,36.55,2017
+270,Italia,Tinto,La Valentina,Bellovedere Montepulciano d'Abruzzo (Riserva) 2016,Montepulciano d'Abruzzo ,4.5,53,37.7,2016
+271,Italia,Tinto,Guerrieri,Guerriero della Terra 2018,Marche ,4.4,2571,29.99,2018
+272,Italia,Tinto,San Marzano,60 Sessantanni Old Vines Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,865,21.99,2018
+273,Italia,Tinto,Ornellaia,Le Serre Nuove 2020,Bolgheri ,4.4,779,56.2,2020
+274,Italia,Tinto,Tenuta Luce,Luce 2018,Toscana ,4.4,637,108.9,2018
+275,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2018,Amarone della Valpolicella Classico ,4.4,596,72.0,2018
+276,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2011,Barolo ,4.4,411,163.3,2011
+277,Italia,Tinto,Marisa Cuomo,Fiorduva Costa d'Amalfi 2019,Costa d'Amalfi ,4.4,390,66.8,2019
+278,Italia,Tinto,Gaja,Dagromis Barolo 2018,Barolo ,4.4,365,95.51,2018
+279,Italia,Tinto,Ca' del Bosco,Dosage Zéro Franciacorta (Vintage Collection) 2017,Franciacorta ,4.4,238,63.9,2017
+280,Italia,Tinto,Trullo di Pezza,Licurti Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,224,14.86,2018
+281,Italia,Tinto,Giovanni Rosso,Barolo Cerretta 2017,Barolo ,4.4,140,65.0,2017
+282,Italia,Tinto,Pelissero,Barbaresco Vanotu 2015,Barbaresco ,4.4,134,162.65,2015
+283,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2017,Bolgheri ,4.4,126,140.51,2017
+284,Italia,Tinto,Le Macchiole,Messorio 2018,Toscana ,4.4,103,204.25,2018
+285,Italia,Tinto,E. Pira & Figli,Mosconi Barolo 2017,Barolo ,4.4,96,105.35,2017
+286,Italia,Tinto,Hauner,Malvasia delle Lipari Passito 2017,Malvasia delle Lipari ,4.4,95,55.05,2017
+287,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2016,Brunello di Montalcino ,4.4,94,190.2,2016
+288,Italia,Tinto,Vietti,Barolo Lazzarito 2017,Barolo ,4.4,88,150.0,2017
+289,Italia,Tinto,Val di Suga,Brunello di Montalcino Vigna del Lago 2013,Brunello di Montalcino ,4.4,80,59.35,2013
+290,Italia,Tinto,Vietti,Barolo Brunate 2017,Barolo ,4.4,51,173.5,2017
+291,Italia,Tinto,Pio Cesare,Il Bricco Barbaresco 2017,Barbaresco ,4.4,49,105.6,2017
+292,Italia,Tinto,Poggio Antico,Brunello di Montalcino Riserva 2015,Brunello di Montalcino ,4.4,48,124.45,2015
+293,Italia,Tinto,Pio Cesare,Mosconi Barolo 2018,Barolo ,4.4,39,132.0,2018
+294,Italia,Tinto,Tenuta Sant'Antonio,Campo dei Gigli Amarone della Valpolicella 2017,Amarone della Valpolicella ,4.4,37,67.2,2017
+295,Italia,Tinto,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,33,69.71,2019
+296,Italia,Tinto,Castello Giulio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.4,25,24.95,2017
+297,Italia,Tinto,Farnese,Edizione Cinque Autoctoni N.V.,Abruzos ,4.3,63661,18.9,N.V.
+298,Italia,Tinto,San Marzano,Cinquanta Collezione N.V.,Vino d'Italia ,4.3,36336,18.99,N.V.
+299,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Prosecco N.V.,Prosecco ,4.3,12767,9.9,N.V.
+300,Italia,Tinto,Tenuta CastelGiocondo,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,4677,107.45,2015
+301,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2017,Amarone della Valpolicella Classico ,4.3,1502,77.05,2017
+302,Italia,Tinto,Tenuta Ulisse,Amaranta Montepulciano d'Abruzzo 2019,Montepulciano d'Abruzzo ,4.3,1262,18.45,2019
+303,Italia,Tinto,Bibi Graetz,Testamatta Toscana 2018,Toscana ,4.3,1229,94.4,2018
+304,Italia,Tinto,Donatella Cinelli Colombini,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,785,41.37,2015
+305,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Moscato Spumante N.V.,Véneto ,4.3,731,9.9,N.V.
+306,Italia,Tinto,47 Anno Domini,Le Argille Cabernet di Cabernet 2018,Véneto ,4.3,640,28.99,2018
+307,Italia,Tinto,San Marzano,62 Anniversario Primitivo di Manduria Riserva 2018,Primitivo di Manduria ,4.3,558,31.0,2018
+308,Italia,Tinto,Mottura,Stilio Primitivo di Manduria 2021,Primitivo di Manduria ,4.3,553,12.99,2021
+309,Italia,Tinto,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+310,Italia,Tinto,Biondi-Santi,Rosso di Montalcino 2017,Rosso di Montalcino ,4.3,344,80.95,2017
+311,Italia,Tinto,La Spinetta,Vürsù Barbaresco Gallina 2011,Barbaresco ,4.3,327,137.0,2011
+312,Italia,Tinto,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+313,Italia,Tinto,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+314,Italia,Tinto,Gaja,Ca'Marcanda Magari 2020,Bolgheri ,4.3,283,71.9,2020
+315,Italia,Tinto,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+316,Italia,Tinto,Tinazzi,Vinum Italicum No 3 Opera 2020,Véneto ,4.3,271,16.95,2020
+317,Italia,Tinto,Fontodi,Vigna del Sorbo Gran Selezione Chianti Classico 2018,Chianti Classico ,4.3,242,80.9,2018
+318,Italia,Tinto,Jacopo Biondi Santi,Schidione 1998,Toscana ,4.3,223,112.51,1998
+319,Italia,Tinto,G.D. Vajra,Barolo Bricco Delle Viole 2018,Barolo ,4.3,194,85.0,2018
+320,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2017,Franciacorta ,4.3,185,58.0,2017
+321,Italia,Tinto,Castello di Ama,L'Apparita 2013,Toscana ,4.3,182,190.85,2013
+322,Italia,Tinto,Casa Vinicola Bennati,San Giorgio Amarone della Valpolicella 2019,Amarone della Valpolicella ,4.3,176,19.99,2019
+323,Italia,Tinto,Feudi di San Gregorio,Serpico 2014,Irpinia ,4.3,167,58.35,2014
+324,Italia,Tinto,Conti Costanti,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,131,65.0,2017
+325,Italia,Tinto,Pinino,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,124,42.9,2015
+326,Italia,Tinto,Le Guaite di Noemi,Amarone 2010,Amarone della Valpolicella ,4.3,123,81.15,2010
+327,Italia,Tinto,Le Boncie,Le Trame Toscana 2019,Toscana ,4.3,110,49.55,2019
+328,Italia,Tinto,Poggio Antico,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,107,56.0,2017
+329,Italia,Tinto,Marco Felluga,Russiz Superiore Degli Orzoni Riserva Rosso Collio 2013,Collio ,4.3,93,35.4,2013
+330,Italia,Tinto,Contratto,Special Cuvée Pas Dosé 2012,Piamonte ,4.3,88,86.85,2012
+331,Italia,Tinto,Elio Altare,Barolo 2018,Barolo ,4.3,80,66.7,2018
+332,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2019,Bolgheri ,4.3,78,183.1,2019
+333,Italia,Tinto,Feudi di San Gregorio,Pàtrimo 2016,Campania ,4.3,77,79.9,2016
+334,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2018,Franciacorta ,4.3,74,58.0,2018
+335,Italia,Tinto,Gulfi,NeroBufaleffj 2017,Terre Siciliane ,4.3,72,45.3,2017
+336,Italia,Tinto,Pio Cesare,Mosconi Barolo 2017,Barolo ,4.3,68,132.0,2017
+337,Italia,Tinto,Pio Cesare,Vermouth di Torino N.V.,Alba ,4.3,65,50.6,N.V.
+338,Italia,Tinto,Vietti,Barolo Lazzarito 2018,Barolo ,4.3,65,150.0,2018
+339,Italia,Tinto,Fèlsina,Colonia Chianti Classico Gran Selezione 2017,Chianti Classico ,4.3,58,93.3,2017
+340,Italia,Tinto,Podere Brizio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,58,44.0,2017
+341,Italia,Tinto,Castello di Verduno,Rabajà Barbaresco 2018,Barbaresco ,4.3,52,46.5,2018
+342,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2016,Brunello di Montalcino ,4.3,51,204.35,2016
+343,Italia,Tinto,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+344,Italia,Tinto,Plozza,No. 1 Numero Uno 2018,Terrazze Retiche di Sondrio ,4.3,48,67.2,2018
+345,Italia,Tinto,Le Macchiole,Scrio 2017,Toscana ,4.3,47,148.65,2017
+346,Italia,Tinto,Pio Cesare,Mosconi Barolo 2016,Barolo ,4.3,44,249.4,2016
+347,Italia,Tinto,Corte dei Venti,Brunello di Montalcino Riserva 2016,Brunello di Montalcino ,4.3,41,82.45,2016
+348,Italia,Tinto,Vietti,Barolo Ravera 2018,Barolo ,4.3,37,180.0,2018
+349,Italia,Tinto,Elio Altare,La Villa Langhe Rosso 2014,Langhe ,4.3,34,67.3,2014
+350,Italia,Tinto,Elio Altare,Arborina Barolo 2018,Barolo ,4.3,34,93.5,2018
+351,Italia,Tinto,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+352,Italia,Tinto,I Vignaioli di S. Stefano,Moscato d'Asti 2022,Moscato d'Asti ,4.3,31,17.18,2022
+353,Italia,Tinto,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+354,Italia,Tinto,Le Ragnaie,Fornace Brunello di Montalcino 2016,Brunello di Montalcino ,4.3,29,141.3,2016
+355,Italia,Tinto,Villa Corniole,7 Pergole 2016,Trentino-Alto Adige ,4.3,25,36.37,2016
+356,Italia,Tinto,Elio Altare,La Villa Langhe Rosso 2016,Langhe ,4.3,25,67.3,2016
+357,Italia,Tinto,Enzo Boglietti,Vigna Arione Barolo 2013,Barolo ,4.3,25,70.4,2013
+358,Italia,Tinto,Cipriani,Bellini Cipriani N.V.,Vino d'Italia ,4.2,1487,13.34,N.V.
+359,Italia,Tinto,Marina Cvetić,Montepulciano d'Abruzzo Riserva 2017,Montepulciano d'Abruzzo ,4.2,2041,31.52,2017
+360,Italia,Tinto,Astrale,Astrale Special Edition 2018,Vino d'Italia ,4.2,1976,9.95,2018
+361,Italia,Tinto,Ferrari,Perlé Zero N.V.,Trento ,4.2,1537,62.8,N.V.
+362,Italia,Tinto,Antinori,Tenuta Tignanello 'Marchese Antinori' Chianti Classico Riserva 2019,Chianti Classico ,4.2,2270,33.95,2019
+363,Italia,Tinto,Tenuta San Guido,Guidalberto 2020,Toscana ,4.2,1375,46.66,2020
+364,Italia,Tinto,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+365,Italia,Tinto,Gaja,Ca'Marcanda Promis Toscana 2020,Toscana ,4.2,1194,42.81,2020
+366,Italia,Tinto,Tenuta Il Poggione,Brunello di Montalcino 2017,Brunello di Montalcino ,4.2,1173,49.08,2017
+367,Italia,Tinto,Tosone,Nero d'Avola 2020,Terre Siciliane ,4.2,997,15.55,2020
+368,Italia,Tinto,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,875,41.75,2017
+369,Italia,Tinto,La Stoppa,Ageno 2016,Emilia ,4.2,797,32.74,2016
+370,Italia,Tinto,Vietti,Barolo Castiglione 2018,Barolo ,4.2,744,51.5,2018
+371,Italia,Tinto,Pio Cesare,Barolo 2017,Barolo ,4.2,724,83.6,2017
+372,Italia,Tinto,Capanna,Brunello di Montalcino 2015,Brunello di Montalcino ,4.2,699,59.56,2015
+373,Italia,Tinto,Gaja,Sito Moresco Langhe 2020,Langhe ,4.2,628,49.5,2020
+374,Italia,Tinto,Planeta,Chardonnay 2021,Menfi ,4.2,578,22.9,2021
+375,Italia,Tinto,Antinori,Tenuta Guado al Tasso Matarocchio 2016,Maremma Toscana ,4.7,249,498.28,2016
+376,Italia,Tinto,Tenuta San Guido,Sassicaia 2018,Bolgheri Sassicaia ,4.6,2745,496.9,2018
+377,Italia,Tinto,Ornellaia,Bolgheri Superiore 2018,Bolgheri Superiore ,4.6,1542,215.5,2018
+378,Italia,Tinto,Biondi-Santi,Brunello di Montalcino 2015,Brunello di Montalcino ,4.6,829,167.79,2015
+379,Italia,Tinto,Ca' del Bosco,Cuvée Annamaria Clementi (Extra Brut) 2011,Franciacorta ,4.6,661,139.0,2011
+380,Italia,Tinto,Biserno,Bibbona 2017,Toscana ,4.6,243,161.99,2017
+381,Italia,Tinto,Gaja,Conteisa Langhe 2015,Langhe ,4.6,69,311.02,2015
+382,Italia,Tinto,Antinori,Tenuta Tignanello 'Solaia' 2019,Toscana ,4.6,60,360.0,2019
+383,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2013,Brunello di Montalcino ,4.5,313,194.39,2013
+384,Italia,Tinto,Casanova di Neri,Tenuta Nuova Brunello di Montalcino 2016,Brunello di Montalcino ,4.5,860,117.2,2016
+385,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2007,Barolo ,4.5,491,156.55,2007
+386,Italia,Tinto,Fontodi,Flaccianello della Pieve 2018,Colli della Toscana Centrale ,4.5,454,205.76,2018
+387,Italia,Tinto,Tenuta Ulisse,Limited Edition 10 Vendemmie N.V.,Montepulciano d'Abruzzo ,4.5,8880,27.3,N.V.
+388,Italia,Tinto,Pio Cesare,Ornato Barolo 2017,Barolo ,4.5,181,105.6,2017
+389,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2015,Brunello di Montalcino ,4.5,128,194.39,2015
+390,Italia,Tinto,Gaja,Barbaresco 2019,Barbaresco ,4.5,119,266.25,2019
+391,Italia,Tinto,Elio Altare,Arborina Barolo 2017,Barolo ,4.5,93,180.95,2017
+392,Italia,Tinto,Gaja,Gaia & Rey Langhe 2020,Langhe ,4.5,82,304.54,2020
+393,Italia,Tinto,Elio Altare,Cerretta Barolo Riserva (Vigna Bricco) 2015,Barolo ,4.5,65,207.1,2015
+394,Italia,Tinto,Feudo Montoni,Vrucara Nero d'Avola 2017,Sicilia ,4.5,63,36.55,2017
+395,Italia,Tinto,La Valentina,Bellovedere Montepulciano d'Abruzzo (Riserva) 2016,Montepulciano d'Abruzzo ,4.5,53,37.7,2016
+396,Italia,Tinto,Guerrieri,Guerriero della Terra 2018,Marche ,4.4,2571,29.99,2018
+397,Italia,Tinto,San Marzano,60 Sessantanni Old Vines Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,865,21.99,2018
+398,Italia,Tinto,Ornellaia,Le Serre Nuove 2020,Bolgheri ,4.4,779,56.2,2020
+399,Italia,Tinto,Tenuta Luce,Luce 2018,Toscana ,4.4,637,108.9,2018
+400,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2018,Amarone della Valpolicella Classico ,4.4,596,72.0,2018
+401,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2011,Barolo ,4.4,411,163.3,2011
+402,Italia,Tinto,Marisa Cuomo,Fiorduva Costa d'Amalfi 2019,Costa d'Amalfi ,4.4,390,66.8,2019
+403,Italia,Tinto,Gaja,Dagromis Barolo 2018,Barolo ,4.4,365,95.51,2018
+404,Italia,Tinto,Ca' del Bosco,Dosage Zéro Franciacorta (Vintage Collection) 2017,Franciacorta ,4.4,238,63.9,2017
+405,Italia,Tinto,Trullo di Pezza,Licurti Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,224,14.86,2018
+406,Italia,Tinto,Giovanni Rosso,Barolo Cerretta 2017,Barolo ,4.4,140,65.0,2017
+407,Italia,Tinto,Pelissero,Barbaresco Vanotu 2015,Barbaresco ,4.4,134,162.65,2015
+408,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2017,Bolgheri ,4.4,126,140.51,2017
+409,Italia,Tinto,Le Macchiole,Messorio 2018,Toscana ,4.4,103,204.25,2018
+410,Italia,Tinto,E. Pira & Figli,Mosconi Barolo 2017,Barolo ,4.4,96,105.35,2017
+411,Italia,Tinto,Hauner,Malvasia delle Lipari Passito 2017,Malvasia delle Lipari ,4.4,95,55.05,2017
+412,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2016,Brunello di Montalcino ,4.4,94,190.2,2016
+413,Italia,Tinto,Vietti,Barolo Lazzarito 2017,Barolo ,4.4,88,150.0,2017
+414,Italia,Tinto,Val di Suga,Brunello di Montalcino Vigna del Lago 2013,Brunello di Montalcino ,4.4,80,59.35,2013
+415,Italia,Tinto,Vietti,Barolo Brunate 2017,Barolo ,4.4,51,173.5,2017
+416,Italia,Tinto,Pio Cesare,Il Bricco Barbaresco 2017,Barbaresco ,4.4,49,105.6,2017
+417,Italia,Tinto,Poggio Antico,Brunello di Montalcino Riserva 2015,Brunello di Montalcino ,4.4,48,124.45,2015
+418,Italia,Tinto,Pio Cesare,Mosconi Barolo 2018,Barolo ,4.4,39,132.0,2018
+419,Italia,Tinto,Tenuta Sant'Antonio,Campo dei Gigli Amarone della Valpolicella 2017,Amarone della Valpolicella ,4.4,37,67.2,2017
+420,Italia,Tinto,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,33,69.71,2019
+421,Italia,Tinto,Castello Giulio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.4,25,24.95,2017
+422,Italia,Tinto,Farnese,Edizione Cinque Autoctoni N.V.,Abruzos ,4.3,63661,18.9,N.V.
+423,Italia,Tinto,San Marzano,Cinquanta Collezione N.V.,Vino d'Italia ,4.3,36336,18.99,N.V.
+424,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Prosecco N.V.,Prosecco ,4.3,12767,9.9,N.V.
+425,Italia,Tinto,Tenuta CastelGiocondo,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,4677,107.45,2015
+426,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2017,Amarone della Valpolicella Classico ,4.3,1502,77.05,2017
+427,Italia,Tinto,Tenuta Ulisse,Amaranta Montepulciano d'Abruzzo 2019,Montepulciano d'Abruzzo ,4.3,1262,18.45,2019
+428,Italia,Tinto,Bibi Graetz,Testamatta Toscana 2018,Toscana ,4.3,1229,94.4,2018
+429,Italia,Tinto,Donatella Cinelli Colombini,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,785,41.37,2015
+430,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Moscato Spumante N.V.,Véneto ,4.3,731,9.9,N.V.
+431,Italia,Tinto,47 Anno Domini,Le Argille Cabernet di Cabernet 2018,Véneto ,4.3,640,28.99,2018
+432,Italia,Tinto,San Marzano,62 Anniversario Primitivo di Manduria Riserva 2018,Primitivo di Manduria ,4.3,558,31.0,2018
+433,Italia,Tinto,Mottura,Stilio Primitivo di Manduria 2021,Primitivo di Manduria ,4.3,553,12.99,2021
+434,Italia,Tinto,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+435,Italia,Tinto,Biondi-Santi,Rosso di Montalcino 2017,Rosso di Montalcino ,4.3,344,80.95,2017
+436,Italia,Tinto,La Spinetta,Vürsù Barbaresco Gallina 2011,Barbaresco ,4.3,327,137.0,2011
+437,Italia,Tinto,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+438,Italia,Tinto,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+439,Italia,Tinto,Gaja,Ca'Marcanda Magari 2020,Bolgheri ,4.3,283,71.9,2020
+440,Italia,Tinto,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+441,Italia,Tinto,Tinazzi,Vinum Italicum No 3 Opera 2020,Véneto ,4.3,271,16.95,2020
+442,Italia,Tinto,Fontodi,Vigna del Sorbo Gran Selezione Chianti Classico 2018,Chianti Classico ,4.3,242,80.9,2018
+443,Italia,Tinto,Jacopo Biondi Santi,Schidione 1998,Toscana ,4.3,223,112.51,1998
+444,Italia,Tinto,G.D. Vajra,Barolo Bricco Delle Viole 2018,Barolo ,4.3,194,85.0,2018
+445,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2017,Franciacorta ,4.3,185,58.0,2017
+446,Italia,Tinto,Castello di Ama,L'Apparita 2013,Toscana ,4.3,182,190.85,2013
+447,Italia,Tinto,Casa Vinicola Bennati,San Giorgio Amarone della Valpolicella 2019,Amarone della Valpolicella ,4.3,176,19.99,2019
+448,Italia,Tinto,Feudi di San Gregorio,Serpico 2014,Irpinia ,4.3,167,58.35,2014
+449,Italia,Tinto,Conti Costanti,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,131,65.0,2017
+450,Italia,Tinto,Pinino,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,124,42.9,2015
+451,Italia,Tinto,Le Guaite di Noemi,Amarone 2010,Amarone della Valpolicella ,4.3,123,81.15,2010
+452,Italia,Tinto,Le Boncie,Le Trame Toscana 2019,Toscana ,4.3,110,49.55,2019
+453,Italia,Tinto,Poggio Antico,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,107,56.0,2017
+454,Italia,Tinto,Marco Felluga,Russiz Superiore Degli Orzoni Riserva Rosso Collio 2013,Collio ,4.3,93,35.4,2013
+455,Italia,Tinto,Contratto,Special Cuvée Pas Dosé 2012,Piamonte ,4.3,88,86.85,2012
+456,Italia,Tinto,Elio Altare,Barolo 2018,Barolo ,4.3,80,66.7,2018
+457,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2019,Bolgheri ,4.3,78,183.1,2019
+458,Italia,Tinto,Feudi di San Gregorio,Pàtrimo 2016,Campania ,4.3,77,79.9,2016
+459,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2018,Franciacorta ,4.3,74,58.0,2018
+460,Italia,Tinto,Gulfi,NeroBufaleffj 2017,Terre Siciliane ,4.3,72,45.3,2017
+461,Italia,Tinto,Pio Cesare,Mosconi Barolo 2017,Barolo ,4.3,68,132.0,2017
+462,Italia,Tinto,Pio Cesare,Vermouth di Torino N.V.,Alba ,4.3,65,50.6,N.V.
+463,Italia,Tinto,Vietti,Barolo Lazzarito 2018,Barolo ,4.3,65,150.0,2018
+464,Italia,Tinto,Fèlsina,Colonia Chianti Classico Gran Selezione 2017,Chianti Classico ,4.3,58,93.3,2017
+465,Italia,Tinto,Podere Brizio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,58,44.0,2017
+466,Italia,Tinto,Castello di Verduno,Rabajà Barbaresco 2018,Barbaresco ,4.3,52,46.5,2018
+467,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2016,Brunello di Montalcino ,4.3,51,204.35,2016
+468,Italia,Tinto,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+469,Italia,Tinto,Plozza,No. 1 Numero Uno 2018,Terrazze Retiche di Sondrio ,4.3,48,67.2,2018
+470,Italia,Tinto,Le Macchiole,Scrio 2017,Toscana ,4.3,47,148.65,2017
+471,Italia,Tinto,Pio Cesare,Mosconi Barolo 2016,Barolo ,4.3,44,249.4,2016
+472,Italia,Tinto,Corte dei Venti,Brunello di Montalcino Riserva 2016,Brunello di Montalcino ,4.3,41,82.45,2016
+473,Italia,Tinto,Vietti,Barolo Ravera 2018,Barolo ,4.3,37,180.0,2018
+474,Italia,Tinto,Elio Altare,La Villa Langhe Rosso 2014,Langhe ,4.3,34,67.3,2014
+475,Italia,Tinto,Elio Altare,Arborina Barolo 2018,Barolo ,4.3,34,93.5,2018
+476,Italia,Tinto,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+477,Italia,Tinto,I Vignaioli di S. Stefano,Moscato d'Asti 2022,Moscato d'Asti ,4.3,31,17.18,2022
+478,Italia,Tinto,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+479,Italia,Tinto,Le Ragnaie,Fornace Brunello di Montalcino 2016,Brunello di Montalcino ,4.3,29,141.3,2016
+480,Italia,Tinto,Villa Corniole,7 Pergole 2016,Trentino-Alto Adige ,4.3,25,36.37,2016
+481,Italia,Tinto,Elio Altare,La Villa Langhe Rosso 2016,Langhe ,4.3,25,67.3,2016
+482,Italia,Tinto,Enzo Boglietti,Vigna Arione Barolo 2013,Barolo ,4.3,25,70.4,2013
+483,Italia,Tinto,Cipriani,Bellini Cipriani N.V.,Vino d'Italia ,4.2,1487,13.34,N.V.
+484,Italia,Tinto,Marina Cvetić,Montepulciano d'Abruzzo Riserva 2017,Montepulciano d'Abruzzo ,4.2,2041,31.52,2017
+485,Italia,Tinto,Astrale,Astrale Special Edition 2018,Vino d'Italia ,4.2,1976,9.95,2018
+486,Italia,Tinto,Ferrari,Perlé Zero N.V.,Trento ,4.2,1537,62.8,N.V.
+487,Italia,Tinto,Antinori,Tenuta Tignanello 'Marchese Antinori' Chianti Classico Riserva 2019,Chianti Classico ,4.2,2270,33.95,2019
+488,Italia,Tinto,Tenuta San Guido,Guidalberto 2020,Toscana ,4.2,1375,46.66,2020
+489,Italia,Tinto,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+490,Italia,Tinto,Gaja,Ca'Marcanda Promis Toscana 2020,Toscana ,4.2,1194,42.81,2020
+491,Italia,Tinto,Tenuta Il Poggione,Brunello di Montalcino 2017,Brunello di Montalcino ,4.2,1173,49.08,2017
+492,Italia,Tinto,Tosone,Nero d'Avola 2020,Terre Siciliane ,4.2,997,15.55,2020
+493,Italia,Tinto,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,875,41.75,2017
+494,Italia,Tinto,La Stoppa,Ageno 2016,Emilia ,4.2,797,32.74,2016
+495,Italia,Tinto,Vietti,Barolo Castiglione 2018,Barolo ,4.2,744,51.5,2018
+496,Italia,Tinto,Pio Cesare,Barolo 2017,Barolo ,4.2,724,83.6,2017
+497,Italia,Tinto,Capanna,Brunello di Montalcino 2015,Brunello di Montalcino ,4.2,699,59.56,2015
+498,Italia,Tinto,Gaja,Sito Moresco Langhe 2020,Langhe ,4.2,628,49.5,2020
+499,Italia,Tinto,Planeta,Chardonnay 2021,Menfi ,4.2,578,22.9,2021
+500,Italia,Tinto,Antinori,Tenuta Guado al Tasso Matarocchio 2016,Maremma Toscana ,4.7,249,498.28,2016
+501,Italia,Tinto,Tenuta San Guido,Sassicaia 2018,Bolgheri Sassicaia ,4.6,2745,496.9,2018
+502,Italia,Tinto,Ornellaia,Bolgheri Superiore 2018,Bolgheri Superiore ,4.6,1542,215.5,2018
+503,Italia,Tinto,Biondi-Santi,Brunello di Montalcino 2015,Brunello di Montalcino ,4.6,829,167.79,2015
+504,Italia,Tinto,Ca' del Bosco,Cuvée Annamaria Clementi (Extra Brut) 2011,Franciacorta ,4.6,661,139.0,2011
+505,Italia,Tinto,Biserno,Bibbona 2017,Toscana ,4.6,243,161.99,2017
+506,Italia,Tinto,Gaja,Conteisa Langhe 2015,Langhe ,4.6,69,311.02,2015
+507,Italia,Tinto,Antinori,Tenuta Tignanello 'Solaia' 2019,Toscana ,4.6,60,360.0,2019
+508,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2013,Brunello di Montalcino ,4.5,313,194.39,2013
+509,Italia,Tinto,Casanova di Neri,Tenuta Nuova Brunello di Montalcino 2016,Brunello di Montalcino ,4.5,860,117.2,2016
+510,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2007,Barolo ,4.5,491,156.55,2007
+511,Italia,Tinto,Fontodi,Flaccianello della Pieve 2018,Colli della Toscana Centrale ,4.5,454,205.76,2018
+512,Italia,Tinto,Tenuta Ulisse,Limited Edition 10 Vendemmie N.V.,Montepulciano d'Abruzzo ,4.5,8880,27.3,N.V.
+513,Italia,Tinto,Pio Cesare,Ornato Barolo 2017,Barolo ,4.5,181,105.6,2017
+514,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2015,Brunello di Montalcino ,4.5,128,194.39,2015
+515,Italia,Tinto,Gaja,Barbaresco 2019,Barbaresco ,4.5,119,266.25,2019
+516,Italia,Tinto,Elio Altare,Arborina Barolo 2017,Barolo ,4.5,93,180.95,2017
+517,Italia,Tinto,Gaja,Gaia & Rey Langhe 2020,Langhe ,4.5,82,304.54,2020
+518,Italia,Tinto,Elio Altare,Cerretta Barolo Riserva (Vigna Bricco) 2015,Barolo ,4.5,65,207.1,2015
+519,Italia,Tinto,Feudo Montoni,Vrucara Nero d'Avola 2017,Sicilia ,4.5,63,36.55,2017
+520,Italia,Tinto,La Valentina,Bellovedere Montepulciano d'Abruzzo (Riserva) 2016,Montepulciano d'Abruzzo ,4.5,53,37.7,2016
+521,Italia,Tinto,Guerrieri,Guerriero della Terra 2018,Marche ,4.4,2571,29.99,2018
+522,Italia,Tinto,San Marzano,60 Sessantanni Old Vines Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,865,21.99,2018
+523,Italia,Tinto,Ornellaia,Le Serre Nuove 2020,Bolgheri ,4.4,779,56.2,2020
+524,Italia,Tinto,Tenuta Luce,Luce 2018,Toscana ,4.4,637,108.9,2018
+525,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2018,Amarone della Valpolicella Classico ,4.4,596,72.0,2018
+526,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2011,Barolo ,4.4,411,163.3,2011
+527,Italia,Tinto,Marisa Cuomo,Fiorduva Costa d'Amalfi 2019,Costa d'Amalfi ,4.4,390,66.8,2019
+528,Italia,Tinto,Gaja,Dagromis Barolo 2018,Barolo ,4.4,365,95.51,2018
+529,Italia,Tinto,Ca' del Bosco,Dosage Zéro Franciacorta (Vintage Collection) 2017,Franciacorta ,4.4,238,63.9,2017
+530,Italia,Tinto,Trullo di Pezza,Licurti Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,224,14.86,2018
+531,Italia,Tinto,Giovanni Rosso,Barolo Cerretta 2017,Barolo ,4.4,140,65.0,2017
+532,Italia,Tinto,Pelissero,Barbaresco Vanotu 2015,Barbaresco ,4.4,134,162.65,2015
+533,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2017,Bolgheri ,4.4,126,140.51,2017
+534,Italia,Tinto,Le Macchiole,Messorio 2018,Toscana ,4.4,103,204.25,2018
+535,Italia,Tinto,E. Pira & Figli,Mosconi Barolo 2017,Barolo ,4.4,96,105.35,2017
+536,Italia,Tinto,Hauner,Malvasia delle Lipari Passito 2017,Malvasia delle Lipari ,4.4,95,55.05,2017
+537,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2016,Brunello di Montalcino ,4.4,94,190.2,2016
+538,Italia,Tinto,Vietti,Barolo Lazzarito 2017,Barolo ,4.4,88,150.0,2017
+539,Italia,Tinto,Val di Suga,Brunello di Montalcino Vigna del Lago 2013,Brunello di Montalcino ,4.4,80,59.35,2013
+540,Italia,Tinto,Vietti,Barolo Brunate 2017,Barolo ,4.4,51,173.5,2017
+541,Italia,Tinto,Pio Cesare,Il Bricco Barbaresco 2017,Barbaresco ,4.4,49,105.6,2017
+542,Italia,Tinto,Poggio Antico,Brunello di Montalcino Riserva 2015,Brunello di Montalcino ,4.4,48,124.45,2015
+543,Italia,Tinto,Pio Cesare,Mosconi Barolo 2018,Barolo ,4.4,39,132.0,2018
+544,Italia,Tinto,Tenuta Sant'Antonio,Campo dei Gigli Amarone della Valpolicella 2017,Amarone della Valpolicella ,4.4,37,67.2,2017
+545,Italia,Tinto,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,33,69.71,2019
+546,Italia,Tinto,Castello Giulio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.4,25,24.95,2017
+547,Italia,Tinto,Farnese,Edizione Cinque Autoctoni N.V.,Abruzos ,4.3,63661,18.9,N.V.
+548,Italia,Tinto,San Marzano,Cinquanta Collezione N.V.,Vino d'Italia ,4.3,36336,18.99,N.V.
+549,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Prosecco N.V.,Prosecco ,4.3,12767,9.9,N.V.
+550,Italia,Tinto,Tenuta CastelGiocondo,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,4677,107.45,2015
+551,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2017,Amarone della Valpolicella Classico ,4.3,1502,77.05,2017
+552,Italia,Tinto,Tenuta Ulisse,Amaranta Montepulciano d'Abruzzo 2019,Montepulciano d'Abruzzo ,4.3,1262,18.45,2019
+553,Italia,Tinto,Bibi Graetz,Testamatta Toscana 2018,Toscana ,4.3,1229,94.4,2018
+554,Italia,Tinto,Donatella Cinelli Colombini,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,785,41.37,2015
+555,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Moscato Spumante N.V.,Véneto ,4.3,731,9.9,N.V.
+556,Italia,Tinto,47 Anno Domini,Le Argille Cabernet di Cabernet 2018,Véneto ,4.3,640,28.99,2018
+557,Italia,Tinto,San Marzano,62 Anniversario Primitivo di Manduria Riserva 2018,Primitivo di Manduria ,4.3,558,31.0,2018
+558,Italia,Tinto,Mottura,Stilio Primitivo di Manduria 2021,Primitivo di Manduria ,4.3,553,12.99,2021
+559,Italia,Tinto,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+560,Italia,Tinto,Biondi-Santi,Rosso di Montalcino 2017,Rosso di Montalcino ,4.3,344,80.95,2017
+561,Italia,Tinto,La Spinetta,Vürsù Barbaresco Gallina 2011,Barbaresco ,4.3,327,137.0,2011
+562,Italia,Tinto,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+563,Italia,Tinto,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+564,Italia,Tinto,Gaja,Ca'Marcanda Magari 2020,Bolgheri ,4.3,283,71.9,2020
+565,Italia,Tinto,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+566,Italia,Tinto,Tinazzi,Vinum Italicum No 3 Opera 2020,Véneto ,4.3,271,16.95,2020
+567,Italia,Tinto,Fontodi,Vigna del Sorbo Gran Selezione Chianti Classico 2018,Chianti Classico ,4.3,242,80.9,2018
+568,Italia,Tinto,Jacopo Biondi Santi,Schidione 1998,Toscana ,4.3,223,112.51,1998
+569,Italia,Tinto,G.D. Vajra,Barolo Bricco Delle Viole 2018,Barolo ,4.3,194,85.0,2018
+570,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2017,Franciacorta ,4.3,185,58.0,2017
+571,Italia,Tinto,Castello di Ama,L'Apparita 2013,Toscana ,4.3,182,190.85,2013
+572,Italia,Tinto,Casa Vinicola Bennati,San Giorgio Amarone della Valpolicella 2019,Amarone della Valpolicella ,4.3,176,19.99,2019
+573,Italia,Tinto,Feudi di San Gregorio,Serpico 2014,Irpinia ,4.3,167,58.35,2014
+574,Italia,Tinto,Conti Costanti,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,131,65.0,2017
+575,Italia,Tinto,Pinino,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,124,42.9,2015
+576,Italia,Tinto,Le Guaite di Noemi,Amarone 2010,Amarone della Valpolicella ,4.3,123,81.15,2010
+577,Italia,Tinto,Le Boncie,Le Trame Toscana 2019,Toscana ,4.3,110,49.55,2019
+578,Italia,Tinto,Poggio Antico,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,107,56.0,2017
+579,Italia,Tinto,Marco Felluga,Russiz Superiore Degli Orzoni Riserva Rosso Collio 2013,Collio ,4.3,93,35.4,2013
+580,Italia,Tinto,Contratto,Special Cuvée Pas Dosé 2012,Piamonte ,4.3,88,86.85,2012
+581,Italia,Tinto,Elio Altare,Barolo 2018,Barolo ,4.3,80,66.7,2018
+582,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2019,Bolgheri ,4.3,78,183.1,2019
+583,Italia,Tinto,Feudi di San Gregorio,Pàtrimo 2016,Campania ,4.3,77,79.9,2016
+584,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2018,Franciacorta ,4.3,74,58.0,2018
+585,Italia,Tinto,Gulfi,NeroBufaleffj 2017,Terre Siciliane ,4.3,72,45.3,2017
+586,Italia,Tinto,Pio Cesare,Mosconi Barolo 2017,Barolo ,4.3,68,132.0,2017
+587,Italia,Tinto,Pio Cesare,Vermouth di Torino N.V.,Alba ,4.3,65,50.6,N.V.
+588,Italia,Tinto,Vietti,Barolo Lazzarito 2018,Barolo ,4.3,65,150.0,2018
+589,Italia,Tinto,Fèlsina,Colonia Chianti Classico Gran Selezione 2017,Chianti Classico ,4.3,58,93.3,2017
+590,Italia,Tinto,Podere Brizio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,58,44.0,2017
+591,Italia,Tinto,Castello di Verduno,Rabajà Barbaresco 2018,Barbaresco ,4.3,52,46.5,2018
+592,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2016,Brunello di Montalcino ,4.3,51,204.35,2016
+593,Italia,Tinto,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+594,Italia,Tinto,Plozza,No. 1 Numero Uno 2018,Terrazze Retiche di Sondrio ,4.3,48,67.2,2018
+595,Italia,Tinto,Le Macchiole,Scrio 2017,Toscana ,4.3,47,148.65,2017
+596,Italia,Tinto,Pio Cesare,Mosconi Barolo 2016,Barolo ,4.3,44,249.4,2016
+597,Italia,Tinto,Corte dei Venti,Brunello di Montalcino Riserva 2016,Brunello di Montalcino ,4.3,41,82.45,2016
+598,Italia,Tinto,Vietti,Barolo Ravera 2018,Barolo ,4.3,37,180.0,2018
+599,Italia,Tinto,Elio Altare,La Villa Langhe Rosso 2014,Langhe ,4.3,34,67.3,2014
+600,Italia,Tinto,Elio Altare,Arborina Barolo 2018,Barolo ,4.3,34,93.5,2018
+601,Italia,Tinto,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+602,Italia,Tinto,I Vignaioli di S. Stefano,Moscato d'Asti 2022,Moscato d'Asti ,4.3,31,17.18,2022
+603,Italia,Tinto,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+604,Italia,Tinto,Le Ragnaie,Fornace Brunello di Montalcino 2016,Brunello di Montalcino ,4.3,29,141.3,2016
+605,Italia,Tinto,Villa Corniole,7 Pergole 2016,Trentino-Alto Adige ,4.3,25,36.37,2016
+606,Italia,Tinto,Elio Altare,La Villa Langhe Rosso 2016,Langhe ,4.3,25,67.3,2016
+607,Italia,Tinto,Enzo Boglietti,Vigna Arione Barolo 2013,Barolo ,4.3,25,70.4,2013
+608,Italia,Tinto,Cipriani,Bellini Cipriani N.V.,Vino d'Italia ,4.2,1487,13.34,N.V.
+609,Italia,Tinto,Marina Cvetić,Montepulciano d'Abruzzo Riserva 2017,Montepulciano d'Abruzzo ,4.2,2041,31.52,2017
+610,Italia,Tinto,Astrale,Astrale Special Edition 2018,Vino d'Italia ,4.2,1976,9.95,2018
+611,Italia,Tinto,Ferrari,Perlé Zero N.V.,Trento ,4.2,1537,62.8,N.V.
+612,Italia,Tinto,Antinori,Tenuta Tignanello 'Marchese Antinori' Chianti Classico Riserva 2019,Chianti Classico ,4.2,2270,33.95,2019
+613,Italia,Tinto,Tenuta San Guido,Guidalberto 2020,Toscana ,4.2,1375,46.66,2020
+614,Italia,Tinto,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+615,Italia,Tinto,Gaja,Ca'Marcanda Promis Toscana 2020,Toscana ,4.2,1194,42.81,2020
+616,Italia,Tinto,Tenuta Il Poggione,Brunello di Montalcino 2017,Brunello di Montalcino ,4.2,1173,49.08,2017
+617,Italia,Tinto,Tosone,Nero d'Avola 2020,Terre Siciliane ,4.2,997,15.55,2020
+618,Italia,Tinto,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,875,41.75,2017
+619,Italia,Tinto,La Stoppa,Ageno 2016,Emilia ,4.2,797,32.74,2016
+620,Italia,Tinto,Vietti,Barolo Castiglione 2018,Barolo ,4.2,744,51.5,2018
+621,Italia,Tinto,Pio Cesare,Barolo 2017,Barolo ,4.2,724,83.6,2017
+622,Italia,Tinto,Capanna,Brunello di Montalcino 2015,Brunello di Montalcino ,4.2,699,59.56,2015
+623,Italia,Tinto,Gaja,Sito Moresco Langhe 2020,Langhe ,4.2,628,49.5,2020
+624,Italia,Tinto,Planeta,Chardonnay 2021,Menfi ,4.2,578,22.9,2021
+625,Italia,Tinto,Cesari,Amarone della Valpolicella Classico 2017,Amarone della Valpolicella Classico ,4.2,548,37.1,2017
+626,Italia,Tinto,Pio Cesare,Barolo 2018,Barolo ,4.2,441,69.3,2018
+627,Italia,Tinto,Marco de Bartoli,Vecchio Samperi Ventennale N.V.,Marsala ,4.2,440,74.4,N.V.
+628,Italia,Tinto,Tagaro,Passo del Sud Appassimento 2020,Puglia ,4.2,439,8.9,2020
+629,Italia,Tinto,La Spinetta,Vigneto Garretti Barolo 2015,Barolo ,4.2,395,91.25,2015
+630,Italia,Tinto,Cantine due Palme,Pillastro Primitivo Puglia 2021,Puglia ,4.2,399,8.9,2021
+631,Italia,Tinto,Santi Nobile,Cento X Cento Appassimento Primitivo 2019,Puglia ,4.2,393,17.9,2019
+632,Italia,Tinto,Biondi-Santi,Rosso di Montalcino 2018,Rosso di Montalcino ,4.2,392,73.95,2018
+633,Italia,Tinto,Castello di Bolgheri,Varvàra Bolgheri 2020,Bolgheri ,4.2,343,26.2,2020
+634,Italia,Tinto,Cantine del Notaio,Il Sigillo Aglianico del Vulture 2013,Aglianico del Vulture ,4.2,316,44.1,2013
+635,Italia,Tinto,Diego Conterno,Barolo Del Comune di Monforte d'Alba 2018,Barolo ,4.2,314,45.2,2018
+636,Italia,Tinto,Quintodecimo,Via del Campo Falanghina 2018,Irpinia ,4.2,309,47.86,2018
+637,Italia,Tinto,Ferrari,Perlé Bianco Riserva 2013,Trento ,4.2,304,39.7,2013
+638,Italia,Tinto,Le Salette,I Progni Valpolicella Ripasso Classico Superiore 2018,Valpolicella Ripasso ,4.2,292,22.35,2018
+639,Italia,Tinto,Livio Felluga,Pinot Grigio 2021,Colli Orientali del Friuli ,4.2,290,24.8,2021
+640,Italia,Tinto,Trullo di Pezza,Mezzapezza Primitivo Salento 2018,Salento ,4.2,288,10.78,2018
+641,Italia,Tinto,Giuseppe Cortese,Barbaresco Rabaja 2018,Barbaresco ,4.2,288,62.96,2018
+642,Italia,Tinto,Quintodecimo,Terra d'Eclano Aglianico Irpinia 2016,Irpinia ,4.2,265,56.67,2016
+643,Italia,Tinto,Benito Ferrara,Vigna Cicogna Greco di Tufo 2021,Greco di Tufo ,4.2,258,24.35,2021
+644,Italia,Tinto,Quintarelli Giuseppe,Veneto Primofiore Rosso 2019,Véneto ,4.2,253,57.4,2019
+645,Italia,Tinto,Abbazia di Novacella (Stiftskellerei Neustift),Praepositus Kerner 2020,Südtirol - Alto Adige ,4.2,238,23.45,2020
+646,Italia,Tinto,Prunotto,Moscato d'Asti 2021,Moscato d'Asti ,4.2,232,17.72,2021
+647,Italia,Tinto,Pelissero,Barbaresco Nubiola 2017,Barbaresco ,4.2,229,43.56,2017
+648,Italia,Tinto,Ca’ del Baio,Asili Barbaresco 2018,Barbaresco ,4.2,209,38.9,2018
+649,Italia,Tinto,Fonterutoli,Concerto Di Fonterutoli 2018,Toscana ,4.2,208,57.6,2018
+650,Italia,Tinto,Tenimenti Ca'Bianca,Barolo 2018,Barolo ,4.2,203,35.26,2018
+651,Italia,Tinto,Belguardo,Tenuta Belguardo 2018,Maremma Toscana ,4.2,181,40.5,2018
+652,Italia,Tinto,Donnafugata,Moscato di Pantelleria Kabir 2021,Moscato di Pantelleria ,4.2,177,26.2,2021
+653,Italia,Tinto,Sportoletti,Villa Fidelia Rosso 2016,Umbria ,4.2,170,22.25,2016
+654,Italia,Tinto,Fattoria le Pupille,Poggio Valente 2019,Toscana ,4.2,169,37.7,2019
+655,Italia,Tinto,Pelissero,Barbaresco Vanotu 2012,Barbaresco ,4.2,169,95.83,2012
+656,Italia,Tinto,Al-Cantara,O'Scuru O'Scuru Etna Rosso 2017,Etna ,4.2,156,19.27,2017
+657,Italia,Tinto,Gulfi,NeroBaronj 2017,Terre Siciliane ,4.2,153,19.23,2017
+658,Italia,Tinto,Cascina Fontana,Barolo 2017,Barolo ,4.2,150,59.95,2017
+659,Italia,Tinto,Terre del Palio,Brunello di Montalcino 2015,Brunello di Montalcino ,4.2,147,24.9,2015
+660,Italia,Tinto,G.D. Vajra,Barolo Coste di Rose 2018,Barolo ,4.2,140,67.65,2018
+661,Italia,Tinto,Montepeloso,Eneo Toscana 2019,Toscana ,4.2,129,22.9,2019
+662,Italia,Tinto,Bibi Graetz,Colore Toscana 2020,Toscana ,4.2,129,240.0,2020
+663,Italia,Tinto,Le Salette,I Progni Valpolicella Ripasso Classico Superiore 2019,Valpolicella Ripasso ,4.2,129,22.35,2019
+664,Italia,Tinto,Cantine due Palme,Selvarossa Riserva 2018,Salice Salentino ,4.2,126,20.75,2018
+665,Italia,Tinto,Luigi Tecce,Satyricon Irpinia Campi Taurasini 2019,Irpinia ,4.2,117,37.7,2019
+666,Italia,Tinto,Saracco,Moscato d'Asti 2022,Moscato d'Asti ,4.2,117,11.35,2022
+667,Italia,Tinto,Bibi Graetz,Testamatta Toscana 2020,Toscana ,4.2,116,89.0,2020
+668,Italia,Tinto,Pinino,Brunello di Montalcino 2016,Brunello di Montalcino ,4.2,114,42.9,2016
+669,Italia,Tinto,Luigi Baudana,Barolo Cerretta 2018,Barolo ,4.2,111,77.9,2018
+670,Italia,Tinto,G.D. Vajra,Barolo Ravera 2018,Barolo ,4.2,108,78.0,2018
+671,Italia,Tinto,Castello di Verduno,Barolo Massara 2015,Barolo ,4.2,105,62.25,2015
+672,Italia,Tinto,Colterenzio (Schreckbichl),Pfefferer 2022,Südtirol - Alto Adige ,4.2,100,12.35,2022
+673,Italia,Tinto,Elio Altare,Larigi Langhe Rosso 2015,Langhe ,4.2,99,67.3,2015
+674,Italia,Tinto,Vie di Romans,Dolée 2017,Friuli Isonzo ,4.2,99,26.76,2017
+675,Italia,Tinto,Antinori,Tenuta Guado al Tasso Matarocchio 2016,Maremma Toscana ,4.7,249,498.28,2016
+676,Italia,Tinto,Tenuta San Guido,Sassicaia 2018,Bolgheri Sassicaia ,4.6,2745,496.9,2018
+677,Italia,Tinto,Ornellaia,Bolgheri Superiore 2018,Bolgheri Superiore ,4.6,1542,215.5,2018
+678,Italia,Tinto,Biondi-Santi,Brunello di Montalcino 2015,Brunello di Montalcino ,4.6,829,167.79,2015
+679,Italia,Tinto,Ca' del Bosco,Cuvée Annamaria Clementi (Extra Brut) 2011,Franciacorta ,4.6,661,139.0,2011
+680,Italia,Tinto,Biserno,Bibbona 2017,Toscana ,4.6,243,161.99,2017
+681,Italia,Tinto,Gaja,Conteisa Langhe 2015,Langhe ,4.6,69,311.02,2015
+682,Italia,Tinto,Antinori,Tenuta Tignanello 'Solaia' 2019,Toscana ,4.6,60,360.0,2019
+683,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2013,Brunello di Montalcino ,4.5,313,194.39,2013
+684,Italia,Tinto,Casanova di Neri,Tenuta Nuova Brunello di Montalcino 2016,Brunello di Montalcino ,4.5,860,117.2,2016
+685,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2007,Barolo ,4.5,491,156.55,2007
+686,Italia,Tinto,Fontodi,Flaccianello della Pieve 2018,Colli della Toscana Centrale ,4.5,454,205.76,2018
+687,Italia,Tinto,Tenuta Ulisse,Limited Edition 10 Vendemmie N.V.,Montepulciano d'Abruzzo ,4.5,8880,27.3,N.V.
+688,Italia,Tinto,Pio Cesare,Ornato Barolo 2017,Barolo ,4.5,181,105.6,2017
+689,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2015,Brunello di Montalcino ,4.5,128,194.39,2015
+690,Italia,Tinto,Gaja,Barbaresco 2019,Barbaresco ,4.5,119,266.25,2019
+691,Italia,Tinto,Elio Altare,Arborina Barolo 2017,Barolo ,4.5,93,180.95,2017
+692,Italia,Tinto,Gaja,Gaia & Rey Langhe 2020,Langhe ,4.5,82,304.54,2020
+693,Italia,Tinto,Elio Altare,Cerretta Barolo Riserva (Vigna Bricco) 2015,Barolo ,4.5,65,207.1,2015
+694,Italia,Tinto,Feudo Montoni,Vrucara Nero d'Avola 2017,Sicilia ,4.5,63,36.55,2017
+695,Italia,Tinto,La Valentina,Bellovedere Montepulciano d'Abruzzo (Riserva) 2016,Montepulciano d'Abruzzo ,4.5,53,37.7,2016
+696,Italia,Tinto,Guerrieri,Guerriero della Terra 2018,Marche ,4.4,2571,29.99,2018
+697,Italia,Tinto,San Marzano,60 Sessantanni Old Vines Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,865,21.99,2018
+698,Italia,Tinto,Ornellaia,Le Serre Nuove 2020,Bolgheri ,4.4,779,56.2,2020
+699,Italia,Tinto,Tenuta Luce,Luce 2018,Toscana ,4.4,637,108.9,2018
+700,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2018,Amarone della Valpolicella Classico ,4.4,596,72.0,2018
+701,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2011,Barolo ,4.4,411,163.3,2011
+702,Italia,Tinto,Marisa Cuomo,Fiorduva Costa d'Amalfi 2019,Costa d'Amalfi ,4.4,390,66.8,2019
+703,Italia,Tinto,Gaja,Dagromis Barolo 2018,Barolo ,4.4,365,95.51,2018
+704,Italia,Tinto,Ca' del Bosco,Dosage Zéro Franciacorta (Vintage Collection) 2017,Franciacorta ,4.4,238,63.9,2017
+705,Italia,Tinto,Trullo di Pezza,Licurti Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,224,14.86,2018
+706,Italia,Tinto,Giovanni Rosso,Barolo Cerretta 2017,Barolo ,4.4,140,65.0,2017
+707,Italia,Tinto,Pelissero,Barbaresco Vanotu 2015,Barbaresco ,4.4,134,162.65,2015
+708,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2017,Bolgheri ,4.4,126,140.51,2017
+709,Italia,Tinto,Le Macchiole,Messorio 2018,Toscana ,4.4,103,204.25,2018
+710,Italia,Tinto,E. Pira & Figli,Mosconi Barolo 2017,Barolo ,4.4,96,105.35,2017
+711,Italia,Tinto,Hauner,Malvasia delle Lipari Passito 2017,Malvasia delle Lipari ,4.4,95,55.05,2017
+712,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2016,Brunello di Montalcino ,4.4,94,190.2,2016
+713,Italia,Tinto,Vietti,Barolo Lazzarito 2017,Barolo ,4.4,88,150.0,2017
+714,Italia,Tinto,Val di Suga,Brunello di Montalcino Vigna del Lago 2013,Brunello di Montalcino ,4.4,80,59.35,2013
+715,Italia,Tinto,Vietti,Barolo Brunate 2017,Barolo ,4.4,51,173.5,2017
+716,Italia,Tinto,Pio Cesare,Il Bricco Barbaresco 2017,Barbaresco ,4.4,49,105.6,2017
+717,Italia,Tinto,Poggio Antico,Brunello di Montalcino Riserva 2015,Brunello di Montalcino ,4.4,48,124.45,2015
+718,Italia,Tinto,Pio Cesare,Mosconi Barolo 2018,Barolo ,4.4,39,132.0,2018
+719,Italia,Tinto,Tenuta Sant'Antonio,Campo dei Gigli Amarone della Valpolicella 2017,Amarone della Valpolicella ,4.4,37,67.2,2017
+720,Italia,Tinto,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,33,69.71,2019
+721,Italia,Tinto,Castello Giulio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.4,25,24.95,2017
+722,Italia,Tinto,Farnese,Edizione Cinque Autoctoni N.V.,Abruzos ,4.3,63661,18.9,N.V.
+723,Italia,Tinto,San Marzano,Cinquanta Collezione N.V.,Vino d'Italia ,4.3,36336,18.99,N.V.
+724,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Prosecco N.V.,Prosecco ,4.3,12767,9.9,N.V.
+725,Italia,Tinto,Tenuta CastelGiocondo,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,4677,107.45,2015
+726,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2017,Amarone della Valpolicella Classico ,4.3,1502,77.05,2017
+727,Italia,Tinto,Tenuta Ulisse,Amaranta Montepulciano d'Abruzzo 2019,Montepulciano d'Abruzzo ,4.3,1262,18.45,2019
+728,Italia,Tinto,Bibi Graetz,Testamatta Toscana 2018,Toscana ,4.3,1229,94.4,2018
+729,Italia,Tinto,Donatella Cinelli Colombini,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,785,41.37,2015
+730,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Moscato Spumante N.V.,Véneto ,4.3,731,9.9,N.V.
+731,Italia,Tinto,47 Anno Domini,Le Argille Cabernet di Cabernet 2018,Véneto ,4.3,640,28.99,2018
+732,Italia,Tinto,San Marzano,62 Anniversario Primitivo di Manduria Riserva 2018,Primitivo di Manduria ,4.3,558,31.0,2018
+733,Italia,Tinto,Mottura,Stilio Primitivo di Manduria 2021,Primitivo di Manduria ,4.3,553,12.99,2021
+734,Italia,Tinto,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+735,Italia,Tinto,Biondi-Santi,Rosso di Montalcino 2017,Rosso di Montalcino ,4.3,344,80.95,2017
+736,Italia,Tinto,La Spinetta,Vürsù Barbaresco Gallina 2011,Barbaresco ,4.3,327,137.0,2011
+737,Italia,Tinto,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+738,Italia,Tinto,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+739,Italia,Tinto,Gaja,Ca'Marcanda Magari 2020,Bolgheri ,4.3,283,71.9,2020
+740,Italia,Tinto,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+741,Italia,Tinto,Tinazzi,Vinum Italicum No 3 Opera 2020,Véneto ,4.3,271,16.95,2020
+742,Italia,Tinto,Fontodi,Vigna del Sorbo Gran Selezione Chianti Classico 2018,Chianti Classico ,4.3,242,80.9,2018
+743,Italia,Tinto,Jacopo Biondi Santi,Schidione 1998,Toscana ,4.3,223,112.51,1998
+744,Italia,Tinto,G.D. Vajra,Barolo Bricco Delle Viole 2018,Barolo ,4.3,194,85.0,2018
+745,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2017,Franciacorta ,4.3,185,58.0,2017
+746,Italia,Tinto,Castello di Ama,L'Apparita 2013,Toscana ,4.3,182,190.85,2013
+747,Italia,Tinto,Casa Vinicola Bennati,San Giorgio Amarone della Valpolicella 2019,Amarone della Valpolicella ,4.3,176,19.99,2019
+748,Italia,Tinto,Feudi di San Gregorio,Serpico 2014,Irpinia ,4.3,167,58.35,2014
+749,Italia,Tinto,Conti Costanti,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,131,65.0,2017
+750,Italia,Tinto,Pinino,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,124,42.9,2015
+751,Italia,Tinto,Le Guaite di Noemi,Amarone 2010,Amarone della Valpolicella ,4.3,123,81.15,2010
+752,Italia,Tinto,Le Boncie,Le Trame Toscana 2019,Toscana ,4.3,110,49.55,2019
+753,Italia,Tinto,Poggio Antico,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,107,56.0,2017
+754,Italia,Tinto,Marco Felluga,Russiz Superiore Degli Orzoni Riserva Rosso Collio 2013,Collio ,4.3,93,35.4,2013
+755,Italia,Tinto,Contratto,Special Cuvée Pas Dosé 2012,Piamonte ,4.3,88,86.85,2012
+756,Italia,Tinto,Elio Altare,Barolo 2018,Barolo ,4.3,80,66.7,2018
+757,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2019,Bolgheri ,4.3,78,183.1,2019
+758,Italia,Tinto,Feudi di San Gregorio,Pàtrimo 2016,Campania ,4.3,77,79.9,2016
+759,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2018,Franciacorta ,4.3,74,58.0,2018
+760,Italia,Tinto,Gulfi,NeroBufaleffj 2017,Terre Siciliane ,4.3,72,45.3,2017
+761,Italia,Tinto,Pio Cesare,Mosconi Barolo 2017,Barolo ,4.3,68,132.0,2017
+762,Italia,Tinto,Pio Cesare,Vermouth di Torino N.V.,Alba ,4.3,65,50.6,N.V.
+763,Italia,Tinto,Vietti,Barolo Lazzarito 2018,Barolo ,4.3,65,150.0,2018
+764,Italia,Tinto,Fèlsina,Colonia Chianti Classico Gran Selezione 2017,Chianti Classico ,4.3,58,93.3,2017
+765,Italia,Tinto,Podere Brizio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,58,44.0,2017
+766,Italia,Tinto,Castello di Verduno,Rabajà Barbaresco 2018,Barbaresco ,4.3,52,46.5,2018
+767,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2016,Brunello di Montalcino ,4.3,51,204.35,2016
+768,Italia,Tinto,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+769,Italia,Tinto,Plozza,No. 1 Numero Uno 2018,Terrazze Retiche di Sondrio ,4.3,48,67.2,2018
+770,Italia,Tinto,Le Macchiole,Scrio 2017,Toscana ,4.3,47,148.65,2017
+771,Italia,Tinto,Pio Cesare,Mosconi Barolo 2016,Barolo ,4.3,44,249.4,2016
+772,Italia,Tinto,Corte dei Venti,Brunello di Montalcino Riserva 2016,Brunello di Montalcino ,4.3,41,82.45,2016
+773,Italia,Tinto,Vietti,Barolo Ravera 2018,Barolo ,4.3,37,180.0,2018
+774,Italia,Tinto,Elio Altare,La Villa Langhe Rosso 2014,Langhe ,4.3,34,67.3,2014
+775,Italia,Tinto,Elio Altare,Arborina Barolo 2018,Barolo ,4.3,34,93.5,2018
+776,Italia,Tinto,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+777,Italia,Tinto,I Vignaioli di S. Stefano,Moscato d'Asti 2022,Moscato d'Asti ,4.3,31,17.18,2022
+778,Italia,Tinto,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+779,Italia,Tinto,Le Ragnaie,Fornace Brunello di Montalcino 2016,Brunello di Montalcino ,4.3,29,141.3,2016
+780,Italia,Tinto,Villa Corniole,7 Pergole 2016,Trentino-Alto Adige ,4.3,25,36.37,2016
+781,Italia,Tinto,Elio Altare,La Villa Langhe Rosso 2016,Langhe ,4.3,25,67.3,2016
+782,Italia,Tinto,Enzo Boglietti,Vigna Arione Barolo 2013,Barolo ,4.3,25,70.4,2013
+783,Italia,Tinto,Cipriani,Bellini Cipriani N.V.,Vino d'Italia ,4.2,1487,13.34,N.V.
+784,Italia,Tinto,Marina Cvetić,Montepulciano d'Abruzzo Riserva 2017,Montepulciano d'Abruzzo ,4.2,2041,31.52,2017
+785,Italia,Tinto,Astrale,Astrale Special Edition 2018,Vino d'Italia ,4.2,1976,9.95,2018
+786,Italia,Tinto,Ferrari,Perlé Zero N.V.,Trento ,4.2,1537,62.8,N.V.
+787,Italia,Tinto,Antinori,Tenuta Tignanello 'Marchese Antinori' Chianti Classico Riserva 2019,Chianti Classico ,4.2,2270,33.95,2019
+788,Italia,Tinto,Tenuta San Guido,Guidalberto 2020,Toscana ,4.2,1375,46.66,2020
+789,Italia,Tinto,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+790,Italia,Tinto,Gaja,Ca'Marcanda Promis Toscana 2020,Toscana ,4.2,1194,42.81,2020
+791,Italia,Tinto,Tenuta Il Poggione,Brunello di Montalcino 2017,Brunello di Montalcino ,4.2,1173,49.08,2017
+792,Italia,Tinto,Tosone,Nero d'Avola 2020,Terre Siciliane ,4.2,997,15.55,2020
+793,Italia,Tinto,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,875,41.75,2017
+794,Italia,Tinto,La Stoppa,Ageno 2016,Emilia ,4.2,797,32.74,2016
+795,Italia,Tinto,Vietti,Barolo Castiglione 2018,Barolo ,4.2,744,51.5,2018
+796,Italia,Tinto,Pio Cesare,Barolo 2017,Barolo ,4.2,724,83.6,2017
+797,Italia,Tinto,Capanna,Brunello di Montalcino 2015,Brunello di Montalcino ,4.2,699,59.56,2015
+798,Italia,Tinto,Gaja,Sito Moresco Langhe 2020,Langhe ,4.2,628,49.5,2020
+799,Italia,Tinto,Planeta,Chardonnay 2021,Menfi ,4.2,578,22.9,2021
+800,Italia,Tinto,Cesari,Amarone della Valpolicella Classico 2017,Amarone della Valpolicella Classico ,4.2,548,37.1,2017
+801,Italia,Tinto,Pio Cesare,Barolo 2018,Barolo ,4.2,441,69.3,2018
+802,Italia,Tinto,Marco de Bartoli,Vecchio Samperi Ventennale N.V.,Marsala ,4.2,440,74.4,N.V.
+803,Italia,Tinto,Tagaro,Passo del Sud Appassimento 2020,Puglia ,4.2,439,8.9,2020
+804,Italia,Tinto,La Spinetta,Vigneto Garretti Barolo 2015,Barolo ,4.2,395,91.25,2015
+805,Italia,Tinto,Cantine due Palme,Pillastro Primitivo Puglia 2021,Puglia ,4.2,399,8.9,2021
+806,Italia,Tinto,Santi Nobile,Cento X Cento Appassimento Primitivo 2019,Puglia ,4.2,393,17.9,2019
+807,Italia,Tinto,Biondi-Santi,Rosso di Montalcino 2018,Rosso di Montalcino ,4.2,392,73.95,2018
+808,Italia,Tinto,Castello di Bolgheri,Varvàra Bolgheri 2020,Bolgheri ,4.2,343,26.2,2020
+809,Italia,Tinto,Cantine del Notaio,Il Sigillo Aglianico del Vulture 2013,Aglianico del Vulture ,4.2,316,44.1,2013
+810,Italia,Tinto,Diego Conterno,Barolo Del Comune di Monforte d'Alba 2018,Barolo ,4.2,314,45.2,2018
+811,Italia,Tinto,Quintodecimo,Via del Campo Falanghina 2018,Irpinia ,4.2,309,47.86,2018
+812,Italia,Tinto,Ferrari,Perlé Bianco Riserva 2013,Trento ,4.2,304,39.7,2013
+813,Italia,Tinto,Le Salette,I Progni Valpolicella Ripasso Classico Superiore 2018,Valpolicella Ripasso ,4.2,292,22.35,2018
+814,Italia,Tinto,Livio Felluga,Pinot Grigio 2021,Colli Orientali del Friuli ,4.2,290,24.8,2021
+815,Italia,Tinto,Trullo di Pezza,Mezzapezza Primitivo Salento 2018,Salento ,4.2,288,10.78,2018
+816,Italia,Tinto,Giuseppe Cortese,Barbaresco Rabaja 2018,Barbaresco ,4.2,288,62.96,2018
+817,Italia,Tinto,Quintodecimo,Terra d'Eclano Aglianico Irpinia 2016,Irpinia ,4.2,265,56.67,2016
+818,Italia,Tinto,Benito Ferrara,Vigna Cicogna Greco di Tufo 2021,Greco di Tufo ,4.2,258,24.35,2021
+819,Italia,Tinto,Quintarelli Giuseppe,Veneto Primofiore Rosso 2019,Véneto ,4.2,253,57.4,2019
+820,Italia,Tinto,Abbazia di Novacella (Stiftskellerei Neustift),Praepositus Kerner 2020,Südtirol - Alto Adige ,4.2,238,23.45,2020
+821,Italia,Tinto,Prunotto,Moscato d'Asti 2021,Moscato d'Asti ,4.2,232,17.72,2021
+822,Italia,Tinto,Pelissero,Barbaresco Nubiola 2017,Barbaresco ,4.2,229,43.56,2017
+823,Italia,Tinto,Ca’ del Baio,Asili Barbaresco 2018,Barbaresco ,4.2,209,38.9,2018
+824,Italia,Tinto,Fonterutoli,Concerto Di Fonterutoli 2018,Toscana ,4.2,208,57.6,2018
+825,Italia,Tinto,Tenimenti Ca'Bianca,Barolo 2018,Barolo ,4.2,203,35.26,2018
+826,Italia,Tinto,Belguardo,Tenuta Belguardo 2018,Maremma Toscana ,4.2,181,40.5,2018
+827,Italia,Tinto,Donnafugata,Moscato di Pantelleria Kabir 2021,Moscato di Pantelleria ,4.2,177,26.2,2021
+828,Italia,Tinto,Sportoletti,Villa Fidelia Rosso 2016,Umbria ,4.2,170,22.25,2016
+829,Italia,Tinto,Fattoria le Pupille,Poggio Valente 2019,Toscana ,4.2,169,37.7,2019
+830,Italia,Tinto,Pelissero,Barbaresco Vanotu 2012,Barbaresco ,4.2,169,95.83,2012
+831,Italia,Tinto,Al-Cantara,O'Scuru O'Scuru Etna Rosso 2017,Etna ,4.2,156,19.27,2017
+832,Italia,Tinto,Gulfi,NeroBaronj 2017,Terre Siciliane ,4.2,153,19.23,2017
+833,Italia,Tinto,Cascina Fontana,Barolo 2017,Barolo ,4.2,150,59.95,2017
+834,Italia,Tinto,Terre del Palio,Brunello di Montalcino 2015,Brunello di Montalcino ,4.2,147,24.9,2015
+835,Italia,Tinto,G.D. Vajra,Barolo Coste di Rose 2018,Barolo ,4.2,140,67.65,2018
+836,Italia,Tinto,Montepeloso,Eneo Toscana 2019,Toscana ,4.2,129,22.9,2019
+837,Italia,Tinto,Bibi Graetz,Colore Toscana 2020,Toscana ,4.2,129,240.0,2020
+838,Italia,Tinto,Le Salette,I Progni Valpolicella Ripasso Classico Superiore 2019,Valpolicella Ripasso ,4.2,129,22.35,2019
+839,Italia,Tinto,Cantine due Palme,Selvarossa Riserva 2018,Salice Salentino ,4.2,126,20.75,2018
+840,Italia,Tinto,Luigi Tecce,Satyricon Irpinia Campi Taurasini 2019,Irpinia ,4.2,117,37.7,2019
+841,Italia,Tinto,Saracco,Moscato d'Asti 2022,Moscato d'Asti ,4.2,117,11.35,2022
+842,Italia,Tinto,Bibi Graetz,Testamatta Toscana 2020,Toscana ,4.2,116,89.0,2020
+843,Italia,Tinto,Pinino,Brunello di Montalcino 2016,Brunello di Montalcino ,4.2,114,42.9,2016
+844,Italia,Tinto,Luigi Baudana,Barolo Cerretta 2018,Barolo ,4.2,111,77.9,2018
+845,Italia,Tinto,G.D. Vajra,Barolo Ravera 2018,Barolo ,4.2,108,78.0,2018
+846,Italia,Tinto,Castello di Verduno,Barolo Massara 2015,Barolo ,4.2,105,62.25,2015
+847,Italia,Tinto,Colterenzio (Schreckbichl),Pfefferer 2022,Südtirol - Alto Adige ,4.2,100,12.35,2022
+848,Italia,Tinto,Elio Altare,Larigi Langhe Rosso 2015,Langhe ,4.2,99,67.3,2015
+849,Italia,Tinto,Vie di Romans,Dolée 2017,Friuli Isonzo ,4.2,99,26.76,2017
+850,Italia,Tinto,Donne Fittipaldi,Bolgheri Superiore 2018,Bolgheri Superiore ,4.3,83,43.1,2018
+851,Italia,Tinto,Polvanera,16 Primitivo Gioia del Colle 2016,Gioia del Colle ,4.2,93,28.35,2016
+852,Italia,Tinto,Vigneti Massa,Derthona Montecitorio 2018,Piamonte ,4.2,89,41.0,2018
+853,Italia,Tinto,Cigliuti,Campass Barbera d'Alba 2019,Barbera d'Alba ,4.2,92,26.95,2019
+854,Italia,Tinto,Cascina Fontana,Barolo 2018,Barolo ,4.2,80,62.5,2018
+855,Italia,Tinto,Pio Cesare,Ornato Barolo 2018,Barolo ,4.2,77,112.2,2018
+856,Italia,Tinto,Frank Cornelissen,MunJebel Classico Bianco 2020,Terre Siciliane ,4.2,76,38.75,2020
+857,Italia,Tinto,di Lenardo,Just Me 2018,Venezia Giulia ,4.2,74,19.9,2018
+858,Italia,Tinto,Conti Costanti,Rosso di Montalcino 2020,Rosso di Montalcino ,4.2,59,35.2,2020
+859,Italia,Tinto,I Custodi,Aetneus Etna Rosso 2015,Etna ,4.2,59,29.95,2015
+860,Italia,Tinto,Marina Cvetić,Riserva Trebbiano 2020,Trebbiano d'Abruzzo ,4.2,58,35.77,2020
+861,Italia,Tinto,Siddura,Bàcco 2017,Isola dei Nuraghi ,4.2,52,24.45,2017
+862,Italia,Tinto,Tenuta Meraviglia,Dievole Maestro di Cava 2017,Bolgheri Superiore ,4.2,50,60.0,2017
+863,Italia,Tinto,Cantele,Amativo 2020,Salento ,4.2,48,20.75,2020
+864,Italia,Tinto,Brigaldara,Amarone della Valpolicella Case Vecie 2017,Amarone della Valpolicella Classico ,4.2,47,49.45,2017
+865,Italia,Tinto,Casebianche,Cupersito Aglianico Cilento 2017,Cilento ,4.2,44,17.95,2017
+866,Italia,Tinto,I Custodi,Aetneus Etna Rosso 2016,Etna ,4.2,44,29.95,2016
+867,Italia,Tinto,Colterenzio (Schreckbichl),Lafóa Sauvignon 2021,Südtirol - Alto Adige ,4.2,44,29.45,2021
+868,Italia,Tinto,Picchioni Andrea,Bricco Riva Bianca Buttafuoco dell'Oltrepo Pavese 2018,Buttafuoco dell'Oltrepo Pavese ,4.2,36,29.0,2018
+869,Italia,Tinto,Selva Capuzza,Madér Garda Classico Rosso Superiore 2017,Garda ,4.2,41,20.0,2017
+870,Italia,Tinto,Fabio Gea,Mushroom Panda 2020,Piamonte ,4.2,39,40.85,2020
+871,Italia,Tinto,Colle Duga,Sauvignon Collio 2020,Collio ,4.2,37,21.3,2020
+872,Italia,Tinto,Castellare,Coniale Toscana 2016,Toscana ,4.2,37,63.8,2016
+873,Italia,Tinto,Franco M. Martinetti,Sul Bric Monferrato Rosso 1998,Monferrato ,4.2,35,233.59,1998
+874,Italia,Tinto,Vantorosso,Valpolicella Classico 2020,Valpolicella ,4.1,43,12.85,2020
+875,Italia,Tinto,Antinori,Tenuta Guado al Tasso Matarocchio 2016,Maremma Toscana ,4.7,249,498.28,2016
+876,Italia,Tinto,Tenuta San Guido,Sassicaia 2018,Bolgheri Sassicaia ,4.6,2745,496.9,2018
+877,Italia,Tinto,Ornellaia,Bolgheri Superiore 2018,Bolgheri Superiore ,4.6,1542,215.5,2018
+878,Italia,Tinto,Biondi-Santi,Brunello di Montalcino 2015,Brunello di Montalcino ,4.6,829,167.79,2015
+879,Italia,Tinto,Ca' del Bosco,Cuvée Annamaria Clementi (Extra Brut) 2011,Franciacorta ,4.6,661,139.0,2011
+880,Italia,Tinto,Biserno,Bibbona 2017,Toscana ,4.6,243,161.99,2017
+881,Italia,Tinto,Gaja,Conteisa Langhe 2015,Langhe ,4.6,69,311.02,2015
+882,Italia,Tinto,Antinori,Tenuta Tignanello 'Solaia' 2019,Toscana ,4.6,60,360.0,2019
+883,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2013,Brunello di Montalcino ,4.5,313,194.39,2013
+884,Italia,Tinto,Casanova di Neri,Tenuta Nuova Brunello di Montalcino 2016,Brunello di Montalcino ,4.5,860,117.2,2016
+885,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2007,Barolo ,4.5,491,156.55,2007
+886,Italia,Tinto,Fontodi,Flaccianello della Pieve 2018,Colli della Toscana Centrale ,4.5,454,205.76,2018
+887,Italia,Tinto,Tenuta Ulisse,Limited Edition 10 Vendemmie N.V.,Montepulciano d'Abruzzo ,4.5,8880,27.3,N.V.
+888,Italia,Tinto,Pio Cesare,Ornato Barolo 2017,Barolo ,4.5,181,105.6,2017
+889,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2015,Brunello di Montalcino ,4.5,128,194.39,2015
+890,Italia,Tinto,Gaja,Barbaresco 2019,Barbaresco ,4.5,119,266.25,2019
+891,Italia,Tinto,Elio Altare,Arborina Barolo 2017,Barolo ,4.5,93,180.95,2017
+892,Italia,Tinto,Gaja,Gaia & Rey Langhe 2020,Langhe ,4.5,82,304.54,2020
+893,Italia,Tinto,Elio Altare,Cerretta Barolo Riserva (Vigna Bricco) 2015,Barolo ,4.5,65,207.1,2015
+894,Italia,Tinto,Feudo Montoni,Vrucara Nero d'Avola 2017,Sicilia ,4.5,63,36.55,2017
+895,Italia,Tinto,La Valentina,Bellovedere Montepulciano d'Abruzzo (Riserva) 2016,Montepulciano d'Abruzzo ,4.5,53,37.7,2016
+896,Italia,Tinto,Guerrieri,Guerriero della Terra 2018,Marche ,4.4,2571,29.99,2018
+897,Italia,Tinto,San Marzano,60 Sessantanni Old Vines Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,865,21.99,2018
+898,Italia,Tinto,Ornellaia,Le Serre Nuove 2020,Bolgheri ,4.4,779,56.2,2020
+899,Italia,Tinto,Tenuta Luce,Luce 2018,Toscana ,4.4,637,108.9,2018
+900,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2018,Amarone della Valpolicella Classico ,4.4,596,72.0,2018
+901,Italia,Tinto,La Spinetta,Vürsù Barolo Campè 2011,Barolo ,4.4,411,163.3,2011
+902,Italia,Tinto,Marisa Cuomo,Fiorduva Costa d'Amalfi 2019,Costa d'Amalfi ,4.4,390,66.8,2019
+903,Italia,Tinto,Gaja,Dagromis Barolo 2018,Barolo ,4.4,365,95.51,2018
+904,Italia,Tinto,Ca' del Bosco,Dosage Zéro Franciacorta (Vintage Collection) 2017,Franciacorta ,4.4,238,63.9,2017
+905,Italia,Tinto,Trullo di Pezza,Licurti Primitivo di Manduria 2018,Primitivo di Manduria ,4.4,224,14.86,2018
+906,Italia,Tinto,Giovanni Rosso,Barolo Cerretta 2017,Barolo ,4.4,140,65.0,2017
+907,Italia,Tinto,Pelissero,Barbaresco Vanotu 2015,Barbaresco ,4.4,134,162.65,2015
+908,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2017,Bolgheri ,4.4,126,140.51,2017
+909,Italia,Tinto,Le Macchiole,Messorio 2018,Toscana ,4.4,103,204.25,2018
+910,Italia,Tinto,E. Pira & Figli,Mosconi Barolo 2017,Barolo ,4.4,96,105.35,2017
+911,Italia,Tinto,Hauner,Malvasia delle Lipari Passito 2017,Malvasia delle Lipari ,4.4,95,55.05,2017
+912,Italia,Tinto,Gaja,Pieve Santa Restituta Rennina Brunello di Montalcino 2016,Brunello di Montalcino ,4.4,94,190.2,2016
+913,Italia,Tinto,Vietti,Barolo Lazzarito 2017,Barolo ,4.4,88,150.0,2017
+914,Italia,Tinto,Val di Suga,Brunello di Montalcino Vigna del Lago 2013,Brunello di Montalcino ,4.4,80,59.35,2013
+915,Italia,Tinto,Vietti,Barolo Brunate 2017,Barolo ,4.4,51,173.5,2017
+916,Italia,Tinto,Pio Cesare,Il Bricco Barbaresco 2017,Barbaresco ,4.4,49,105.6,2017
+917,Italia,Tinto,Poggio Antico,Brunello di Montalcino Riserva 2015,Brunello di Montalcino ,4.4,48,124.45,2015
+918,Italia,Tinto,Pio Cesare,Mosconi Barolo 2018,Barolo ,4.4,39,132.0,2018
+919,Italia,Tinto,Tenuta Sant'Antonio,Campo dei Gigli Amarone della Valpolicella 2017,Amarone della Valpolicella ,4.4,37,67.2,2017
+920,Italia,Tinto,Livio Felluga,Abbazia di Rosazzo 2019,Friuli-Venezia Giulia ,4.4,33,69.71,2019
+921,Italia,Tinto,Castello Giulio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.4,25,24.95,2017
+922,Italia,Tinto,Farnese,Edizione Cinque Autoctoni N.V.,Abruzos ,4.3,63661,18.9,N.V.
+923,Italia,Tinto,San Marzano,Cinquanta Collezione N.V.,Vino d'Italia ,4.3,36336,18.99,N.V.
+924,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Prosecco N.V.,Prosecco ,4.3,12767,9.9,N.V.
+925,Italia,Tinto,Tenuta CastelGiocondo,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,4677,107.45,2015
+926,Italia,Tinto,Allegrini,Amarone della Valpolicella Classico 2017,Amarone della Valpolicella Classico ,4.3,1502,77.05,2017
+927,Italia,Tinto,Tenuta Ulisse,Amaranta Montepulciano d'Abruzzo 2019,Montepulciano d'Abruzzo ,4.3,1262,18.45,2019
+928,Italia,Tinto,Bibi Graetz,Testamatta Toscana 2018,Toscana ,4.3,1229,94.4,2018
+929,Italia,Tinto,Donatella Cinelli Colombini,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,785,41.37,2015
+930,Italia,Tinto,Villa Degli Olmi,Corte dei Rovi Moscato Spumante N.V.,Véneto ,4.3,731,9.9,N.V.
+931,Italia,Tinto,47 Anno Domini,Le Argille Cabernet di Cabernet 2018,Véneto ,4.3,640,28.99,2018
+932,Italia,Tinto,San Marzano,62 Anniversario Primitivo di Manduria Riserva 2018,Primitivo di Manduria ,4.3,558,31.0,2018
+933,Italia,Tinto,Mottura,Stilio Primitivo di Manduria 2021,Primitivo di Manduria ,4.3,553,12.99,2021
+934,Italia,Tinto,Quintodecimo,Exultet Fiano di Avellino 2017,Fiano de Avellino ,4.3,427,47.86,2017
+935,Italia,Tinto,Biondi-Santi,Rosso di Montalcino 2017,Rosso di Montalcino ,4.3,344,80.95,2017
+936,Italia,Tinto,La Spinetta,Vürsù Barbaresco Gallina 2011,Barbaresco ,4.3,327,137.0,2011
+937,Italia,Tinto,Ornellaia,Poggio alle Gazze 2020,Toscana ,4.3,325,69.9,2020
+938,Italia,Tinto,Gaja,Ca'Marcanda Vistamare Toscana 2021,Toscana ,4.3,311,49.5,2021
+939,Italia,Tinto,Gaja,Ca'Marcanda Magari 2020,Bolgheri ,4.3,283,71.9,2020
+940,Italia,Tinto,Quintodecimo,Giallo d'Arles Greco di Tufo 2019,Greco di Tufo ,4.3,273,50.37,2019
+941,Italia,Tinto,Tinazzi,Vinum Italicum No 3 Opera 2020,Véneto ,4.3,271,16.95,2020
+942,Italia,Tinto,Fontodi,Vigna del Sorbo Gran Selezione Chianti Classico 2018,Chianti Classico ,4.3,242,80.9,2018
+943,Italia,Tinto,Jacopo Biondi Santi,Schidione 1998,Toscana ,4.3,223,112.51,1998
+944,Italia,Tinto,G.D. Vajra,Barolo Bricco Delle Viole 2018,Barolo ,4.3,194,85.0,2018
+945,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2017,Franciacorta ,4.3,185,58.0,2017
+946,Italia,Tinto,Castello di Ama,L'Apparita 2013,Toscana ,4.3,182,190.85,2013
+947,Italia,Tinto,Casa Vinicola Bennati,San Giorgio Amarone della Valpolicella 2019,Amarone della Valpolicella ,4.3,176,19.99,2019
+948,Italia,Tinto,Feudi di San Gregorio,Serpico 2014,Irpinia ,4.3,167,58.35,2014
+949,Italia,Tinto,Conti Costanti,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,131,65.0,2017
+950,Italia,Tinto,Pinino,Brunello di Montalcino 2015,Brunello di Montalcino ,4.3,124,42.9,2015
+951,Italia,Tinto,Le Guaite di Noemi,Amarone 2010,Amarone della Valpolicella ,4.3,123,81.15,2010
+952,Italia,Tinto,Le Boncie,Le Trame Toscana 2019,Toscana ,4.3,110,49.55,2019
+953,Italia,Tinto,Poggio Antico,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,107,56.0,2017
+954,Italia,Tinto,Marco Felluga,Russiz Superiore Degli Orzoni Riserva Rosso Collio 2013,Collio ,4.3,93,35.4,2013
+955,Italia,Tinto,Contratto,Special Cuvée Pas Dosé 2012,Piamonte ,4.3,88,86.85,2012
+956,Italia,Tinto,Elio Altare,Barolo 2018,Barolo ,4.3,80,66.7,2018
+957,Italia,Tinto,Gaja,Ca'Marcanda Bolgheri 2019,Bolgheri ,4.3,78,183.1,2019
+958,Italia,Tinto,Feudi di San Gregorio,Pàtrimo 2016,Campania ,4.3,77,79.9,2016
+959,Italia,Tinto,Ca' del Bosco,Vintage Collection Franciacorta Satén 2018,Franciacorta ,4.3,74,58.0,2018
+960,Italia,Tinto,Gulfi,NeroBufaleffj 2017,Terre Siciliane ,4.3,72,45.3,2017
+961,Italia,Tinto,Pio Cesare,Mosconi Barolo 2017,Barolo ,4.3,68,132.0,2017
+962,Italia,Tinto,Pio Cesare,Vermouth di Torino N.V.,Alba ,4.3,65,50.6,N.V.
+963,Italia,Tinto,Vietti,Barolo Lazzarito 2018,Barolo ,4.3,65,150.0,2018
+964,Italia,Tinto,Fèlsina,Colonia Chianti Classico Gran Selezione 2017,Chianti Classico ,4.3,58,93.3,2017
+965,Italia,Tinto,Podere Brizio,Brunello di Montalcino 2017,Brunello di Montalcino ,4.3,58,44.0,2017
+966,Italia,Tinto,Castello di Verduno,Rabajà Barbaresco 2018,Barbaresco ,4.3,52,46.5,2018
+967,Italia,Tinto,Gaja,Pieve Santa Restituta Sugarille Brunello di Montalcino 2016,Brunello di Montalcino ,4.3,51,204.35,2016
+968,Italia,Tinto,Livio Felluga,Illivio 2020,Colli Orientali del Friuli ,4.3,50,42.85,2020
+969,Italia,Tinto,Plozza,No. 1 Numero Uno 2018,Terrazze Retiche di Sondrio ,4.3,48,67.2,2018
+970,Italia,Tinto,Le Macchiole,Scrio 2017,Toscana ,4.3,47,148.65,2017
+971,Italia,Tinto,Pio Cesare,Mosconi Barolo 2016,Barolo ,4.3,44,249.4,2016
+972,Italia,Tinto,Corte dei Venti,Brunello di Montalcino Riserva 2016,Brunello di Montalcino ,4.3,41,82.45,2016
+973,Italia,Tinto,Vietti,Barolo Ravera 2018,Barolo ,4.3,37,180.0,2018
+974,Italia,Tinto,Elio Altare,La Villa Langhe Rosso 2014,Langhe ,4.3,34,67.3,2014
+975,Italia,Tinto,Elio Altare,Arborina Barolo 2018,Barolo ,4.3,34,93.5,2018
+976,Italia,Tinto,Torre Fornello,Una 2013,Colli Piacentini ,4.3,33,49.37,2013
+977,Italia,Tinto,I Vignaioli di S. Stefano,Moscato d'Asti 2022,Moscato d'Asti ,4.3,31,17.18,2022
+978,Italia,Tinto,Livio Felluga,Terre Alte 2020,Rosazzo ,4.3,30,74.75,2020
+979,Italia,Tinto,Le Ragnaie,Fornace Brunello di Montalcino 2016,Brunello di Montalcino ,4.3,29,141.3,2016
+980,Italia,Tinto,Villa Corniole,7 Pergole 2016,Trentino-Alto Adige ,4.3,25,36.37,2016
+981,Italia,Tinto,Elio Altare,La Villa Langhe Rosso 2016,Langhe ,4.3,25,67.3,2016
+982,Italia,Tinto,Enzo Boglietti,Vigna Arione Barolo 2013,Barolo ,4.3,25,70.4,2013
+983,Italia,Tinto,Cipriani,Bellini Cipriani N.V.,Vino d'Italia ,4.2,1487,13.34,N.V.
+984,Italia,Tinto,Marina Cvetić,Montepulciano d'Abruzzo Riserva 2017,Montepulciano d'Abruzzo ,4.2,2041,31.52,2017
+985,Italia,Tinto,Astrale,Astrale Special Edition 2018,Vino d'Italia ,4.2,1976,9.95,2018
+986,Italia,Tinto,Ferrari,Perlé Zero N.V.,Trento ,4.2,1537,62.8,N.V.
+987,Italia,Tinto,Antinori,Tenuta Tignanello 'Marchese Antinori' Chianti Classico Riserva 2019,Chianti Classico ,4.2,2270,33.95,2019
+988,Italia,Tinto,Tenuta San Guido,Guidalberto 2020,Toscana ,4.2,1375,46.66,2020
+989,Italia,Tinto,Planeta,Cometa 2018,Menfi ,4.2,1274,31.9,2018
+990,Italia,Tinto,Gaja,Ca'Marcanda Promis Toscana 2020,Toscana ,4.2,1194,42.81,2020
+991,Italia,Tinto,Tenuta Il Poggione,Brunello di Montalcino 2017,Brunello di Montalcino ,4.2,1173,49.08,2017
+992,Italia,Tinto,Tosone,Nero d'Avola 2020,Terre Siciliane ,4.2,997,15.55,2020
+993,Italia,Tinto,Vie di Romans,Dessimis Pinot Grigio 2017,Friuli Isonzo ,4.2,875,41.75,2017
+994,Italia,Tinto,La Stoppa,Ageno 2016,Emilia ,4.2,797,32.74,2016
+995,Italia,Tinto,Vietti,Barolo Castiglione 2018,Barolo ,4.2,744,51.5,2018
+996,Italia,Tinto,Pio Cesare,Barolo 2017,Barolo ,4.2,724,83.6,2017
+997,Italia,Tinto,Capanna,Brunello di Montalcino 2015,Brunello di Montalcino ,4.2,699,59.56,2015
+998,Italia,Tinto,Gaja,Sito Moresco Langhe 2020,Langhe ,4.2,628,49.5,2020
+999,Italia,Tinto,Planeta,Chardonnay 2021,Menfi ,4.2,578,22.9,2021

@@ -1,0 +1,1001 @@
+,Pais,Tipo,Bodegas,Nombre y año,Región,Rating,Valoraciones,Precio,Año
+0,Portugal,Tinto,Cartuxa,Pêra-Manca Tinto 2015,Alentejo ,4.7,969,362.85,2015
+1,Portugal,Tinto,Já Te Disse,Alicante Bouschet 2020,Alentejo ,4.7,28,89.99,2020
+2,Portugal,Tinto,W. & J. Graham's,40 Year Old Tawny Port N.V.,Porto ,4.6,2259,140.63,N.V.
+3,Portugal,Tinto,Quinta do Noval,40 Year Old Tawny Port N.V.,Porto ,4.6,757,140.51,N.V.
+4,Portugal,Tinto,Quinta do Noval,Vintage Port 2019,Porto ,4.6,57,170.4,2019
+5,Portugal,Tinto,Lima Mayer,Petit Verdot 2015,Alentejano ,4.5,37,79.99,2015
+6,Portugal,Tinto,Casa Ferreirinha,Quinta da Leda Douro 2017,Douro ,4.5,1146,42.57,2017
+7,Portugal,Tinto,Ramos Pinto,30 Year Old Tawny Port N.V.,Porto ,4.5,1088,94.76,N.V.
+8,Portugal,Tinto,Cartuxa,Pêra-Manca Branco 2020,Evora ,4.5,321,63.39,2020
+9,Portugal,Tinto,Titan of Douro,Vale dos Mil Single Vineyard Tinto 2017,Douro ,4.5,292,35.99,2017
+10,Portugal,Tinto,Quinta do Noval,Vintage Port 2003,Porto ,4.5,177,156.35,2003
+11,Portugal,Tinto,Quinta do Zambujeiro,Zambujeiro 2017,Borba ,4.5,124,50.99,2017
+12,Portugal,Tinto,W. & J. Graham's,30 Year Old Tawny Port N.V.,Porto ,4.5,3429,84.95,N.V.
+13,Portugal,Tinto,Vinha das Virtudes,Humanitas Reserva Syrah 2018,Alentejano ,4.5,76,34.99,2018
+14,Portugal,Tinto,Quinta da Furada,Pata d'Urso Tinto 2017,Douro ,4.5,75,47.99,2017
+15,Portugal,Tinto,Quinta da Sequeira,Grande Reserva Tinto 2017,Douro ,4.5,92,64.99,2017
+16,Portugal,Tinto,W. & J. Graham's,20 Year Old Tawny Port N.V.,Porto ,4.4,12331,54.95,N.V.
+17,Portugal,Tinto,Ramos Pinto,Quinta do Bom Retiro 20 Year Old Tawny Porto N.V.,Porto ,4.4,2921,71.15,N.V.
+18,Portugal,Tinto,Bacalhôa,Península de Setúbal Palácio da Bacalhôa Tinto 2014,Península de Setúbal ,4.4,2004,52.99,2014
+19,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2019,Douro ,4.4,951,28.81,2019
+20,Portugal,Tinto,W. & J. Graham's,Vintage Port 2000,Porto ,4.4,810,125.61,2000
+21,Portugal,Tinto,Anselmo Mendes,Parcela Única Escolha 2018,Monção e Melgaço ,4.4,470,33.9,2018
+22,Portugal,Tinto,Quinta do Carmo,Reserva Tinto 2014,Alentejano ,4.4,360,52.99,2014
+23,Portugal,Tinto,Esporão,Esporão Private Selection Tinto 2016,Alentejo ,4.4,290,61.8,2016
+24,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2020,Douro ,4.4,123,32.15,2020
+25,Portugal,Tinto,Cartuxa,Pêra-Manca Tinto 2015,Alentejo ,4.7,969,362.85,2015
+26,Portugal,Tinto,Já Te Disse,Alicante Bouschet 2020,Alentejo ,4.7,28,89.99,2020
+27,Portugal,Tinto,W. & J. Graham's,40 Year Old Tawny Port N.V.,Porto ,4.6,2259,140.63,N.V.
+28,Portugal,Tinto,Quinta do Noval,40 Year Old Tawny Port N.V.,Porto ,4.6,757,140.51,N.V.
+29,Portugal,Tinto,Quinta do Noval,Vintage Port 2019,Porto ,4.6,57,170.4,2019
+30,Portugal,Tinto,Lima Mayer,Petit Verdot 2015,Alentejano ,4.5,37,79.99,2015
+31,Portugal,Tinto,Casa Ferreirinha,Quinta da Leda Douro 2017,Douro ,4.5,1146,42.57,2017
+32,Portugal,Tinto,Ramos Pinto,30 Year Old Tawny Port N.V.,Porto ,4.5,1088,94.76,N.V.
+33,Portugal,Tinto,Cartuxa,Pêra-Manca Branco 2020,Evora ,4.5,321,63.39,2020
+34,Portugal,Tinto,Titan of Douro,Vale dos Mil Single Vineyard Tinto 2017,Douro ,4.5,292,35.99,2017
+35,Portugal,Tinto,Quinta do Noval,Vintage Port 2003,Porto ,4.5,177,156.35,2003
+36,Portugal,Tinto,Quinta do Zambujeiro,Zambujeiro 2017,Borba ,4.5,124,50.99,2017
+37,Portugal,Tinto,W. & J. Graham's,30 Year Old Tawny Port N.V.,Porto ,4.5,3429,84.95,N.V.
+38,Portugal,Tinto,Vinha das Virtudes,Humanitas Reserva Syrah 2018,Alentejano ,4.5,76,34.99,2018
+39,Portugal,Tinto,Quinta da Furada,Pata d'Urso Tinto 2017,Douro ,4.5,75,47.99,2017
+40,Portugal,Tinto,Quinta da Sequeira,Grande Reserva Tinto 2017,Douro ,4.5,92,64.99,2017
+41,Portugal,Tinto,W. & J. Graham's,20 Year Old Tawny Port N.V.,Porto ,4.4,12331,54.95,N.V.
+42,Portugal,Tinto,Ramos Pinto,Quinta do Bom Retiro 20 Year Old Tawny Porto N.V.,Porto ,4.4,2921,71.15,N.V.
+43,Portugal,Tinto,Bacalhôa,Península de Setúbal Palácio da Bacalhôa Tinto 2014,Península de Setúbal ,4.4,2004,52.99,2014
+44,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2019,Douro ,4.4,951,28.81,2019
+45,Portugal,Tinto,W. & J. Graham's,Vintage Port 2000,Porto ,4.4,810,125.61,2000
+46,Portugal,Tinto,Anselmo Mendes,Parcela Única Escolha 2018,Monção e Melgaço ,4.4,470,33.9,2018
+47,Portugal,Tinto,Quinta do Carmo,Reserva Tinto 2014,Alentejano ,4.4,360,52.99,2014
+48,Portugal,Tinto,Esporão,Esporão Private Selection Tinto 2016,Alentejo ,4.4,290,61.8,2016
+49,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2020,Douro ,4.4,123,32.15,2020
+50,Portugal,Tinto,Quinta do Noval,Vintage Port 2015,Porto ,4.4,105,156.98,2015
+51,Portugal,Tinto,Quinta de Santiago,Sou Alvarinho 2018,Monção e Melgaço ,4.4,66,29.9,2018
+52,Portugal,Tinto,Textura,Pura 2019,Dão ,4.4,47,32.5,2019
+53,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2017,Borba ,4.3,234,46.99,2017
+54,Portugal,Tinto,Fonseca,20 Year Old Tawny Port N.V.,Porto ,4.3,2487,54.52,N.V.
+55,Portugal,Tinto,Dow's,20 Years Old Tawny Port N.V.,Porto ,4.3,2007,47.9,N.V.
+56,Portugal,Tinto,Quinta do Noval,20 Year Old Tawny Port N.V.,Porto ,4.3,1453,84.91,N.V.
+57,Portugal,Tinto,Niepoort,Porto 20 Years Old Tawny N.V.,Porto ,4.3,1148,61.45,N.V.
+58,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2016,Douro ,4.3,642,79.98,2016
+59,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 1990,Porto ,4.3,310,47.3,1990
+60,Portugal,Tinto,Niepoort,Douro Charme Tinto 2017,Douro ,4.3,297,79.98,2017
+61,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2017,Douro ,4.3,269,79.82,2017
+62,Portugal,Tinto,Taylor's,20 Year Old Tawny Port N.V.,Porto ,4.3,8969,49.35,N.V.
+63,Portugal,Tinto,Quinta do Infantado,Tawny Porto 20 Years Old N.V.,Porto ,4.3,193,41.99,N.V.
+64,Portugal,Tinto,Fonseca,Vintage Port 2003,Porto ,4.3,174,111.01,2003
+65,Portugal,Tinto,Fonseca,Vintage Port 2009,Porto ,4.3,174,98.0,2009
+66,Portugal,Tinto,Quinta do Noval,Silval Vintage Port 2003,Porto ,4.3,167,42.3,2003
+67,Portugal,Tinto,Marquês de Marialva,Bical - Arinto Reserva Bruto 2017,Bairrada ,4.3,153,18.99,2017
+68,Portugal,Tinto,Taboadella,Grande Villae Tinto 2019,Dão ,4.3,120,64.99,2019
+69,Portugal,Tinto,Quinta do Crasto,Vintage Port 2017,Porto ,4.3,98,41.93,2017
+70,Portugal,Tinto,Casa de Santar,Branco De Curtimenta 2019,Dão ,4.3,90,24.99,2019
+71,Portugal,Tinto,Lima Mayer,Reserva 2015,Alentejano ,4.3,79,57.99,2015
+72,Portugal,Tinto,Esporão,Esporão Private Selection Branco 2020,Alentejo ,4.3,77,32.95,2020
+73,Portugal,Tinto,Rui Roboredo Madeira,Douro Tinto 2017,Douro ,4.3,57,38.99,2017
+74,Portugal,Tinto,Niepoort,Douro Charme Tinto 2020,Douro ,4.3,54,75.0,2020
+75,Portugal,Tinto,Cartuxa,Pêra-Manca Tinto 2015,Alentejo ,4.7,969,362.85,2015
+76,Portugal,Tinto,Já Te Disse,Alicante Bouschet 2020,Alentejo ,4.7,28,89.99,2020
+77,Portugal,Tinto,W. & J. Graham's,40 Year Old Tawny Port N.V.,Porto ,4.6,2259,140.63,N.V.
+78,Portugal,Tinto,Quinta do Noval,40 Year Old Tawny Port N.V.,Porto ,4.6,757,140.51,N.V.
+79,Portugal,Tinto,Quinta do Noval,Vintage Port 2019,Porto ,4.6,57,170.4,2019
+80,Portugal,Tinto,Lima Mayer,Petit Verdot 2015,Alentejano ,4.5,37,79.99,2015
+81,Portugal,Tinto,Casa Ferreirinha,Quinta da Leda Douro 2017,Douro ,4.5,1146,42.57,2017
+82,Portugal,Tinto,Ramos Pinto,30 Year Old Tawny Port N.V.,Porto ,4.5,1088,94.76,N.V.
+83,Portugal,Tinto,Cartuxa,Pêra-Manca Branco 2020,Evora ,4.5,321,63.39,2020
+84,Portugal,Tinto,Titan of Douro,Vale dos Mil Single Vineyard Tinto 2017,Douro ,4.5,292,35.99,2017
+85,Portugal,Tinto,Quinta do Noval,Vintage Port 2003,Porto ,4.5,177,156.35,2003
+86,Portugal,Tinto,Quinta do Zambujeiro,Zambujeiro 2017,Borba ,4.5,124,50.99,2017
+87,Portugal,Tinto,W. & J. Graham's,30 Year Old Tawny Port N.V.,Porto ,4.5,3429,84.95,N.V.
+88,Portugal,Tinto,Vinha das Virtudes,Humanitas Reserva Syrah 2018,Alentejano ,4.5,76,34.99,2018
+89,Portugal,Tinto,Quinta da Furada,Pata d'Urso Tinto 2017,Douro ,4.5,75,47.99,2017
+90,Portugal,Tinto,Quinta da Sequeira,Grande Reserva Tinto 2017,Douro ,4.5,92,64.99,2017
+91,Portugal,Tinto,W. & J. Graham's,20 Year Old Tawny Port N.V.,Porto ,4.4,12331,54.95,N.V.
+92,Portugal,Tinto,Ramos Pinto,Quinta do Bom Retiro 20 Year Old Tawny Porto N.V.,Porto ,4.4,2921,71.15,N.V.
+93,Portugal,Tinto,Bacalhôa,Península de Setúbal Palácio da Bacalhôa Tinto 2014,Península de Setúbal ,4.4,2004,52.99,2014
+94,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2019,Douro ,4.4,951,28.81,2019
+95,Portugal,Tinto,W. & J. Graham's,Vintage Port 2000,Porto ,4.4,810,125.61,2000
+96,Portugal,Tinto,Anselmo Mendes,Parcela Única Escolha 2018,Monção e Melgaço ,4.4,470,33.9,2018
+97,Portugal,Tinto,Quinta do Carmo,Reserva Tinto 2014,Alentejano ,4.4,360,52.99,2014
+98,Portugal,Tinto,Esporão,Esporão Private Selection Tinto 2016,Alentejo ,4.4,290,61.8,2016
+99,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2020,Douro ,4.4,123,32.15,2020
+100,Portugal,Tinto,Quinta do Noval,Vintage Port 2015,Porto ,4.4,105,156.98,2015
+101,Portugal,Tinto,Quinta de Santiago,Sou Alvarinho 2018,Monção e Melgaço ,4.4,66,29.9,2018
+102,Portugal,Tinto,Textura,Pura 2019,Dão ,4.4,47,32.5,2019
+103,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2017,Borba ,4.3,234,46.99,2017
+104,Portugal,Tinto,Fonseca,20 Year Old Tawny Port N.V.,Porto ,4.3,2487,54.52,N.V.
+105,Portugal,Tinto,Dow's,20 Years Old Tawny Port N.V.,Porto ,4.3,2007,47.9,N.V.
+106,Portugal,Tinto,Quinta do Noval,20 Year Old Tawny Port N.V.,Porto ,4.3,1453,84.91,N.V.
+107,Portugal,Tinto,Niepoort,Porto 20 Years Old Tawny N.V.,Porto ,4.3,1148,61.45,N.V.
+108,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2016,Douro ,4.3,642,79.98,2016
+109,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 1990,Porto ,4.3,310,47.3,1990
+110,Portugal,Tinto,Niepoort,Douro Charme Tinto 2017,Douro ,4.3,297,79.98,2017
+111,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2017,Douro ,4.3,269,79.82,2017
+112,Portugal,Tinto,Taylor's,20 Year Old Tawny Port N.V.,Porto ,4.3,8969,49.35,N.V.
+113,Portugal,Tinto,Quinta do Infantado,Tawny Porto 20 Years Old N.V.,Porto ,4.3,193,41.99,N.V.
+114,Portugal,Tinto,Fonseca,Vintage Port 2003,Porto ,4.3,174,111.01,2003
+115,Portugal,Tinto,Fonseca,Vintage Port 2009,Porto ,4.3,174,98.0,2009
+116,Portugal,Tinto,Quinta do Noval,Silval Vintage Port 2003,Porto ,4.3,167,42.3,2003
+117,Portugal,Tinto,Marquês de Marialva,Bical - Arinto Reserva Bruto 2017,Bairrada ,4.3,153,18.99,2017
+118,Portugal,Tinto,Taboadella,Grande Villae Tinto 2019,Dão ,4.3,120,64.99,2019
+119,Portugal,Tinto,Quinta do Crasto,Vintage Port 2017,Porto ,4.3,98,41.93,2017
+120,Portugal,Tinto,Casa de Santar,Branco De Curtimenta 2019,Dão ,4.3,90,24.99,2019
+121,Portugal,Tinto,Lima Mayer,Reserva 2015,Alentejano ,4.3,79,57.99,2015
+122,Portugal,Tinto,Esporão,Esporão Private Selection Branco 2020,Alentejo ,4.3,77,32.95,2020
+123,Portugal,Tinto,Rui Roboredo Madeira,Douro Tinto 2017,Douro ,4.3,57,38.99,2017
+124,Portugal,Tinto,Niepoort,Douro Charme Tinto 2020,Douro ,4.3,54,75.0,2020
+125,Portugal,Tinto,Niepoort,Douro Reserva Redoma Branco 2021,Douro ,4.3,53,41.7,2021
+126,Portugal,Tinto,Giroflé,Arquivo Tinto 2017,Douro ,4.3,45,49.99,2017
+127,Portugal,Tinto,Já Te Disse,Branco 2020,Alentejo ,4.3,26,40.99,2020
+128,Portugal,Tinto,Taboadella,Reserva Encruzado 2021,Dão ,4.2,473,31.99,2021
+129,Portugal,Tinto,Esporão,Esporão Reserva Tinto 2019,Alentejo ,4.2,3306,16.73,2019
+130,Portugal,Tinto,Esporão,Esporão Reserva Branco 2020,Alentejo ,4.2,2193,14.29,2020
+131,Portugal,Tinto,Andresen,10 Year Old White Port N.V.,Porto ,4.2,1934,16.88,N.V.
+132,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Douro Tinto (Colheita Unoaked) 2020,Douro ,4.2,1545,24.99,2020
+133,Portugal,Tinto,Casa de Santar,Dão Reserva 2015,Dão ,4.2,1382,34.99,2015
+134,Portugal,Tinto,Justino's Madeira,Colheita Madeira N.V.,Madeira ,4.2,1249,44.07,N.V.
+135,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Grainha Reserva 2020,Douro ,4.2,903,29.99,2020
+136,Portugal,Tinto,Esporão,Esporão Reserva Branco 2021,Alentejo ,4.2,700,15.3,2021
+137,Portugal,Tinto,W. & J. Graham's,10 Year Old Tawny Port N.V.,Porto ,4.2,16231,28.76,N.V.
+138,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Reserva Terroir Blend 2020,Douro ,4.2,422,31.99,2020
+139,Portugal,Tinto,Niepoort,Douro Redoma Branco 2021,Douro ,4.2,325,22.4,2021
+140,Portugal,Tinto,Quinta do Zambujeiro,Monte do Zambujeiro 2018,Borba ,4.2,294,16.99,2018
+141,Portugal,Tinto,José Maria da Fonseca,José de Sousa Mayor Alentejano 2017,Alentejano ,4.2,266,28.8,2017
+142,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 2000,Porto ,4.2,213,36.3,2000
+143,Portugal,Tinto,Casa de Santar,Dão Reserva Branco 2018,Dão ,4.2,148,20.99,2018
+144,Portugal,Tinto,Anselmo Mendes,Muros de Melgaço Alvarinho 2021,Monção e Melgaço ,4.2,145,17.95,2021
+145,Portugal,Tinto,Niepoort,Douro Charme Tinto 2019,Douro ,4.2,135,75.0,2019
+146,Portugal,Tinto,Antonio Madeira,Vinhas Velhas 2019,Dão ,4.2,127,24.25,2019
+147,Portugal,Tinto,Beyra,Grande Reserva 2019,Beira Interior ,4.2,100,30.99,2019
+148,Portugal,Tinto,Niepoort,Douro Tiara Branco 2020,Douro ,4.2,97,19.84,2020
+149,Portugal,Tinto,Quinta da Foz,Grande Reserva 2017,Douro ,4.2,97,56.99,2017
+150,Portugal,Tinto,Cartuxa,Pêra-Manca Tinto 2015,Alentejo ,4.7,969,362.85,2015
+151,Portugal,Tinto,Já Te Disse,Alicante Bouschet 2020,Alentejo ,4.7,28,89.99,2020
+152,Portugal,Tinto,W. & J. Graham's,40 Year Old Tawny Port N.V.,Porto ,4.6,2259,140.63,N.V.
+153,Portugal,Tinto,Quinta do Noval,40 Year Old Tawny Port N.V.,Porto ,4.6,757,140.51,N.V.
+154,Portugal,Tinto,Quinta do Noval,Vintage Port 2019,Porto ,4.6,57,170.4,2019
+155,Portugal,Tinto,Lima Mayer,Petit Verdot 2015,Alentejano ,4.5,37,79.99,2015
+156,Portugal,Tinto,Casa Ferreirinha,Quinta da Leda Douro 2017,Douro ,4.5,1146,42.57,2017
+157,Portugal,Tinto,Ramos Pinto,30 Year Old Tawny Port N.V.,Porto ,4.5,1088,94.76,N.V.
+158,Portugal,Tinto,Cartuxa,Pêra-Manca Branco 2020,Evora ,4.5,321,63.39,2020
+159,Portugal,Tinto,Titan of Douro,Vale dos Mil Single Vineyard Tinto 2017,Douro ,4.5,292,35.99,2017
+160,Portugal,Tinto,Quinta do Noval,Vintage Port 2003,Porto ,4.5,177,156.35,2003
+161,Portugal,Tinto,Quinta do Zambujeiro,Zambujeiro 2017,Borba ,4.5,124,50.99,2017
+162,Portugal,Tinto,W. & J. Graham's,30 Year Old Tawny Port N.V.,Porto ,4.5,3429,84.95,N.V.
+163,Portugal,Tinto,Vinha das Virtudes,Humanitas Reserva Syrah 2018,Alentejano ,4.5,76,34.99,2018
+164,Portugal,Tinto,Quinta da Furada,Pata d'Urso Tinto 2017,Douro ,4.5,75,47.99,2017
+165,Portugal,Tinto,Quinta da Sequeira,Grande Reserva Tinto 2017,Douro ,4.5,92,64.99,2017
+166,Portugal,Tinto,W. & J. Graham's,20 Year Old Tawny Port N.V.,Porto ,4.4,12331,54.95,N.V.
+167,Portugal,Tinto,Ramos Pinto,Quinta do Bom Retiro 20 Year Old Tawny Porto N.V.,Porto ,4.4,2921,71.15,N.V.
+168,Portugal,Tinto,Bacalhôa,Península de Setúbal Palácio da Bacalhôa Tinto 2014,Península de Setúbal ,4.4,2004,52.99,2014
+169,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2019,Douro ,4.4,951,28.81,2019
+170,Portugal,Tinto,W. & J. Graham's,Vintage Port 2000,Porto ,4.4,810,125.61,2000
+171,Portugal,Tinto,Anselmo Mendes,Parcela Única Escolha 2018,Monção e Melgaço ,4.4,470,33.9,2018
+172,Portugal,Tinto,Quinta do Carmo,Reserva Tinto 2014,Alentejano ,4.4,360,52.99,2014
+173,Portugal,Tinto,Esporão,Esporão Private Selection Tinto 2016,Alentejo ,4.4,290,61.8,2016
+174,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2020,Douro ,4.4,123,32.15,2020
+175,Portugal,Tinto,Quinta do Noval,Vintage Port 2015,Porto ,4.4,105,156.98,2015
+176,Portugal,Tinto,Quinta de Santiago,Sou Alvarinho 2018,Monção e Melgaço ,4.4,66,29.9,2018
+177,Portugal,Tinto,Textura,Pura 2019,Dão ,4.4,47,32.5,2019
+178,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2017,Borba ,4.3,234,46.99,2017
+179,Portugal,Tinto,Fonseca,20 Year Old Tawny Port N.V.,Porto ,4.3,2487,54.52,N.V.
+180,Portugal,Tinto,Dow's,20 Years Old Tawny Port N.V.,Porto ,4.3,2007,47.9,N.V.
+181,Portugal,Tinto,Quinta do Noval,20 Year Old Tawny Port N.V.,Porto ,4.3,1453,84.91,N.V.
+182,Portugal,Tinto,Niepoort,Porto 20 Years Old Tawny N.V.,Porto ,4.3,1148,61.45,N.V.
+183,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2016,Douro ,4.3,642,79.98,2016
+184,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 1990,Porto ,4.3,310,47.3,1990
+185,Portugal,Tinto,Niepoort,Douro Charme Tinto 2017,Douro ,4.3,297,79.98,2017
+186,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2017,Douro ,4.3,269,79.82,2017
+187,Portugal,Tinto,Taylor's,20 Year Old Tawny Port N.V.,Porto ,4.3,8969,49.35,N.V.
+188,Portugal,Tinto,Quinta do Infantado,Tawny Porto 20 Years Old N.V.,Porto ,4.3,193,41.99,N.V.
+189,Portugal,Tinto,Fonseca,Vintage Port 2003,Porto ,4.3,174,111.01,2003
+190,Portugal,Tinto,Fonseca,Vintage Port 2009,Porto ,4.3,174,98.0,2009
+191,Portugal,Tinto,Quinta do Noval,Silval Vintage Port 2003,Porto ,4.3,167,42.3,2003
+192,Portugal,Tinto,Marquês de Marialva,Bical - Arinto Reserva Bruto 2017,Bairrada ,4.3,153,18.99,2017
+193,Portugal,Tinto,Taboadella,Grande Villae Tinto 2019,Dão ,4.3,120,64.99,2019
+194,Portugal,Tinto,Quinta do Crasto,Vintage Port 2017,Porto ,4.3,98,41.93,2017
+195,Portugal,Tinto,Casa de Santar,Branco De Curtimenta 2019,Dão ,4.3,90,24.99,2019
+196,Portugal,Tinto,Lima Mayer,Reserva 2015,Alentejano ,4.3,79,57.99,2015
+197,Portugal,Tinto,Esporão,Esporão Private Selection Branco 2020,Alentejo ,4.3,77,32.95,2020
+198,Portugal,Tinto,Rui Roboredo Madeira,Douro Tinto 2017,Douro ,4.3,57,38.99,2017
+199,Portugal,Tinto,Niepoort,Douro Charme Tinto 2020,Douro ,4.3,54,75.0,2020
+200,Portugal,Tinto,Niepoort,Douro Reserva Redoma Branco 2021,Douro ,4.3,53,41.7,2021
+201,Portugal,Tinto,Giroflé,Arquivo Tinto 2017,Douro ,4.3,45,49.99,2017
+202,Portugal,Tinto,Já Te Disse,Branco 2020,Alentejo ,4.3,26,40.99,2020
+203,Portugal,Tinto,Taboadella,Reserva Encruzado 2021,Dão ,4.2,473,31.99,2021
+204,Portugal,Tinto,Esporão,Esporão Reserva Tinto 2019,Alentejo ,4.2,3306,16.73,2019
+205,Portugal,Tinto,Esporão,Esporão Reserva Branco 2020,Alentejo ,4.2,2193,14.29,2020
+206,Portugal,Tinto,Andresen,10 Year Old White Port N.V.,Porto ,4.2,1934,16.88,N.V.
+207,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Douro Tinto (Colheita Unoaked) 2020,Douro ,4.2,1545,24.99,2020
+208,Portugal,Tinto,Casa de Santar,Dão Reserva 2015,Dão ,4.2,1382,34.99,2015
+209,Portugal,Tinto,Justino's Madeira,Colheita Madeira N.V.,Madeira ,4.2,1249,44.07,N.V.
+210,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Grainha Reserva 2020,Douro ,4.2,903,29.99,2020
+211,Portugal,Tinto,Esporão,Esporão Reserva Branco 2021,Alentejo ,4.2,700,15.3,2021
+212,Portugal,Tinto,W. & J. Graham's,10 Year Old Tawny Port N.V.,Porto ,4.2,16231,28.76,N.V.
+213,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Reserva Terroir Blend 2020,Douro ,4.2,422,31.99,2020
+214,Portugal,Tinto,Niepoort,Douro Redoma Branco 2021,Douro ,4.2,325,22.4,2021
+215,Portugal,Tinto,Quinta do Zambujeiro,Monte do Zambujeiro 2018,Borba ,4.2,294,16.99,2018
+216,Portugal,Tinto,José Maria da Fonseca,José de Sousa Mayor Alentejano 2017,Alentejano ,4.2,266,28.8,2017
+217,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 2000,Porto ,4.2,213,36.3,2000
+218,Portugal,Tinto,Casa de Santar,Dão Reserva Branco 2018,Dão ,4.2,148,20.99,2018
+219,Portugal,Tinto,Anselmo Mendes,Muros de Melgaço Alvarinho 2021,Monção e Melgaço ,4.2,145,17.95,2021
+220,Portugal,Tinto,Niepoort,Douro Charme Tinto 2019,Douro ,4.2,135,75.0,2019
+221,Portugal,Tinto,Antonio Madeira,Vinhas Velhas 2019,Dão ,4.2,127,24.25,2019
+222,Portugal,Tinto,Beyra,Grande Reserva 2019,Beira Interior ,4.2,100,30.99,2019
+223,Portugal,Tinto,Niepoort,Douro Tiara Branco 2020,Douro ,4.2,97,19.84,2020
+224,Portugal,Tinto,Quinta da Foz,Grande Reserva 2017,Douro ,4.2,97,56.99,2017
+225,Portugal,Tinto,Lima Mayer,2 Tintos 2013,Alentejano ,4.2,85,57.99,2013
+226,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2019,Borba ,4.2,63,27.99,2019
+227,Portugal,Tinto,Quinta do Vale Meão,Monte Meão Vinha dos Novos 2019,Douro ,4.2,63,18.9,2019
+228,Portugal,Tinto,Sandeman,Quinta do Seixo Vintage Port 2013,Porto ,4.2,61,35.86,2013
+229,Portugal,Tinto,Sandeman,Vintage Port 2016,Porto ,4.2,48,76.17,2016
+230,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2019,Douro ,4.2,45,82.4,2019
+231,Portugal,Tinto,António Saramago,Reserva Branco 2016,Península de Setúbal ,4.2,33,22.99,2016
+232,Portugal,Tinto,Filipa Pato,Nossa Calcário 2021,Bairrada ,4.2,26,35.65,2021
+233,Portugal,Tinto,Filipa Pato,Nossa Calcário Branco 2021,Beiras ,4.2,25,24.2,2021
+234,Portugal,Tinto,Anselmo Mendes,Expressoes 2019,Monção e Melgaço ,4.2,25,24.0,2019
+235,Portugal,Tinto,Fonseca,10 Year Old Tawny Port N.V.,Porto ,4.1,3115,27.68,N.V.
+236,Portugal,Tinto,Ramos Pinto,Quinta de Ervamoira 10 Year Old Tawny Port N.V.,Porto ,4.1,3951,34.05,N.V.
+237,Portugal,Tinto,Taylor's,10 Year Old Tawny Port N.V.,Porto ,4.1,12642,23.8,N.V.
+238,Portugal,Tinto,Sandeman,10 Years Old Tawny Porto N.V.,Porto ,4.1,3065,25.49,N.V.
+239,Portugal,Tinto,Ramos Pinto,Duas Quintas Tinto 2019,Douro ,4.1,2696,12.55,2019
+240,Portugal,Tinto,Soalheiro,Alvarinho 2021,Monção e Melgaço ,4.1,2456,12.85,2021
+241,Portugal,Tinto,Quinta do Crasto,Crasto Superior Red 2018,Douro ,4.1,2113,15.61,2018
+242,Portugal,Tinto,Soalheiro,Granit Alvarinho 2021,Monção e Melgaço ,4.1,1397,12.77,2021
+243,Portugal,Tinto,Ramos Pinto,Porto Reserva Adriano Branco N.V.,Porto ,4.1,1384,16.76,N.V.
+244,Portugal,Tinto,Quinta de La Rosa,Tonel 12 10 Years Old Tawny Port N.V.,Porto ,4.1,870,29.1,N.V.
+245,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2018,Duriense ,4.1,728,16.5,2018
+246,Portugal,Tinto,Niepoort,Douro Vertente Tinto 2019,Douro ,4.1,693,18.95,2019
+247,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2019,Duriense ,4.1,691,18.5,2019
+248,Portugal,Tinto,Justino's Madeira,Malvasia 10 Years Old Madeira N.V.,Madeira ,4.1,487,30.31,N.V.
+249,Portugal,Tinto,Soalheiro,Primeiras Vinhas Alvarinho 2021,Monção e Melgaço ,4.1,465,16.84,2021
+250,Portugal,Tinto,Cartuxa,Pêra-Manca Tinto 2015,Alentejo ,4.7,969,362.85,2015
+251,Portugal,Tinto,Já Te Disse,Alicante Bouschet 2020,Alentejo ,4.7,28,89.99,2020
+252,Portugal,Tinto,W. & J. Graham's,40 Year Old Tawny Port N.V.,Porto ,4.6,2259,140.63,N.V.
+253,Portugal,Tinto,Quinta do Noval,40 Year Old Tawny Port N.V.,Porto ,4.6,757,140.51,N.V.
+254,Portugal,Tinto,Quinta do Noval,Vintage Port 2019,Porto ,4.6,57,170.4,2019
+255,Portugal,Tinto,Lima Mayer,Petit Verdot 2015,Alentejano ,4.5,37,79.99,2015
+256,Portugal,Tinto,Casa Ferreirinha,Quinta da Leda Douro 2017,Douro ,4.5,1146,42.57,2017
+257,Portugal,Tinto,Ramos Pinto,30 Year Old Tawny Port N.V.,Porto ,4.5,1088,94.76,N.V.
+258,Portugal,Tinto,Cartuxa,Pêra-Manca Branco 2020,Evora ,4.5,321,63.39,2020
+259,Portugal,Tinto,Titan of Douro,Vale dos Mil Single Vineyard Tinto 2017,Douro ,4.5,292,35.99,2017
+260,Portugal,Tinto,Quinta do Noval,Vintage Port 2003,Porto ,4.5,177,156.35,2003
+261,Portugal,Tinto,Quinta do Zambujeiro,Zambujeiro 2017,Borba ,4.5,124,50.99,2017
+262,Portugal,Tinto,W. & J. Graham's,30 Year Old Tawny Port N.V.,Porto ,4.5,3429,84.95,N.V.
+263,Portugal,Tinto,Vinha das Virtudes,Humanitas Reserva Syrah 2018,Alentejano ,4.5,76,34.99,2018
+264,Portugal,Tinto,Quinta da Furada,Pata d'Urso Tinto 2017,Douro ,4.5,75,47.99,2017
+265,Portugal,Tinto,Quinta da Sequeira,Grande Reserva Tinto 2017,Douro ,4.5,92,64.99,2017
+266,Portugal,Tinto,W. & J. Graham's,20 Year Old Tawny Port N.V.,Porto ,4.4,12331,54.95,N.V.
+267,Portugal,Tinto,Ramos Pinto,Quinta do Bom Retiro 20 Year Old Tawny Porto N.V.,Porto ,4.4,2921,71.15,N.V.
+268,Portugal,Tinto,Bacalhôa,Península de Setúbal Palácio da Bacalhôa Tinto 2014,Península de Setúbal ,4.4,2004,52.99,2014
+269,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2019,Douro ,4.4,951,28.81,2019
+270,Portugal,Tinto,W. & J. Graham's,Vintage Port 2000,Porto ,4.4,810,125.61,2000
+271,Portugal,Tinto,Anselmo Mendes,Parcela Única Escolha 2018,Monção e Melgaço ,4.4,470,33.9,2018
+272,Portugal,Tinto,Quinta do Carmo,Reserva Tinto 2014,Alentejano ,4.4,360,52.99,2014
+273,Portugal,Tinto,Esporão,Esporão Private Selection Tinto 2016,Alentejo ,4.4,290,61.8,2016
+274,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2020,Douro ,4.4,123,32.15,2020
+275,Portugal,Tinto,Quinta do Noval,Vintage Port 2015,Porto ,4.4,105,156.98,2015
+276,Portugal,Tinto,Quinta de Santiago,Sou Alvarinho 2018,Monção e Melgaço ,4.4,66,29.9,2018
+277,Portugal,Tinto,Textura,Pura 2019,Dão ,4.4,47,32.5,2019
+278,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2017,Borba ,4.3,234,46.99,2017
+279,Portugal,Tinto,Fonseca,20 Year Old Tawny Port N.V.,Porto ,4.3,2487,54.52,N.V.
+280,Portugal,Tinto,Dow's,20 Years Old Tawny Port N.V.,Porto ,4.3,2007,47.9,N.V.
+281,Portugal,Tinto,Quinta do Noval,20 Year Old Tawny Port N.V.,Porto ,4.3,1453,84.91,N.V.
+282,Portugal,Tinto,Niepoort,Porto 20 Years Old Tawny N.V.,Porto ,4.3,1148,61.45,N.V.
+283,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2016,Douro ,4.3,642,79.98,2016
+284,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 1990,Porto ,4.3,310,47.3,1990
+285,Portugal,Tinto,Niepoort,Douro Charme Tinto 2017,Douro ,4.3,297,79.98,2017
+286,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2017,Douro ,4.3,269,79.82,2017
+287,Portugal,Tinto,Taylor's,20 Year Old Tawny Port N.V.,Porto ,4.3,8969,49.35,N.V.
+288,Portugal,Tinto,Quinta do Infantado,Tawny Porto 20 Years Old N.V.,Porto ,4.3,193,41.99,N.V.
+289,Portugal,Tinto,Fonseca,Vintage Port 2003,Porto ,4.3,174,111.01,2003
+290,Portugal,Tinto,Fonseca,Vintage Port 2009,Porto ,4.3,174,98.0,2009
+291,Portugal,Tinto,Quinta do Noval,Silval Vintage Port 2003,Porto ,4.3,167,42.3,2003
+292,Portugal,Tinto,Marquês de Marialva,Bical - Arinto Reserva Bruto 2017,Bairrada ,4.3,153,18.99,2017
+293,Portugal,Tinto,Taboadella,Grande Villae Tinto 2019,Dão ,4.3,120,64.99,2019
+294,Portugal,Tinto,Quinta do Crasto,Vintage Port 2017,Porto ,4.3,98,41.93,2017
+295,Portugal,Tinto,Casa de Santar,Branco De Curtimenta 2019,Dão ,4.3,90,24.99,2019
+296,Portugal,Tinto,Lima Mayer,Reserva 2015,Alentejano ,4.3,79,57.99,2015
+297,Portugal,Tinto,Esporão,Esporão Private Selection Branco 2020,Alentejo ,4.3,77,32.95,2020
+298,Portugal,Tinto,Rui Roboredo Madeira,Douro Tinto 2017,Douro ,4.3,57,38.99,2017
+299,Portugal,Tinto,Niepoort,Douro Charme Tinto 2020,Douro ,4.3,54,75.0,2020
+300,Portugal,Tinto,Niepoort,Douro Reserva Redoma Branco 2021,Douro ,4.3,53,41.7,2021
+301,Portugal,Tinto,Giroflé,Arquivo Tinto 2017,Douro ,4.3,45,49.99,2017
+302,Portugal,Tinto,Já Te Disse,Branco 2020,Alentejo ,4.3,26,40.99,2020
+303,Portugal,Tinto,Taboadella,Reserva Encruzado 2021,Dão ,4.2,473,31.99,2021
+304,Portugal,Tinto,Esporão,Esporão Reserva Tinto 2019,Alentejo ,4.2,3306,16.73,2019
+305,Portugal,Tinto,Esporão,Esporão Reserva Branco 2020,Alentejo ,4.2,2193,14.29,2020
+306,Portugal,Tinto,Andresen,10 Year Old White Port N.V.,Porto ,4.2,1934,16.88,N.V.
+307,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Douro Tinto (Colheita Unoaked) 2020,Douro ,4.2,1545,24.99,2020
+308,Portugal,Tinto,Casa de Santar,Dão Reserva 2015,Dão ,4.2,1382,34.99,2015
+309,Portugal,Tinto,Justino's Madeira,Colheita Madeira N.V.,Madeira ,4.2,1249,44.07,N.V.
+310,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Grainha Reserva 2020,Douro ,4.2,903,29.99,2020
+311,Portugal,Tinto,Esporão,Esporão Reserva Branco 2021,Alentejo ,4.2,700,15.3,2021
+312,Portugal,Tinto,W. & J. Graham's,10 Year Old Tawny Port N.V.,Porto ,4.2,16231,28.76,N.V.
+313,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Reserva Terroir Blend 2020,Douro ,4.2,422,31.99,2020
+314,Portugal,Tinto,Niepoort,Douro Redoma Branco 2021,Douro ,4.2,325,22.4,2021
+315,Portugal,Tinto,Quinta do Zambujeiro,Monte do Zambujeiro 2018,Borba ,4.2,294,16.99,2018
+316,Portugal,Tinto,José Maria da Fonseca,José de Sousa Mayor Alentejano 2017,Alentejano ,4.2,266,28.8,2017
+317,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 2000,Porto ,4.2,213,36.3,2000
+318,Portugal,Tinto,Casa de Santar,Dão Reserva Branco 2018,Dão ,4.2,148,20.99,2018
+319,Portugal,Tinto,Anselmo Mendes,Muros de Melgaço Alvarinho 2021,Monção e Melgaço ,4.2,145,17.95,2021
+320,Portugal,Tinto,Niepoort,Douro Charme Tinto 2019,Douro ,4.2,135,75.0,2019
+321,Portugal,Tinto,Antonio Madeira,Vinhas Velhas 2019,Dão ,4.2,127,24.25,2019
+322,Portugal,Tinto,Beyra,Grande Reserva 2019,Beira Interior ,4.2,100,30.99,2019
+323,Portugal,Tinto,Niepoort,Douro Tiara Branco 2020,Douro ,4.2,97,19.84,2020
+324,Portugal,Tinto,Quinta da Foz,Grande Reserva 2017,Douro ,4.2,97,56.99,2017
+325,Portugal,Tinto,Lima Mayer,2 Tintos 2013,Alentejano ,4.2,85,57.99,2013
+326,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2019,Borba ,4.2,63,27.99,2019
+327,Portugal,Tinto,Quinta do Vale Meão,Monte Meão Vinha dos Novos 2019,Douro ,4.2,63,18.9,2019
+328,Portugal,Tinto,Sandeman,Quinta do Seixo Vintage Port 2013,Porto ,4.2,61,35.86,2013
+329,Portugal,Tinto,Sandeman,Vintage Port 2016,Porto ,4.2,48,76.17,2016
+330,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2019,Douro ,4.2,45,82.4,2019
+331,Portugal,Tinto,António Saramago,Reserva Branco 2016,Península de Setúbal ,4.2,33,22.99,2016
+332,Portugal,Tinto,Filipa Pato,Nossa Calcário 2021,Bairrada ,4.2,26,35.65,2021
+333,Portugal,Tinto,Filipa Pato,Nossa Calcário Branco 2021,Beiras ,4.2,25,24.2,2021
+334,Portugal,Tinto,Anselmo Mendes,Expressoes 2019,Monção e Melgaço ,4.2,25,24.0,2019
+335,Portugal,Tinto,Fonseca,10 Year Old Tawny Port N.V.,Porto ,4.1,3115,27.68,N.V.
+336,Portugal,Tinto,Ramos Pinto,Quinta de Ervamoira 10 Year Old Tawny Port N.V.,Porto ,4.1,3951,34.05,N.V.
+337,Portugal,Tinto,Taylor's,10 Year Old Tawny Port N.V.,Porto ,4.1,12642,23.8,N.V.
+338,Portugal,Tinto,Sandeman,10 Years Old Tawny Porto N.V.,Porto ,4.1,3065,25.49,N.V.
+339,Portugal,Tinto,Ramos Pinto,Duas Quintas Tinto 2019,Douro ,4.1,2696,12.55,2019
+340,Portugal,Tinto,Soalheiro,Alvarinho 2021,Monção e Melgaço ,4.1,2456,12.85,2021
+341,Portugal,Tinto,Quinta do Crasto,Crasto Superior Red 2018,Douro ,4.1,2113,15.61,2018
+342,Portugal,Tinto,Soalheiro,Granit Alvarinho 2021,Monção e Melgaço ,4.1,1397,12.77,2021
+343,Portugal,Tinto,Ramos Pinto,Porto Reserva Adriano Branco N.V.,Porto ,4.1,1384,16.76,N.V.
+344,Portugal,Tinto,Quinta de La Rosa,Tonel 12 10 Years Old Tawny Port N.V.,Porto ,4.1,870,29.1,N.V.
+345,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2018,Duriense ,4.1,728,16.5,2018
+346,Portugal,Tinto,Niepoort,Douro Vertente Tinto 2019,Douro ,4.1,693,18.95,2019
+347,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2019,Duriense ,4.1,691,18.5,2019
+348,Portugal,Tinto,Justino's Madeira,Malvasia 10 Years Old Madeira N.V.,Madeira ,4.1,487,30.31,N.V.
+349,Portugal,Tinto,Soalheiro,Primeiras Vinhas Alvarinho 2021,Monção e Melgaço ,4.1,465,16.84,2021
+350,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Pomares Tinto 2020,Douro ,4.1,447,22.99,2020
+351,Portugal,Tinto,Quinta do Zambujeiro,Monte do Zambujeiro 2017,Borba ,4.1,421,26.99,2017
+352,Portugal,Tinto,Quinta da Alorna,Marquesa de Alorna Grande Reserva Branco 2013,Tejo ,4.1,375,31.99,2013
+353,Portugal,Tinto,Soalheiro,Terramatter Alvarinho 2019,Monção e Melgaço ,4.1,355,16.72,2019
+354,Portugal,Tinto,Castello d'Alba,Douro Vinhas Velhas Grande Reserva 2017,Douro ,4.1,350,28.99,2017
+355,Portugal,Tinto,Croft,Tawny Port 20 Year Old N.V.,Porto ,4.1,338,44.6,N.V.
+356,Portugal,Tinto,Quinta de Baixo,Poeirinho Baga 2017,Bairrada ,4.1,324,34.67,2017
+357,Portugal,Tinto,Taboadella,Reserva Jaen 2019,Dão ,4.1,320,31.99,2019
+358,Portugal,Tinto,Quinta do Crasto,Crasto Superior Branco 2020,Douro ,4.1,289,13.67,2020
+359,Portugal,Tinto,Quinta do Noval,Late Bottled Vintage Unfiltered Port 2016,Porto ,4.1,269,23.15,2016
+360,Portugal,Tinto,Ramos Pinto,Douro Duas Quintas Branco 2021,Douro ,4.1,256,12.3,2021
+361,Portugal,Tinto,Warre's,Quinta da Cavadinha Vintage Port 2004,Porto ,4.1,214,46.71,2004
+362,Portugal,Tinto,Quinta da Sequeira,Reserva Tinto 2019,Douro ,4.1,180,21.99,2019
+363,Portugal,Tinto,António Saramago,Reserva Tinto 2014,Península de Setúbal ,4.1,161,22.99,2014
+364,Portugal,Tinto,Quinta da Alorna,Marquesa de Alorna Grande Reserva Tinto 2012,Tejo ,4.1,151,31.99,2012
+365,Portugal,Tinto,Warre's,Quinta da Cavadinha Vintage Port 2005,Porto ,4.1,138,48.0,2005
+366,Portugal,Tinto,Quinta do Carmo,Tinto 2018,Alentejano ,4.1,135,27.99,2018
+367,Portugal,Tinto,Croft,Quinta da Roeda Vintage Port 2012,Porto ,4.1,129,39.0,2012
+368,Portugal,Tinto,Fonseca,Guimaraens Vintage Port 2015,Porto ,4.1,125,49.0,2015
+369,Portugal,Tinto,Quinta do Covao,Reserva Touriga Nacional 2017,Dão ,4.1,105,57.99,2017
+370,Portugal,Tinto,Quinta do Noval,Touriga Nacional Douro 2014,Douro ,4.1,102,30.75,2014
+371,Portugal,Tinto,Dom Ponciano,Alvarinho 2018,Monção e Melgaço ,4.1,99,17.99,2018
+372,Portugal,Tinto,Textura,Textura da Estrela Tinto 2019,Dão ,4.1,98,20.0,2019
+373,Portugal,Tinto,Fafide,Reserva Branco 2020,Douro ,4.1,97,16.99,2020
+374,Portugal,Tinto,Quinta da Sequeira,Tinto 2018,Douro ,4.1,97,25.99,2018
+375,Portugal,Tinto,Cartuxa,Pêra-Manca Tinto 2015,Alentejo ,4.7,969,362.85,2015
+376,Portugal,Tinto,Já Te Disse,Alicante Bouschet 2020,Alentejo ,4.7,28,89.99,2020
+377,Portugal,Tinto,W. & J. Graham's,40 Year Old Tawny Port N.V.,Porto ,4.6,2259,140.63,N.V.
+378,Portugal,Tinto,Quinta do Noval,40 Year Old Tawny Port N.V.,Porto ,4.6,757,140.51,N.V.
+379,Portugal,Tinto,Quinta do Noval,Vintage Port 2019,Porto ,4.6,57,170.4,2019
+380,Portugal,Tinto,Lima Mayer,Petit Verdot 2015,Alentejano ,4.5,37,79.99,2015
+381,Portugal,Tinto,Casa Ferreirinha,Quinta da Leda Douro 2017,Douro ,4.5,1146,42.57,2017
+382,Portugal,Tinto,Ramos Pinto,30 Year Old Tawny Port N.V.,Porto ,4.5,1088,94.76,N.V.
+383,Portugal,Tinto,Cartuxa,Pêra-Manca Branco 2020,Evora ,4.5,321,63.39,2020
+384,Portugal,Tinto,Titan of Douro,Vale dos Mil Single Vineyard Tinto 2017,Douro ,4.5,292,35.99,2017
+385,Portugal,Tinto,Quinta do Noval,Vintage Port 2003,Porto ,4.5,177,156.35,2003
+386,Portugal,Tinto,Quinta do Zambujeiro,Zambujeiro 2017,Borba ,4.5,124,50.99,2017
+387,Portugal,Tinto,W. & J. Graham's,30 Year Old Tawny Port N.V.,Porto ,4.5,3429,84.95,N.V.
+388,Portugal,Tinto,Vinha das Virtudes,Humanitas Reserva Syrah 2018,Alentejano ,4.5,76,34.99,2018
+389,Portugal,Tinto,Quinta da Furada,Pata d'Urso Tinto 2017,Douro ,4.5,75,47.99,2017
+390,Portugal,Tinto,Quinta da Sequeira,Grande Reserva Tinto 2017,Douro ,4.5,92,64.99,2017
+391,Portugal,Tinto,W. & J. Graham's,20 Year Old Tawny Port N.V.,Porto ,4.4,12331,54.95,N.V.
+392,Portugal,Tinto,Ramos Pinto,Quinta do Bom Retiro 20 Year Old Tawny Porto N.V.,Porto ,4.4,2921,71.15,N.V.
+393,Portugal,Tinto,Bacalhôa,Península de Setúbal Palácio da Bacalhôa Tinto 2014,Península de Setúbal ,4.4,2004,52.99,2014
+394,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2019,Douro ,4.4,951,28.81,2019
+395,Portugal,Tinto,W. & J. Graham's,Vintage Port 2000,Porto ,4.4,810,125.61,2000
+396,Portugal,Tinto,Anselmo Mendes,Parcela Única Escolha 2018,Monção e Melgaço ,4.4,470,33.9,2018
+397,Portugal,Tinto,Quinta do Carmo,Reserva Tinto 2014,Alentejano ,4.4,360,52.99,2014
+398,Portugal,Tinto,Esporão,Esporão Private Selection Tinto 2016,Alentejo ,4.4,290,61.8,2016
+399,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2020,Douro ,4.4,123,32.15,2020
+400,Portugal,Tinto,Quinta do Noval,Vintage Port 2015,Porto ,4.4,105,156.98,2015
+401,Portugal,Tinto,Quinta de Santiago,Sou Alvarinho 2018,Monção e Melgaço ,4.4,66,29.9,2018
+402,Portugal,Tinto,Textura,Pura 2019,Dão ,4.4,47,32.5,2019
+403,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2017,Borba ,4.3,234,46.99,2017
+404,Portugal,Tinto,Fonseca,20 Year Old Tawny Port N.V.,Porto ,4.3,2487,54.52,N.V.
+405,Portugal,Tinto,Dow's,20 Years Old Tawny Port N.V.,Porto ,4.3,2007,47.9,N.V.
+406,Portugal,Tinto,Quinta do Noval,20 Year Old Tawny Port N.V.,Porto ,4.3,1453,84.91,N.V.
+407,Portugal,Tinto,Niepoort,Porto 20 Years Old Tawny N.V.,Porto ,4.3,1148,61.45,N.V.
+408,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2016,Douro ,4.3,642,79.98,2016
+409,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 1990,Porto ,4.3,310,47.3,1990
+410,Portugal,Tinto,Niepoort,Douro Charme Tinto 2017,Douro ,4.3,297,79.98,2017
+411,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2017,Douro ,4.3,269,79.82,2017
+412,Portugal,Tinto,Taylor's,20 Year Old Tawny Port N.V.,Porto ,4.3,8969,49.35,N.V.
+413,Portugal,Tinto,Quinta do Infantado,Tawny Porto 20 Years Old N.V.,Porto ,4.3,193,41.99,N.V.
+414,Portugal,Tinto,Fonseca,Vintage Port 2003,Porto ,4.3,174,111.01,2003
+415,Portugal,Tinto,Fonseca,Vintage Port 2009,Porto ,4.3,174,98.0,2009
+416,Portugal,Tinto,Quinta do Noval,Silval Vintage Port 2003,Porto ,4.3,167,42.3,2003
+417,Portugal,Tinto,Marquês de Marialva,Bical - Arinto Reserva Bruto 2017,Bairrada ,4.3,153,18.99,2017
+418,Portugal,Tinto,Taboadella,Grande Villae Tinto 2019,Dão ,4.3,120,64.99,2019
+419,Portugal,Tinto,Quinta do Crasto,Vintage Port 2017,Porto ,4.3,98,41.93,2017
+420,Portugal,Tinto,Casa de Santar,Branco De Curtimenta 2019,Dão ,4.3,90,24.99,2019
+421,Portugal,Tinto,Lima Mayer,Reserva 2015,Alentejano ,4.3,79,57.99,2015
+422,Portugal,Tinto,Esporão,Esporão Private Selection Branco 2020,Alentejo ,4.3,77,32.95,2020
+423,Portugal,Tinto,Rui Roboredo Madeira,Douro Tinto 2017,Douro ,4.3,57,38.99,2017
+424,Portugal,Tinto,Niepoort,Douro Charme Tinto 2020,Douro ,4.3,54,75.0,2020
+425,Portugal,Tinto,Niepoort,Douro Reserva Redoma Branco 2021,Douro ,4.3,53,41.7,2021
+426,Portugal,Tinto,Giroflé,Arquivo Tinto 2017,Douro ,4.3,45,49.99,2017
+427,Portugal,Tinto,Já Te Disse,Branco 2020,Alentejo ,4.3,26,40.99,2020
+428,Portugal,Tinto,Taboadella,Reserva Encruzado 2021,Dão ,4.2,473,31.99,2021
+429,Portugal,Tinto,Esporão,Esporão Reserva Tinto 2019,Alentejo ,4.2,3306,16.73,2019
+430,Portugal,Tinto,Esporão,Esporão Reserva Branco 2020,Alentejo ,4.2,2193,14.29,2020
+431,Portugal,Tinto,Andresen,10 Year Old White Port N.V.,Porto ,4.2,1934,16.88,N.V.
+432,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Douro Tinto (Colheita Unoaked) 2020,Douro ,4.2,1545,24.99,2020
+433,Portugal,Tinto,Casa de Santar,Dão Reserva 2015,Dão ,4.2,1382,34.99,2015
+434,Portugal,Tinto,Justino's Madeira,Colheita Madeira N.V.,Madeira ,4.2,1249,44.07,N.V.
+435,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Grainha Reserva 2020,Douro ,4.2,903,29.99,2020
+436,Portugal,Tinto,Esporão,Esporão Reserva Branco 2021,Alentejo ,4.2,700,15.3,2021
+437,Portugal,Tinto,W. & J. Graham's,10 Year Old Tawny Port N.V.,Porto ,4.2,16231,28.76,N.V.
+438,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Reserva Terroir Blend 2020,Douro ,4.2,422,31.99,2020
+439,Portugal,Tinto,Niepoort,Douro Redoma Branco 2021,Douro ,4.2,325,22.4,2021
+440,Portugal,Tinto,Quinta do Zambujeiro,Monte do Zambujeiro 2018,Borba ,4.2,294,16.99,2018
+441,Portugal,Tinto,José Maria da Fonseca,José de Sousa Mayor Alentejano 2017,Alentejano ,4.2,266,28.8,2017
+442,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 2000,Porto ,4.2,213,36.3,2000
+443,Portugal,Tinto,Casa de Santar,Dão Reserva Branco 2018,Dão ,4.2,148,20.99,2018
+444,Portugal,Tinto,Anselmo Mendes,Muros de Melgaço Alvarinho 2021,Monção e Melgaço ,4.2,145,17.95,2021
+445,Portugal,Tinto,Niepoort,Douro Charme Tinto 2019,Douro ,4.2,135,75.0,2019
+446,Portugal,Tinto,Antonio Madeira,Vinhas Velhas 2019,Dão ,4.2,127,24.25,2019
+447,Portugal,Tinto,Beyra,Grande Reserva 2019,Beira Interior ,4.2,100,30.99,2019
+448,Portugal,Tinto,Niepoort,Douro Tiara Branco 2020,Douro ,4.2,97,19.84,2020
+449,Portugal,Tinto,Quinta da Foz,Grande Reserva 2017,Douro ,4.2,97,56.99,2017
+450,Portugal,Tinto,Lima Mayer,2 Tintos 2013,Alentejano ,4.2,85,57.99,2013
+451,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2019,Borba ,4.2,63,27.99,2019
+452,Portugal,Tinto,Quinta do Vale Meão,Monte Meão Vinha dos Novos 2019,Douro ,4.2,63,18.9,2019
+453,Portugal,Tinto,Sandeman,Quinta do Seixo Vintage Port 2013,Porto ,4.2,61,35.86,2013
+454,Portugal,Tinto,Sandeman,Vintage Port 2016,Porto ,4.2,48,76.17,2016
+455,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2019,Douro ,4.2,45,82.4,2019
+456,Portugal,Tinto,António Saramago,Reserva Branco 2016,Península de Setúbal ,4.2,33,22.99,2016
+457,Portugal,Tinto,Filipa Pato,Nossa Calcário 2021,Bairrada ,4.2,26,35.65,2021
+458,Portugal,Tinto,Filipa Pato,Nossa Calcário Branco 2021,Beiras ,4.2,25,24.2,2021
+459,Portugal,Tinto,Anselmo Mendes,Expressoes 2019,Monção e Melgaço ,4.2,25,24.0,2019
+460,Portugal,Tinto,Fonseca,10 Year Old Tawny Port N.V.,Porto ,4.1,3115,27.68,N.V.
+461,Portugal,Tinto,Ramos Pinto,Quinta de Ervamoira 10 Year Old Tawny Port N.V.,Porto ,4.1,3951,34.05,N.V.
+462,Portugal,Tinto,Taylor's,10 Year Old Tawny Port N.V.,Porto ,4.1,12642,23.8,N.V.
+463,Portugal,Tinto,Sandeman,10 Years Old Tawny Porto N.V.,Porto ,4.1,3065,25.49,N.V.
+464,Portugal,Tinto,Ramos Pinto,Duas Quintas Tinto 2019,Douro ,4.1,2696,12.55,2019
+465,Portugal,Tinto,Soalheiro,Alvarinho 2021,Monção e Melgaço ,4.1,2456,12.85,2021
+466,Portugal,Tinto,Quinta do Crasto,Crasto Superior Red 2018,Douro ,4.1,2113,15.61,2018
+467,Portugal,Tinto,Soalheiro,Granit Alvarinho 2021,Monção e Melgaço ,4.1,1397,12.77,2021
+468,Portugal,Tinto,Ramos Pinto,Porto Reserva Adriano Branco N.V.,Porto ,4.1,1384,16.76,N.V.
+469,Portugal,Tinto,Quinta de La Rosa,Tonel 12 10 Years Old Tawny Port N.V.,Porto ,4.1,870,29.1,N.V.
+470,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2018,Duriense ,4.1,728,16.5,2018
+471,Portugal,Tinto,Niepoort,Douro Vertente Tinto 2019,Douro ,4.1,693,18.95,2019
+472,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2019,Duriense ,4.1,691,18.5,2019
+473,Portugal,Tinto,Justino's Madeira,Malvasia 10 Years Old Madeira N.V.,Madeira ,4.1,487,30.31,N.V.
+474,Portugal,Tinto,Soalheiro,Primeiras Vinhas Alvarinho 2021,Monção e Melgaço ,4.1,465,16.84,2021
+475,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Pomares Tinto 2020,Douro ,4.1,447,22.99,2020
+476,Portugal,Tinto,Quinta do Zambujeiro,Monte do Zambujeiro 2017,Borba ,4.1,421,26.99,2017
+477,Portugal,Tinto,Quinta da Alorna,Marquesa de Alorna Grande Reserva Branco 2013,Tejo ,4.1,375,31.99,2013
+478,Portugal,Tinto,Soalheiro,Terramatter Alvarinho 2019,Monção e Melgaço ,4.1,355,16.72,2019
+479,Portugal,Tinto,Castello d'Alba,Douro Vinhas Velhas Grande Reserva 2017,Douro ,4.1,350,28.99,2017
+480,Portugal,Tinto,Croft,Tawny Port 20 Year Old N.V.,Porto ,4.1,338,44.6,N.V.
+481,Portugal,Tinto,Quinta de Baixo,Poeirinho Baga 2017,Bairrada ,4.1,324,34.67,2017
+482,Portugal,Tinto,Taboadella,Reserva Jaen 2019,Dão ,4.1,320,31.99,2019
+483,Portugal,Tinto,Quinta do Crasto,Crasto Superior Branco 2020,Douro ,4.1,289,13.67,2020
+484,Portugal,Tinto,Quinta do Noval,Late Bottled Vintage Unfiltered Port 2016,Porto ,4.1,269,23.15,2016
+485,Portugal,Tinto,Ramos Pinto,Douro Duas Quintas Branco 2021,Douro ,4.1,256,12.3,2021
+486,Portugal,Tinto,Warre's,Quinta da Cavadinha Vintage Port 2004,Porto ,4.1,214,46.71,2004
+487,Portugal,Tinto,Quinta da Sequeira,Reserva Tinto 2019,Douro ,4.1,180,21.99,2019
+488,Portugal,Tinto,António Saramago,Reserva Tinto 2014,Península de Setúbal ,4.1,161,22.99,2014
+489,Portugal,Tinto,Quinta da Alorna,Marquesa de Alorna Grande Reserva Tinto 2012,Tejo ,4.1,151,31.99,2012
+490,Portugal,Tinto,Warre's,Quinta da Cavadinha Vintage Port 2005,Porto ,4.1,138,48.0,2005
+491,Portugal,Tinto,Quinta do Carmo,Tinto 2018,Alentejano ,4.1,135,27.99,2018
+492,Portugal,Tinto,Croft,Quinta da Roeda Vintage Port 2012,Porto ,4.1,129,39.0,2012
+493,Portugal,Tinto,Fonseca,Guimaraens Vintage Port 2015,Porto ,4.1,125,49.0,2015
+494,Portugal,Tinto,Quinta do Covao,Reserva Touriga Nacional 2017,Dão ,4.1,105,57.99,2017
+495,Portugal,Tinto,Quinta do Noval,Touriga Nacional Douro 2014,Douro ,4.1,102,30.75,2014
+496,Portugal,Tinto,Dom Ponciano,Alvarinho 2018,Monção e Melgaço ,4.1,99,17.99,2018
+497,Portugal,Tinto,Textura,Textura da Estrela Tinto 2019,Dão ,4.1,98,20.0,2019
+498,Portugal,Tinto,Fafide,Reserva Branco 2020,Douro ,4.1,97,16.99,2020
+499,Portugal,Tinto,Quinta da Sequeira,Tinto 2018,Douro ,4.1,97,25.99,2018
+500,Portugal,Tinto,Quinta da Pedra Escrita,Branco 2020,Douro ,4.1,94,20.99,2020
+501,Portugal,Tinto,Quinta do Infantado,Douro Reserva 2016,Douro ,4.1,89,31.99,2016
+502,Portugal,Tinto,Niepoort,Redoma Rosé 2020,Douro ,4.1,86,13.65,2020
+503,Portugal,Tinto,Tiago Teles,COZs de Montexuntos Pop Branco 2020,Lisboa ,4.1,83,14.45,2020
+504,Portugal,Tinto,Ramos Pinto,Vintage Porto 1997,Porto ,4.1,78,105.0,1997
+505,Portugal,Tinto,Quinta do Infantado,Douro Roseira 2013,Douro ,4.1,77,24.99,2013
+506,Portugal,Tinto,Arribas do Douro,Reserva Tinto 2015,Douro ,4.1,73,20.99,2015
+507,Portugal,Tinto,Fonseca,Guimaraens Vintage Port 2012,Porto ,4.1,71,49.0,2012
+508,Portugal,Tinto,Taboadella,Reserva Alfrocheiro 2020,Dão ,4.1,66,31.99,2020
+509,Portugal,Tinto,Soalheiro,Alvarinho 2022,Monção e Melgaço ,4.1,64,12.49,2022
+510,Portugal,Tinto,Quinta da Sequeira,Branco 2021,Douro ,4.1,60,23.99,2021
+511,Portugal,Tinto,Aphros,Pan Rosé 2014,Vinho verde ,4.1,49,15.45,2014
+512,Portugal,Tinto,Bonifacio,Património Colheita Selecionada 2017,Lisboa ,4.1,48,20.99,2017
+513,Portugal,Tinto,Côrte,Branco 2021,Douro ,4.1,48,25.99,2021
+514,Portugal,Tinto,Antonio Madeira,A Palheira 2018,Dão ,4.1,45,32.45,2018
+515,Portugal,Tinto,Fento,La Galaxia Rosado 2020,Dão ,4.1,40,10.55,2020
+516,Portugal,Tinto,Quinta da Sequeira,Special Reserve Porto N.V.,Porto ,4.1,37,20.99,N.V.
+517,Portugal,Tinto,Adega do Sôr,Herdade da Barroqueira Tinto 2019,Alentejano ,4.1,37,14.99,2019
+518,Portugal,Tinto,Anselmo Mendes,Private Loureiro 2020,Monção e Melgaço ,4.1,35,29.35,2020
+519,Portugal,Tinto,Tiago Teles,COZs de Montexuntos Pop Branco 2021,Lisboa ,4.1,35,18.4,2021
+520,Portugal,Tinto,Croft,Quinta da Roeda Vintage Port 2018,Porto ,4.1,34,36.0,2018
+521,Portugal,Tinto,Herdade da Farizoa,Reserva 2017,Alentejo ,4.1,32,20.5,2017
+522,Portugal,Tinto,Quinta da Corte,Princesa Reserva Tinto 2020,Douro ,4.1,30,28.99,2020
+523,Portugal,Tinto,Escaravelho,Reserva Tinto 2018,Tejo ,4.1,25,31.99,2018
+524,Portugal,Tinto,Casa Ferreirinha,Papa Figos Douro 2019,Douro ,4.0,10627,8.48,2019
+525,Portugal,Tinto,Cartuxa,Pêra-Manca Tinto 2015,Alentejo ,4.7,969,362.85,2015
+526,Portugal,Tinto,Já Te Disse,Alicante Bouschet 2020,Alentejo ,4.7,28,89.99,2020
+527,Portugal,Tinto,W. & J. Graham's,40 Year Old Tawny Port N.V.,Porto ,4.6,2259,140.63,N.V.
+528,Portugal,Tinto,Quinta do Noval,40 Year Old Tawny Port N.V.,Porto ,4.6,757,140.51,N.V.
+529,Portugal,Tinto,Quinta do Noval,Vintage Port 2019,Porto ,4.6,57,170.4,2019
+530,Portugal,Tinto,Lima Mayer,Petit Verdot 2015,Alentejano ,4.5,37,79.99,2015
+531,Portugal,Tinto,Casa Ferreirinha,Quinta da Leda Douro 2017,Douro ,4.5,1146,42.57,2017
+532,Portugal,Tinto,Ramos Pinto,30 Year Old Tawny Port N.V.,Porto ,4.5,1088,94.76,N.V.
+533,Portugal,Tinto,Cartuxa,Pêra-Manca Branco 2020,Evora ,4.5,321,63.39,2020
+534,Portugal,Tinto,Titan of Douro,Vale dos Mil Single Vineyard Tinto 2017,Douro ,4.5,292,35.99,2017
+535,Portugal,Tinto,Quinta do Noval,Vintage Port 2003,Porto ,4.5,177,156.35,2003
+536,Portugal,Tinto,Quinta do Zambujeiro,Zambujeiro 2017,Borba ,4.5,124,50.99,2017
+537,Portugal,Tinto,W. & J. Graham's,30 Year Old Tawny Port N.V.,Porto ,4.5,3429,84.95,N.V.
+538,Portugal,Tinto,Vinha das Virtudes,Humanitas Reserva Syrah 2018,Alentejano ,4.5,76,34.99,2018
+539,Portugal,Tinto,Quinta da Furada,Pata d'Urso Tinto 2017,Douro ,4.5,75,47.99,2017
+540,Portugal,Tinto,Quinta da Sequeira,Grande Reserva Tinto 2017,Douro ,4.5,92,64.99,2017
+541,Portugal,Tinto,W. & J. Graham's,20 Year Old Tawny Port N.V.,Porto ,4.4,12331,54.95,N.V.
+542,Portugal,Tinto,Ramos Pinto,Quinta do Bom Retiro 20 Year Old Tawny Porto N.V.,Porto ,4.4,2921,71.15,N.V.
+543,Portugal,Tinto,Bacalhôa,Península de Setúbal Palácio da Bacalhôa Tinto 2014,Península de Setúbal ,4.4,2004,52.99,2014
+544,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2019,Douro ,4.4,951,28.81,2019
+545,Portugal,Tinto,W. & J. Graham's,Vintage Port 2000,Porto ,4.4,810,125.61,2000
+546,Portugal,Tinto,Anselmo Mendes,Parcela Única Escolha 2018,Monção e Melgaço ,4.4,470,33.9,2018
+547,Portugal,Tinto,Quinta do Carmo,Reserva Tinto 2014,Alentejano ,4.4,360,52.99,2014
+548,Portugal,Tinto,Esporão,Esporão Private Selection Tinto 2016,Alentejo ,4.4,290,61.8,2016
+549,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2020,Douro ,4.4,123,32.15,2020
+550,Portugal,Tinto,Quinta do Noval,Vintage Port 2015,Porto ,4.4,105,156.98,2015
+551,Portugal,Tinto,Quinta de Santiago,Sou Alvarinho 2018,Monção e Melgaço ,4.4,66,29.9,2018
+552,Portugal,Tinto,Textura,Pura 2019,Dão ,4.4,47,32.5,2019
+553,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2017,Borba ,4.3,234,46.99,2017
+554,Portugal,Tinto,Fonseca,20 Year Old Tawny Port N.V.,Porto ,4.3,2487,54.52,N.V.
+555,Portugal,Tinto,Dow's,20 Years Old Tawny Port N.V.,Porto ,4.3,2007,47.9,N.V.
+556,Portugal,Tinto,Quinta do Noval,20 Year Old Tawny Port N.V.,Porto ,4.3,1453,84.91,N.V.
+557,Portugal,Tinto,Niepoort,Porto 20 Years Old Tawny N.V.,Porto ,4.3,1148,61.45,N.V.
+558,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2016,Douro ,4.3,642,79.98,2016
+559,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 1990,Porto ,4.3,310,47.3,1990
+560,Portugal,Tinto,Niepoort,Douro Charme Tinto 2017,Douro ,4.3,297,79.98,2017
+561,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2017,Douro ,4.3,269,79.82,2017
+562,Portugal,Tinto,Taylor's,20 Year Old Tawny Port N.V.,Porto ,4.3,8969,49.35,N.V.
+563,Portugal,Tinto,Quinta do Infantado,Tawny Porto 20 Years Old N.V.,Porto ,4.3,193,41.99,N.V.
+564,Portugal,Tinto,Fonseca,Vintage Port 2003,Porto ,4.3,174,111.01,2003
+565,Portugal,Tinto,Fonseca,Vintage Port 2009,Porto ,4.3,174,98.0,2009
+566,Portugal,Tinto,Quinta do Noval,Silval Vintage Port 2003,Porto ,4.3,167,42.3,2003
+567,Portugal,Tinto,Marquês de Marialva,Bical - Arinto Reserva Bruto 2017,Bairrada ,4.3,153,18.99,2017
+568,Portugal,Tinto,Taboadella,Grande Villae Tinto 2019,Dão ,4.3,120,64.99,2019
+569,Portugal,Tinto,Quinta do Crasto,Vintage Port 2017,Porto ,4.3,98,41.93,2017
+570,Portugal,Tinto,Casa de Santar,Branco De Curtimenta 2019,Dão ,4.3,90,24.99,2019
+571,Portugal,Tinto,Lima Mayer,Reserva 2015,Alentejano ,4.3,79,57.99,2015
+572,Portugal,Tinto,Esporão,Esporão Private Selection Branco 2020,Alentejo ,4.3,77,32.95,2020
+573,Portugal,Tinto,Rui Roboredo Madeira,Douro Tinto 2017,Douro ,4.3,57,38.99,2017
+574,Portugal,Tinto,Niepoort,Douro Charme Tinto 2020,Douro ,4.3,54,75.0,2020
+575,Portugal,Tinto,Niepoort,Douro Reserva Redoma Branco 2021,Douro ,4.3,53,41.7,2021
+576,Portugal,Tinto,Giroflé,Arquivo Tinto 2017,Douro ,4.3,45,49.99,2017
+577,Portugal,Tinto,Já Te Disse,Branco 2020,Alentejo ,4.3,26,40.99,2020
+578,Portugal,Tinto,Taboadella,Reserva Encruzado 2021,Dão ,4.2,473,31.99,2021
+579,Portugal,Tinto,Esporão,Esporão Reserva Tinto 2019,Alentejo ,4.2,3306,16.73,2019
+580,Portugal,Tinto,Esporão,Esporão Reserva Branco 2020,Alentejo ,4.2,2193,14.29,2020
+581,Portugal,Tinto,Andresen,10 Year Old White Port N.V.,Porto ,4.2,1934,16.88,N.V.
+582,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Douro Tinto (Colheita Unoaked) 2020,Douro ,4.2,1545,24.99,2020
+583,Portugal,Tinto,Casa de Santar,Dão Reserva 2015,Dão ,4.2,1382,34.99,2015
+584,Portugal,Tinto,Justino's Madeira,Colheita Madeira N.V.,Madeira ,4.2,1249,44.07,N.V.
+585,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Grainha Reserva 2020,Douro ,4.2,903,29.99,2020
+586,Portugal,Tinto,Esporão,Esporão Reserva Branco 2021,Alentejo ,4.2,700,15.3,2021
+587,Portugal,Tinto,W. & J. Graham's,10 Year Old Tawny Port N.V.,Porto ,4.2,16231,28.76,N.V.
+588,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Reserva Terroir Blend 2020,Douro ,4.2,422,31.99,2020
+589,Portugal,Tinto,Niepoort,Douro Redoma Branco 2021,Douro ,4.2,325,22.4,2021
+590,Portugal,Tinto,Quinta do Zambujeiro,Monte do Zambujeiro 2018,Borba ,4.2,294,16.99,2018
+591,Portugal,Tinto,José Maria da Fonseca,José de Sousa Mayor Alentejano 2017,Alentejano ,4.2,266,28.8,2017
+592,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 2000,Porto ,4.2,213,36.3,2000
+593,Portugal,Tinto,Casa de Santar,Dão Reserva Branco 2018,Dão ,4.2,148,20.99,2018
+594,Portugal,Tinto,Anselmo Mendes,Muros de Melgaço Alvarinho 2021,Monção e Melgaço ,4.2,145,17.95,2021
+595,Portugal,Tinto,Niepoort,Douro Charme Tinto 2019,Douro ,4.2,135,75.0,2019
+596,Portugal,Tinto,Antonio Madeira,Vinhas Velhas 2019,Dão ,4.2,127,24.25,2019
+597,Portugal,Tinto,Beyra,Grande Reserva 2019,Beira Interior ,4.2,100,30.99,2019
+598,Portugal,Tinto,Niepoort,Douro Tiara Branco 2020,Douro ,4.2,97,19.84,2020
+599,Portugal,Tinto,Quinta da Foz,Grande Reserva 2017,Douro ,4.2,97,56.99,2017
+600,Portugal,Tinto,Lima Mayer,2 Tintos 2013,Alentejano ,4.2,85,57.99,2013
+601,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2019,Borba ,4.2,63,27.99,2019
+602,Portugal,Tinto,Quinta do Vale Meão,Monte Meão Vinha dos Novos 2019,Douro ,4.2,63,18.9,2019
+603,Portugal,Tinto,Sandeman,Quinta do Seixo Vintage Port 2013,Porto ,4.2,61,35.86,2013
+604,Portugal,Tinto,Sandeman,Vintage Port 2016,Porto ,4.2,48,76.17,2016
+605,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2019,Douro ,4.2,45,82.4,2019
+606,Portugal,Tinto,António Saramago,Reserva Branco 2016,Península de Setúbal ,4.2,33,22.99,2016
+607,Portugal,Tinto,Filipa Pato,Nossa Calcário 2021,Bairrada ,4.2,26,35.65,2021
+608,Portugal,Tinto,Filipa Pato,Nossa Calcário Branco 2021,Beiras ,4.2,25,24.2,2021
+609,Portugal,Tinto,Anselmo Mendes,Expressoes 2019,Monção e Melgaço ,4.2,25,24.0,2019
+610,Portugal,Tinto,Fonseca,10 Year Old Tawny Port N.V.,Porto ,4.1,3115,27.68,N.V.
+611,Portugal,Tinto,Ramos Pinto,Quinta de Ervamoira 10 Year Old Tawny Port N.V.,Porto ,4.1,3951,34.05,N.V.
+612,Portugal,Tinto,Taylor's,10 Year Old Tawny Port N.V.,Porto ,4.1,12642,23.8,N.V.
+613,Portugal,Tinto,Sandeman,10 Years Old Tawny Porto N.V.,Porto ,4.1,3065,25.49,N.V.
+614,Portugal,Tinto,Ramos Pinto,Duas Quintas Tinto 2019,Douro ,4.1,2696,12.55,2019
+615,Portugal,Tinto,Soalheiro,Alvarinho 2021,Monção e Melgaço ,4.1,2456,12.85,2021
+616,Portugal,Tinto,Quinta do Crasto,Crasto Superior Red 2018,Douro ,4.1,2113,15.61,2018
+617,Portugal,Tinto,Soalheiro,Granit Alvarinho 2021,Monção e Melgaço ,4.1,1397,12.77,2021
+618,Portugal,Tinto,Ramos Pinto,Porto Reserva Adriano Branco N.V.,Porto ,4.1,1384,16.76,N.V.
+619,Portugal,Tinto,Quinta de La Rosa,Tonel 12 10 Years Old Tawny Port N.V.,Porto ,4.1,870,29.1,N.V.
+620,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2018,Duriense ,4.1,728,16.5,2018
+621,Portugal,Tinto,Niepoort,Douro Vertente Tinto 2019,Douro ,4.1,693,18.95,2019
+622,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2019,Duriense ,4.1,691,18.5,2019
+623,Portugal,Tinto,Justino's Madeira,Malvasia 10 Years Old Madeira N.V.,Madeira ,4.1,487,30.31,N.V.
+624,Portugal,Tinto,Soalheiro,Primeiras Vinhas Alvarinho 2021,Monção e Melgaço ,4.1,465,16.84,2021
+625,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Pomares Tinto 2020,Douro ,4.1,447,22.99,2020
+626,Portugal,Tinto,Quinta do Zambujeiro,Monte do Zambujeiro 2017,Borba ,4.1,421,26.99,2017
+627,Portugal,Tinto,Quinta da Alorna,Marquesa de Alorna Grande Reserva Branco 2013,Tejo ,4.1,375,31.99,2013
+628,Portugal,Tinto,Soalheiro,Terramatter Alvarinho 2019,Monção e Melgaço ,4.1,355,16.72,2019
+629,Portugal,Tinto,Castello d'Alba,Douro Vinhas Velhas Grande Reserva 2017,Douro ,4.1,350,28.99,2017
+630,Portugal,Tinto,Croft,Tawny Port 20 Year Old N.V.,Porto ,4.1,338,44.6,N.V.
+631,Portugal,Tinto,Quinta de Baixo,Poeirinho Baga 2017,Bairrada ,4.1,324,34.67,2017
+632,Portugal,Tinto,Taboadella,Reserva Jaen 2019,Dão ,4.1,320,31.99,2019
+633,Portugal,Tinto,Quinta do Crasto,Crasto Superior Branco 2020,Douro ,4.1,289,13.67,2020
+634,Portugal,Tinto,Quinta do Noval,Late Bottled Vintage Unfiltered Port 2016,Porto ,4.1,269,23.15,2016
+635,Portugal,Tinto,Ramos Pinto,Douro Duas Quintas Branco 2021,Douro ,4.1,256,12.3,2021
+636,Portugal,Tinto,Warre's,Quinta da Cavadinha Vintage Port 2004,Porto ,4.1,214,46.71,2004
+637,Portugal,Tinto,Quinta da Sequeira,Reserva Tinto 2019,Douro ,4.1,180,21.99,2019
+638,Portugal,Tinto,António Saramago,Reserva Tinto 2014,Península de Setúbal ,4.1,161,22.99,2014
+639,Portugal,Tinto,Quinta da Alorna,Marquesa de Alorna Grande Reserva Tinto 2012,Tejo ,4.1,151,31.99,2012
+640,Portugal,Tinto,Warre's,Quinta da Cavadinha Vintage Port 2005,Porto ,4.1,138,48.0,2005
+641,Portugal,Tinto,Quinta do Carmo,Tinto 2018,Alentejano ,4.1,135,27.99,2018
+642,Portugal,Tinto,Croft,Quinta da Roeda Vintage Port 2012,Porto ,4.1,129,39.0,2012
+643,Portugal,Tinto,Fonseca,Guimaraens Vintage Port 2015,Porto ,4.1,125,49.0,2015
+644,Portugal,Tinto,Quinta do Covao,Reserva Touriga Nacional 2017,Dão ,4.1,105,57.99,2017
+645,Portugal,Tinto,Quinta do Noval,Touriga Nacional Douro 2014,Douro ,4.1,102,30.75,2014
+646,Portugal,Tinto,Dom Ponciano,Alvarinho 2018,Monção e Melgaço ,4.1,99,17.99,2018
+647,Portugal,Tinto,Textura,Textura da Estrela Tinto 2019,Dão ,4.1,98,20.0,2019
+648,Portugal,Tinto,Fafide,Reserva Branco 2020,Douro ,4.1,97,16.99,2020
+649,Portugal,Tinto,Quinta da Sequeira,Tinto 2018,Douro ,4.1,97,25.99,2018
+650,Portugal,Tinto,Quinta da Pedra Escrita,Branco 2020,Douro ,4.1,94,20.99,2020
+651,Portugal,Tinto,Quinta do Infantado,Douro Reserva 2016,Douro ,4.1,89,31.99,2016
+652,Portugal,Tinto,Niepoort,Redoma Rosé 2020,Douro ,4.1,86,13.65,2020
+653,Portugal,Tinto,Tiago Teles,COZs de Montexuntos Pop Branco 2020,Lisboa ,4.1,83,14.45,2020
+654,Portugal,Tinto,Ramos Pinto,Vintage Porto 1997,Porto ,4.1,78,105.0,1997
+655,Portugal,Tinto,Quinta do Infantado,Douro Roseira 2013,Douro ,4.1,77,24.99,2013
+656,Portugal,Tinto,Arribas do Douro,Reserva Tinto 2015,Douro ,4.1,73,20.99,2015
+657,Portugal,Tinto,Fonseca,Guimaraens Vintage Port 2012,Porto ,4.1,71,49.0,2012
+658,Portugal,Tinto,Taboadella,Reserva Alfrocheiro 2020,Dão ,4.1,66,31.99,2020
+659,Portugal,Tinto,Soalheiro,Alvarinho 2022,Monção e Melgaço ,4.1,64,12.49,2022
+660,Portugal,Tinto,Quinta da Sequeira,Branco 2021,Douro ,4.1,60,23.99,2021
+661,Portugal,Tinto,Aphros,Pan Rosé 2014,Vinho verde ,4.1,49,15.45,2014
+662,Portugal,Tinto,Bonifacio,Património Colheita Selecionada 2017,Lisboa ,4.1,48,20.99,2017
+663,Portugal,Tinto,Côrte,Branco 2021,Douro ,4.1,48,25.99,2021
+664,Portugal,Tinto,Antonio Madeira,A Palheira 2018,Dão ,4.1,45,32.45,2018
+665,Portugal,Tinto,Fento,La Galaxia Rosado 2020,Dão ,4.1,40,10.55,2020
+666,Portugal,Tinto,Quinta da Sequeira,Special Reserve Porto N.V.,Porto ,4.1,37,20.99,N.V.
+667,Portugal,Tinto,Adega do Sôr,Herdade da Barroqueira Tinto 2019,Alentejano ,4.1,37,14.99,2019
+668,Portugal,Tinto,Anselmo Mendes,Private Loureiro 2020,Monção e Melgaço ,4.1,35,29.35,2020
+669,Portugal,Tinto,Tiago Teles,COZs de Montexuntos Pop Branco 2021,Lisboa ,4.1,35,18.4,2021
+670,Portugal,Tinto,Croft,Quinta da Roeda Vintage Port 2018,Porto ,4.1,34,36.0,2018
+671,Portugal,Tinto,Herdade da Farizoa,Reserva 2017,Alentejo ,4.1,32,20.5,2017
+672,Portugal,Tinto,Quinta da Corte,Princesa Reserva Tinto 2020,Douro ,4.1,30,28.99,2020
+673,Portugal,Tinto,Escaravelho,Reserva Tinto 2018,Tejo ,4.1,25,31.99,2018
+674,Portugal,Tinto,Casa Ferreirinha,Papa Figos Douro 2019,Douro ,4.0,10627,8.48,2019
+675,Portugal,Tinto,Ferreira,Dona Antonia Porto Reserva Tawny N.V.,Porto ,4.0,9137,14.53,N.V.
+676,Portugal,Tinto,W. & J. Graham's,The Tawny Port N.V.,Porto ,4.0,5430,18.5,N.V.
+677,Portugal,Tinto,Ramos Pinto,Adriano Reserva Tawny Porto N.V.,Porto ,4.0,4795,15.5,N.V.
+678,Portugal,Tinto,Dow's,10 Years Old Tawny Port N.V.,Porto ,4.0,4554,28.89,N.V.
+679,Portugal,Tinto,Quinta do Noval,10 Year Old Tawny Port N.V.,Porto ,4.0,4122,31.25,N.V.
+680,Portugal,Tinto,Sandeman,Founder's Reserve Ruby Port N.V.,Porto ,4.0,3112,14.5,N.V.
+681,Portugal,Tinto,Niepoort,Porto 10 Years Old Tawny N.V.,Porto ,4.0,2454,29.16,N.V.
+682,Portugal,Tinto,Herdade do Peso,Trinca Bolotas Alentejo Tinto 2020,Alentejo ,4.0,1746,7.76,2020
+683,Portugal,Tinto,Croft,Reserve Tawny Porto N.V.,Porto ,4.0,1191,17.61,N.V.
+684,Portugal,Tinto,Taylor's,Late Bottled Vintage Port 2015,Porto ,4.0,1172,17.55,2015
+685,Portugal,Tinto,Croft,Tawny Port 10 Year Old N.V.,Porto ,4.0,1165,21.73,N.V.
+686,Portugal,Tinto,Casa Ferreirinha,Papa Figos Douro 2021,Douro ,4.0,925,9.24,2021
+687,Portugal,Tinto,Marquês de Marialva,Baga Reserva 2017,Bairrada ,4.0,822,16.99,2017
+688,Portugal,Tinto,Quinta de La Rosa,Douro Red 2019,Douro ,4.0,765,18.9,2019
+689,Portugal,Tinto,Quinta do Crasto,Crasto Branco 2019,Douro ,4.0,735,11.3,2019
+690,Portugal,Tinto,Vicente Faria Vinhos,Animus Tinto 2020,Douro ,4.0,694,15.99,2020
+691,Portugal,Tinto,Justino's Madeira,Boal 10 Years Old Madeira N.V.,Madeira ,4.0,658,30.31,N.V.
+692,Portugal,Tinto,W. & J. Graham's,Late Bottled Vintage Port 2017,Porto ,4.0,632,15.3,2017
+693,Portugal,Tinto,Quinta do Infantado,Tawny Porto 10 Years Old N.V.,Porto ,4.0,557,24.99,N.V.
+694,Portugal,Tinto,Justino's Madeira,Verdelho 10 Years Old Madeira N.V.,Madeira ,4.0,517,30.92,N.V.
+695,Portugal,Tinto,Marquês de Marialva,Arinto Reserva 2019,Beiras ,4.0,456,16.99,2019
+696,Portugal,Tinto,Quinta da Terrugem,Tinto 2015,Alentejo ,4.0,428,27.99,2015
+697,Portugal,Tinto,Taboadella,Villae Tinto 2020,Dão ,4.0,418,24.99,2020
+698,Portugal,Tinto,Justino's Madeira,Sercial 10 Years Old Madeira N.V.,Madeira ,4.0,414,29.83,N.V.
+699,Portugal,Tinto,Bacalhôa,Península de Setúbal Quinta da Bacalhôa Branco 2016,Península de Setúbal ,4.0,390,27.99,2016
+700,Portugal,Tinto,Cartuxa,Pêra-Manca Tinto 2015,Alentejo ,4.7,969,362.85,2015
+701,Portugal,Tinto,Já Te Disse,Alicante Bouschet 2020,Alentejo ,4.7,28,89.99,2020
+702,Portugal,Tinto,W. & J. Graham's,40 Year Old Tawny Port N.V.,Porto ,4.6,2259,140.63,N.V.
+703,Portugal,Tinto,Quinta do Noval,40 Year Old Tawny Port N.V.,Porto ,4.6,757,140.51,N.V.
+704,Portugal,Tinto,Quinta do Noval,Vintage Port 2019,Porto ,4.6,57,170.4,2019
+705,Portugal,Tinto,Lima Mayer,Petit Verdot 2015,Alentejano ,4.5,37,79.99,2015
+706,Portugal,Tinto,Casa Ferreirinha,Quinta da Leda Douro 2017,Douro ,4.5,1146,42.57,2017
+707,Portugal,Tinto,Ramos Pinto,30 Year Old Tawny Port N.V.,Porto ,4.5,1088,94.76,N.V.
+708,Portugal,Tinto,Cartuxa,Pêra-Manca Branco 2020,Evora ,4.5,321,63.39,2020
+709,Portugal,Tinto,Titan of Douro,Vale dos Mil Single Vineyard Tinto 2017,Douro ,4.5,292,35.99,2017
+710,Portugal,Tinto,Quinta do Noval,Vintage Port 2003,Porto ,4.5,177,156.35,2003
+711,Portugal,Tinto,Quinta do Zambujeiro,Zambujeiro 2017,Borba ,4.5,124,50.99,2017
+712,Portugal,Tinto,W. & J. Graham's,30 Year Old Tawny Port N.V.,Porto ,4.5,3429,84.95,N.V.
+713,Portugal,Tinto,Vinha das Virtudes,Humanitas Reserva Syrah 2018,Alentejano ,4.5,76,34.99,2018
+714,Portugal,Tinto,Quinta da Furada,Pata d'Urso Tinto 2017,Douro ,4.5,75,47.99,2017
+715,Portugal,Tinto,Quinta da Sequeira,Grande Reserva Tinto 2017,Douro ,4.5,92,64.99,2017
+716,Portugal,Tinto,W. & J. Graham's,20 Year Old Tawny Port N.V.,Porto ,4.4,12331,54.95,N.V.
+717,Portugal,Tinto,Ramos Pinto,Quinta do Bom Retiro 20 Year Old Tawny Porto N.V.,Porto ,4.4,2921,71.15,N.V.
+718,Portugal,Tinto,Bacalhôa,Península de Setúbal Palácio da Bacalhôa Tinto 2014,Península de Setúbal ,4.4,2004,52.99,2014
+719,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2019,Douro ,4.4,951,28.81,2019
+720,Portugal,Tinto,W. & J. Graham's,Vintage Port 2000,Porto ,4.4,810,125.61,2000
+721,Portugal,Tinto,Anselmo Mendes,Parcela Única Escolha 2018,Monção e Melgaço ,4.4,470,33.9,2018
+722,Portugal,Tinto,Quinta do Carmo,Reserva Tinto 2014,Alentejano ,4.4,360,52.99,2014
+723,Portugal,Tinto,Esporão,Esporão Private Selection Tinto 2016,Alentejo ,4.4,290,61.8,2016
+724,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2020,Douro ,4.4,123,32.15,2020
+725,Portugal,Tinto,Quinta do Noval,Vintage Port 2015,Porto ,4.4,105,156.98,2015
+726,Portugal,Tinto,Quinta de Santiago,Sou Alvarinho 2018,Monção e Melgaço ,4.4,66,29.9,2018
+727,Portugal,Tinto,Textura,Pura 2019,Dão ,4.4,47,32.5,2019
+728,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2017,Borba ,4.3,234,46.99,2017
+729,Portugal,Tinto,Fonseca,20 Year Old Tawny Port N.V.,Porto ,4.3,2487,54.52,N.V.
+730,Portugal,Tinto,Dow's,20 Years Old Tawny Port N.V.,Porto ,4.3,2007,47.9,N.V.
+731,Portugal,Tinto,Quinta do Noval,20 Year Old Tawny Port N.V.,Porto ,4.3,1453,84.91,N.V.
+732,Portugal,Tinto,Niepoort,Porto 20 Years Old Tawny N.V.,Porto ,4.3,1148,61.45,N.V.
+733,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2016,Douro ,4.3,642,79.98,2016
+734,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 1990,Porto ,4.3,310,47.3,1990
+735,Portugal,Tinto,Niepoort,Douro Charme Tinto 2017,Douro ,4.3,297,79.98,2017
+736,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2017,Douro ,4.3,269,79.82,2017
+737,Portugal,Tinto,Taylor's,20 Year Old Tawny Port N.V.,Porto ,4.3,8969,49.35,N.V.
+738,Portugal,Tinto,Quinta do Infantado,Tawny Porto 20 Years Old N.V.,Porto ,4.3,193,41.99,N.V.
+739,Portugal,Tinto,Fonseca,Vintage Port 2003,Porto ,4.3,174,111.01,2003
+740,Portugal,Tinto,Fonseca,Vintage Port 2009,Porto ,4.3,174,98.0,2009
+741,Portugal,Tinto,Quinta do Noval,Silval Vintage Port 2003,Porto ,4.3,167,42.3,2003
+742,Portugal,Tinto,Marquês de Marialva,Bical - Arinto Reserva Bruto 2017,Bairrada ,4.3,153,18.99,2017
+743,Portugal,Tinto,Taboadella,Grande Villae Tinto 2019,Dão ,4.3,120,64.99,2019
+744,Portugal,Tinto,Quinta do Crasto,Vintage Port 2017,Porto ,4.3,98,41.93,2017
+745,Portugal,Tinto,Casa de Santar,Branco De Curtimenta 2019,Dão ,4.3,90,24.99,2019
+746,Portugal,Tinto,Lima Mayer,Reserva 2015,Alentejano ,4.3,79,57.99,2015
+747,Portugal,Tinto,Esporão,Esporão Private Selection Branco 2020,Alentejo ,4.3,77,32.95,2020
+748,Portugal,Tinto,Rui Roboredo Madeira,Douro Tinto 2017,Douro ,4.3,57,38.99,2017
+749,Portugal,Tinto,Niepoort,Douro Charme Tinto 2020,Douro ,4.3,54,75.0,2020
+750,Portugal,Tinto,Niepoort,Douro Reserva Redoma Branco 2021,Douro ,4.3,53,41.7,2021
+751,Portugal,Tinto,Giroflé,Arquivo Tinto 2017,Douro ,4.3,45,49.99,2017
+752,Portugal,Tinto,Já Te Disse,Branco 2020,Alentejo ,4.3,26,40.99,2020
+753,Portugal,Tinto,Taboadella,Reserva Encruzado 2021,Dão ,4.2,473,31.99,2021
+754,Portugal,Tinto,Esporão,Esporão Reserva Tinto 2019,Alentejo ,4.2,3306,16.73,2019
+755,Portugal,Tinto,Esporão,Esporão Reserva Branco 2020,Alentejo ,4.2,2193,14.29,2020
+756,Portugal,Tinto,Andresen,10 Year Old White Port N.V.,Porto ,4.2,1934,16.88,N.V.
+757,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Douro Tinto (Colheita Unoaked) 2020,Douro ,4.2,1545,24.99,2020
+758,Portugal,Tinto,Casa de Santar,Dão Reserva 2015,Dão ,4.2,1382,34.99,2015
+759,Portugal,Tinto,Justino's Madeira,Colheita Madeira N.V.,Madeira ,4.2,1249,44.07,N.V.
+760,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Grainha Reserva 2020,Douro ,4.2,903,29.99,2020
+761,Portugal,Tinto,Esporão,Esporão Reserva Branco 2021,Alentejo ,4.2,700,15.3,2021
+762,Portugal,Tinto,W. & J. Graham's,10 Year Old Tawny Port N.V.,Porto ,4.2,16231,28.76,N.V.
+763,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Reserva Terroir Blend 2020,Douro ,4.2,422,31.99,2020
+764,Portugal,Tinto,Niepoort,Douro Redoma Branco 2021,Douro ,4.2,325,22.4,2021
+765,Portugal,Tinto,Quinta do Zambujeiro,Monte do Zambujeiro 2018,Borba ,4.2,294,16.99,2018
+766,Portugal,Tinto,José Maria da Fonseca,José de Sousa Mayor Alentejano 2017,Alentejano ,4.2,266,28.8,2017
+767,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 2000,Porto ,4.2,213,36.3,2000
+768,Portugal,Tinto,Casa de Santar,Dão Reserva Branco 2018,Dão ,4.2,148,20.99,2018
+769,Portugal,Tinto,Anselmo Mendes,Muros de Melgaço Alvarinho 2021,Monção e Melgaço ,4.2,145,17.95,2021
+770,Portugal,Tinto,Niepoort,Douro Charme Tinto 2019,Douro ,4.2,135,75.0,2019
+771,Portugal,Tinto,Antonio Madeira,Vinhas Velhas 2019,Dão ,4.2,127,24.25,2019
+772,Portugal,Tinto,Beyra,Grande Reserva 2019,Beira Interior ,4.2,100,30.99,2019
+773,Portugal,Tinto,Niepoort,Douro Tiara Branco 2020,Douro ,4.2,97,19.84,2020
+774,Portugal,Tinto,Quinta da Foz,Grande Reserva 2017,Douro ,4.2,97,56.99,2017
+775,Portugal,Tinto,Lima Mayer,2 Tintos 2013,Alentejano ,4.2,85,57.99,2013
+776,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2019,Borba ,4.2,63,27.99,2019
+777,Portugal,Tinto,Quinta do Vale Meão,Monte Meão Vinha dos Novos 2019,Douro ,4.2,63,18.9,2019
+778,Portugal,Tinto,Sandeman,Quinta do Seixo Vintage Port 2013,Porto ,4.2,61,35.86,2013
+779,Portugal,Tinto,Sandeman,Vintage Port 2016,Porto ,4.2,48,76.17,2016
+780,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2019,Douro ,4.2,45,82.4,2019
+781,Portugal,Tinto,António Saramago,Reserva Branco 2016,Península de Setúbal ,4.2,33,22.99,2016
+782,Portugal,Tinto,Filipa Pato,Nossa Calcário 2021,Bairrada ,4.2,26,35.65,2021
+783,Portugal,Tinto,Filipa Pato,Nossa Calcário Branco 2021,Beiras ,4.2,25,24.2,2021
+784,Portugal,Tinto,Anselmo Mendes,Expressoes 2019,Monção e Melgaço ,4.2,25,24.0,2019
+785,Portugal,Tinto,Fonseca,10 Year Old Tawny Port N.V.,Porto ,4.1,3115,27.68,N.V.
+786,Portugal,Tinto,Ramos Pinto,Quinta de Ervamoira 10 Year Old Tawny Port N.V.,Porto ,4.1,3951,34.05,N.V.
+787,Portugal,Tinto,Taylor's,10 Year Old Tawny Port N.V.,Porto ,4.1,12642,23.8,N.V.
+788,Portugal,Tinto,Sandeman,10 Years Old Tawny Porto N.V.,Porto ,4.1,3065,25.49,N.V.
+789,Portugal,Tinto,Ramos Pinto,Duas Quintas Tinto 2019,Douro ,4.1,2696,12.55,2019
+790,Portugal,Tinto,Soalheiro,Alvarinho 2021,Monção e Melgaço ,4.1,2456,12.85,2021
+791,Portugal,Tinto,Quinta do Crasto,Crasto Superior Red 2018,Douro ,4.1,2113,15.61,2018
+792,Portugal,Tinto,Soalheiro,Granit Alvarinho 2021,Monção e Melgaço ,4.1,1397,12.77,2021
+793,Portugal,Tinto,Ramos Pinto,Porto Reserva Adriano Branco N.V.,Porto ,4.1,1384,16.76,N.V.
+794,Portugal,Tinto,Quinta de La Rosa,Tonel 12 10 Years Old Tawny Port N.V.,Porto ,4.1,870,29.1,N.V.
+795,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2018,Duriense ,4.1,728,16.5,2018
+796,Portugal,Tinto,Niepoort,Douro Vertente Tinto 2019,Douro ,4.1,693,18.95,2019
+797,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2019,Duriense ,4.1,691,18.5,2019
+798,Portugal,Tinto,Justino's Madeira,Malvasia 10 Years Old Madeira N.V.,Madeira ,4.1,487,30.31,N.V.
+799,Portugal,Tinto,Soalheiro,Primeiras Vinhas Alvarinho 2021,Monção e Melgaço ,4.1,465,16.84,2021
+800,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Pomares Tinto 2020,Douro ,4.1,447,22.99,2020
+801,Portugal,Tinto,Quinta do Zambujeiro,Monte do Zambujeiro 2017,Borba ,4.1,421,26.99,2017
+802,Portugal,Tinto,Quinta da Alorna,Marquesa de Alorna Grande Reserva Branco 2013,Tejo ,4.1,375,31.99,2013
+803,Portugal,Tinto,Soalheiro,Terramatter Alvarinho 2019,Monção e Melgaço ,4.1,355,16.72,2019
+804,Portugal,Tinto,Castello d'Alba,Douro Vinhas Velhas Grande Reserva 2017,Douro ,4.1,350,28.99,2017
+805,Portugal,Tinto,Croft,Tawny Port 20 Year Old N.V.,Porto ,4.1,338,44.6,N.V.
+806,Portugal,Tinto,Quinta de Baixo,Poeirinho Baga 2017,Bairrada ,4.1,324,34.67,2017
+807,Portugal,Tinto,Taboadella,Reserva Jaen 2019,Dão ,4.1,320,31.99,2019
+808,Portugal,Tinto,Quinta do Crasto,Crasto Superior Branco 2020,Douro ,4.1,289,13.67,2020
+809,Portugal,Tinto,Quinta do Noval,Late Bottled Vintage Unfiltered Port 2016,Porto ,4.1,269,23.15,2016
+810,Portugal,Tinto,Ramos Pinto,Douro Duas Quintas Branco 2021,Douro ,4.1,256,12.3,2021
+811,Portugal,Tinto,Warre's,Quinta da Cavadinha Vintage Port 2004,Porto ,4.1,214,46.71,2004
+812,Portugal,Tinto,Quinta da Sequeira,Reserva Tinto 2019,Douro ,4.1,180,21.99,2019
+813,Portugal,Tinto,António Saramago,Reserva Tinto 2014,Península de Setúbal ,4.1,161,22.99,2014
+814,Portugal,Tinto,Quinta da Alorna,Marquesa de Alorna Grande Reserva Tinto 2012,Tejo ,4.1,151,31.99,2012
+815,Portugal,Tinto,Warre's,Quinta da Cavadinha Vintage Port 2005,Porto ,4.1,138,48.0,2005
+816,Portugal,Tinto,Quinta do Carmo,Tinto 2018,Alentejano ,4.1,135,27.99,2018
+817,Portugal,Tinto,Croft,Quinta da Roeda Vintage Port 2012,Porto ,4.1,129,39.0,2012
+818,Portugal,Tinto,Fonseca,Guimaraens Vintage Port 2015,Porto ,4.1,125,49.0,2015
+819,Portugal,Tinto,Quinta do Covao,Reserva Touriga Nacional 2017,Dão ,4.1,105,57.99,2017
+820,Portugal,Tinto,Quinta do Noval,Touriga Nacional Douro 2014,Douro ,4.1,102,30.75,2014
+821,Portugal,Tinto,Dom Ponciano,Alvarinho 2018,Monção e Melgaço ,4.1,99,17.99,2018
+822,Portugal,Tinto,Textura,Textura da Estrela Tinto 2019,Dão ,4.1,98,20.0,2019
+823,Portugal,Tinto,Fafide,Reserva Branco 2020,Douro ,4.1,97,16.99,2020
+824,Portugal,Tinto,Quinta da Sequeira,Tinto 2018,Douro ,4.1,97,25.99,2018
+825,Portugal,Tinto,Quinta da Pedra Escrita,Branco 2020,Douro ,4.1,94,20.99,2020
+826,Portugal,Tinto,Quinta do Infantado,Douro Reserva 2016,Douro ,4.1,89,31.99,2016
+827,Portugal,Tinto,Niepoort,Redoma Rosé 2020,Douro ,4.1,86,13.65,2020
+828,Portugal,Tinto,Tiago Teles,COZs de Montexuntos Pop Branco 2020,Lisboa ,4.1,83,14.45,2020
+829,Portugal,Tinto,Ramos Pinto,Vintage Porto 1997,Porto ,4.1,78,105.0,1997
+830,Portugal,Tinto,Quinta do Infantado,Douro Roseira 2013,Douro ,4.1,77,24.99,2013
+831,Portugal,Tinto,Arribas do Douro,Reserva Tinto 2015,Douro ,4.1,73,20.99,2015
+832,Portugal,Tinto,Fonseca,Guimaraens Vintage Port 2012,Porto ,4.1,71,49.0,2012
+833,Portugal,Tinto,Taboadella,Reserva Alfrocheiro 2020,Dão ,4.1,66,31.99,2020
+834,Portugal,Tinto,Soalheiro,Alvarinho 2022,Monção e Melgaço ,4.1,64,12.49,2022
+835,Portugal,Tinto,Quinta da Sequeira,Branco 2021,Douro ,4.1,60,23.99,2021
+836,Portugal,Tinto,Aphros,Pan Rosé 2014,Vinho verde ,4.1,49,15.45,2014
+837,Portugal,Tinto,Bonifacio,Património Colheita Selecionada 2017,Lisboa ,4.1,48,20.99,2017
+838,Portugal,Tinto,Côrte,Branco 2021,Douro ,4.1,48,25.99,2021
+839,Portugal,Tinto,Antonio Madeira,A Palheira 2018,Dão ,4.1,45,32.45,2018
+840,Portugal,Tinto,Fento,La Galaxia Rosado 2020,Dão ,4.1,40,10.55,2020
+841,Portugal,Tinto,Quinta da Sequeira,Special Reserve Porto N.V.,Porto ,4.1,37,20.99,N.V.
+842,Portugal,Tinto,Adega do Sôr,Herdade da Barroqueira Tinto 2019,Alentejano ,4.1,37,14.99,2019
+843,Portugal,Tinto,Anselmo Mendes,Private Loureiro 2020,Monção e Melgaço ,4.1,35,29.35,2020
+844,Portugal,Tinto,Tiago Teles,COZs de Montexuntos Pop Branco 2021,Lisboa ,4.1,35,18.4,2021
+845,Portugal,Tinto,Croft,Quinta da Roeda Vintage Port 2018,Porto ,4.1,34,36.0,2018
+846,Portugal,Tinto,Herdade da Farizoa,Reserva 2017,Alentejo ,4.1,32,20.5,2017
+847,Portugal,Tinto,Quinta da Corte,Princesa Reserva Tinto 2020,Douro ,4.1,30,28.99,2020
+848,Portugal,Tinto,Escaravelho,Reserva Tinto 2018,Tejo ,4.1,25,31.99,2018
+849,Portugal,Tinto,Casa Ferreirinha,Papa Figos Douro 2019,Douro ,4.0,10627,8.48,2019
+850,Portugal,Tinto,Ferreira,Dona Antonia Porto Reserva Tawny N.V.,Porto ,4.0,9137,14.53,N.V.
+851,Portugal,Tinto,W. & J. Graham's,The Tawny Port N.V.,Porto ,4.0,5430,18.5,N.V.
+852,Portugal,Tinto,Ramos Pinto,Adriano Reserva Tawny Porto N.V.,Porto ,4.0,4795,15.5,N.V.
+853,Portugal,Tinto,Dow's,10 Years Old Tawny Port N.V.,Porto ,4.0,4554,28.89,N.V.
+854,Portugal,Tinto,Quinta do Noval,10 Year Old Tawny Port N.V.,Porto ,4.0,4122,31.25,N.V.
+855,Portugal,Tinto,Sandeman,Founder's Reserve Ruby Port N.V.,Porto ,4.0,3112,14.5,N.V.
+856,Portugal,Tinto,Niepoort,Porto 10 Years Old Tawny N.V.,Porto ,4.0,2454,29.16,N.V.
+857,Portugal,Tinto,Herdade do Peso,Trinca Bolotas Alentejo Tinto 2020,Alentejo ,4.0,1746,7.76,2020
+858,Portugal,Tinto,Croft,Reserve Tawny Porto N.V.,Porto ,4.0,1191,17.61,N.V.
+859,Portugal,Tinto,Taylor's,Late Bottled Vintage Port 2015,Porto ,4.0,1172,17.55,2015
+860,Portugal,Tinto,Croft,Tawny Port 10 Year Old N.V.,Porto ,4.0,1165,21.73,N.V.
+861,Portugal,Tinto,Casa Ferreirinha,Papa Figos Douro 2021,Douro ,4.0,925,9.24,2021
+862,Portugal,Tinto,Marquês de Marialva,Baga Reserva 2017,Bairrada ,4.0,822,16.99,2017
+863,Portugal,Tinto,Quinta de La Rosa,Douro Red 2019,Douro ,4.0,765,18.9,2019
+864,Portugal,Tinto,Quinta do Crasto,Crasto Branco 2019,Douro ,4.0,735,11.3,2019
+865,Portugal,Tinto,Vicente Faria Vinhos,Animus Tinto 2020,Douro ,4.0,694,15.99,2020
+866,Portugal,Tinto,Justino's Madeira,Boal 10 Years Old Madeira N.V.,Madeira ,4.0,658,30.31,N.V.
+867,Portugal,Tinto,W. & J. Graham's,Late Bottled Vintage Port 2017,Porto ,4.0,632,15.3,2017
+868,Portugal,Tinto,Quinta do Infantado,Tawny Porto 10 Years Old N.V.,Porto ,4.0,557,24.99,N.V.
+869,Portugal,Tinto,Justino's Madeira,Verdelho 10 Years Old Madeira N.V.,Madeira ,4.0,517,30.92,N.V.
+870,Portugal,Tinto,Marquês de Marialva,Arinto Reserva 2019,Beiras ,4.0,456,16.99,2019
+871,Portugal,Tinto,Quinta da Terrugem,Tinto 2015,Alentejo ,4.0,428,27.99,2015
+872,Portugal,Tinto,Taboadella,Villae Tinto 2020,Dão ,4.0,418,24.99,2020
+873,Portugal,Tinto,Justino's Madeira,Sercial 10 Years Old Madeira N.V.,Madeira ,4.0,414,29.83,N.V.
+874,Portugal,Tinto,Bacalhôa,Península de Setúbal Quinta da Bacalhôa Branco 2016,Península de Setúbal ,4.0,390,27.99,2016
+875,Portugal,Tinto,Quinta do Crasto,Crasto Branco 2020,Douro ,4.0,389,11.3,2020
+876,Portugal,Tinto,Taboadella,Villae Branco 2021,Dão ,4.0,314,24.99,2021
+877,Portugal,Tinto,Bacalhôa,Alicante Bouschet 2017,Península de Setúbal ,4.0,270,22.99,2017
+878,Portugal,Tinto,Adega Familiar Eladio Piñeiro,La Coartada 2009,Alentejo ,4.0,255,22.45,2009
+879,Portugal,Tinto,Quinta da Pellada,Dão Álvaro Castro Reserva 2016,Dão ,4.0,212,20.5,2016
+880,Portugal,Tinto,Antonio Madeira,Tinto 2017,Dão ,4.0,201,16.2,2017
+881,Portugal,Tinto,Fonseca,Guimaraens Vintage Port 1996,Porto ,4.0,200,71.0,1996
+882,Portugal,Tinto,Croft,Vintage Port 2003,Porto ,4.0,198,92.01,2003
+883,Portugal,Tinto,Castello d'Alba,Superior Tinto 2019,Douro ,4.0,188,20.99,2019
+884,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Grainha Reserva Branco 2019,Douro ,4.0,161,27.99,2019
+885,Portugal,Tinto,Companhia de Vinhos Invencível,Invincible Número Dois Tinto 2018,Douro ,4.0,148,24.5,2018
+886,Portugal,Tinto,Titan of Douro,Tinto 2020,Douro ,4.0,147,18.99,2020
+887,Portugal,Tinto,José Maria da Fonseca,Alambre Moscatel de Setúbal 2018,Setúbal ,4.0,139,9.16,2018
+888,Portugal,Tinto,Ramos Pinto,Late Bottled Vintage Port 2017,Porto ,4.0,120,21.4,2017
+889,Portugal,Tinto,Cabral de Almeida & Fonseca,Jardim de Granito Touriga Nacional 2017,Dão ,4.0,97,27.99,2017
+890,Portugal,Tinto,Tresmano - Tr3smano,Lagar de Proventus Alvarinho 2021,Douro ,4.0,80,16.35,2021
+891,Portugal,Tinto,Raul A. Riba d'Ave,Cancela Abreu & Riba D'Ave Encruzado Reserva Branco 2018,Dão ,4.0,75,21.99,2018
+892,Portugal,Tinto,Aphros,Phaunus Loureiro 2021,Vinho verde ,4.0,72,21.55,2021
+893,Portugal,Tinto,Quinta da Foz,Vinha da Foz  Tinto 2020,Douro ,4.0,63,14.99,2020
+894,Portugal,Tinto,Quinta do Noval,Late Bottled Vintage Port 2016,Porto ,4.0,54,22.0,2016
+895,Portugal,Tinto,Vale do Armo,Vila Jardim Colheita Seleccionada Branco 2020,Ribatejo ,4.0,53,14.99,2020
+896,Portugal,Tinto,Vicente Faria Vinhos,Quinta Vale Santa Luzia Reserva Tinto 2019,Douro ,4.0,51,20.99,2019
+897,Portugal,Tinto,Quinta da Foz,Vinha da Foz Branco 2020,Douro ,4.0,50,22.99,2020
+898,Portugal,Tinto,Quinta da Sequeira,Sauvignon Blanc 2021,Duriense ,4.0,48,20.99,2021
+899,Portugal,Tinto,Tresmano - Tr3smano,Lagar de Proventus Alvarinho 2020,Douro ,4.0,46,15.9,2020
+900,Portugal,Tinto,Cartuxa,Pêra-Manca Tinto 2015,Alentejo ,4.7,969,362.85,2015
+901,Portugal,Tinto,Já Te Disse,Alicante Bouschet 2020,Alentejo ,4.7,28,89.99,2020
+902,Portugal,Tinto,W. & J. Graham's,40 Year Old Tawny Port N.V.,Porto ,4.6,2259,140.63,N.V.
+903,Portugal,Tinto,Quinta do Noval,40 Year Old Tawny Port N.V.,Porto ,4.6,757,140.51,N.V.
+904,Portugal,Tinto,Quinta do Noval,Vintage Port 2019,Porto ,4.6,57,170.4,2019
+905,Portugal,Tinto,Lima Mayer,Petit Verdot 2015,Alentejano ,4.5,37,79.99,2015
+906,Portugal,Tinto,Casa Ferreirinha,Quinta da Leda Douro 2017,Douro ,4.5,1146,42.57,2017
+907,Portugal,Tinto,Ramos Pinto,30 Year Old Tawny Port N.V.,Porto ,4.5,1088,94.76,N.V.
+908,Portugal,Tinto,Cartuxa,Pêra-Manca Branco 2020,Evora ,4.5,321,63.39,2020
+909,Portugal,Tinto,Titan of Douro,Vale dos Mil Single Vineyard Tinto 2017,Douro ,4.5,292,35.99,2017
+910,Portugal,Tinto,Quinta do Noval,Vintage Port 2003,Porto ,4.5,177,156.35,2003
+911,Portugal,Tinto,Quinta do Zambujeiro,Zambujeiro 2017,Borba ,4.5,124,50.99,2017
+912,Portugal,Tinto,W. & J. Graham's,30 Year Old Tawny Port N.V.,Porto ,4.5,3429,84.95,N.V.
+913,Portugal,Tinto,Vinha das Virtudes,Humanitas Reserva Syrah 2018,Alentejano ,4.5,76,34.99,2018
+914,Portugal,Tinto,Quinta da Furada,Pata d'Urso Tinto 2017,Douro ,4.5,75,47.99,2017
+915,Portugal,Tinto,Quinta da Sequeira,Grande Reserva Tinto 2017,Douro ,4.5,92,64.99,2017
+916,Portugal,Tinto,W. & J. Graham's,20 Year Old Tawny Port N.V.,Porto ,4.4,12331,54.95,N.V.
+917,Portugal,Tinto,Ramos Pinto,Quinta do Bom Retiro 20 Year Old Tawny Porto N.V.,Porto ,4.4,2921,71.15,N.V.
+918,Portugal,Tinto,Bacalhôa,Península de Setúbal Palácio da Bacalhôa Tinto 2014,Península de Setúbal ,4.4,2004,52.99,2014
+919,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2019,Douro ,4.4,951,28.81,2019
+920,Portugal,Tinto,W. & J. Graham's,Vintage Port 2000,Porto ,4.4,810,125.61,2000
+921,Portugal,Tinto,Anselmo Mendes,Parcela Única Escolha 2018,Monção e Melgaço ,4.4,470,33.9,2018
+922,Portugal,Tinto,Quinta do Carmo,Reserva Tinto 2014,Alentejano ,4.4,360,52.99,2014
+923,Portugal,Tinto,Esporão,Esporão Private Selection Tinto 2016,Alentejo ,4.4,290,61.8,2016
+924,Portugal,Tinto,Quinta do Crasto,Reserva Vinhas Velhas 2020,Douro ,4.4,123,32.15,2020
+925,Portugal,Tinto,Quinta do Noval,Vintage Port 2015,Porto ,4.4,105,156.98,2015
+926,Portugal,Tinto,Quinta de Santiago,Sou Alvarinho 2018,Monção e Melgaço ,4.4,66,29.9,2018
+927,Portugal,Tinto,Textura,Pura 2019,Dão ,4.4,47,32.5,2019
+928,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2017,Borba ,4.3,234,46.99,2017
+929,Portugal,Tinto,Fonseca,20 Year Old Tawny Port N.V.,Porto ,4.3,2487,54.52,N.V.
+930,Portugal,Tinto,Dow's,20 Years Old Tawny Port N.V.,Porto ,4.3,2007,47.9,N.V.
+931,Portugal,Tinto,Quinta do Noval,20 Year Old Tawny Port N.V.,Porto ,4.3,1453,84.91,N.V.
+932,Portugal,Tinto,Niepoort,Porto 20 Years Old Tawny N.V.,Porto ,4.3,1148,61.45,N.V.
+933,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2016,Douro ,4.3,642,79.98,2016
+934,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 1990,Porto ,4.3,310,47.3,1990
+935,Portugal,Tinto,Niepoort,Douro Charme Tinto 2017,Douro ,4.3,297,79.98,2017
+936,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2017,Douro ,4.3,269,79.82,2017
+937,Portugal,Tinto,Taylor's,20 Year Old Tawny Port N.V.,Porto ,4.3,8969,49.35,N.V.
+938,Portugal,Tinto,Quinta do Infantado,Tawny Porto 20 Years Old N.V.,Porto ,4.3,193,41.99,N.V.
+939,Portugal,Tinto,Fonseca,Vintage Port 2003,Porto ,4.3,174,111.01,2003
+940,Portugal,Tinto,Fonseca,Vintage Port 2009,Porto ,4.3,174,98.0,2009
+941,Portugal,Tinto,Quinta do Noval,Silval Vintage Port 2003,Porto ,4.3,167,42.3,2003
+942,Portugal,Tinto,Marquês de Marialva,Bical - Arinto Reserva Bruto 2017,Bairrada ,4.3,153,18.99,2017
+943,Portugal,Tinto,Taboadella,Grande Villae Tinto 2019,Dão ,4.3,120,64.99,2019
+944,Portugal,Tinto,Quinta do Crasto,Vintage Port 2017,Porto ,4.3,98,41.93,2017
+945,Portugal,Tinto,Casa de Santar,Branco De Curtimenta 2019,Dão ,4.3,90,24.99,2019
+946,Portugal,Tinto,Lima Mayer,Reserva 2015,Alentejano ,4.3,79,57.99,2015
+947,Portugal,Tinto,Esporão,Esporão Private Selection Branco 2020,Alentejo ,4.3,77,32.95,2020
+948,Portugal,Tinto,Rui Roboredo Madeira,Douro Tinto 2017,Douro ,4.3,57,38.99,2017
+949,Portugal,Tinto,Niepoort,Douro Charme Tinto 2020,Douro ,4.3,54,75.0,2020
+950,Portugal,Tinto,Niepoort,Douro Reserva Redoma Branco 2021,Douro ,4.3,53,41.7,2021
+951,Portugal,Tinto,Giroflé,Arquivo Tinto 2017,Douro ,4.3,45,49.99,2017
+952,Portugal,Tinto,Já Te Disse,Branco 2020,Alentejo ,4.3,26,40.99,2020
+953,Portugal,Tinto,Taboadella,Reserva Encruzado 2021,Dão ,4.2,473,31.99,2021
+954,Portugal,Tinto,Esporão,Esporão Reserva Tinto 2019,Alentejo ,4.2,3306,16.73,2019
+955,Portugal,Tinto,Esporão,Esporão Reserva Branco 2020,Alentejo ,4.2,2193,14.29,2020
+956,Portugal,Tinto,Andresen,10 Year Old White Port N.V.,Porto ,4.2,1934,16.88,N.V.
+957,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Douro Tinto (Colheita Unoaked) 2020,Douro ,4.2,1545,24.99,2020
+958,Portugal,Tinto,Casa de Santar,Dão Reserva 2015,Dão ,4.2,1382,34.99,2015
+959,Portugal,Tinto,Justino's Madeira,Colheita Madeira N.V.,Madeira ,4.2,1249,44.07,N.V.
+960,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Grainha Reserva 2020,Douro ,4.2,903,29.99,2020
+961,Portugal,Tinto,Esporão,Esporão Reserva Branco 2021,Alentejo ,4.2,700,15.3,2021
+962,Portugal,Tinto,W. & J. Graham's,10 Year Old Tawny Port N.V.,Porto ,4.2,16231,28.76,N.V.
+963,Portugal,Tinto,Quinta Nova de Nossa Senhora do Carmo,Reserva Terroir Blend 2020,Douro ,4.2,422,31.99,2020
+964,Portugal,Tinto,Niepoort,Douro Redoma Branco 2021,Douro ,4.2,325,22.4,2021
+965,Portugal,Tinto,Quinta do Zambujeiro,Monte do Zambujeiro 2018,Borba ,4.2,294,16.99,2018
+966,Portugal,Tinto,José Maria da Fonseca,José de Sousa Mayor Alentejano 2017,Alentejano ,4.2,266,28.8,2017
+967,Portugal,Tinto,C. da Silva,Dalva Colheita Porto 2000,Porto ,4.2,213,36.3,2000
+968,Portugal,Tinto,Casa de Santar,Dão Reserva Branco 2018,Dão ,4.2,148,20.99,2018
+969,Portugal,Tinto,Anselmo Mendes,Muros de Melgaço Alvarinho 2021,Monção e Melgaço ,4.2,145,17.95,2021
+970,Portugal,Tinto,Niepoort,Douro Charme Tinto 2019,Douro ,4.2,135,75.0,2019
+971,Portugal,Tinto,Antonio Madeira,Vinhas Velhas 2019,Dão ,4.2,127,24.25,2019
+972,Portugal,Tinto,Beyra,Grande Reserva 2019,Beira Interior ,4.2,100,30.99,2019
+973,Portugal,Tinto,Niepoort,Douro Tiara Branco 2020,Douro ,4.2,97,19.84,2020
+974,Portugal,Tinto,Quinta da Foz,Grande Reserva 2017,Douro ,4.2,97,56.99,2017
+975,Portugal,Tinto,Lima Mayer,2 Tintos 2013,Alentejano ,4.2,85,57.99,2013
+976,Portugal,Tinto,Quinta do Zambujeiro,Terra do Zambujeiro 2019,Borba ,4.2,63,27.99,2019
+977,Portugal,Tinto,Quinta do Vale Meão,Monte Meão Vinha dos Novos 2019,Douro ,4.2,63,18.9,2019
+978,Portugal,Tinto,Sandeman,Quinta do Seixo Vintage Port 2013,Porto ,4.2,61,35.86,2013
+979,Portugal,Tinto,Sandeman,Vintage Port 2016,Porto ,4.2,48,76.17,2016
+980,Portugal,Tinto,Niepoort,Douro Batuta Tinto 2019,Douro ,4.2,45,82.4,2019
+981,Portugal,Tinto,António Saramago,Reserva Branco 2016,Península de Setúbal ,4.2,33,22.99,2016
+982,Portugal,Tinto,Filipa Pato,Nossa Calcário 2021,Bairrada ,4.2,26,35.65,2021
+983,Portugal,Tinto,Filipa Pato,Nossa Calcário Branco 2021,Beiras ,4.2,25,24.2,2021
+984,Portugal,Tinto,Anselmo Mendes,Expressoes 2019,Monção e Melgaço ,4.2,25,24.0,2019
+985,Portugal,Tinto,Fonseca,10 Year Old Tawny Port N.V.,Porto ,4.1,3115,27.68,N.V.
+986,Portugal,Tinto,Ramos Pinto,Quinta de Ervamoira 10 Year Old Tawny Port N.V.,Porto ,4.1,3951,34.05,N.V.
+987,Portugal,Tinto,Taylor's,10 Year Old Tawny Port N.V.,Porto ,4.1,12642,23.8,N.V.
+988,Portugal,Tinto,Sandeman,10 Years Old Tawny Porto N.V.,Porto ,4.1,3065,25.49,N.V.
+989,Portugal,Tinto,Ramos Pinto,Duas Quintas Tinto 2019,Douro ,4.1,2696,12.55,2019
+990,Portugal,Tinto,Soalheiro,Alvarinho 2021,Monção e Melgaço ,4.1,2456,12.85,2021
+991,Portugal,Tinto,Quinta do Crasto,Crasto Superior Red 2018,Douro ,4.1,2113,15.61,2018
+992,Portugal,Tinto,Soalheiro,Granit Alvarinho 2021,Monção e Melgaço ,4.1,1397,12.77,2021
+993,Portugal,Tinto,Ramos Pinto,Porto Reserva Adriano Branco N.V.,Porto ,4.1,1384,16.76,N.V.
+994,Portugal,Tinto,Quinta de La Rosa,Tonel 12 10 Years Old Tawny Port N.V.,Porto ,4.1,870,29.1,N.V.
+995,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2018,Duriense ,4.1,728,16.5,2018
+996,Portugal,Tinto,Niepoort,Douro Vertente Tinto 2019,Douro ,4.1,693,18.95,2019
+997,Portugal,Tinto,Quinta do Noval,Cedro do Noval 2019,Duriense ,4.1,691,18.5,2019
+998,Portugal,Tinto,Justino's Madeira,Malvasia 10 Years Old Madeira N.V.,Madeira ,4.1,487,30.31,N.V.
+999,Portugal,Tinto,Soalheiro,Primeiras Vinhas Alvarinho 2021,Monção e Melgaço ,4.1,465,16.84,2021
