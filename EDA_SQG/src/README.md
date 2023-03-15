@@ -7,7 +7,7 @@ Para el desarrollo he utilizado método de scrapping , junto con librerias como 
 
 
 ###  🍷 🍇
-<img src="./src/assets/viñedo%202.jpg" >
+<img src="./viñedo%202.jpg" >
   
 
 
